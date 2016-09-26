@@ -1,0 +1,24 @@
+{
+  "references": [
+    "Fieldwork corpus data collected by Hanna Fricke in 2015 and 2016",
+    NaN,
+    NaN,
+    NaN,
+    NaN,
+    "Notes: "
+  ],
+  "language": "levu1239",
+  "abstract": "Typological features of levu1239. Coded by Hanna Fricke following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/LH_HF_2016_C Lembata_Kalikasa_2016_typological questionnaire.xlsx', 'Fieldwork corpus data collected by Hanna Fricke in 2015 and 2016', nan, nan, nan, nan, 'Notes: '].",
+  "id": "levu1239",
+  "creator": [
+    "Hanna Fricke"
+  ],
+  "comment": "",
+  "name": "LH_HF_2016_C Lembata_Kalikasa_2016_typological questionnaire.xlsx",
+  "source": [
+    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/LH_HF_2016_C Lembata_Kalikasa_2016_typological questionnaire.xlsx"
+  ],
+  "created": [
+    "1 June 2016"
+  ]
+}

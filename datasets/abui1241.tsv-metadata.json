@@ -1,0 +1,23 @@
+{
+  "references": [
+    "Kratochvil & Delpada (2015)",
+    "Kratochvil (2007)",
+    "Delpada (2016)",
+    "Kratochvil Corpus",
+    "George Saad corpus"
+  ],
+  "language": "abui1241",
+  "abstract": "Typological features of abui1241. Coded by George Saad following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/ABZ_TK_GS_2016_typological_questionnaire Abui.xlsx', 'Kratochvil & Delpada (2015)', 'Kratochvil (2007)', 'Delpada (2016)', 'Kratochvil Corpus', 'George Saad corpus'].",
+  "id": "abui1241",
+  "creator": [
+    "George Saad"
+  ],
+  "comment": "",
+  "name": "ABZ_TK_GS_2016_typological_questionnaire Abui.xlsx",
+  "source": [
+    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/ABZ_TK_GS_2016_typological_questionnaire Abui.xlsx"
+  ],
+  "created": [
+    "May 2016"
+  ]
+}

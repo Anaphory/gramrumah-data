@@ -1,0 +1,20 @@
+{
+  "references": [
+    "Samely, Ursula. 1991. Kedang (Eastern Indonesia): Some aspects of its grammar. Hamburg: Helmut Buske Verlag.",
+    "Samely, Ursula B. and Robert H. Barnes. 2013. A Dictionary of the Kedang language. Leiden/Boston: Brill."
+  ],
+  "language": "keda1252",
+  "abstract": "Typological features of keda1252. Coded by Marian Klamer following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/KED_MK_2016_Typological_Questionnaire Kedang.xlsx', 'Samely, Ursula. 1991. Kedang (Eastern Indonesia): Some aspects of its grammar. Hamburg: Helmut Buske Verlag.', 'Samely, Ursula B. and Robert H. Barnes. 2013. A Dictionary of the Kedang language. Leiden/Boston: Brill.'].",
+  "id": "keda1252",
+  "creator": [
+    "Marian Klamer"
+  ],
+  "comment": "",
+  "name": "KED_MK_2016_Typological_Questionnaire Kedang.xlsx",
+  "source": [
+    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/KED_MK_2016_Typological_Questionnaire Kedang.xlsx"
+  ],
+  "created": [
+    "June 2016"
+  ]
+}
