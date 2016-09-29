@@ -2,16 +2,15 @@
   "references": [
     "Elvis, 2015. PhD thesis on Emotion expressions in Adonara (title to be checked); Marc Michels MA thesis (to be finished)"
   ],
-  "language": "adon1237",
-  "abstract": "Typological features of adon1237. Coded by Marian Klamer following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/LMH_AD_MK_2016_Typological_Questionnaire_Lamaholot_Adonara.xlsx', 'Elvis, 2015. PhD thesis on Emotion expressions in Adonara (title to be checked); Marc Michels MA thesis (to be finished)'].",
   "id": "adon1237",
-  "creator": [
-    "Marian Klamer"
+  "language": "adon1237",
+  "source": [
+    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/LMH_AD_MK_2016_Typological_Questionnaire_Lamaholot_Adonara.xlsx"
   ],
   "comment": "",
   "name": "LMH_AD_MK_2016_Typological_Questionnaire_Lamaholot_Adonara.xlsx",
-  "source": [
-    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/LMH_AD_MK_2016_Typological_Questionnaire_Lamaholot_Adonara.xlsx"
+  "creator": [
+    "Marian Klamer"
   ],
   "created": [
     "April 2016"

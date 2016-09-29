@@ -2,16 +2,15 @@
   "references": [
     "Van Klinken, Catharina. 1999. A grammar of the Fehan dialect of Tetun. Canberra: Pacific Linguistics C-155."
   ],
-  "language": "tetu1245",
-  "abstract": "Typological features of tetu1245. Coded by Marian Klamer following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/TDT_Terik_MK_2016_Typological_Questionnaire_Tetun Terik.xlsx', 'Van Klinken, Catharina. 1999. A grammar of the Fehan dialect of Tetun. Canberra: Pacific Linguistics C-155.'].",
   "id": "tetu1245",
-  "creator": [
-    "Marian Klamer"
+  "language": "tetu1245",
+  "source": [
+    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/TDT_Terik_MK_2016_Typological_Questionnaire_Tetun Terik.xlsx"
   ],
   "comment": "",
   "name": "TDT_Terik_MK_2016_Typological_Questionnaire_Tetun Terik.xlsx",
-  "source": [
-    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/TDT_Terik_MK_2016_Typological_Questionnaire_Tetun Terik.xlsx"
+  "creator": [
+    "Marian Klamer"
   ],
   "created": [
     "March 2016"

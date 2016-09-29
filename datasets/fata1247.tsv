@@ -1,274 +1,270 @@
-Language_ID	Feature_ID	Feature	Value	Answer	Comment	Source	Possible Values	Suggested standardised comments
-fata1247	GB014	nan	1	nan		nan	nan	nan
-fata1247	GB020	nan	3	nan		p. 17	nan	nan
-fata1247	GB021	nan	2	nan		nan	nan	nan
-fata1247	GB022	nan	2	nan		nan	nan	nan
-fata1247	GB023	nan	2	nan		p. 17	nan	nan
-fata1247	GB024	nan	3	nan		nan	nan	nan
-fata1247	GB025	nan	4	nan		nan	nan	nan
-fata1247	GB026	nan	2	nan		nan	nan	nan
-fata1247	GB027	nan	2	nan		nan	nan	nan
-fata1247	GB028	nan	2	nan		nan	nan	nan
-fata1247	GB029	nan	0	nan		nan	nan	nan
-fata1247	GB030	nan	2	nan		nan	nan	nan
-fata1247	GB031	nan	2	nan		nan	nan	nan
-fata1247	GB032	nan	3	nan	the first and second person possessor pronoun precede the possessee without intervening possessor particle i	p. 28	nan	nan
-fata1247	GB033	nan	0	nan		nan	nan	nan
-fata1247	GB034	nan	2	nan		nan	nan	nan
-fata1247	GB035	nan	2	nan		nan	nan	nan
-fata1247	GB036	nan	3	nan		nan	nan	nan
-fata1247	GB037	nan	2	nan		nan	nan	nan
-fata1247	GB038	nan	2	nan		nan	nan	nan
-fata1247	GB039	nan	2	nan		nan	nan	nan
-fata1247	GB041	nan	2	nan		nan	nan	nan
-fata1247	GB042	nan	2	nan		nan	nan	nan
-fata1247	GB043	nan	2	nan		nan	nan	nan
-fata1247	GB044	nan	3	nan		nan	nan	nan
-fata1247	GB045	nan	0	nan		nan	nan	nan
-fata1247	GB046	nan	5	nan	no data	nan	nan	nan
-fata1247	GB047	nan	3	nan	suffix -n	p. 22	nan	nan
-fata1247	GB048	nan	2	nan		nan	nan	nan
-fata1247	GB049	nan	3	nan	suffix -n	p. 22	nan	nan
-fata1247	GB050	nan	1	nan		nan	nan	nan
-fata1247	GB057	nan	3	nan	human classifier ater	p. 30	nan	nan
-fata1247	GB058	nan	2	nan		nan	nan	nan
-fata1247	GB059	nan	2	nan		nan	nan	nan
-fata1247	GB060	nan	0	nan	"Both alienable and inalienable possession are expressed in the same way. Howeverr, when the possessed noun begins with a vowel, inalienable nouns have /n/ occuring between the possessive pronoun
-and the noun, for  alienably possessed nouns, /h/ may occur. The inserted consonant, /n/ or /h/, is optional, and in the event it is absent, a
-glottal stop is inserted instead, a productive phonological process"	p. 29	nan	nan
-fata1247	GB061	nan	3	nan		nan	nan	nan
-fata1247	GB062	nan	2	nan		nan	nan	nan
-fata1247	GB063	nan	2	nan		nan	nan	nan
-fata1247	GB064	nan	3	nan		nan	nan	nan
-fata1247	GB065	nan	3	nan		nan	nan	nan
-fata1247	GB066	nan	0	nan		nan	nan	nan
-fata1247	GB067	nan	1	nan		nan	nan	nan
-fata1247	GB068	nan	2	nan		nan	nan	nan
-fata1247	GB069	nan	2	nan		nan	nan	nan
-fata1247	GB070	nan	3	nan	morpheme a	p. 31	nan	nan
-fata1247	GB071	nan	3	nan	"subject pronouns end in -a, different set of non-subject pronouns"	p. 19	nan	nan
-fata1247	GB072	nan	2	nan		nan	nan	nan
-fata1247	GB073	nan	2	nan		nan	nan	nan
-fata1247	GB074	nan	2	nan		nan	nan	nan
-fata1247	GB075	nan	2	nan	"the words which express temporal and spatial relations are analyzed as verbs, since they
-take verbal morphology and occur in the same syntactic positions as verbs."	p. 24	nan	nan
-fata1247	GB079	nan	2	nan		nan	nan	nan
-fata1247	GB080	nan	2	nan	"same/different subject enclitics, verbal suffix -e"	p. 36	nan	nan
-fata1247	GB081	nan	2	nan		nan	nan	nan
-fata1247	GB082	nan	2	nan		nan	nan	nan
-fata1247	GB083	nan	2	nan		nan	nan	nan
-fata1247	GB084	nan	2	nan		nan	nan	nan
-fata1247	GB086	nan	3	nan		nan	nan	nan
-fata1247	GB087	nan	2	nan		nan	nan	nan
-fata1247	GB088	nan	2	nan		nan	nan	nan
-fata1247	GB089	nan	2	nan		nan	nan	nan
-fata1247	GB090	nan	3	nan		nan	nan	nan
-fata1247	GB091	nan	2	nan		nan	nan	nan
-fata1247	GB092	nan	2	nan		nan	nan	nan
-fata1247	GB093	nan	2	nan		nan	nan	nan
-fata1247	GB094	nan	3	nan		nan	nan	nan
-fata1247	GB099	nan	2	nan		nan	nan	nan
-fata1247	GB100	nan	0	nan		nan	nan	nan
-fata1247	GB101	nan	0	nan		nan	nan	nan
-fata1247	GB102	nan	0	nan		nan	nan	nan
-fata1247	GB103	nan	2	nan		nan	nan	nan
-fata1247	GB104	nan	2	nan		nan	nan	nan
-fata1247	GB105	nan	2	nan		nan	nan	nan
-fata1247	GB106	nan	3	nan		nan	nan	nan
-fata1247	GB107	nan	2	nan		nan	nan	nan
-fata1247	GB108	nan	3	nan		nan	nan	nan
-fata1247	GB109	nan	2	nan		nan	nan	nan
-fata1247	GB110	nan	2	nan		nan	nan	nan
-fata1247	GB111	nan	3	nan		nan	nan	nan
-fata1247	GB112	nan	4	nan	no data	nan	nan	nan
-fata1247	GB113	nan	2	nan		nan	nan	nan
-fata1247	GB114	nan	2	nan		nan	nan	nan
-fata1247	GB115	nan	3	nan		nan	nan	nan
-fata1247	GB116	nan	2	nan		nan	nan	nan
-fata1247	GB117	nan	2	nan		nan	nan	nan
-fata1247	GB118	nan	2	nan		nan	nan	nan
-fata1247	GB119	nan	2	nan		nan	nan	nan
-fata1247	GB120	nan	2	nan		nan	nan	nan
-fata1247	GB121	nan	2	nan		nan	nan	nan
-fata1247	GB122	nan	3	nan		nan	nan	nan
-fata1247	GB123	nan	3	nan		nan	nan	nan
-fata1247	GB124	nan	2	nan		nan	nan	nan
-fata1247	GB125	nan	2	nan		nan	nan	nan
-fata1247	GB126	nan	2	nan	an	p. 36	nan	nan
-fata1247	GB127	nan	2	nan		p. 25	nan	nan
-fata1247	GB128	nan	0	nan	ina 'give'	p. 43	nan	nan
-fata1247	GB129	nan	2	nan		nan	nan	nan
-fata1247	GB130	nan	4	nan		nan	nan	nan
-fata1247	GB131	nan	2	nan		nan	nan	nan
-fata1247	GB132	nan	2	nan		nan	nan	nan
-fata1247	GB133	nan	2	nan		nan	nan	nan
-fata1247	GB134	nan	2	nan		nan	nan	nan
-fata1247	GB135	nan	3	nan	"quotes follow the verb 'say', complement clauses follow the verb 'want',  so the order is AVO in these contexts"	nan	nan	nan
-fata1247	GB136	nan	2	nan		nan	nan	nan
-fata1247	GB137	nan	3	nan		nan	nan	nan
-fata1247	GB138	nan	2	nan		nan	nan	nan
-fata1247	GB139	nan	2	nan		nan	nan	nan
-fata1247	GB140	nan	2	nan		nan	nan	nan
-fata1247	GB141	nan	3	nan		nan	nan	nan
-fata1247	GB142	nan	3	nan		nan	nan	nan
-fata1247	GB143	nan	0	nan		nan	nan	nan
-fata1247	GB144	nan	0	nan		nan	nan	nan
-fata1247	GB145	nan	1	nan		nan	nan	nan
-fata1247	GB146	nan	3	nan		nan	nan	nan
-fata1247	GB147	nan	2	nan		nan	nan	nan
-fata1247	GB148	nan	2	nan		nan	nan	nan
-fata1247	GB149	nan	2	nan		nan	nan	nan
-fata1247	GB150	nan	2	nan		nan	nan	nan
-fata1247	GB151	nan	3	nan		p. 36	nan	nan
-fata1247	GB152	nan	3	nan		p. 40	nan	nan
-fata1247	GB153	nan	0	nan		nan	nan	nan
-fata1247	GB154	nan	0	nan		nan	nan	nan
-fata1247	GB155	nan	2	nan		nan	nan	nan
-fata1247	GB156	nan	2	nan		nan	nan	nan
-fata1247	GB157	nan	6	nan	no d ata	nan	nan	nan
-fata1247	GB158	nan	2	nan		nan	nan	nan
-fata1247	GB159	nan	3	nan		nan	nan	nan
-fata1247	GB160	nan	2	nan	"numerals may be reduplicated, no evidence that nouns are reduplicated"	nan	nan	nan
-fata1247	GB162	nan	0	nan		nan	nan	nan
-fata1247	GB165	nan	2	nan		nan	nan	nan
-fata1247	GB166	nan	2	nan		nan	nan	nan
-fata1247	GB167	nan	2	nan		nan	nan	nan
-fata1247	GB168	nan	1	nan		p. 18	nan	nan
-fata1247	GB169	nan	0	nan		nan	nan	nan
-fata1247	GB172	nan	2	nan		nan	nan	nan
-fata1247	GB177	nan	3	nan		nan	nan	nan
-fata1247	GB181	nan	0	nan		nan	nan	nan
-fata1247	GB182	nan	0	nan		nan	nan	nan
-fata1247	GB183	nan	0	nan		nan	nan	nan
-fata1247	GB184	nan	2	nan		nan	nan	nan
-fata1247	GB185	nan	2	nan		nan	nan	nan
-fata1247	GB186	nan	2	nan		nan	nan	nan
-fata1247	GB187	nan	2	nan		nan	nan	nan
-fata1247	GB188	nan	2	nan		nan	nan	nan
-fata1247	GB191	nan	0	nan		nan	nan	nan
-fata1247	GB193	nan	5	nan		nan	nan	nan
-fata1247	GB194	nan	1	nan	"un(u) 'one' used as indefinite article 'a, one, some' "	nan	nan	nan
-fata1247	GB196	nan	2	nan		nan	nan	nan
-fata1247	GB197	nan	2	nan		nan	nan	nan
-fata1247	GB200	nan	1	nan		nan	nan	nan
-fata1247	GB202	nan	0	nan		nan	nan	nan
-fata1247	GB203	nan	5	nan		nan	nan	nan
-fata1247	GB204	nan	3	nan	no data	nan	nan	nan
-fata1247	GB205	nan	0	nan		nan	nan	nan
-fata1247	GB206	nan	0	nan		nan	nan	nan
-fata1247	GB207	nan	0	nan		nan	nan	nan
-fata1247	GB217	nan	0	nan		nan	nan	nan
-fata1247	GB218	nan	1	nan		nan	nan	nan
-fata1247	GB219	nan	0	nan		nan	nan	nan
-fata1247	GB220	nan	0	nan		nan	nan	nan
-fata1247	GB221	nan	0	nan	no example in any of the  sources on Fataluku of a reduplicated noun	nan	nan	nan
-fata1247	GB249	nan	0	nan		nan	nan	nan
-fata1247	GB250	nan	2	nan	wale 'have'	p. 17	nan	nan
-fata1247	GB251	nan	0	nan	my kids (are) two	p. 23	nan	nan
-fata1247	GB252	nan	4	nan	no data	nan	nan	nan
-fata1247	GB253	nan	4	nan	no data	nan	nan	nan
-fata1247	GB254	nan	2	nan	my kids are two	nan	nan	nan
-fata1247	GB255	nan	2	nan		nan	nan	nan
-fata1247	GB256	nan	2	nan		nan	nan	nan
-fata1247	GB257	nan	2	nan		p. 49	nan	nan
-fata1247	GB258	nan	0	nan		nan	nan	nan
-fata1247	GB259	nan	0	nan		nan	nan	nan
-fata1247	GB260	nan	2	nan		nan	nan	nan
-fata1247	GB261	nan	1	nan		p. 49	nan	nan
-fata1247	GB262	nan	2	nan		nan	nan	nan
-fata1247	GB263	nan	2	nan		nan	nan	nan
-fata1247	GB264	nan	2	nan		nan	nan	nan
-fata1247	GB265	nan	4	nan	tali 'be beyond'	p. 47	nan	nan
-fata1247	GB266	nan	2	nan		nan	nan	nan
-fata1247	GB267	nan	0	nan		nan	nan	nan
-fata1247	GB268	nan	0	nan		nan	nan	nan
-fata1247	GB269	nan	0	nan		nan	nan	nan
-fata1247	GB270	nan	4	nan		nan	nan	nan
-fata1247	GB273	nan	2	nan		nan	nan	nan
-fata1247	GB274	nan	2	nan		nan	nan	nan
-fata1247	GB275	nan	2	nan		nan	nan	nan
-fata1247	GB276	nan	3	nan	tali 'be beyond'	nan	nan	nan
-fata1247	GB277	nan	0	nan		nan	nan	nan
-fata1247	GB278	nan	1	nan		nan	nan	nan
-fata1247	GB284	nan	0	nan		nan	nan	nan
-fata1247	GB285	nan	3	nan		nan	nan	nan
-fata1247	GB286	nan	2	nan		nan	nan	nan
-fata1247	GB287	nan	0	nan		nan	nan	nan
-fata1247	GB288	nan	0	nan		nan	nan	nan
-fata1247	GB289	nan	0	nan		nan	nan	nan
-fata1247	GB290	nan	1	nan		nan	nan	nan
-fata1247	GB291	nan	2	nan		nan	nan	nan
-fata1247	GB292	nan	1	nan		nan	nan	nan
-fata1247	GB294	nan	0	nan		nan	nan	nan
-fata1247	GB295	nan	1	nan		nan	nan	nan
-fata1247	GB295	nan	1	nan		nan	nan	nan
-fata1247	GB333	nan	2	nan		nan	nan	nan
-fata1247	GB336	nan	2	nan		nan	nan	nan
-fata1247	GB502	nan	0	nan		nan	nan	nan
-fata1247	GB503	nan	1	nan		nan	nan	nan
-fata1247	GB508	nan	0	nan		nan	nan	nan
-fata1247	GB509	nan	2	nan	no data	nan	nan	nan
-fata1247	GB510	nan	0	nan		nan	nan	nan
-fata1247	GB511	nan	1	nan		nan	nan	nan
-fata1247	GB512	nan	1	nan		nan	nan	nan
-fata1247	GB514	nan	0	nan		nan	nan	nan
-fata1247	GB515	nan	0	nan		nan	nan	nan
-fata1247	GB516	nan	2	nan		nan	nan	nan
-fata1247	GB517	nan	1	nan		nan	nan	nan
-fata1247	GB518	nan	1	nan		nan	nan	nan
-fata1247	GB519	nan	1	nan		nan	nan	nan
-fata1247	GB520	nan	1	nan		nan	nan	nan
-fata1247	GB521	nan	0	nan		nan	nan	nan
-fata1247	R1102	nan	0	nan		nan	nan	nan
-fata1247	R1103	nan	1	nan		nan	nan	nan
-fata1247	R1103a	nan	0	nan		nan	nan	nan
-fata1247	R1103b	nan	0	nan		nan	nan	nan
-fata1247	R1105	nan	0	nan		nan	nan	nan
-fata1247	R1106	nan	0	nan		nan	nan	nan
-fata1247	R1107	nan	0	nan		nan	nan	nan
-fata1247	R1108	nan	0	nan		nan	nan	nan
-fata1247	R1109	nan	1	nan	only in loan words do voiced stops occur	nan	nan	nan
-fata1247	R1109a	nan	0	nan		nan	nan	nan
-fata1247	R1109b	nan	0	nan		nan	nan	nan
-fata1247	R1110	nan	0	nan		nan	nan	nan
-fata1247	R1111	nan	1	nan		nan	nan	nan
-fata1247	R1112	nan	0	nan		nan	nan	nan
-fata1247	R1113a	nan	1	nan		nan	nan	nan
-fata1247	R1115	nan	1	nan		nan	nan	nan
-fata1247	R1117	nan	1	nan		nan	nan	nan
-fata1247	R1118	nan	1	nan		nan	nan	nan
-fata1247	R1202	nan	0	nan		nan	nan	nan
-fata1247	R1203a	nan	0	nan		nan	nan	nan
-fata1247	R1204	nan	0	nan		nan	nan	nan
-fata1247	R2203	nan	0	nan		nan	nan	nan
-fata1247	R2508	nan	0	nan	there is one classifer for humans	p. 30	nan	nan
-fata1247	R2601	nan	0	nan	animate-inanimate nouns	nan	nan	nan
-fata1247	R2702	nan	1	nan		nan	nan	nan
-fata1247	R2703b	nan	0	nan		nan	nan	nan
-fata1247	R3605	nan	0	nan		nan	nan	nan
-fata1247	R4305a	nan	0	nan		nan	nan	nan
-fata1247	R4307	nan	0	nan		nan	nan	nan
-fata1247	R4308	nan	0	nan		nan	nan	nan
-fata1247	R4308a	nan	1	nan		nan	nan	nan
-fata1247	R4309a	nan	1	nan	but speech verb takes different subject marker	p. 54	nan	nan
-fata1247	R4309b	nan	1	nan		nan	nan	nan
-fata1247	R4311	nan	0	nan		nan	nan	nan
-fata1247	R5202	nan	2	nan	naalpaal 'parents'	nan	nan	nan
-fata1247	R5203	nan	1	nan	"apaal 'father', apaal-i 'FB'"	p. 194	nan	nan
-fata1247	R5204	nan	0	nan	pa'in 'MB'	nan	nan	nan
-fata1247	R5205	nan	2	nan	no data	nan	nan	nan
-fata1247	R5206	nan	1	nan	"FSS and MBS are referred to with awayan (i.e. no distinction); FSD ahiran, MBD asayura"	nan	nan	nan
-fata1247	R5207	nan	2	nan	no data	nan	nan	nan
-fata1247	R5208	nan	1	nan	"FSS and MBS are referred to with awayan (i.e. no distinction); FSD ahiran, MBD asayura"	nan	nan	nan
-fata1247	R5209	nan	0	nan		nan	nan	nan
-fata1247	R5210	nan	1	nan	man's child: amotso; woman's brother's child: ahiran	nan	nan	nan
-fata1247	R5211	nan	0	nan	"leren 'kakak, noko 'adik'"	nan	nan	nan
-fata1247	R5212	nan	0	nan		nan	nan	nan
-fata1247	SD224	nan	0	nan		nan	nan	nan
-fata1247	SD295	nan	1	nan		nan	nan	nan
-fata1247	SD321	nan	1	nan		nan	nan	nan
-fata1247	SD341	nan	1	nan		nan	nan	nan
-fata1247	SD342	nan	1	nan		nan	nan	nan
-fata1247	SD343	nan	1	nan		nan	nan	nan
-fata1247	SD369	nan	0	nan		nan	nan	nan
-fata1247	SD381	nan	1	nan		nan	nan	nan
+Feature_ID	Language_ID	Value	Comment	Source
+R1102	fata1247	0.0		
+R1103	fata1247	1.0		
+R1103a	fata1247	0.0		
+R1103b	fata1247	0.0		
+R1105	fata1247	0.0		
+R1106	fata1247	0.0		
+R1107	fata1247	0.0		
+R1108	fata1247	0.0		
+R1109	fata1247	1.0	only in loan words do voiced stops occur	
+R1109a	fata1247	0.0		
+R1109b	fata1247	0.0		
+R1110	fata1247	0.0		
+R1111	fata1247	1.0		
+R1112	fata1247	0.0		
+R1113a	fata1247	1.0		
+R1115	fata1247	1.0		
+GB014	fata1247	1.0		
+R1117	fata1247	1.0		
+R1118	fata1247	1.0		
+R1202	fata1247	0.0		
+R1203a	fata1247	0.0		
+R1204	fata1247	0.0		
+GB024	fata1247	4.0		
+GB025	fata1247	5.0		
+GB065	fata1247	5.0		
+SD224	fata1247	0.0		
+GB502	fata1247	0.0		
+GB193	fata1247	5.0		
+GB026	fata1247	2.0		
+GB203	fata1247	5.0		
+GB204	fata1247	3.0	no data	
+R2508	fata1247	0.0	there is one classifer for humans	p. 30
+GB159	fata1247	3.0		
+GB050	fata1247	1.0		
+GB039	fata1247	2.0		
+GB041	fata1247	2.0		
+GB042	fata1247	2.0		
+GB043	fata1247	2.0		
+GB044	fata1247	3.0	irregular plural forms take a suffix, normally plural is marked with a separate word 	Heston 2015:21-22
+GB217	fata1247	0.0		
+GB218	fata1247	1.0		
+GB219	fata1247	0.0		
+GB220	fata1247	0.0		
+GB221	fata1247	0.0	no example in any of the  sources on Fataluku of a reduplicated noun	
+GB165	fata1247	2.0		
+GB166	fata1247	2.0		
+GB200	fata1247	1.0		
+GB284	fata1247	0.0		
+GB181	fata1247	2.0		
+GB182	fata1247	0.0		
+GB183	fata1247	0.0		
+GB045	fata1247	1.0	we do not consider plural word to be number marking on the nouns	
+GB205	fata1247	0.0		
+GB206	fata1247	0.0		
+GB185	fata1247	2.0		
+GB184	fata1247	2.0		
+GB207	fata1247	0.0		
+GB046	fata1247	5.0	no data	
+GB188	fata1247	2.0		
+GB187	fata1247	2.0		
+GB070	fata1247	3.0	morpheme a	p. 31
+GB071	fata1247	3.0	subject pronouns end in -a, different set of non-subject pronouns	p. 19
+GB072	fata1247	2.0		
+GB073	fata1247	2.0		
+GB047	fata1247	3.0	suffix -n	p. 22
+GB048	fata1247	2.0		
+GB049	fata1247	3.0	suffix -n	p. 22
+GB020	fata1247	3.0		p. 17
+GB194	fata1247	1.0	un(u) 'one' used as indefinite article 'a, one, some' 	
+GB021	fata1247	2.0		
+GB022	fata1247	2.0		
+GB023	fata1247	2.0		p. 17
+GB172	fata1247	2.0		
+GB186	fata1247	2.0		
+GB509	fata1247	2.0	no data	
+GB510	fata1247	0.0		
+GB035	fata1247	2.0		
+GB511	fata1247	1.0		
+SD295	fata1247	1.0		
+GB037	fata1247	2.0		
+GB514	fata1247	0.0		
+GB515	fata1247	0.0		
+GB038	fata1247	2.0		
+GB516	fata1247	2.0		
+GB517	fata1247	1.0		
+GB518	fata1247	1.0		
+GB520	fata1247	1.0		
+GB521	fata1247	0.0		
+GB067	fata1247	1.0		
+GB333	fata1247	2.0		
+R2702	fata1247	1.0		
+GB336	fata1247	2.0		
+R2703b	fata1247	0.0		
+GB057	fata1247	3.0	human classifier ater	p. 30
+R2601	fata1247	0.0	animate-inanimate nouns	
+GB058	fata1247	2.0		
+GB059	fata1247	2.0		
+GB060	fata1247	0.0	"Both alienable and inalienable possession are expressed in the same way. Howeverr, when the possessed noun begins with a vowel, inalienable nouns have /n/ occuring between the possessive pronoun
+and the noun, for  alienably possessed nouns, /h/ may occur. The inserted consonant, /n/ or /h/, is optional, and in the event it is absent, a
+glottal stop is inserted instead, a productive phonological process"	p. 29
+GB061	fata1247	3.0		
+GB062	fata1247	2.0		
+GB063	fata1247	2.0		
+GB064	fata1247	3.0		
+GB066	fata1247	0.0		
+GB250	fata1247	2.0	wale 'have'	p. 17
+GB251	fata1247	0.0	my kids (are) two	p. 23
+GB252	fata1247	4.0	no data	
+GB253	fata1247	4.0	no data	
+GB254	fata1247	2.0	my kids are two	
+GB255	fata1247	2.0		
+GB256	fata1247	2.0		
+GB081	fata1247	2.0		
+GB111	fata1247	3.0		
+GB112	fata1247	4.0	no data	
+GB117	fata1247	2.0		
+GB118	fata1247	2.0		
+GB119	fata1247	2.0		
+GB120	fata1247	2.0		
+GB121	fata1247	2.0		
+GB122	fata1247	3.0		
+GB123	fata1247	3.0		
+GB124	fata1247	2.0		
+GB125	fata1247	2.0		
+GB126	fata1247	2.0	an	p. 36
+GB127	fata1247	2.0		p. 25
+GB128	fata1247	0.0	ina 'give'	p. 43
+GB129	fata1247	2.0		
+GB158	fata1247	2.0		
+GB028	fata1247	2.0		
+GB029	fata1247	0.0		
+GB030	fata1247	2.0		
+GB168	fata1247	1.0		p. 18
+GB169	fata1247	0.0		
+GB197	fata1247	2.0		
+GB162	fata1247	0.0		
+GB196	fata1247	2.0		
+GB202	fata1247	0.0		
+R2203	fata1247	0.0		
+GB031	fata1247	2.0		
+GB167	fata1247	2.0		
+GB032	fata1247	3.0	the first and second person possessor pronoun precede the possessee without intervening possessor particle i	p. 28
+GB033	fata1247	0.0		
+GB034	fata1247	2.0		
+GB089	fata1247	2.0		
+GB090	fata1247	3.0		
+GB091	fata1247	2.0		
+GB092	fata1247	2.0		
+GB093	fata1247	2.0		
+GB094	fata1247	3.0		
+GB249	fata1247	0.0		
+GB099	fata1247	2.0		
+GB100	fata1247	0.0		
+GB109	fata1247	2.0		
+R3502	fata1247	0.0		
+GB102	fata1247	0.0		
+GB141	fata1247	3.0		
+GB142	fata1247	3.0		
+GB143	fata1247	0.0		
+GB144	fata1247	0.0		
+GB145	fata1247	1.0		
+GB278	fata1247	1.0		
+GB103	fata1247	2.0		
+GB104	fata1247	2.0		
+GB105	fata1247	2.0		
+GB287	fata1247	0.0		
+GB288	fata1247	0.0		
+GB289	fata1247	0.0		
+GB290	fata1247	1.0		
+GB106	fata1247	3.0		
+GB108	fata1247	3.0		
+GB079	fata1247	2.0		
+GB080	fata1247	2.0	same/different subject enclitics, verbal suffix -e	p. 36
+GB101	fata1247	0.0		
+GB110	fata1247	2.0		
+GB082	fata1247	2.0		
+GB083	fata1247	2.0		
+GB084	fata1247	2.0		
+GB086	fata1247	3.0		
+GB087	fata1247	2.0		
+GB088	fata1247	2.0		
+GB113	fata1247	2.0		
+R3605	fata1247	0.0		
+GB114	fata1247	2.0		
+GB115	fata1247	3.0		
+GB116	fata1247	2.0		
+GB177	fata1247	3.0		
+GB074	fata1247	2.0		
+GB075	fata1247	2.0	"the words which express temporal and spatial relations are analyzed as verbs, since they
+take verbal morphology and occur in the same syntactic positions as verbs."	p. 24
+GB107	fata1247	2.0		
+GB137	fata1247	3.0		
+GB138	fata1247	2.0		
+SD341	fata1247	1.0		
+SD342	fata1247	1.0		
+GB139	fata1247	2.0		
+GB140	fata1247	2.0		
+SD343	fata1247	1.0		
+GB068	fata1247	2.0		
+GB508	fata1247	0.0		
+GB069	fata1247	2.0		
+GB265	fata1247	4.0	tali 'be beyond'	p. 47
+GB266	fata1247	2.0		
+GB267	fata1247	0.0		
+GB268	fata1247	0.0		
+GB269	fata1247	0.0		
+GB277	fata1247	0.0		
+GB270	fata1247	4.0		
+GB273	fata1247	2.0		
+GB274	fata1247	2.0		
+GB275	fata1247	2.0		
+GB276	fata1247	3.0	tali 'be beyond'	
+GB160	fata1247	2.0	numerals may be reduplicated, no evidence that nouns are reduplicated	
+GB146	fata1247	3.0		
+GB147	fata1247	2.0		
+GB148	fata1247	2.0		
+GB191	fata1247	0.0		
+GB149	fata1247	2.0		
+GB151	fata1247	3.0		p. 36
+GB152	fata1247	3.0		p. 40
+GB150	fata1247	2.0		
+GB153	fata1247	0.0		
+GB027	fata1247	2.0		
+GB130	fata1247	4.0		
+GB131	fata1247	2.0		
+GB132	fata1247	2.0		
+GB133	fata1247	2.0		
+GB134	fata1247	2.0		
+GB135	fata1247	3.0	quotes follow the verb 'say', complement clauses follow the verb 'want',  so the order is AVO in these contexts	
+GB136	fata1247	2.0		
+R4305a	fata1247	0.0		
+R4307	fata1247	0.0		
+R4308	fata1247	0.0		
+R4308a	fata1247	1.0		
+R4309a	fata1247	1.0	but speech verb takes different subject marker	p. 54
+R4309b	fata1247	1.0		
+R4311	fata1247	0.0		
+GB154	fata1247	0.0		
+GB155	fata1247	2.0		
+GB156	fata1247	2.0		
+GB257	fata1247	2.0		p. 49
+GB258	fata1247	0.0		
+GB259	fata1247	0.0		
+GB260	fata1247	2.0		
+GB286	fata1247	2.0		
+GB285	fata1247	3.0		
+GB261	fata1247	1.0		p. 49
+GB291	fata1247	2.0		
+GB292	fata1247	1.0		
+GB262	fata1247	2.0		
+GB263	fata1247	2.0		
+GB264	fata1247	2.0		
+GB157	fata1247	6.0	no d ata	
+GB294	fata1247	0.0		
+GB295	fata1247	1.0		
+GB295	fata1247	1.0		
+SD369	fata1247	0.0		
+R5202	fata1247	2.0	naalpaal 'parents'	
+R5203	fata1247	1.0	apaal 'father', apaal-i 'FB'	p. 194
+R5204	fata1247	0.0	pa'in 'MB'	
+R5205	fata1247	2.0	no data	
+R5206	fata1247	1.0	FSS and MBS are referred to with awayan (i.e. no distinction); FSD ahiran, MBD asayura	
+R5207	fata1247	2.0	no data	
+R5208	fata1247	1.0	FSS and MBS are referred to with awayan (i.e. no distinction); FSD ahiran, MBD asayura	
+R5209	fata1247	0.0		
+R5210	fata1247	1.0	man's child: amotso; woman's brother's child: ahiran	
+R5211	fata1247	0.0	leren 'kakak, noko 'adik'	
+R5212	fata1247	0.0		
+SD381	fata1247	1.0		

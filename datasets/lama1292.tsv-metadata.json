@@ -2,18 +2,17 @@
   "references": [
     "Fricke 2014"
   ],
-  "language": "lama1292",
-  "abstract": "Typological features of lama1292. Coded by Hanna Fricke following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/HWA_HF_2014_typological questionnaire Hewa.xlsx', 'Fricke 2014'].",
   "id": "lama1292",
-  "creator": [
-    "Hanna Fricke"
-  ],
-  "comment": "",
-  "name": "HWA_HF_2014_typological questionnaire Hewa.xlsx",
+  "language": "lama1292",
   "source": [
     "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/HWA_HF_2014_typological questionnaire Hewa.xlsx"
   ],
+  "comment": "",
+  "name": "HWA_HF_2014_typological questionnaire Hewa.xlsx",
+  "creator": [
+    "Hanna Fricke"
+  ],
   "created": [
-    "?"
+    "December 2014"
   ]
 }

@@ -2,16 +2,15 @@
   "references": [
     "Baird, Louise. 2008. A grammar of Klon.  "
   ],
-  "language": "kelo1247",
-  "abstract": "Typological features of kelo1247. Coded by Marian Klamer following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/KYO_MK_2016_Typological_Questionnaire_Klon.xlsx', 'Baird, Louise. 2008. A grammar of Klon.  '].",
   "id": "kelo1247",
-  "creator": [
-    "Marian Klamer"
+  "language": "kelo1247",
+  "source": [
+    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/KYO_MK_2016_Typological_Questionnaire_Klon.xlsx"
   ],
   "comment": "",
   "name": "KYO_MK_2016_Typological_Questionnaire_Klon.xlsx",
-  "source": [
-    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/KYO_MK_2016_Typological_Questionnaire_Klon.xlsx"
+  "creator": [
+    "Marian Klamer"
   ],
   "created": [
     "March 2016"
