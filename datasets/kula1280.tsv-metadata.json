@@ -1,18 +1,19 @@
 {
-  "references": [
-    "Williams, Nick, forthcoming. Kula. In: A. Schapper (ed): The Papuan languages of Timor Alor and Pantar: Volume II. "
+  "comment": "",
+  "creator": [
+    "Marian Klamer"
   ],
-  "id": "kula1280",
   "language": "kula1280",
   "source": [
     "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/TPG_MK_2016_typological_questionnaire Kula-Lantoka.xlsx"
   ],
-  "comment": "",
-  "name": "TPG_MK_2016_typological_questionnaire Kula-Lantoka.xlsx",
-  "creator": [
-    "Marian Klamer"
+  "references": [
+    "Williams, Nick, forthcoming. Kula. In: A. Schapper (ed): The Papuan languages of Timor Alor and Pantar: Volume II. "
   ],
+  "abstract": "Typological features of kula1280. Coded by Marian Klamer following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/TPG_MK_2016_typological_questionnaire Kula-Lantoka.xlsx', 'Williams, Nick, forthcoming. Kula. In: A. Schapper (ed): The Papuan languages of Timor Alor and Pantar: Volume II. '].",
   "created": [
     "July 2016"
-  ]
+  ],
+  "id": "kula1280",
+  "name": "TPG_MK_2016_typological_questionnaire Kula-Lantoka.xlsx"
 }

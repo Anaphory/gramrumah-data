@@ -1,18 +1,19 @@
 {
-  "references": [
-    "Nagaya, Naonori. 2011. The Lamaholot language of East Indonesia. Ph.D. Thesis, Rice University."
+  "comment": "",
+  "creator": [
+    "Hanna Fricke"
   ],
-  "id": "lewo1244",
   "language": "lewo1244",
   "source": [
     "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/LH_HF_2014_Lewotobi_Typological_Questionnaire_Lewotobi.xlsx"
   ],
-  "comment": "",
-  "name": "LH_HF_2014_Lewotobi_Typological_Questionnaire_Lewotobi.xlsx",
-  "creator": [
-    "Hanna Fricke"
+  "references": [
+    "Nagaya, Naonori. 2011. The Lamaholot language of East Indonesia. Ph.D. Thesis, Rice University."
   ],
+  "abstract": "Typological features of lewo1244. Coded by Hanna Fricke following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/LH_HF_2014_Lewotobi_Typological_Questionnaire_Lewotobi.xlsx', 'Nagaya, Naonori. 2011. The Lamaholot language of East Indonesia. Ph.D. Thesis, Rice University.'].",
   "created": [
     "November 2014"
-  ]
+  ],
+  "id": "lewo1244",
+  "name": "LH_HF_2014_Lewotobi_Typological_Questionnaire_Lewotobi.xlsx"
 }

@@ -1,18 +1,19 @@
 {
-  "references": [
-    "Klamer, Marian. (2010). A grammar of Teiwa. "
+  "comment": "",
+  "creator": [
+    "Marian Klamer"
   ],
-  "id": "teiw1235",
   "language": "teiw1235",
   "source": [
     "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/TWE_MK_2016_Typological_Questionnaire_Teiwa.xlsx"
   ],
-  "comment": "",
-  "name": "TWE_MK_2016_Typological_Questionnaire_Teiwa.xlsx",
-  "creator": [
-    "Marian Klamer"
+  "references": [
+    "Klamer, Marian. (2010). A grammar of Teiwa. "
   ],
+  "abstract": "Typological features of teiw1235. Coded by Marian Klamer following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/TWE_MK_2016_Typological_Questionnaire_Teiwa.xlsx', 'Klamer, Marian. (2010). A grammar of Teiwa. '].",
   "created": [
     "February to March 2016"
-  ]
+  ],
+  "id": "teiw1235",
+  "name": "TWE_MK_2016_Typological_Questionnaire_Teiwa.xlsx"
 }

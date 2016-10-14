@@ -1,19 +1,20 @@
 {
-  "references": [
-    "Kratochv\u00edl 2014 Sawila, in Antoinette Schapper (ed.) The Papuan languages of Timor, Alor and Pantar: Volume I, pp 351-438. Berlin/New York: de Gruyter Mouton",
-    "Frantisek Kratochv\u00edl p.c. 2016"
+  "comment": "",
+  "creator": [
+    "Marian Klamer"
   ],
-  "id": "sawi1256",
   "language": "sawi1256",
   "source": [
     "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/SWT_MK_2016_typological_questionnaire Sawila.xlsx"
   ],
-  "comment": "",
-  "name": "SWT_MK_2016_typological_questionnaire Sawila.xlsx",
-  "creator": [
-    "Marian Klamer"
+  "references": [
+    "Kratochv\u00edl 2014 Sawila, in Antoinette Schapper (ed.) The Papuan languages of Timor, Alor and Pantar: Volume I, pp 351-438. Berlin/New York: de Gruyter Mouton",
+    "Frantisek Kratochv\u00edl p.c. 2016"
   ],
+  "abstract": "Typological features of sawi1256. Coded by Marian Klamer following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/SWT_MK_2016_typological_questionnaire Sawila.xlsx', 'Kratochv\u00edl 2014 Sawila, in Antoinette Schapper (ed.) The Papuan languages of Timor, Alor and Pantar: Volume I, pp 351-438. Berlin/New York: de Gruyter Mouton', 'Frantisek Kratochv\u00edl p.c. 2016'].",
   "created": [
     "July 2016"
-  ]
+  ],
+  "id": "sawi1256",
+  "name": "SWT_MK_2016_typological_questionnaire Sawila.xlsx"
 }

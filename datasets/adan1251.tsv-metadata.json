@@ -1,18 +1,19 @@
 {
-  "references": [
-    "Robinson, Laura C. and John W. Haan (2014). Adang. In A. Schapper (ed), The Papuan languages of Timor, Alor and Pantar, 221-283. "
+  "comment": "",
+  "creator": [
+    "Marian Klamer"
   ],
-  "id": "adan1251",
   "language": "adan1251",
   "source": [
     "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/ADN_MK_2016_typological_questionnaire_Pitungbang_Kokar.xlsx"
   ],
-  "comment": "",
-  "name": "ADN_MK_2016_typological_questionnaire_Pitungbang_Kokar.xlsx",
-  "creator": [
-    "Marian Klamer"
+  "references": [
+    "Robinson, Laura C. and John W. Haan (2014). Adang. In A. Schapper (ed), The Papuan languages of Timor, Alor and Pantar, 221-283. "
   ],
+  "abstract": "Typological features of adan1251. Coded by Marian Klamer following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/ADN_MK_2016_typological_questionnaire_Pitungbang_Kokar.xlsx', 'Robinson, Laura C. and John W. Haan (2014). Adang. In A. Schapper (ed), The Papuan languages of Timor, Alor and Pantar, 221-283. '].",
   "created": [
     "March 2016"
-  ]
+  ],
+  "id": "adan1251",
+  "name": "ADN_MK_2016_typological_questionnaire_Pitungbang_Kokar.xlsx"
 }

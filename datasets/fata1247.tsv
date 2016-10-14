@@ -1,270 +1,413 @@
-Feature_ID	Language_ID	Value	Comment	Source
-R1102	fata1247	0.0		
-R1103	fata1247	1.0		
-R1103a	fata1247	0.0		
-R1103b	fata1247	0.0		
-R1105	fata1247	0.0		
-R1106	fata1247	0.0		
-R1107	fata1247	0.0		
-R1108	fata1247	0.0		
-R1109	fata1247	1.0	only in loan words do voiced stops occur	
-R1109a	fata1247	0.0		
-R1109b	fata1247	0.0		
-R1110	fata1247	0.0		
-R1111	fata1247	1.0		
-R1112	fata1247	0.0		
-R1113a	fata1247	1.0		
-R1115	fata1247	1.0		
-GB014	fata1247	1.0		
-R1117	fata1247	1.0		
-R1118	fata1247	1.0		
-R1202	fata1247	0.0		
-R1203a	fata1247	0.0		
-R1204	fata1247	0.0		
-GB024	fata1247	4.0		
-GB025	fata1247	5.0		
-GB065	fata1247	5.0		
-SD224	fata1247	0.0		
-GB502	fata1247	0.0		
-GB193	fata1247	5.0		
-GB026	fata1247	2.0		
-GB203	fata1247	5.0		
-GB204	fata1247	3.0	no data	
-R2508	fata1247	0.0	there is one classifer for humans	p. 30
-GB159	fata1247	3.0		
-GB050	fata1247	1.0		
-GB039	fata1247	2.0		
-GB041	fata1247	2.0		
-GB042	fata1247	2.0		
-GB043	fata1247	2.0		
-GB044	fata1247	3.0	irregular plural forms take a suffix, normally plural is marked with a separate word 	Heston 2015:21-22
-GB217	fata1247	0.0		
-GB218	fata1247	1.0		
-GB219	fata1247	0.0		
-GB220	fata1247	0.0		
-GB221	fata1247	0.0	no example in any of the  sources on Fataluku of a reduplicated noun	
-GB165	fata1247	2.0		
-GB166	fata1247	2.0		
-GB200	fata1247	1.0		
-GB284	fata1247	0.0		
-GB181	fata1247	2.0		
-GB182	fata1247	0.0		
-GB183	fata1247	0.0		
-GB045	fata1247	1.0	we do not consider plural word to be number marking on the nouns	
-GB205	fata1247	0.0		
-GB206	fata1247	0.0		
-GB185	fata1247	2.0		
-GB184	fata1247	2.0		
-GB207	fata1247	0.0		
-GB046	fata1247	5.0	no data	
-GB188	fata1247	2.0		
-GB187	fata1247	2.0		
-GB070	fata1247	3.0	morpheme a	p. 31
-GB071	fata1247	3.0	subject pronouns end in -a, different set of non-subject pronouns	p. 19
-GB072	fata1247	2.0		
-GB073	fata1247	2.0		
-GB047	fata1247	3.0	suffix -n	p. 22
-GB048	fata1247	2.0		
-GB049	fata1247	3.0	suffix -n	p. 22
-GB020	fata1247	3.0		p. 17
-GB194	fata1247	1.0	un(u) 'one' used as indefinite article 'a, one, some' 	
-GB021	fata1247	2.0		
-GB022	fata1247	2.0		
-GB023	fata1247	2.0		p. 17
-GB172	fata1247	2.0		
-GB186	fata1247	2.0		
-GB509	fata1247	2.0	no data	
-GB510	fata1247	0.0		
-GB035	fata1247	2.0		
-GB511	fata1247	1.0		
-SD295	fata1247	1.0		
-GB037	fata1247	2.0		
-GB514	fata1247	0.0		
-GB515	fata1247	0.0		
-GB038	fata1247	2.0		
-GB516	fata1247	2.0		
-GB517	fata1247	1.0		
-GB518	fata1247	1.0		
-GB520	fata1247	1.0		
-GB521	fata1247	0.0		
-GB067	fata1247	1.0		
-GB333	fata1247	2.0		
-R2702	fata1247	1.0		
-GB336	fata1247	2.0		
-R2703b	fata1247	0.0		
-GB057	fata1247	3.0	human classifier ater	p. 30
-R2601	fata1247	0.0	animate-inanimate nouns	
-GB058	fata1247	2.0		
-GB059	fata1247	2.0		
-GB060	fata1247	0.0	"Both alienable and inalienable possession are expressed in the same way. Howeverr, when the possessed noun begins with a vowel, inalienable nouns have /n/ occuring between the possessive pronoun
+Feature_ID	Language_ID	Feature	Value	Answer	Comment	Source	Possible Values	Suggested standardised comments
+GB014	fata1247	Is there weight-sensitive suprasegmental prominence, suprasegmental prominence can be loudness, duration, pitch, i.e. stress or tone phenomena?	1	y		nan	0:n;2:no data;1:y;3:?	
+GB020	fata1247	Are there definite or specific articles?	3	n		p. 17	3:n;1: present;2:y;0: absent	Not mentioned, Form same as demonstratives, Form same as pronoun, Definiteness marking is done by an element with another function such as numeral classifiers, Definiteness marking is very restricted
+GB021	fata1247	Is an indefinite NP obligatorily accompanied by an indefinite (or non-specific) article?	2	n		nan	2:n;1: present;0: absent	Not mentioned, It exists but it is not obligatory, Same as numeral 'one'
+GB022	fata1247	Are there prenominal articles?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The definite article is prenominal, The indefinite article is prenominal, The definite article is a prefix, The indefinite article is a prefix
+GB023	fata1247	Are there postnominal articles?	2	y		p. 17	3:n;1: present;2:y;0: absent	Not mentioned, The definite article is postnominal, The indefinite article is postnominal, The definite article is a suffix, The indefinite article is a suffix
+GB024	fata1247	What is the order of numeral and noun in the NP?	4	2		nan	3: both.;2: N-Num;4:2;1: Num-N	Not mentioned, Mostly numeral-noun with a few exceptions, Mostly noun-numeral with a few exceptions, Either order occurs with any numeral
+GB025	fata1247	What is the order of demonstrative and noun in the NP?	5	2		nan	3: both.;1: Dem-N;4:3;5:2;2: N-Dem	Not mentioned, Different demonstratives take different orders, There is free variation, Demonstrative construction has a form both before and after the noun, Demonstrative are treated as suffixes, Demonstrative are treated as prefixes
+GB026	fata1247	Are there 'discontinuous noun phrases'?	2	n		nan	2:n;1: present;0: absent	Not mentioned
+GB027	fata1247	Is there a difference between the marking of NP coordination ('John and Mary went to market') and the marking of comitative phrases ('John went to market with Mary')?	2	y		nan	0: absent;3:n;1: present;4:no data;2:y;5:?	Not mentioned
+GB028	fata1247	Is there an inclusive/exclusive distinction?	2	y		nan	0: absent;1: present;2:y	Not mentioned
+GB029	fata1247	Is there a minimal-augmented system?	0	n		nan	0:n	
+GB030	fata1247	Is there a gender distinction in 3rd person pronouns (or demonstratives, if no 3rd person pronouns)?	2	n		nan	2:n;1: present;0: absent	Not mentioned
+GB031	fata1247	Is there a dual (or unit augmented) in addition to a plural (or augmented) number category in pronouns?	2	n		nan	2:n;1: present;0: absent;3:y;4:?	Not mentioned
+GB032	fata1247	Are 1st and 2nd persons conflated in any context?	3	y	the first and second person possessor pronoun precede the possessee without intervening possessor particle i	p. 28	2:n;1: present;3:y;0: absent	Not mentioned, Same pronoun form covering both first and second person in some context, Person is marked on the verb and there is a context where first and second person are the same
+GB033	fata1247	Are 2nd and 3rd persons conflated in non-singular numbers?	0	n		nan	0:n	
+GB034	fata1247	Are person categories neutralized under some conditions?	2	n		nan	2:n;1: present;0: absent	Not mentioned, Under negation, In a certain TAM context, Unclear whether the verb form counts as finite
+GB035	fata1247	Is there an opposition between three or more distance terms in the demonstrative system?	2	y		nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned, The distinction is distance from speaker versus hearer
+GB036	fata1247	Is elevation morphologically marked in demonstratives?	?	Not known		nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned
+GB037	fata1247	Is the opposition visible-non-visible marked on demonstratives?	2	n		nan	2:n;1: present;0: absent;3:y;4:?	Not mentioned
+GB038	fata1247	Are there demonstrative classifiers?	2	n		nan	2:n;1: present;0: absent;3:?	Not mentioned, The demonstrative classifier system is the same as another classifier system, Demonstratives agree with what is treated as noun classes
+GB039	fata1247	Are there declensions (partly) determined by number of the noun?	2	n		nan	2:n;1: present;0: absent	Not mentioned, There are different forms for marking number depending on the noun class, There are different forms for marking number which seem to be phonologically conditioned, The markers are adjacentbut not treated as bound
+GB040	fata1247	Are there declensions (partly) determined by gender of the noun?	?	Not known		nan	0:n	
+GB041	fata1247	Are there nouns which are suppletive for number?	2	n		nan	2:n;1: present;0: absent	Not mentioned
+GB042	fata1247	Can singular number be marked on the noun itself?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+GB043	fata1247	Can dual number be marked on the noun itself?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+GB044	fata1247	Can plural number be marked on the noun itself?	3	y	irregular plural forms take a suffix, normally plural is marked with a separate word 	Heston 2015:21-22	2:n;1: present;3:y;0: absent	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+GB045	fata1247	Is number marking prohibited on certain (types of) nouns?	1	y	we do not consider plural word to be number marking on the nouns	nan	0:n;1:y;2:?	
+GB046	fata1247	Are there associative plurals?	5	?	no data	nan	0: absent;3:n;1: present;4:no data;2:y;5:?	Not mentioned
+GB047	fata1247	Is there a productive morphologically marked Action/state nominalization (arrive/arrival)?	3	y	suffix -n	p. 22	2:n;1: present;0: absent;3:y;4:?	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound, The marker is also a noun
+GB048	fata1247	Is there a productive morphologically marked Agentive nominalization (sing-er)?	2	n		nan	2:n;1: present;0: absent;3:y;4:?	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound, The marker means 'person' or similar
+GB049	fata1247	Is there a productive morphologically marked Object nominalization (sing; song)?	3	y	suffix -n	p. 22	2:n;1: present;0: absent;3:y;4:?	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound, The marker means 'thing' or similar
+GB050	fata1247	Are there noun classes/genders?	1	n		nan	1:n;0:y;2:?	
+GB051	fata1247	Is sex a relevant category in any noun class/gender system?	?	Not known		nan	2:n;1: present;0: absent	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+GB052	fata1247	Is shape a relevant category in any noun class/gender system?	?	Not known		nan	3:n;1: present;2:y;0: absent	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+GB053	fata1247	Is animacy (without reference to sex) a relevant category in any noun class/gender system?	?	Not known		nan	3:n;1: present;2:y;0: absent	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+GB054	fata1247	Is plant status a relevant category in any noun class/gender system?	?	Not known		nan	2:n;1: present;0: absent	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+GB055	fata1247	Does the language only have a gender distinction in 3rd person pronouns?	?	Not known		nan	0:n	
+GB056	fata1247	Is there concord within the NP, i.e. agreement of elements within the NP with the noun class of a noun?	?	Not known		nan	0:n;1:y	
+GB057	fata1247	Are there numeral classifiers?	3	y	human classifier ater	p. 30	2:n;1: present;0: absent;3:y;4:?	Not mentioned, There are but they also have other functions such as classifying demonstratives, There are words with specific numeral meanings such as 'ten coconuts', There are different numerals used with different nouns
+GB058	fata1247	Are there possessive classifiers?	2	n		nan	2:n;1: present;0: absent	Not mentioned, There are but they also have other functions such as classifying demonstratives, There are words with specific possessive meaning such as 'my house', The classifiers reflect properties of the possessor rather than the possessum
+GB059	fata1247	Is alienable/inalienable a relevant distinction?	2	y		nan	3:n;1: present;2:y;0: absent	Not mentioned
+GB060	fata1247	Are there different possessive constructions?	0	y	"Both alienable and inalienable possession are expressed in the same way. Howeverr, when the possessed noun begins with a vowel, inalienable nouns have /n/ occuring between the possessive pronoun
 and the noun, for  alienably possessed nouns, /h/ may occur. The inserted consonant, /n/ or /h/, is optional, and in the event it is absent, a
-glottal stop is inserted instead, a productive phonological process"	p. 29
-GB061	fata1247	3.0		
-GB062	fata1247	2.0		
-GB063	fata1247	2.0		
-GB064	fata1247	3.0		
-GB066	fata1247	0.0		
-GB250	fata1247	2.0	wale 'have'	p. 17
-GB251	fata1247	0.0	my kids (are) two	p. 23
-GB252	fata1247	4.0	no data	
-GB253	fata1247	4.0	no data	
-GB254	fata1247	2.0	my kids are two	
-GB255	fata1247	2.0		
-GB256	fata1247	2.0		
-GB081	fata1247	2.0		
-GB111	fata1247	3.0		
-GB112	fata1247	4.0	no data	
-GB117	fata1247	2.0		
-GB118	fata1247	2.0		
-GB119	fata1247	2.0		
-GB120	fata1247	2.0		
-GB121	fata1247	2.0		
-GB122	fata1247	3.0		
-GB123	fata1247	3.0		
-GB124	fata1247	2.0		
-GB125	fata1247	2.0		
-GB126	fata1247	2.0	an	p. 36
-GB127	fata1247	2.0		p. 25
-GB128	fata1247	0.0	ina 'give'	p. 43
-GB129	fata1247	2.0		
-GB158	fata1247	2.0		
-GB028	fata1247	2.0		
-GB029	fata1247	0.0		
-GB030	fata1247	2.0		
-GB168	fata1247	1.0		p. 18
-GB169	fata1247	0.0		
-GB197	fata1247	2.0		
-GB162	fata1247	0.0		
-GB196	fata1247	2.0		
-GB202	fata1247	0.0		
-R2203	fata1247	0.0		
-GB031	fata1247	2.0		
-GB167	fata1247	2.0		
-GB032	fata1247	3.0	the first and second person possessor pronoun precede the possessee without intervening possessor particle i	p. 28
-GB033	fata1247	0.0		
-GB034	fata1247	2.0		
-GB089	fata1247	2.0		
-GB090	fata1247	3.0		
-GB091	fata1247	2.0		
-GB092	fata1247	2.0		
-GB093	fata1247	2.0		
-GB094	fata1247	3.0		
-GB249	fata1247	0.0		
-GB099	fata1247	2.0		
-GB100	fata1247	0.0		
-GB109	fata1247	2.0		
-R3502	fata1247	0.0		
-GB102	fata1247	0.0		
-GB141	fata1247	3.0		
-GB142	fata1247	3.0		
-GB143	fata1247	0.0		
-GB144	fata1247	0.0		
-GB145	fata1247	1.0		
-GB278	fata1247	1.0		
-GB103	fata1247	2.0		
-GB104	fata1247	2.0		
-GB105	fata1247	2.0		
-GB287	fata1247	0.0		
-GB288	fata1247	0.0		
-GB289	fata1247	0.0		
-GB290	fata1247	1.0		
-GB106	fata1247	3.0		
-GB108	fata1247	3.0		
-GB079	fata1247	2.0		
-GB080	fata1247	2.0	same/different subject enclitics, verbal suffix -e	p. 36
-GB101	fata1247	0.0		
-GB110	fata1247	2.0		
-GB082	fata1247	2.0		
-GB083	fata1247	2.0		
-GB084	fata1247	2.0		
-GB086	fata1247	3.0		
-GB087	fata1247	2.0		
-GB088	fata1247	2.0		
-GB113	fata1247	2.0		
-R3605	fata1247	0.0		
-GB114	fata1247	2.0		
-GB115	fata1247	3.0		
-GB116	fata1247	2.0		
-GB177	fata1247	3.0		
-GB074	fata1247	2.0		
-GB075	fata1247	2.0	"the words which express temporal and spatial relations are analyzed as verbs, since they
-take verbal morphology and occur in the same syntactic positions as verbs."	p. 24
-GB107	fata1247	2.0		
-GB137	fata1247	3.0		
-GB138	fata1247	2.0		
-SD341	fata1247	1.0		
-SD342	fata1247	1.0		
-GB139	fata1247	2.0		
-GB140	fata1247	2.0		
-SD343	fata1247	1.0		
-GB068	fata1247	2.0		
-GB508	fata1247	0.0		
-GB069	fata1247	2.0		
-GB265	fata1247	4.0	tali 'be beyond'	p. 47
-GB266	fata1247	2.0		
-GB267	fata1247	0.0		
-GB268	fata1247	0.0		
-GB269	fata1247	0.0		
-GB277	fata1247	0.0		
-GB270	fata1247	4.0		
-GB273	fata1247	2.0		
-GB274	fata1247	2.0		
-GB275	fata1247	2.0		
-GB276	fata1247	3.0	tali 'be beyond'	
-GB160	fata1247	2.0	numerals may be reduplicated, no evidence that nouns are reduplicated	
-GB146	fata1247	3.0		
-GB147	fata1247	2.0		
-GB148	fata1247	2.0		
-GB191	fata1247	0.0		
-GB149	fata1247	2.0		
-GB151	fata1247	3.0		p. 36
-GB152	fata1247	3.0		p. 40
-GB150	fata1247	2.0		
-GB153	fata1247	0.0		
-GB027	fata1247	2.0		
-GB130	fata1247	4.0		
-GB131	fata1247	2.0		
-GB132	fata1247	2.0		
-GB133	fata1247	2.0		
-GB134	fata1247	2.0		
-GB135	fata1247	3.0	quotes follow the verb 'say', complement clauses follow the verb 'want',  so the order is AVO in these contexts	
-GB136	fata1247	2.0		
-R4305a	fata1247	0.0		
-R4307	fata1247	0.0		
-R4308	fata1247	0.0		
-R4308a	fata1247	1.0		
-R4309a	fata1247	1.0	but speech verb takes different subject marker	p. 54
-R4309b	fata1247	1.0		
-R4311	fata1247	0.0		
-GB154	fata1247	0.0		
-GB155	fata1247	2.0		
-GB156	fata1247	2.0		
-GB257	fata1247	2.0		p. 49
-GB258	fata1247	0.0		
-GB259	fata1247	0.0		
-GB260	fata1247	2.0		
-GB286	fata1247	2.0		
-GB285	fata1247	3.0		
-GB261	fata1247	1.0		p. 49
-GB291	fata1247	2.0		
-GB292	fata1247	1.0		
-GB262	fata1247	2.0		
-GB263	fata1247	2.0		
-GB264	fata1247	2.0		
-GB157	fata1247	6.0	no d ata	
-GB294	fata1247	0.0		
-GB295	fata1247	1.0		
-GB295	fata1247	1.0		
-SD369	fata1247	0.0		
-R5202	fata1247	2.0	naalpaal 'parents'	
-R5203	fata1247	1.0	apaal 'father', apaal-i 'FB'	p. 194
-R5204	fata1247	0.0	pa'in 'MB'	
-R5205	fata1247	2.0	no data	
-R5206	fata1247	1.0	FSS and MBS are referred to with awayan (i.e. no distinction); FSD ahiran, MBD asayura	
-R5207	fata1247	2.0	no data	
-R5208	fata1247	1.0	FSS and MBS are referred to with awayan (i.e. no distinction); FSD ahiran, MBD asayura	
-R5209	fata1247	0.0		
-R5210	fata1247	1.0	man's child: amotso; woman's brother's child: ahiran	
-R5211	fata1247	0.0	leren 'kakak, noko 'adik'	
-R5212	fata1247	0.0		
-SD381	fata1247	1.0		
+glottal stop is inserted instead, a productive phonological process"	p. 29	1:n;0:y	
+GB061	fata1247	Can possession be marked by a prefix?	3	n		nan	3:n;1: present;2:y;0: absent	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+GB062	fata1247	Can possession be marked by a suffix?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+GB063	fata1247	Can possession be marked on the nominal possessor?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+GB064	fata1247	Can possession be marked on the nominal possessee?	3	n		nan	3:n;1: present;2:y;0: absent	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+GB065	fata1247	What is the order of possessor and possessed in the attributive possessive construction?	5	1		nan	5:1;2:Possessed-Possessor;4:both;1:Possessor-Possessed;6:3	Not mentioned, Pronouns use the opposite order
+GB066	fata1247	Are there different orders of elements in a possessive phrase for different classes of possession?	0	n		nan	0:n;1:y	
+GB067	fata1247	What is the counting system?	1	1		nan	1:1;0:2;2:decimal	
+GB068	fata1247	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) act like verbs in predicative position?	2	y		nan	0: absent;3:n;1: present;4:no data;2:y;5:?	Not mentioned, Neither verbs nor adjectives receive marking, Some TAM and voice marking on verbs is not shared by adjectives
+GB069	fata1247	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	2	y		nan	3:n;1: present;2:y;0: absent	Not mentioned, Neither verbs nor adjectives receive marking, Some TAM and voice marking on verbs is not shared by adjectives
+GB070	fata1247	Is there case marking for core nominal NPs (i.e., S, A or O function)?	3	y	morpheme a	p. 31	2:n;1: present;3:y;0: absent	Not mentioned, The markers are adjacent to the noun but not treated as morphologically bound
+GB071	fata1247	Is there case marking for core pronouns?	3	y	subject pronouns end in -a, different set of non-subject pronouns	p. 19	2:n;1: present;3:y;0: absent	Not mentioned, The markers are adjacent to the noun but not treated as morphologically bound
+GB072	fata1247	Is there case marking for oblique nominal NPs?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The markers are adjacent to the noun but not treated as morphologically bound
+GB073	fata1247	Is there case marking for oblique pronouns?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The markers are adjacent to the noun but not treated as morphologically bound
+GB074	fata1247	Are there prepositions?	2	n		nan	2:n;1: present;0: absent;4:y;3:?	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs, Only one or very few
+GB075	fata1247	Are there postpositions?	2	n	"the words which express temporal and spatial relations are analyzed as verbs, since they
+take verbal morphology and occur in the same syntactic positions as verbs."	p. 24	2:n;1: present;0: absent;3:y;4:?	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs, Only one or very few
+GB076	fata1247	Are there adpositions to mark core NPs?	?	Not known		nan	2:n;1: present;0: absent;3:y;4:?	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+GB077	fata1247	Are there adpositions to mark oblique NPs?	?	Not known		nan	2:n;1: present;0: absent;3:y;4:?	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+GB078	fata1247	Is there a distinction between locational and directional adpositions?	?	Not known		nan	0:n;1:y;2:?	
+GB079	fata1247	Do verbs have prefixes/proclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound, Only one or very few
+GB080	fata1247	Do verbs have suffixes/enclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	2	y	same/different subject enclitics, verbal suffix -e	p. 36	0: absent;3:n;1: present;4:no data;2:y;5:?	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound, Only one or very few
+GB081	fata1247	Can infixation be used on verbs for derivational, aspectual, or voice-changing purposes?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, It is a type of reduplication, Some other doubt about why it is an infix
+GB082	fata1247	Is there present tense regularly morphologically marked on the verb?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The marker is described as non-past rather than specifically present, The marker conveys both tense and aspect, The markers are adjacent to the verb but not treated as morphologically bound
+GB083	fata1247	Is there past tense regularly morphologically marked on the verb?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB084	fata1247	Is there future tense regularly morphologically marked on the verb?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The marker is described as conveying non-past rather than specifically future, The markers are adjacent to the verb but not treated as morphologically bound
+GB085	fata1247	Are there multiple past or future tenses, distinguishing distance from Time of Reference, marked on the verb?	?	Not known		nan	0:n	
+GB086	fata1247	Is a distinction between punctual/continuous aspect available as a morphological choice?	3	n		nan	3:n;1: present;2:y;0: absent	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB087	fata1247	Is a distinction between realis/irrealis mood available as a morphological choice?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound, It is called 'realis'/'irrealis' by the grammar
+GB088	fata1247	Is there an apprehensive modal category marked on the verb also known as 'evitative', 'lest', etc.?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound, There is a marker but it has other functions
+GB089	fata1247	Is the S participant (at least sometimes) marked by a suffix/enclitic?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB090	fata1247	Is the S participant (at least sometimes) marked by a prefix/proclitic?	3	n		nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB091	fata1247	Is the A participant (at least sometimes) marked by a suffix/enclitic?	2	n		nan	2:n;1: present;0: absent;4:y;3:?	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB092	fata1247	Is the A participant (at least sometimes) marked by a prefix/proclitic?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB093	fata1247	Is the O participant (at least sometimes) marked by a suffix/enclitic?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB094	fata1247	Is the O participant (at least sometimes) marked by a prefix/proclitic?	3	n		nan	3:n;1: present;2:y;0: absent	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB095	fata1247	Are variations in marking strategies of core participants based on TAM distinctions?	?	Not known		nan	2:n;1: present;3:y;0: absent	Not mentioned
+GB096	fata1247	Are variations in marking strategies of core participants based on verb classes?	?	Not known		nan	3:n;1: present;2:y;0: absent	Not mentioned
+GB097	fata1247	Are variations in marking strategies of core participants based on clause type, e.g. main vs. subordinate?	?	Not known		nan	2:n;1: present;3:no data;0: absent;4:?	Not mentioned
+GB098	fata1247	Are variations in marking strategies of core participants based on person distinctions?	?	Not known		nan	2:n;1: present;3:y;0: absent	Not mentioned
+GB099	fata1247	Do verb stems alter according to the person of a core participant?	2	n		nan	2:n;1: present;0: absent;3:?	Not mentioned
+GB100	fata1247	Is number ever marked separately from person on the verb?	0	n		nan	0:n;1:y	
+GB101	fata1247	Are person, number and any TAM category (i.e. 3 or more categories in all) marked by portmanteau morphemes on verbs?	0	n		nan	0:n	
+GB102	fata1247	Are categories such as person, number, gender related to a single participant discontinuously marked on a verb?	0	n		nan	0:n	
+GB103	fata1247	Are benefactive nominals marked on the verb?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB104	fata1247	Can instruments be marked on the verb?	2	n		nan	2:n;1: present;0: absent;3:y;4:?	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB105	fata1247	Can recipients be treated as a transitive object, i.e. as Direct Object?	2	y		nan	3:n;1: present;2:y;0: absent	Not mentioned
+GB106	fata1247	Are there syntactically ditransitive verbs?	3	y		nan	2:n;1: present;3:y;0: absent	Not mentioned, Only one or very few such as 'give'
+GB107	fata1247	Is negation marked morphologically on the verb?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The marker is adjacent to the property word but not treated as morphologically bound
+GB108	fata1247	Can locative or direction be morphologically marked on the verb?	3	n		nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB109	fata1247	Are there suppletive verbs for number of participants?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, Only one example
+GB110	fata1247	Are there suppletive verbs for tense or aspect?	2	n		nan	2:n;1: present;0: absent	Not mentioned, One or very few, Unclear whether the suppletive pattern is a conjugation class
+GB111	fata1247	Are there conjugation classes?	3	n		nan	3:n;1: present;2:y;0: absent	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound, They are transitive versus intransitive verbs
+GB112	fata1247	Are there (several) verbs which can be used either transitively or intransitively with no morphological marking?	4	?	no data	nan	2:n;1: present;0: absent;3:y;4:?	Not mentioned, There are only very few examples are or restricted in some way
+GB113	fata1247	Is there transitivising morphology (include clitics)?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB114	fata1247	Is there morphology (include clitics) to mark a reflexive action?	2	n		nan	0: absent;2:n;1: present;4:no data;3:y;5:?	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB115	fata1247	Is there morphology (include clitics) to mark a reciprocal action?	3	n		nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned, The markers are adjacent to the verb but not treated as morphologically bound
+GB116	fata1247	Do verbs classify the shape, size, consistency or position of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, Perhaps some examples but it does not seem to be a systematic feature of verbs, Resembles the noun class system, Resembles the noun classifier system
+GB117	fata1247	Is there a copula for predicate nominals?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, There is but it is not obligatory, There is but it is restricted such as in the past tense only, There is but it is a demonstrative
+GB118	fata1247	Are there serial verb constructions?	2	y		nan	0: absent;1: present;2:y	Not mentioned, Hard to distinguish from verb compounding, Limited to some verbs e.g. English 'go buy food'
+GB119	fata1247	Are there modal auxiliaries?	2	y		nan	0: absent;3:n;1: present;4:no data;2:y;5:?	
+GB120	fata1247	Are there aspectual auxiliaries?	2	y		nan	3:n;1: present;2:y;0: absent	
+GB121	fata1247	Are there tense auxiliaries?	2	n		nan	2:n;1: present;3:y;0: absent	
+GB122	fata1247	Is verb compounding a regular process?	3	n		nan	0: absent;3:n;1: present;4:no data;2:y;5:?	Not mentioned, Hard to distinguish from serial verb constructions
+GB123	fata1247	Are there verb-adjunct (aka light-verb) constructions?	3	n		nan	3:n;1: present;2:y;0: absent	Not mentioned
+GB124	fata1247	Is incorporation of nouns into verbs a productive intransitivizing process?	2	n		nan	2:n;1: present;0: absent;3:y;4:?	Not mentioned, The noun appears adjacent to the verb but is not treated as morphologically bound
+GB125	fata1247	Is there productive incorporation of non-nominal elements (adjectives, locatives, etc.) into verbs?	2	n		nan	2:n;1: present;0: absent;3:y;4:?	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB126	fata1247	Is there one or more existential verb?	2	y	an	p. 36	3:n;1: present;0: absent;2:y;4:?	Not mentioned, It exists but is the same as the copula, It exists but also encodes position
+GB127	fata1247	Are there positional (classificatory) verbs?	2	y		p. 25	0: absent;4:y?;3:n;1: present;5:no data;2:y;6:?	Not mentioned, They are not fully obligatory
+GB128	fata1247	Is the verb 'give' morphologically peculiar (different from most other verbs)?	0	n	ina 'give'	p. 43	0:n;1:y	
+GB129	fata1247	Is there a notably small number, i.e. about 100 or less, of verbs in the language?	2	n		nan	2:n;1: present;0: absent	Not mentioned
+GB130	fata1247	What is the pragmatically unmarked order of S and V in intransitive clauses?	4	1		nan	4:1;1: SV;3: both;2: VS	Not mentioned, Pronouns have opposite order, Different depending on clause type or TAM etc., Occurs with a type of focus construction
+GB131	fata1247	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	2	n		nan	2:n;1: present;0: absent	Not mentioned, Pronouns have a different order, Different depending on clause type or TAM etc.
+GB132	fata1247	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, Pronouns have a different order, Different depending on clause type or TAM etc.
+GB133	fata1247	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	2	y		nan	3:n;1: present;2:y;0: absent	Not mentioned, Pronouns have a different order, Different depending on clause type or TAM etc.
+GB134	fata1247	Is the order of constituents the same in main and subordinate clauses?	2	y		nan	0: absent;1: present;2:y;3:?	Not mentioned, Only in some type of subordinate clauses, Order is more restricted in main clauses, Order is more restricted in subordinate clauses
+GB135	fata1247	Do clausal objects occur in the same position as nominal objects?	3	n	quotes follow the verb 'say', complement clauses follow the verb 'want',  so the order is AVO in these contexts	nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned
+GB136	fata1247	Is constituent order fixed?	2	y		nan	0: absent;1: present;2:y	Not mentioned that there is any variation, There is variation due to topicalisation and focus
+GB137	fata1247	Can negation be marked clause-finally?	3	n		nan	3:n;1: present;2:y;0: absent	Not mentioned, Only in some sentences where a normally initial element such as the subject is not present, Negation is marked on the verb which appears clause-initially
+GB138	fata1247	Can negation be marked clause-initially?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, Only in some sentences where a normally final element such as the direct object is not present, Negation is marked on the verb which appears clause-finally
+GB139	fata1247	Is there a difference between imperative and declarative negation?	2	y		nan	0: absent;1: present;2:y;3:?	Not mentioned, Difference in word order, Difference in the form of the negator, Difference in the presence of a particular element which is not analysed as part of the negator
+GB140	fata1247	Are verbal and non-verbal predicates marked by the same negator?	2	n		nan	2:n;1: present;0: absent;3:y;4:?	Not mentioned, A special negator or negative form of the verb is used for existential meanings, A special negator or negative form of the copula is used with nominal predicates, A special negator or negative form of the copula is used with predicative adjectives, Other negative forms but which are discounted by the clarifying comment
+GB141	fata1247	Are S and O conflated morphologically in at least some basic constructions, i.e. simple main clauses?	3	n		nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned
+GB142	fata1247	Are S and A conflated morphologically in at least some basic constructions, i.e. simple main clauses?	3	n		nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned
+GB143	fata1247	Are S and O conflated morphologically across clause boundaries, i.e. acting as syntactic pivot?	0	n		nan	0:n;2:no data;1:y;3:?	
+GB144	fata1247	Are S and A conflated morphologically across clause boundaries, i.e. acting as syntactic pivot?	0	n		nan	0:n;2:no data;1:y;3:?	
+GB145	fata1247	Do S and O operate in the same way, and differently from A, for the purpose of any syntactic construction?	1	n		nan	1:n;0:y;2:?	
+GB146	fata1247	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	3	n		nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned, The experiencer is expressed as an object, Only for mental states and emotions, There are verbs with unusual case frames but not necessarily controlled versus uncontrolled
+GB147	fata1247	Is there a morphologically marked passive construction?	2	n		nan	2:n;1: present;0: absent;3:?	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB148	fata1247	Is there a morphologically marked antipassive?	2	n		nan	2:n;1: present;0: absent;3:?	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB149	fata1247	Is there a morphologically marked inverse?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB150	fata1247	Is there clause chaining?	2	y		nan	0: absent;3:n;1: present;4:no data;2:y;5:?	Not mentioned, Hard to distinguish from serial verb constructions
+GB151	fata1247	Is there a morphologically-marked switch reference system?	3	y		p. 36	2:n;1: present;3:y;0: absent	Not mentioned
+GB152	fata1247	Is there a morphologically marked distinction between simultaneous and sequential clauses?	3	n		p. 40	3:n;1: present;0: absent;2:y;4:?	Not mentioned, There is a marker adjacent to the verb but not treated as morphologically bound
+GB153	fata1247	Is the verb 'say' or a quotative construction used in desiderative constructions?	0	n		nan	0:n;2:y;1:?	
+GB154	fata1247	Are causatives formed by serial verb constructions?	0	y		nan	1:n;0:y;2:?	
+GB155	fata1247	Are causatives formed by affixes/clitics?	2	n		nan	2:n;1: present;3:y;0: absent	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB156	fata1247	Are causatives formed by constructions involving 'say'?	2	n		nan	2:n;1: present;0: absent	Not mentioned
+GB157	fata1247	Is there tail-head linkage?	6	?	no d ata	nan	0: absent;3:n;1: present;5:no data;4:no d ata;2:y;6:?	Not mentioned
+GB158	fata1247	Are verbs reduplicated?	2	y		nan	0: absent;3:n;1: present;4:no data;2:y;5:?	Not mentioned, Some examples but not productive, Possible partial reduplication, There are instances of repeated verbs but that does not count as reduplication
+GB159	fata1247	Are nouns reduplicated?	3	y		nan	0: absent;2:n;1: present;4:no data;3:y;5:?	Not mentioned, Some examples but not productive, Possible partial reduplication, The prototypical noun 'book book' type reduplication is known to exist but not other types
+GB160	fata1247	Are elements apart from verbs or nouns reduplicated?	2	y	numerals may be reduplicated, no evidence that nouns are reduplicated	nan	0: absent;4:n;1: present;3:no data;2:y;5:?	Not mentioned, Numerals are reduplicated, Adjectives are reduplicated but are arguably a type of verb, Possible partial reduplication
+GB162	fata1247	Is there a distinction between masculine and feminine in 1st person pronouns?	0	n		nan	0:n	
+GB163	fata1247	How many genders/noun classes are there?	?	Not known		nan	1:2;3:?;0:several;2:n	
+GB165	fata1247	Can trial number be marked on the noun itself?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+GB166	fata1247	Can paucal number be marked on the noun itself?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+GB167	fata1247	Are there logophoric pronouns for the 3rd person?	2	n		nan	2:n;1: present;0: absent	Not mentioned
+GB168	fata1247	Is there a distinction between inanimate and animate in 3rd person singular pronouns?	1	n		p. 18	1:n;0:y	
+GB169	fata1247	Is there a distinction between masculine and feminine in 3rd person singular pronouns?	0	n		nan	0:n	
+GB170	fata1247	Can an attributive nominal modifier denoting a property concept agree with any gender/noun class of the noun it modifies?	?	Not known		nan	2:n;1: present;0: absent	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+GB171	fata1247	Can an adnominal demonstrative agree in gender/noun class with the noun it modifies?	?	Not known		nan	2:n;1: present;3:y;0: absent	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+GB172	fata1247	Can articles agree with the gender/noun class of the noun they modify?	2	n		nan	2:n;1: present;0: absent	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement, It is not clear whether it is an article
+GB173	fata1247	Are noun class and number always marked by a portmanteau morpheme on the noun?	?	Not known		nan	0:n	
+GB174	fata1247	Are noun class and number marked by a portmanteau morpheme on the noun in singular?	?	Not known		nan	0:n	
+GB175	fata1247	Are noun class and number marked by a portmanteau morpheme on the noun in plural?	?	Not known		nan	0:n	
+GB176	fata1247	Can agreement of gender/noun class and number be marked by a portmanteau morpheme on other items in the noun phrase?	?	Not known		nan	0:n	
+GB177	fata1247	Can the verb carry a marker of animacy of argument, unrelated to any gender/noun class of the argument?	3	n		nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned, Animacy is treated as a gender and therefore the question does not make sense, The marker is adjacent to the verb but not treated as morphologically bound
+GB178	fata1247	Are there several different singular genders/noun classes that can have the same plural gender/noun class?	?	Not known		nan	0:n	
+GB179	fata1247	Are there genders/noun classes that cannot take number marking?	?	Not known		nan	0:n	
+GB181	fata1247	Is number marking obligatory on certain (types of) nouns?	2	y		nan	0:n;2:y;1:?	
+GB182	fata1247	Is number marking obligatory on animate nouns?	0	n		nan	0:n;1:?	
+GB183	fata1247	Is number marking obligatory on human nouns?	0	n		nan	0:n;1:?	
+GB184	fata1247	Can an attributive nominal modifier denoting a property concept agree with the number of the noun it modifies?	2	n		nan	2:n;1: present;0: absent	Not mentioned, An additional marker dependent on the number of the noun is present but not called agreement
+GB185	fata1247	Can an adnominal demonstrative agree in number with the noun it modifies?	2	n		nan	2:n;1: present;0: absent	Not mentioned, An additional marker dependent on the number of the noun is present but not called agreement
+GB186	fata1247	Can articles agree in number with the noun they modify?	2	n		nan	2:n;1: present;0: absent	Not mentioned, An additional marker dependent on the number of the noun is present but not called agreement, It is not clear whether it is an article
+GB187	fata1247	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+GB188	fata1247	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+GB191	fata1247	Is there a morphologically marked middle voice construction?	0	n		nan	0:n;1:?	
+GB192	fata1247	Are the noun's phonological properties relevant for any gender assignment?	?	Not known		nan	2:n;1: present;0: absent	Not mentioned, There is gender and it is possible that phonology influences assignment
+GB193	fata1247	What is the order of noun and attributive nominal modifier denoting a property concept?	5	2		nan	4:1;6:n att;0: they cannot be used attributively;2: N - ANM;5:2;3: both;1: ANM - N	Not mentioned, Certain adjectives take a different ordering, Adjectives can take either order
+GB194	fata1247	Are there indefinite or non-specific articles?	1	y	un(u) 'one' used as indefinite article 'a, one, some' 	nan	0:n;1:y	
+GB195	fata1247	Can a noun receive more than one noun class marker at the same time?	?	Not known		nan	0:n	
+GB196	fata1247	Is there a gender distinction in 2nd person pronouns?	2	n		nan	2:n;1: present;0: absent	Not mentioned
+GB197	fata1247	Is there a gender distinction in 1st person pronouns?	2	n		nan	2:n;1: present;0: absent	Not mentioned
+GB198	fata1247	Can a numeral used attributively agree with any gender/noun class of the noun it modifies?	?	Not known		nan	2:n;1: present;3:y;0: absent	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+GB199	fata1247	Can verbs agree with the gender/noun class of the nominal object?	?	Not known		nan	0:n;1:y	
+GB200	fata1247	Can verbs agree in number with the nominal object?	1	n		nan	1:n;0:y;2:?	
+GB202	fata1247	Is there a distinction between masculine and feminine in 2nd person pronouns?	0	n		nan	0:n	
+GB203	fata1247	"What is the order of the collective universal quantifier (""all"") and the noun?"	5	2		nan	6:3;0: no UQ;5:2;4:0;3: both;2: N-UQ;1: UQ-N;7:?	Not mentioned, 'All' does not modify the noun e.g. it is an adverb
+GB204	fata1247	Is there a distinction between collective ('all') and distributive ('every') universal quantifiers?	3	?	no data	nan	0: absent;6:no;5:n;1: present;4:no data;2:y;3:?	Not mentioned
+GB205	fata1247	Is number marking prohibited on inanimate nouns?	0	n		nan	0:n;1:?	
+GB206	fata1247	Is number marking prohibited on mass nouns?	0	n		nan	0:n;1:?	
+GB207	fata1247	Is number marking optional on certain (types of) nouns?	0	n		nan	0:n;1:y;2:?	
+GB208	fata1247	Can singular number be marked by a prefix on the noun?	?	Not known		nan	0:n	
+GB209	fata1247	Can singular number be marked by a suffix on the noun?	?	Not known		nan	0:n	
+GB210	fata1247	Can singular number be marked by suppletion on the noun?	?	Not known		nan	0:n	
+GB211	fata1247	Can singular number be marked by tone alone on the noun?	?	Not known		nan	0:n	
+GB212	fata1247	Can dual number be marked by a prefix on the noun?	?	Not known		nan	0:n	
+GB213	fata1247	Can dual number be marked by a suffix on the noun?	?	Not known		nan	0:n	
+GB214	fata1247	Can dual number be marked by suppletion on the noun?	?	Not known		nan	0:n	
+GB215	fata1247	Can dual number be marked by tone alone on the noun?	?	Not known		nan	0:n	
+GB216	fata1247	Can dual number be marked by reduplication on the noun?	?	Not known		nan	0:n	
+GB217	fata1247	Can plural number be marked by a prefix on the noun?	0	n		nan	0:n	
+GB218	fata1247	Can plural number be marked by a suffix on the noun?	1	y		nan	0:n;1:y	
+GB219	fata1247	Can plural number be marked by suppletion on the noun?	0	n		nan	0:n	
+GB220	fata1247	Can plural number be marked by tone alone on the noun?	0	n		nan	0:n	
+GB221	fata1247	Can plural number be marked by reduplication on the noun?	0	n	no example in any of the  sources on Fataluku of a reduplicated noun	nan	0:n;1:y	
+GB222	fata1247	Can trial number be marked by a prefix on the noun?	?	Not known		nan	0:n	
+GB223	fata1247	Can trial number be marked by a suffix on the noun?	?	Not known		nan	0:n	
+GB224	fata1247	Can trial number be marked by suppletion on the noun?	?	Not known		nan	0:n	
+GB225	fata1247	Can trial number be marked by tone alone on the noun?	?	Not known		nan	0:n	
+GB226	fata1247	Can trial number be marked by reduplication on the noun?	?	Not known		nan	0:n	
+GB227	fata1247	Can paucal number be marked by a prefix on the noun?	?	Not known		nan	0:n	
+GB228	fata1247	Can paucal number be marked by a suffix on the noun?	?	Not known		nan	0:n	
+GB229	fata1247	Can paucal number be marked by suppletion on the noun?	?	Not known		nan	0:n	
+GB230	fata1247	Can paucal number be marked by tone alone on the noun?	?	Not known		nan	0:n	
+GB231	fata1247	Can paucal number be marked by reduplication on the noun?	?	Not known		nan	0:n	
+GB232	fata1247	Can diminutive be marked by a prefix on the noun?	?	Not known		nan	0:n	
+GB234	fata1247	Can diminutive be marked by a suffix on the noun?	?	Not known		nan	0:n	
+GB235	fata1247	Can diminutive be marked by suppletion on the noun?	?	Not known		nan	0:n	
+GB236	fata1247	Can diminutive be marked by tone on the noun?	?	Not known		nan	0:n	
+GB237	fata1247	Can diminutive be marked by reduplication on the noun?	?	Not known		nan	0:n	
+GB238	fata1247	Can diminutive be marked by noun class selection?	?	Not known		nan	0:n	
+GB239	fata1247	Can augmentative be marked by a prefix on the noun?	?	Not known		nan	0:n	
+GB240	fata1247	Can augmentative be marked by a suffix on the noun?	?	Not known		nan	0:n	
+GB241	fata1247	Can augmentative be marked by suppletion on the noun?	?	Not known		nan	0:n	
+GB242	fata1247	Can augmentative be marked by tone on the noun?	?	Not known		nan	0:n	
+GB243	fata1247	Can augmentative be marked by reduplication on the noun?	?	Not known		nan	0:n	
+GB244	fata1247	Can augmentative be marked by noun class selection?	?	Not known		nan	0:n	
+GB245	fata1247	Can gender/noun class be marked by a prefix on the noun?	?	Not known		nan	0:n	
+GB246	fata1247	Can gender/noun class be marked by a suffix on the noun?	?	Not known		nan	0:n	
+GB247	fata1247	Can gender/noun class be marked by suppletion on the noun?	?	Not known		nan	0:n	
+GB248	fata1247	Can gender/noun class be marked by tone on the noun only?	?	Not known		nan	0:n	
+GB249	fata1247	Are there variations in marking strategies of core participants?	0	n		nan	0:n;1:y	
+GB250	fata1247	Can predicative possession be formed with a habeo-verb?	2	y	wale 'have'	p. 17	3:n;1: present;0: absent;2:y;4:?	Not mentioned, The habeo verb is also an existential verb
+GB251	fata1247	Can predicative possession be formed by an intransitive construction with an locational/existential/copula predicate where the possessum is the subject?	0	y	my kids (are) two	p. 23	1:n;0:y;2:?	
+GB252	fata1247	Can predicative possession be formed with a locative possessive?	4	?	no data	nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned
+GB253	fata1247	Can predicative possession be formed with a dative possessive?	4	?	no data	nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned
+GB254	fata1247	Can predicative possession be formed with a genitive possessive?	2	y	my kids are two	nan	3:n;1: present;0: absent;2:y;4:?	Not mentioned
+GB255	fata1247	Can predicative possession be formed with a topic possessive?	2	n		nan	2:n;1: present;0: absent;3:?	Not mentioned
+GB256	fata1247	Can predicative possession be formed with a conjunctional possessive?	2	n		nan	2:n;1: present;0: absent;3:?	Not mentioned
+GB257	fata1247	Can polar interrogation be marked by intonation only?	2	y		p. 49	3:n;1: present;0: absent;2:y;4:?	Not mentioned, The question particle carries tone but this might also be intonation
+GB258	fata1247	Is the polar interrogative intonation rising?	0	y		nan	2:no data;0:y;1:?	
+GB259	fata1247	Is the polar interrogative intonation falling?	0	n		nan	0:n;2:no data;3:y;1:?	
+GB260	fata1247	Can polar interrogation be marked by change in word order only?	2	n		nan	2:n;1: present;0: absent	Not mentioned
+GB261	fata1247	Can polar interrogation be marked by a particle only?	1	y		p. 49	0:n;1:y;2:?	
+GB262	fata1247	Is there a clause-initial polar interrogative particle?	2	n		nan	2:n;1: present;0: absent;3:?	Not mentioned, The elements used in polar interrogation are distributed over the clause
+GB263	fata1247	Is there a clause-final polar interrogative particle?	2	y		nan	4:n;1: present;0: absent;2:y;3:?	Not mentioned, The elements used in polar interrogation are distributed over the clause
+GB264	fata1247	Is there a clause-medial polar interrogative particle?	2	n		nan	2:n;1: present;0: absent;3:?	Not mentioned, The elements used in polar interrogation are distributed over the clause
+GB265	fata1247	"Can comparative constructions be construed with a verb meaning ""surpass"" or ""exceed""?"	4	y	tali 'be beyond'	p. 47	0: absent;3:n;1: present;2:no data;4:y;5:?	Not mentioned
+GB266	fata1247	Can comparative constructions be construed with a locative comparative?	2	n		nan	0: absent;2:n;1: present;4:no data;3:y;5:?	Not mentioned
+GB267	fata1247	Can comparative constructions be construed with a from-comparative?	0	n		nan	0:n;1:no data;2:y;3:?	
+GB268	fata1247	Can comparative constructions be construed with a to-comparative?	0	n		nan	0:n;2:no data;1:y;3:?	
+GB269	fata1247	Can comparative constructions be construed with a benefactive comparative?	0	n		nan	0:n;1:no data;2:?	
+GB270	fata1247	Can comparative constructions be construed with conjoined clauses?	4	n		nan	0: absent;4:n;1: present;2:no data;3:y;5:?	Not mentioned
+GB271	fata1247	Are the predicates in the conjoined comparative construction antonyms?	?	Not known		nan	1:n;0:no data;3:y;2:?	
+GB272	fata1247	Do the  predicates in the conjoined comparative construction differ in polarity?	?	Not known		nan	1:n;0:no data;3:y;2:?	
+GB273	fata1247	Can comparative constructions be construed with a particle?	2	n		nan	0: absent;2:n;1: present;3:no data;4:y;5:?	Not mentioned
+GB274	fata1247	Is the element marking the gradable property concepts in the comparative construction marked for comparison in any way?	2	y		nan	1:n;0:no data;2:y;3:?	
+GB275	fata1247	Is the element marking the property concept in the comparative construction marked by an affix indicating comparision or grading?	2	n		nan	0: absent;2:n;1: present;4:no data;3:y;5:?	Not mentioned, The marker is adjacent to the property word but not treated as morphologically bound
+GB276	fata1247	Is the element marking the property concept in the comparative construction marked by a sepeare degree word indicating comparision or grading?	3	y	tali 'be beyond'	nan	0: absent;2:n;1: present;4:no data;3:y;5:?	Not mentioned, The marker is adjacent to the property word but not treated as morphologically bound
+GB277	fata1247	Can comparative constructions be construed with a at-comparative?	0	n		nan	0:n;2:no data;1:y;3:?	
+GB278	fata1247	Is there variation in conflation of arguments marking core participants?	1	n		nan	1:n;2:no data;0:y;3:?	
+GB279	fata1247	Is there variation in conflation of core participants based on TAM distinctions?	?	Not known		nan	2:n;1: present;3:no data;0: absent;4:?	Not mentioned
+GB280	fata1247	Are variation in conflation of core participants based on verb classes?	?	Not known		nan	1:n;2:no data;0:y;3:?	
+GB281	fata1247	Is there variation in conflation of core participants based on clause type, e.g. main vs. subordinate?	?	Not known		nan	2:n;1: present;3:no data;0: absent;4:?	Not mentioned
+GB282	fata1247	Are variation in conflation of core participants based on person distinctions?	?	Not known		nan	1:n;2:no data;0:y;3:?	
+GB283	fata1247	Can verbs agree with the gender/noun class of the nominal subject?	?	Not known		nan	0:n;1:y	
+GB284	fata1247	Can verbs agree with the number of the nominal subject?	0	n		nan	0:n;1:y;2:?	
+GB285	fata1247	Can polar interrogation be marked by a question particle and verbal morphology?	3	y		nan	2:n;1: present;3:y;0: absent	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB286	fata1247	Can polar interrogation be marked by verbal morphology only?	2	n		nan	2:n;1: present;0: absent	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB287	fata1247	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of case marking?	0	n		nan	1:y?;0:n	
+GB288	fata1247	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of core argument marking by adpositions?	0	n		nan	0:n	
+GB289	fata1247	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of verbal agreement marking?	0	n		nan	0:n;1:y;2:?	
+GB290	fata1247	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of verbal person marking (not agreement)?	1	n		nan	1:n;0:y	
+GB291	fata1247	Can polar interrogation be marked by tone?	2	n		nan	2:n;1: present;3:?;0: absent	Not mentioned, The question particle carries tone but this might also be intonation
+GB292	fata1247	Is the particle marking polar interrogation not tone?	1	n		nan	1:n;0:y;2:?	
+GB294	fata1247	Are there ideophones that depict sensory imagery beyond sound?	0	n		nan	0:n;1:no data;2:?	
+GB295	fata1247	Can ideophones act like verbs?	1	n		nan	1:n;2:no data;0:y;3:?	
+GB295	fata1247	Can ideophones act like verbs?	1	n		nan	1:n;2:no data;0:y;3:?	
+GB296	fata1247	Is there a morphosyntactically definable class of ideophones (beyond sound)?	?	Not known		nan	2:n;1: present;4:no data;0: absent;3:?	Not mentioned
+GB297	fata1247	Can polar interrogation be marked by a construction of the type “V Neg V”?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB298	fata1247	Can standard negation be marked by negative auxiliaries?	?	Not known		nan	0: absent;1: present	Not mentioned, Unclear whether it should count as an auxiliary given that no verbs carry inflection
+GB299	fata1247	Can standard negation be marked by a freestanding particle?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB300	fata1247	Is there a verb for the function 'give' that is suppletive for any grammatical category?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB301	fata1247	Does the language have inclusory constructions productively?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB302	fata1247	Is there a dedicated, obligatory and productive construction that marks passive voice, not morphologically on the verb nor on the A argument?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+GB303	fata1247	Is there a dedicated, obligatory, productive construction that marks antipassive voice, not morphologically on the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+GB304	fata1247	Can the A argument be overtly expressed in a passive clause or be overtly marked to signal a passive clause?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB305	fata1247	Are there phonologically independent reflexive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned, Not clear if they are phonologically independent
+GB306	fata1247	Are there reciprocal pronouns that are not-bipartite?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB307	fata1247	Are there bipartite reciprocal pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB308	fata1247	Can tense be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB309	fata1247	Are there multiple past or future tenses, distinguishing distance from Time of Reference, in any form?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB310	fata1247	Can aspect be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB311	fata1247	Can mood be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB312	fata1247	Can modal distinctions be marked on the verb, productively, dedicatedly and obligatorily?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+GB313	fata1247	Are there possessive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB314	fata1247	Can augmentative be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB315	fata1247	Can diminutive be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB316	fata1247	Can singular number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+GB317	fata1247	Can dual number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+GB318	fata1247	Can plural number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+GB319	fata1247	Can trial number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+GB320	fata1247	Can paucal number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+GB321	fata1247	Is there an open class of noun stems that are assigned to gender/noun class categories arbitrarily?	?	Not known		nan	0: absent;1: present	Not mentioned, There may be a gender or noun class system but it seems to be semantic
+GB322	fata1247	Does the language encode direct evidentiality (perceived with senses)?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB323	fata1247	Does the language encode indirect evidentiality (hearsay, inference, etc.)?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB324	fata1247	Are some content interrogatives (who?, what?, etc.) expressed in interrogative verbs?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB325	fata1247	Is there a count/mass distinction in content interrogatives (e.g. English how many vs. how much)?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB326	fata1247	Do (nominal) content interrogatives normally or frequently occur in situ (i.e. in the normal position for a non-interrogative NP in the same participant role)?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB327	fata1247	Can the relative clause follow the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB328	fata1247	Can the relative clause precede the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB329	fata1247	Are there internally-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB330	fata1247	Are there correlative relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB331	fata1247	Are there adjoined relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB332	fata1247	Are there double-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB333	fata1247	Is there a decimal counting system?	2	y		nan	0: absent;1: present;2:y	Not mentioned
+GB334	fata1247	Is there synchronic evidence for any element of a quinary counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB335	fata1247	Is there synchronic evidence for any element of a vigesimal counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+GB336	fata1247	Is there a body-part tallying system?	2	n		nan	2:n;1: present;0: absent	Not mentioned
+GB502	fata1247	What is the relative position of possessor pronoun and possessed in the attributive possessive construction?	0	1		nan	0:1;2:2;1:n pospro	
+GB503	fata1247	Are S and A marked by the same affix/clitic?	?	Not known		nan	1:n;0:y	
+GB508	fata1247	Are there core adjectives (elements denoting property concepts) that act like nouns?	0	n		nan	0:n	
+GB509	fata1247	Are demonstratives used pronominally?	2	?	no data	nan	1:n;0:y;2:?	
+GB510	fata1247	Are demonstratives used adnominally?	0	y		nan	0:y	
+GB511	fata1247	Do demonstratives encode elevation?	1	n		nan	1:n;0:y;2:?	
+GB512	fata1247	Is there an opposition between three or more elevation terms in the demonstrative system?	?	Not known		nan	1:n;0:y;2:?	
+GB514	fata1247	Is animacy distinguished in the demonstrative system?	0	n		nan	0:n;1:y;2:?	
+GB515	fata1247	Is humanness distinguished in the demonstrative system?	0	n		nan	0:n;1:?	
+GB516	fata1247	How are locationals and demonstratives formally related?	2	0		nan	0:1;2:0;1:3;3:2;4:?	
+GB517	fata1247	Is there an opposition between three or more distance terms in the locational system?	1	n		nan	1:n;0:y;2:?	
+GB518	fata1247	Do locationals encode elevation?	1	n		nan	1:n;0:y;2:?	
+GB519	fata1247	Is there an opposition between three or more elevation terms in the locational system?	?	Not known		nan	1:n;0:y;2:?	
+GB520	fata1247	Do locationals encode direction (based on a coordinate system)?	1	n		nan	1:n;0:y;2:?	
+GB521	fata1247	Is the opposition visible-non-visible marked on locationals?	0	n		nan	0:n;1:y;2:?	
+R1102	fata1247	How many places of articulation are there for stops?	0	4		nan	2:5;0:4;1:3	
+R1103	fata1247	How many places of articulation are there for nasals?	1	2		nan	1:2;0:3	
+R1103a	fata1247	Are there as many points of articulation for nasals as there are for stops?	0	n		nan	0:n;1:y	
+R1103b	fata1247	Is there contrast between heterorganic and homorganic sequence of nasal and velar stop?	0	n		nan	0:n	
+R1105	fata1247	Are there fricative phonemes?	0	y		nan	0:y	
+R1106	fata1247	Are there phonemic prenasalised stops?	0	n		nan	0:n	
+R1107	fata1247	Is there a phonemic distinction between l/r?	0	y		nan	0:y	
+R1108	fata1247	Is there a phonemic velar fricative or glide?	0	n		nan	0:n;1:y	
+R1109	fata1247	Is there a voicing contrast between oral (i.e. non-prenasal) stops?	1	n	only in loan words do voiced stops occur	nan	1:n;0:y	
+R1109a	fata1247	Is there a laminal/apical contrast?	0	n		nan	0:n	
+R1109b	fata1247	Are there retroflexed consonants?	0	n		nan	0:n	
+R1110	fata1247	Is there phonemic consonant length?	0	n		nan	0:n;1:y	
+R1111	fata1247	Is there phonemic vowel length?	1	n		nan	1:n;0:y	
+R1112	fata1247	Are there contrastive phonation types for vowels?	0	n		nan	0:n;1:y	
+R1113a	fata1247	Are there two or more contrastive central vowels?	1	n		nan	1:n;0:y	
+R1115	fata1247	Is there lexically determined suprasegmental prominence?	1	n		nan	1:n;0:y	
+R1116	fata1247	Is there weight-sensitive suprasegmental prominence	?	Not known		nan	1:n;0:y	
+R1117	fata1247	Is there syllable position sensitive suprasegmental prominence?	1	n		nan	1:n;2:no data;0:y;3:?	
+R1118	fata1247	Is there a tonal system?	1	n		nan	1:n;0:y	
+R1202	fata1247	Are there word-final consonants?	0	y		nan	0:y	
+R1203a	fata1247	Are there consonant clusters (not counting prenasalized consonants) in syllable onset?	0	n		nan	0:n;1:y	
+R1204	fata1247	Are there consonant clusters (not counting prenasalized consonants) in syllable coda?	0	n		nan	0:n;1:y	
+R2203	fata1247	Is number marked in pronouns?	0	y		nan	0:y	
+R2504a	fata1247	Is plant status a relevant category in the noun class/gender system?	?	Not known		nan	1:n;0:y	
+R2507	fata1247	Is there concord beyond the NP, i.e. agreement of elements outside the NP with the noun class of a noun?	?	Not known		nan	0:n	
+R2508	fata1247	Are there classifiers?	0	y	there is one classifer for humans	p. 30	1:n;0:y;2:?	
+R2601	fata1247	Are there possessive classes?	0	y	animate-inanimate nouns	nan	1:n;0:y	
+R2702	fata1247	Is there evidence for any element of a quinary counting system?	1	n		nan	1:n;0:y	
+R2703b	fata1247	Is there a minimal counting system or no clear number altogether?	0	n		nan	0:n	
+R3103	fata1247	Do the same morphemes systematically encode both TAM and person?	?	Not known		nan	0:n	
+R3502	fata1247	Is gender marked anywhere separately to person?	0	n		nan	0:n	
+R3605	fata1247	Is there intransitivising morphology (include clitics)?	0	n		nan	0:n;2:y;1:?	
+R4305a	fata1247	Are there relative clauses, i.e. embedded construction by which a clause modifies a head N?	0	y		nan	2:n;0:y;1:?	
+R4307	fata1247	Are there purposive non-finite subordinate clauses?	0	n		nan	0:n;1:y;2:?	
+R4308	fata1247	Are there temporal non-finite subordinate clauses?	0	n		nan	0:n;1:y;2:?	
+R4308a	fata1247	Are there conditional non-finite subordinate clauses?	1	n		nan	1:n;0:y;2:?	
+R4309a	fata1247	Are there complement clauses for speech verbs?	1	n	but speech verb takes different subject marker	p. 54	1:n;3:no data;0:y;2:?	
+R4309b	fata1247	Are there complement clauses for perception verbs?	1	n		nan	1:n;3:no data;0:y;2:?	
+R4309c	fata1247	Is there a complementizer that precedes a complement clause?	?	Not known		nan	0:n;1:no data;2:y;3:?	
+R4309d	fata1247	Is there a complementizer that follows a complement clause?	?	Not known		nan	0:n;1:no data;2:y;3:?	
+R4311	fata1247	Are there participle or gerund constructions, morphologically separate from RC or subordinate clauses?	0	n		nan	0:n;1:?	
+R5202	fata1247	Is there a construction encoding kin dyads?	2	y	naalpaal 'parents'	nan	1:n;0:no data;2:y;3:?	
+R5203	fata1247	Is the term for father the same as the term for father's brother  (i.e. F = FB)?	1	y	apaal 'father', apaal-i 'FB'	p. 194	0:n;3:no data;1:y;2:?	
+R5204	fata1247	Is the term for mother's brother the same as the term for father's brother (i.e. MB = FB)?	0	n	pa'in 'MB'	nan	0:n;3:no data;1:y;2:?	
+R5205	fata1247	Are there self-converse grandparent terms?	2	?	no data	nan	0:n;1:no data;2:?	
+R5206	fata1247	Is there a terminological distinction between cross- and parallel-cousins?	1	y	FSS and MBS are referred to with awayan (i.e. no distinction); FSD ahiran, MBD asayura	nan	0:n;3:no data;1:y;2:?	
+R5207	fata1247	Is there a terminological distinction between first and second cousins (for at least some types of cousin)?	2	?	no data	nan	0:n;3:no data;1:y;2:?	
+R5208	fata1247	Is there a terminological distinction between patrilateral and matrilateral cousins (for at least some types of cousin)?	1	y	FSS and MBS are referred to with awayan (i.e. no distinction); FSD ahiran, MBD asayura	nan	0:n;3:no data;1:y;2:?	
+R5209	fata1247	Is the term for a man's child distinct from the term for a woman's child?	0	n		nan	0:n;2:no data;1:?	
+R5210	fata1247	Is the term for a man's child the same as the term for a woman's brother's child?	1	n	man's child: amotso; woman's brother's child: ahiran	nan	1:n;3:no data;0:y;2:?	
+R5211	fata1247	Is relative age a factor in differentiating at least one sibling term?	0	y	leren 'kakak, noko 'adik'	nan	1:no data;0:y;2:?	
+R5212	fata1247	Is sex of referent a factor in differentiating at least one sibling term?	0	n		nan	0:n;3:no data;1:y;2:?	
+SD224	fata1247	What is the relative position of possessor noun and possessed in the attributive possessive construction?	0	1		nan	0:1;1:posn n;2:3	
+SD295	fata1247	Do demonstratives encode direction (based on a coordinate system)?	1	n		nan	1:n;0:y;2:?	
+SD319	fata1247	Are S and A marked by the same prefix/proclitic?	?	Not known		nan	0:n;1:y	
+SD320	fata1247	Are S and A marked by the same suffix/enclitic?	?	Not known		nan	0:n;1:?	
+SD321	fata1247	Are S and O marked by the same affix/clitic?	?	Not known		nan	1:n;0:y	
+SD341	fata1247	Can negation be marked postverbally?	1	n		nan	1:n;0:y	
+SD342	fata1247	Can negation be marked preverbally?	1	y		nan	0:n;1:y	
+SD343	fata1247	Are there negative verbs?	1	n		nan	1:n;0:y;2:?	
+SD344	fata1247	Are there adjectives (elements denoting property concepts) that act like nouns?	?	Not known		nan	0:n;1:y	
+SD369	fata1247	Can ideophones act like their own morphosyntactic class?	0	n		nan	0:n;1:no data;2:?	
+SD381	fata1247	Is sex of speaker a factor in differentiating at least one sibling term?	1	n		nan	1:n;3:no data;0:y;2:?	
+SD388	fata1247	Are there allophonic phonation types for vowels?	?	Not known		nan	1:n;0:y	
+SD389	fata1247	Is there nominalizing morphology?	?	Not known		nan	0:y	
+SD390	fata1247	Can horizontal direction be marked in demonstratives?	?	Not known		nan	0:n;1:y	
+SD391	fata1247	Is there a predicative possessive construction?	?	Not known		nan	0:y	
+SD392	fata1247	Are S and O marked by the same prefix/proclitic?	?	Not known		nan	0:n	
+SD393	fata1247	Are S and O marked by the same suffix/enclitic?	?	Not known		nan	0:n	
+SD394	fata1247	Are there suppletive forms for negated verbs?	?	Not known		nan	0:y	
+SD395	fata1247	Is topological information expressed by adpositions?	?	Not known		nan	0:n	
+SD396	fata1247	Is topological information expressed by nouns?	?	Not known		nan	0:y	
+SD397	fata1247	Are there native terms expressing directions in space on a geocentric coordinate system (geocentric terms)?	?	Not known		nan	0:y	
+SD398	fata1247	Do geocentric terms have deictic use?	?	Not known		nan	0:y	
+SD399	fata1247	Can geocentric terms function as adverbs?	?	Not known		nan	0:y	
+SD400	fata1247	Can geocentric terms function as adpositions?	?	Not known		nan	0:y	
+SD401	fata1247	Can demonstratives function as adverbs (without changing its form)?	?	Not known		nan	1:n;0:y	
+SD402	fata1247	Can demonstratives function as prepositions (without changing its form)?	?	Not known		nan	1:n;0:y	
+SD403	fata1247	Is it possible to employ an absolute frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	
+SD404	fata1247	Is it possible to employ an intrinsic frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	
+SD405	fata1247	Is it possible to employ a relative frame of reference when expressing projective spatial relations?	?	Not known		nan	0:n;1:?	
+SD406	fata1247	Is it possible to use another frame of reference?	?	Not known		nan	0:y;1:?	
+SD407	fata1247	Which frame of reference is preferred in the expression of projective spatial relations?	?	Not known		nan	0:a;1:?	

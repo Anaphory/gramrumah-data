@@ -1,19 +1,20 @@
 {
-  "references": [
-    "Huber, Juliette. 2008. First steps towards a grammar of Makasae. LINCOM Academic publishers.",
-    "Huber, Juliette. To appear. Makalero Makasae. In: Antoinette Schapper (ed.) The Papuan languages of Timor, Alor and Pantar: Volume 2. Berlin/New York: Pacific Linguistics, De Gruyter Mouton."
+  "comment": "",
+  "creator": [
+    "Marian Klamer"
   ],
-  "id": "maka1316",
   "language": "maka1316",
   "source": [
     "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/MKZ_MK_2016_Typological_Questionnaire_Makasae.xlsx"
   ],
-  "comment": "",
-  "name": "MKZ_MK_2016_Typological_Questionnaire_Makasae.xlsx",
-  "creator": [
-    "Marian Klamer"
+  "references": [
+    "Huber, Juliette. 2008. First steps towards a grammar of Makasae. LINCOM Academic publishers.",
+    "Huber, Juliette. To appear. Makalero Makasae. In: Antoinette Schapper (ed.) The Papuan languages of Timor, Alor and Pantar: Volume 2. Berlin/New York: Pacific Linguistics, De Gruyter Mouton."
   ],
+  "abstract": "Typological features of maka1316. Coded by Marian Klamer following ['j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/MKZ_MK_2016_Typological_Questionnaire_Makasae.xlsx', 'Huber, Juliette. 2008. First steps towards a grammar of Makasae. LINCOM Academic publishers.', 'Huber, Juliette. To appear. Makalero Makasae. In: Antoinette Schapper (ed.) The Papuan languages of Timor, Alor and Pantar: Volume 2. Berlin/New York: Pacific Linguistics, De Gruyter Mouton.'].",
   "created": [
     "March 2016"
-  ]
+  ],
+  "id": "maka1316",
+  "name": "MKZ_MK_2016_Typological_Questionnaire_Makasae.xlsx"
 }
