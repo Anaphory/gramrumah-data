@@ -140,7 +140,19 @@ def report(problem, data1, data2):
     print("     [ ]")
     print()
 
-    
+def possibly_int_string(value):
+    try:
+        return str(int(value))
+    except ValueError:
+        try:
+            v = float(value)
+        except ValueError:
+            return str(value)
+        if int(v) == v:
+            return str(int(v))
+        else:
+            return str(v)
+
 copy_from_features = ["Feature", "Possible Values", "Suggested standardised comments"]
 def import_contribution(path, icons, features, languages, contributors={}, trust=[]):
     # look for metadata
@@ -220,6 +232,7 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
     features_seen = {}
     for i, row in data.iterrows():
         value = possibly_int_string(row['Value'])
+        data.set_value(i, 'Value', value)
         feature = row['Feature_ID']
 
         if pandas.isnull(feature):
@@ -283,6 +296,9 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
                             ("{:s} mismatch!".format(column)),
                             question,
                             parameter[column])
+            else:
+                data.set_value(i, column, parameter[column])
+                
 
         if feature in features_seen:
             vs = features_seen[feature]
@@ -294,11 +310,12 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
             contribution=contrib,
             source=row['Source'])
 
+            
         domain = parameter["db_Domain"]
         if value not in domain:
             if path in trust:
                 deid = max(domain)+1
-                domainelement = domain[str(value)] = DomainElement(
+                domainelement = domain[value] = DomainElement(
                     id='_{:s}-{:s}'.format(i, deid),
                     parameter=parameter['db_Object'],
                     abbr=deid,
@@ -313,7 +330,7 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
                     value)
                 continue
         else:
-            domainelement = domain[str(value)]
+            domainelement = domain[value]
 
         answer = row["Answer"]
         if answer != domainelement.description:
@@ -330,6 +347,7 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
                         "Feature domain element mismatch!",
                         answer,
                         domainelement.description)
+                    import pdb; pdb.set_trace()
 
 
         DBSession.add(Value(
@@ -362,15 +380,20 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
     print()
     if path not in trust:
         data.sort_values(by=["Feature_ID", "Value"], inplace=True)
-        data = data[["Language_ID",
-                     "Feature_ID",
-                     "Feature",
-                     "Value",
-                     "Answer",
-                     "Comment",
-                     "Source",
-                     "Possible Values",
-                     "Suggested standardised comments"]]
+        columns = list(data.columns)
+        first_columns = ["Feature_ID",
+                         "Language_ID",
+                         "Feature",
+                         "Value",
+                         "Answer",
+                         "Comment",
+                         "Source",
+                         "Possible Values",
+                         "Suggested standardised comments"]
+        for column in columns:
+            if column not in first_columns:
+                first_columns.append(column)
+        data = data[first_columns]
         data.to_csv(
             path,
             index=False,
@@ -432,7 +455,6 @@ def main(config=None, trust=[languages_path, features_path]):
             encoding='utf-8')
 
 import sys
-import grambank
 sys.argv=["i", os.path.join(os.path.dirname(os.path.dirname(grambank.__file__)), "sqlite.ini")]
 
 if model_is_available:
@@ -450,3 +472,4 @@ else:
                             help="Data files to be trusted in case of mismatch")
         args = parser.parse_args()
         main([x.name for x in args.trust])
+
