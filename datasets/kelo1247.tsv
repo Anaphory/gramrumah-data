@@ -1,260 +1,410 @@
-Feature_ID	Language_ID	Value	Comment	Source
-R1102	kelo1247	0.0		
-R1103	kelo1247	0.0		
-R1103a	kelo1247	0.0		
-R1103b	kelo1247	0.0		
-R1105	kelo1247	0.0		
-R1106	kelo1247	0.0		
-R1107	kelo1247	0.0		
-R1108	kelo1247	0.0		
-R1109	kelo1247	0.0		
-R1109a	kelo1247	0.0		
-R1109b	kelo1247	0.0		
-R1110	kelo1247	0.0		
-R1111	kelo1247	0.0		
-R1112	kelo1247	0.0		
-R1113a	kelo1247	0.0	assuming that a, a: and schwa are all central vowels	
-R1115	kelo1247	1.0		
-GB014	kelo1247	1.0		
-R1117	kelo1247	0.0	stress is penultimate, and weight sensitive, i.e. if the ultimate is heavy, and the penultimate is not, then stress is ultimate. 	Baird 2008: 23
-R1118	kelo1247	1.0		
-R1202	kelo1247	0.0	all consonants are final, except /g'/ and the glides. ng and ɟ are only final.	
-R1203a	kelo1247	0.0		
-R1204	kelo1247	0.0		
-GB024	kelo1247	4.0		
-GB025	kelo1247	5.0		
-GB065	kelo1247	5.0		
-SD224	kelo1247	0.0		
-GB502	kelo1247	0.0		
-GB193	kelo1247	5.0		
-GB026	kelo1247	2.0		
-GB203	kelo1247	5.0	iqal 'all'	
-GB204	kelo1247	3.0	no data, tkad 'every'	
-R2508	kelo1247	0.0	Baird 2008: 63	
-GB159	kelo1247	2.0		
-GB050	kelo1247	1.0		
-GB039	kelo1247	2.0		
-GB041	kelo1247	2.0		
-GB042	kelo1247	2.0		
-GB043	kelo1247	2.0		
-GB044	kelo1247	2.0	plural is marked with plural number word	
-GB165	kelo1247	2.0		
-GB166	kelo1247	2.0		
-GB200	kelo1247	0.0		
-GB284	kelo1247	0.0		
-GB185	kelo1247	2.0		
-GB184	kelo1247	2.0		
-GB046	kelo1247	2.0	Baird 2008: 83	
-GB188	kelo1247	2.0		
-GB244	kelo1247	0.0		
-GB070	kelo1247	2.0		
-GB071	kelo1247	3.0		
-GB072	kelo1247	2.0		
-GB073	kelo1247	2.0		
-GB047	kelo1247	2.0		
-GB048	kelo1247	3.0	By partial reduplication, verbs can be nominalised	
-GB049	kelo1247	3.0	By partial reduplication, verbs can be nominalised	
-GB020	kelo1247	3.0		
-GB194	kelo1247	0.0		
-GB509	kelo1247	0.0	Baird 2008: 61	
-GB510	kelo1247	0.0		
-GB035	kelo1247	3.0		
-GB511	kelo1247	1.0		
-SD295	kelo1247	1.0		
-GB037	kelo1247	2.0		
-GB514	kelo1247	0.0		
-GB515	kelo1247	0.0		
-GB038	kelo1247	2.0		
-GB516	kelo1247	1.0	po is the common element	
-GB517	kelo1247	1.0		
-GB518	kelo1247	0.0		
-GB519	kelo1247	1.0		
-GB520	kelo1247	1.0		
-GB521	kelo1247	0.0		
-GB067	kelo1247	1.0		
-GB333	kelo1247	2.0		
-R2702	kelo1247	1.0		
-GB336	kelo1247	2.0		
-R2703b	kelo1247	0.0		
-GB057	kelo1247	3.0		
-R2601	kelo1247	0.0		
-GB058	kelo1247	2.0		
-GB059	kelo1247	2.0		
-GB060	kelo1247	1.0		
-GB061	kelo1247	2.0		
-GB062	kelo1247	2.0		
-GB063	kelo1247	2.0		
-GB064	kelo1247	2.0		
-GB066	kelo1247	0.0		
-GB250	kelo1247	3.0	no data	
-GB251	kelo1247	0.0	Baird 2008: 140 using yeh 'exist',  'their names didn't exist'= they didn't have names	
-GB252	kelo1247	3.0		
-GB253	kelo1247	3.0		
-GB254	kelo1247	2.0		
-GB255	kelo1247	2.0		
-GB256	kelo1247	2.0		
-GB081	kelo1247	2.0		
-GB111	kelo1247	3.0		
-GB112	kelo1247	3.0		
-GB117	kelo1247	2.0		
-GB118	kelo1247	2.0		
-GB119	kelo1247	2.0		
-GB120	kelo1247	2.0		
-GB121	kelo1247	2.0		
-GB122	kelo1247	5.0	no data	
-GB123	kelo1247	3.0		
-GB124	kelo1247	3.0		
-GB125	kelo1247	2.0		
-GB126	kelo1247	2.0	yeh 'exist'	
-GB127	kelo1247	3.0	no data	
-GB128	kelo1247	0.0		
-GB129	kelo1247	2.0		
-GB158	kelo1247	2.0		
-GB028	kelo1247	2.0		
-GB029	kelo1247	0.0		
-GB030	kelo1247	2.0		
-GB168	kelo1247	1.0		
-GB169	kelo1247	0.0		
-GB197	kelo1247	2.0		
-GB162	kelo1247	0.0		
-GB196	kelo1247	2.0		
-GB202	kelo1247	0.0		
-R2203	kelo1247	0.0		
-GB031	kelo1247	3.0		
-GB167	kelo1247	2.0		
-GB032	kelo1247	2.0		
-GB033	kelo1247	0.0		
-GB034	kelo1247	2.0		
-GB089	kelo1247	2.0		
-GB090	kelo1247	2.0		
-GB091	kelo1247	2.0		
-GB092	kelo1247	2.0		
-GB093	kelo1247	2.0		
-GB094	kelo1247	2.0		
-SD321	kelo1247	0.0		
-GB249	kelo1247	1.0		
-GB095	kelo1247	2.0		
-GB096	kelo1247	3.0		
-GB097	kelo1247	2.0		
-GB098	kelo1247	2.0		
-GB099	kelo1247	2.0		
-GB100	kelo1247	0.0		
-GB109	kelo1247	2.0		
-R3502	kelo1247	0.0		
-GB102	kelo1247	0.0		
-GB141	kelo1247	2.0		
-GB142	kelo1247	2.0		
-GB143	kelo1247	0.0		
-GB144	kelo1247	0.0		
-GB145	kelo1247	0.0		
-GB278	kelo1247	0.0		
-GB279	kelo1247	2.0		
-GB280	kelo1247	1.0		
-GB281	kelo1247	2.0		
-GB282	kelo1247	1.0		
-GB103	kelo1247	3.0		
-GB104	kelo1247	2.0		
-GB105	kelo1247	2.0		
-GB287	kelo1247	0.0		
-GB288	kelo1247	0.0		
-GB289	kelo1247	1.0		
-GB290	kelo1247	0.0		
-GB106	kelo1247	3.0	?	
-GB108	kelo1247	3.0	?	
-GB079	kelo1247	3.0		
-GB080	kelo1247	3.0		
-GB101	kelo1247	0.0		
-GB110	kelo1247	2.0		
-GB082	kelo1247	2.0		
-GB083	kelo1247	2.0		
-GB084	kelo1247	2.0		
-GB086	kelo1247	3.0		
-GB087	kelo1247	2.0		
-GB088	kelo1247	2.0		
-GB113	kelo1247	3.0		
-R3605	kelo1247	0.0		
-GB114	kelo1247	3.0		
-GB115	kelo1247	2.0		
-GB116	kelo1247	2.0		
-GB177	kelo1247	3.0		
-GB074	kelo1247	2.0		
-GB075	kelo1247	2.0		
-GB107	kelo1247	2.0		
-GB137	kelo1247	2.0		
-GB138	kelo1247	3.0		
-SD341	kelo1247	0.0		
-SD342	kelo1247	1.0		
-GB139	kelo1247	2.0	In strong prohibitives, the verb eyeh 'do not' is used. It can be combined with the negator. 	
-GB140	kelo1247	3.0		
-SD343	kelo1247	0.0	eyeh 'do not', emeng/emek 'not want'	
-GB068	kelo1247	2.0		
-GB508	kelo1247	0.0		
-GB069	kelo1247	2.0		
-GB265	kelo1247	3.0		
-GB266	kelo1247	3.0	?mi?	
-GB267	kelo1247	0.0		
-GB268	kelo1247	0.0		
-GB269	kelo1247	0.0		
-GB277	kelo1247	1.0	?mi?	
-GB270	kelo1247	4.0		
-GB273	kelo1247	2.0		
-GB274	kelo1247	2.0	mi-	
-GB275	kelo1247	3.0		
-GB276	kelo1247	2.0		
-GB160	kelo1247	2.0		
-GB146	kelo1247	2.0		
-GB147	kelo1247	2.0		
-GB148	kelo1247	2.0		
-GB191	kelo1247	0.0		
-GB149	kelo1247	2.0		
-GB151	kelo1247	2.0		
-GB152	kelo1247	2.0		
-GB150	kelo1247	3.0		
-GB153	kelo1247	0.0		
-GB027	kelo1247	2.0	no NP coordinating element, comitative marked as object prefix on verb. 	
-GB130	kelo1247	4.0		
-GB131	kelo1247	2.0		
-GB132	kelo1247	2.0		
-GB133	kelo1247	2.0		
-GB134	kelo1247	2.0	?	
-GB135	kelo1247	3.0	?	
-GB136	kelo1247	2.0		
-R4305a	kelo1247	0.0	Relative clauses start with particle de which is also used as coordinating conjunction	Baird 2008: 84
-R4307	kelo1247	0.0		
-R4308	kelo1247	0.0		
-R4308a	kelo1247	1.0		
-R4309a	kelo1247	1.0		
-R4309b	kelo1247	1.0		
-R4311	kelo1247	0.0		
-GB154	kelo1247	0.0		
-GB155	kelo1247	3.0	e.g. u- 	Baird 2008: 99
-GB156	kelo1247	2.0		
-GB257	kelo1247	2.0		
-GB258	kelo1247	0.0		
-GB259	kelo1247	0.0		
-GB260	kelo1247	2.0		
-GB286	kelo1247	2.0		
-GB285	kelo1247	2.0		
-GB261	kelo1247	1.0	discourse marker =(w)e, negator nang can be used as tag 'or not?'	Baird 2008: 126-127
-GB291	kelo1247	2.0		
-GB292	kelo1247	0.0		
-GB262	kelo1247	2.0		
-GB263	kelo1247	2.0		
-GB264	kelo1247	2.0		
-GB157	kelo1247	2.0		Baird 2008: 158 
-GB294	kelo1247	0.0		
-GB295	kelo1247	1.0		
-GB295	kelo1247	1.0		
-SD369	kelo1247	0.0		
-R5202	kelo1247	1.0	no data	
-R5203	kelo1247	2.0	no data	
-R5204	kelo1247	2.0	no data	
-R5205	kelo1247	2.0	no data	
-R5206	kelo1247	2.0	no data	
-R5207	kelo1247	2.0	no data	
-R5208	kelo1247	2.0	no data	
-R5209	kelo1247	1.0	no data	
-R5210	kelo1247	2.0	no data	
-R5211	kelo1247	2.0	no data	
-R5212	kelo1247	2.0	no data	
-SD381	kelo1247	2.0	no data	
+Language_ID	Feature_ID	Feature	Value	Answer	Comment	Source	Possible Values	Suggested standardised comments
+kelo1247	GB014	nan	1.0	y		nan	nan	nan
+kelo1247	GB020	nan	3.0	n		nan	nan	nan
+kelo1247	GB021	Is an indefinite NP obligatorily accompanied by an indefinite (or non-specific) article?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, It exists but it is not obligatory, Same as numeral 'one'
+kelo1247	GB022	Are there prenominal articles?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, The definite article is prenominal, The indefinite article is prenominal, The definite article is a prefix, The indefinite article is a prefix
+kelo1247	GB023	Are there postnominal articles?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, The definite article is postnominal, The indefinite article is postnominal, The definite article is a suffix, The indefinite article is a suffix
+kelo1247	GB024	nan	4.0	2		nan	nan	nan
+kelo1247	GB025	nan	5.0	2		nan	nan	nan
+kelo1247	GB026	nan	2.0	n		nan	nan	nan
+kelo1247	GB027	nan	2.0	y	no NP coordinating element, comitative marked as object prefix on verb. 	nan	nan	nan
+kelo1247	GB028	nan	2.0	y		nan	nan	nan
+kelo1247	GB029	nan	0.0	n		nan	nan	nan
+kelo1247	GB030	nan	2.0	n		nan	nan	nan
+kelo1247	GB031	nan	3.0	y		nan	nan	nan
+kelo1247	GB032	nan	2.0	n		nan	nan	nan
+kelo1247	GB033	nan	0.0	n		nan	nan	nan
+kelo1247	GB034	nan	2.0	n		nan	nan	nan
+kelo1247	GB035	nan	3.0	n		nan	nan	nan
+kelo1247	GB036	Is elevation morphologically marked in demonstratives?	?	Not known		nan	4:?;2:y;1: present;0: absent;3:n	Not mentioned
+kelo1247	GB037	nan	2.0	n		nan	nan	nan
+kelo1247	GB038	nan	2.0	n		nan	nan	nan
+kelo1247	GB039	nan	2.0	n		nan	nan	nan
+kelo1247	GB040	Are there declensions (partly) determined by gender of the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB041	nan	2.0	n		nan	nan	nan
+kelo1247	GB042	nan	2.0	n		nan	nan	nan
+kelo1247	GB043	nan	2.0	n		nan	nan	nan
+kelo1247	GB044	nan	2.0	n	plural is marked with plural number word	nan	nan	nan
+kelo1247	GB045	Is number marking prohibited on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+kelo1247	GB046	nan	2.0	y	Baird 2008: 83	nan	nan	nan
+kelo1247	GB047	nan	2.0	n		nan	nan	nan
+kelo1247	GB048	nan	3.0	y	By partial reduplication, verbs can be nominalised	nan	nan	nan
+kelo1247	GB049	nan	3.0	y	By partial reduplication, verbs can be nominalised	nan	nan	nan
+kelo1247	GB050	nan	1.0	n		nan	nan	nan
+kelo1247	GB051	Is sex a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+kelo1247	GB052	Is shape a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+kelo1247	GB053	Is animacy (without reference to sex) a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+kelo1247	GB054	Is plant status a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+kelo1247	GB055	Does the language only have a gender distinction in 3rd person pronouns?	?	Not known		nan	0:n	nan
+kelo1247	GB056	Is there concord within the NP, i.e. agreement of elements within the NP with the noun class of a noun?	?	Not known		nan	1:y;0:n	nan
+kelo1247	GB057	nan	3.0	y		nan	nan	nan
+kelo1247	GB058	nan	2.0	n		nan	nan	nan
+kelo1247	GB059	nan	2.0	y		nan	nan	nan
+kelo1247	GB060	nan	1.0	n		nan	nan	nan
+kelo1247	GB061	nan	2.0	y		nan	nan	nan
+kelo1247	GB062	nan	2.0	n		nan	nan	nan
+kelo1247	GB063	nan	2.0	n		nan	nan	nan
+kelo1247	GB064	nan	2.0	y		nan	nan	nan
+kelo1247	GB065	nan	5.0	1		nan	nan	nan
+kelo1247	GB066	nan	0.0	n		nan	nan	nan
+kelo1247	GB067	nan	1.0	1		nan	nan	nan
+kelo1247	GB068	nan	2.0	y		nan	nan	nan
+kelo1247	GB069	nan	2.0	y		nan	nan	nan
+kelo1247	GB070	nan	2.0	n		nan	nan	nan
+kelo1247	GB071	nan	3.0	y		nan	nan	nan
+kelo1247	GB072	nan	2.0	n		nan	nan	nan
+kelo1247	GB073	nan	2.0	n		nan	nan	nan
+kelo1247	GB074	nan	2.0	n		nan	nan	nan
+kelo1247	GB075	nan	2.0	n		nan	nan	nan
+kelo1247	GB076	Are there adpositions to mark core NPs?	?	Not known		nan	4:?;3:y;1: present;0: absent;2:n	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+kelo1247	GB077	Are there adpositions to mark oblique NPs?	?	Not known		nan	4:?;3:y;1: present;0: absent;2:n	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+kelo1247	GB078	Is there a distinction between locational and directional adpositions?	?	Not known		nan	2:?;1:y;0:n	nan
+kelo1247	GB079	nan	3.0	y		nan	nan	nan
+kelo1247	GB080	nan	3.0	n		nan	nan	nan
+kelo1247	GB081	nan	2.0	n		nan	nan	nan
+kelo1247	GB082	nan	2.0	n		nan	nan	nan
+kelo1247	GB083	nan	2.0	n		nan	nan	nan
+kelo1247	GB084	nan	2.0	n		nan	nan	nan
+kelo1247	GB085	Are there multiple past or future tenses, distinguishing distance from Time of Reference, marked on the verb?	?	Not known		nan	0:n	nan
+kelo1247	GB086	nan	3.0	n		nan	nan	nan
+kelo1247	GB087	nan	2.0	n		nan	nan	nan
+kelo1247	GB088	nan	2.0	n		nan	nan	nan
+kelo1247	GB089	nan	2.0	n		nan	nan	nan
+kelo1247	GB090	nan	2.0	y		nan	nan	nan
+kelo1247	GB091	nan	2.0	n		nan	nan	nan
+kelo1247	GB092	nan	2.0	n		nan	nan	nan
+kelo1247	GB093	nan	2.0	n		nan	nan	nan
+kelo1247	GB094	nan	2.0	y		nan	nan	nan
+kelo1247	GB095	nan	2.0	n		nan	nan	nan
+kelo1247	GB096	nan	3.0	n		nan	nan	nan
+kelo1247	GB097	nan	2.0	n		nan	nan	nan
+kelo1247	GB098	nan	2.0	n		nan	nan	nan
+kelo1247	GB099	nan	2.0	n		nan	nan	nan
+kelo1247	GB100	nan	0.0	n		nan	nan	nan
+kelo1247	GB101	nan	0.0	n		nan	nan	nan
+kelo1247	GB102	nan	0.0	n		nan	nan	nan
+kelo1247	GB103	nan	3.0	y		nan	nan	nan
+kelo1247	GB104	nan	2.0	n		nan	nan	nan
+kelo1247	GB105	nan	2.0	y		nan	nan	nan
+kelo1247	GB106	nan	3.0	y	not entirely sure	nan	nan	nan
+kelo1247	GB107	nan	2.0	n		nan	nan	nan
+kelo1247	GB108	nan	3.0	n	not entirely sure	nan	nan	nan
+kelo1247	GB109	nan	2.0	n		nan	nan	nan
+kelo1247	GB110	nan	2.0	n		nan	nan	nan
+kelo1247	GB111	nan	3.0	n		nan	nan	nan
+kelo1247	GB112	nan	3.0	y		nan	nan	nan
+kelo1247	GB113	nan	3.0	y		nan	nan	nan
+kelo1247	GB114	nan	3.0	y		nan	nan	nan
+kelo1247	GB115	nan	2.0	y		nan	nan	nan
+kelo1247	GB116	nan	2.0	n		nan	nan	nan
+kelo1247	GB117	nan	2.0	n		nan	nan	nan
+kelo1247	GB118	nan	2.0	y		nan	nan	nan
+kelo1247	GB119	nan	2.0	y		nan	nan	nan
+kelo1247	GB120	nan	2.0	y		nan	nan	nan
+kelo1247	GB121	nan	2.0	n		nan	nan	nan
+kelo1247	GB122	nan	5.0	?	no data	nan	nan	nan
+kelo1247	GB123	nan	3.0	n		nan	nan	nan
+kelo1247	GB124	nan	3.0	y		nan	nan	nan
+kelo1247	GB125	nan	2.0	n		nan	nan	nan
+kelo1247	GB126	nan	2.0	y	yeh 'exist'	nan	nan	nan
+kelo1247	GB127	nan	3.0	n	no data	nan	nan	nan
+kelo1247	GB128	nan	0.0	n		nan	nan	nan
+kelo1247	GB129	nan	2.0	n		nan	nan	nan
+kelo1247	GB130	nan	4.0	1		nan	nan	nan
+kelo1247	GB131	nan	2.0	n		nan	nan	nan
+kelo1247	GB132	nan	2.0	n		nan	nan	nan
+kelo1247	GB133	nan	2.0	y		nan	nan	nan
+kelo1247	GB134	nan	2.0	y	not entirely sure	nan	nan	nan
+kelo1247	GB135	nan	3.0	n	not entirely sure	nan	nan	nan
+kelo1247	GB136	nan	2.0	y		nan	nan	nan
+kelo1247	GB137	nan	2.0	y		nan	nan	nan
+kelo1247	GB138	nan	3.0	y		nan	nan	nan
+kelo1247	GB139	nan	2.0	y	In strong prohibitives, the verb eyeh 'do not' is used. It can be combined with the negator. 	nan	nan	nan
+kelo1247	GB140	nan	3.0	y		nan	nan	nan
+kelo1247	GB141	nan	2.0	y		nan	nan	nan
+kelo1247	GB142	nan	2.0	y		nan	nan	nan
+kelo1247	GB143	nan	0.0	n		nan	nan	nan
+kelo1247	GB144	nan	0.0	n		nan	nan	nan
+kelo1247	GB145	nan	0.0	y		nan	nan	nan
+kelo1247	GB146	nan	2.0	y		nan	nan	nan
+kelo1247	GB147	nan	2.0	n		nan	nan	nan
+kelo1247	GB148	nan	2.0	n		nan	nan	nan
+kelo1247	GB149	nan	2.0	n		nan	nan	nan
+kelo1247	GB150	nan	3.0	n		nan	nan	nan
+kelo1247	GB151	nan	2.0	n		nan	nan	nan
+kelo1247	GB152	nan	2.0	y		nan	nan	nan
+kelo1247	GB153	nan	0.0	n		nan	nan	nan
+kelo1247	GB154	nan	0.0	y		nan	nan	nan
+kelo1247	GB155	nan	3.0	y	e.g. u- 	Baird 2008: 99	nan	nan
+kelo1247	GB156	nan	2.0	n		nan	nan	nan
+kelo1247	GB157	nan	2.0	y		Baird 2008: 158 	nan	nan
+kelo1247	GB158	nan	2.0	y		nan	nan	nan
+kelo1247	GB159	nan	2.0	n		nan	nan	nan
+kelo1247	GB160	nan	2.0	y		nan	nan	nan
+kelo1247	GB162	nan	0.0	n		nan	nan	nan
+kelo1247	GB163	How many genders/noun classes are there?	?	Not known		nan	3:?;0:several;1:2;2:n	nan
+kelo1247	GB165	nan	2.0	n		nan	nan	nan
+kelo1247	GB166	nan	2.0	n		nan	nan	nan
+kelo1247	GB167	nan	2.0	n		nan	nan	nan
+kelo1247	GB168	nan	1.0	n		nan	nan	nan
+kelo1247	GB169	nan	0.0	n		nan	nan	nan
+kelo1247	GB170	Can an attributive nominal modifier denoting a property concept agree with any gender/noun class of the noun it modifies?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+kelo1247	GB171	Can an adnominal demonstrative agree in gender/noun class with the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+kelo1247	GB172	Can articles agree with the gender/noun class of the noun they modify?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement, It is not clear whether it is an article
+kelo1247	GB173	Are noun class and number always marked by a portmanteau morpheme on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB174	Are noun class and number marked by a portmanteau morpheme on the noun in singular?	?	Not known		nan	0:n	nan
+kelo1247	GB175	Are noun class and number marked by a portmanteau morpheme on the noun in plural?	?	Not known		nan	0:n	nan
+kelo1247	GB176	Can agreement of gender/noun class and number be marked by a portmanteau morpheme on other items in the noun phrase?	?	Not known		nan	0:n	nan
+kelo1247	GB177	nan	3.0	n		nan	nan	nan
+kelo1247	GB178	Are there several different singular genders/noun classes that can have the same plural gender/noun class?	?	Not known		nan	0:n	nan
+kelo1247	GB179	Are there genders/noun classes that cannot take number marking?	?	Not known		nan	0:n	nan
+kelo1247	GB181	Is number marking obligatory on certain (types of) nouns?	?	Not known		nan	1:?;2:y;0:n	nan
+kelo1247	GB182	Is number marking obligatory on animate nouns?	?	Not known		nan	1:?;0:n	nan
+kelo1247	GB183	Is number marking obligatory on human nouns?	?	Not known		nan	1:?;0:n	nan
+kelo1247	GB184	nan	2.0	n		nan	nan	nan
+kelo1247	GB185	nan	2.0	n		nan	nan	nan
+kelo1247	GB186	Can articles agree in number with the noun they modify?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the number of the noun is present but not called agreement, It is not clear whether it is an article
+kelo1247	GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, The marker is adjacent to the noun but not treated as morphologically bound
+kelo1247	GB188	nan	2.0	n		nan	nan	nan
+kelo1247	GB191	nan	0.0	n		nan	nan	nan
+kelo1247	GB192	Are the noun's phonological properties relevant for any gender assignment?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, There is gender and it is possible that phonology influences assignment
+kelo1247	GB193	nan	5.0	2		nan	nan	nan
+kelo1247	GB194	nan	0.0	n		nan	nan	nan
+kelo1247	GB195	Can a noun receive more than one noun class marker at the same time?	?	Not known		nan	0:n	nan
+kelo1247	GB196	nan	2.0	n		nan	nan	nan
+kelo1247	GB197	nan	2.0	n		nan	nan	nan
+kelo1247	GB198	Can a numeral used attributively agree with any gender/noun class of the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+kelo1247	GB199	Can verbs agree with the gender/noun class of the nominal object?	?	Not known		nan	1:y;0:n	nan
+kelo1247	GB200	nan	0.0	y		nan	nan	nan
+kelo1247	GB202	nan	0.0	n		nan	nan	nan
+kelo1247	GB203	nan	5.0	2	iqal 'all'	nan	nan	nan
+kelo1247	GB204	nan	3.0	?	no data, tkad 'every'	nan	nan	nan
+kelo1247	GB205	Is number marking prohibited on inanimate nouns?	?	Not known		nan	1:?;0:n	nan
+kelo1247	GB206	Is number marking prohibited on mass nouns?	?	Not known		nan	1:?;0:n	nan
+kelo1247	GB207	Is number marking optional on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+kelo1247	GB208	Can singular number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB209	Can singular number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB210	Can singular number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB211	Can singular number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB212	Can dual number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB213	Can dual number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB214	Can dual number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB215	Can dual number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB216	Can dual number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB217	Can plural number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB218	Can plural number be marked by a suffix on the noun?	?	Not known		nan	1:y;0:n	nan
+kelo1247	GB219	Can plural number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB220	Can plural number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB221	Can plural number be marked by reduplication on the noun?	?	Not known		nan	1:y;0:n	nan
+kelo1247	GB222	Can trial number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB223	Can trial number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB224	Can trial number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB225	Can trial number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB226	Can trial number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB227	Can paucal number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB228	Can paucal number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB229	Can paucal number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB230	Can paucal number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB231	Can paucal number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB232	Can diminutive be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB234	Can diminutive be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB235	Can diminutive be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB236	Can diminutive be marked by tone on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB237	Can diminutive be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB238	Can diminutive be marked by noun class selection?	?	Not known		nan	0:n	nan
+kelo1247	GB239	Can augmentative be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB240	Can augmentative be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB241	Can augmentative be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB242	Can augmentative be marked by tone on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB243	Can augmentative be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB244	nan	0.0	n		nan	nan	nan
+kelo1247	GB245	Can gender/noun class be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB246	Can gender/noun class be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB247	Can gender/noun class be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+kelo1247	GB248	Can gender/noun class be marked by tone on the noun only?	?	Not known		nan	0:n	nan
+kelo1247	GB249	nan	1.0	y		nan	nan	nan
+kelo1247	GB250	nan	3.0	n	no data	nan	nan	nan
+kelo1247	GB251	nan	0.0	y	Baird 2008: 140 using yeh 'exist',  'their names didn't exist'= they didn't have names	nan	nan	nan
+kelo1247	GB252	nan	3.0	n		nan	nan	nan
+kelo1247	GB253	nan	3.0	n		nan	nan	nan
+kelo1247	GB254	nan	2.0	y		nan	nan	nan
+kelo1247	GB255	nan	2.0	n		nan	nan	nan
+kelo1247	GB256	nan	2.0	n		nan	nan	nan
+kelo1247	GB257	nan	2.0	y		nan	nan	nan
+kelo1247	GB258	nan	0.0	y		nan	nan	nan
+kelo1247	GB259	nan	0.0	n		nan	nan	nan
+kelo1247	GB260	nan	2.0	n		nan	nan	nan
+kelo1247	GB261	nan	1.0	y	discourse marker =(w)e, negator nang can be used as tag 'or not?'	Baird 2008: 126-127	nan	nan
+kelo1247	GB262	nan	2.0	n		nan	nan	nan
+kelo1247	GB263	nan	2.0	y		nan	nan	nan
+kelo1247	GB264	nan	2.0	n		nan	nan	nan
+kelo1247	GB265	nan	3.0	n		nan	nan	nan
+kelo1247	GB266	nan	3.0	y	probably with mi?	nan	nan	nan
+kelo1247	GB267	nan	0.0	n		nan	nan	nan
+kelo1247	GB268	nan	0.0	n		nan	nan	nan
+kelo1247	GB269	nan	0.0	n		nan	nan	nan
+kelo1247	GB270	nan	4.0	n		nan	nan	nan
+kelo1247	GB271	Are the predicates in the conjoined comparative construction antonyms?	?	Not known		nan	2:?;0:no data;3:y;1:n	nan
+kelo1247	GB272	Do the  predicates in the conjoined comparative construction differ in polarity?	?	Not known		nan	2:?;0:no data;3:y;1:n	nan
+kelo1247	GB273	nan	2.0	n		nan	nan	nan
+kelo1247	GB274	nan	2.0	y	mi-	nan	nan	nan
+kelo1247	GB275	nan	3.0	y		nan	nan	nan
+kelo1247	GB276	nan	2.0	n		nan	nan	nan
+kelo1247	GB277	nan	1.0	y	probably  with mi?	nan	nan	nan
+kelo1247	GB278	nan	0.0	y		nan	nan	nan
+kelo1247	GB279	nan	2.0	n		nan	nan	nan
+kelo1247	GB280	nan	1.0	n		nan	nan	nan
+kelo1247	GB281	nan	2.0	n		nan	nan	nan
+kelo1247	GB282	nan	1.0	n		nan	nan	nan
+kelo1247	GB283	Can verbs agree with the gender/noun class of the nominal subject?	?	Not known		nan	1:y;0:n	nan
+kelo1247	GB284	nan	0.0	n		nan	nan	nan
+kelo1247	GB285	nan	2.0	n		nan	nan	nan
+kelo1247	GB286	nan	2.0	n		nan	nan	nan
+kelo1247	GB287	nan	0.0	n		nan	nan	nan
+kelo1247	GB288	nan	0.0	n		nan	nan	nan
+kelo1247	GB289	nan	1.0	y		nan	nan	nan
+kelo1247	GB290	nan	0.0	y		nan	nan	nan
+kelo1247	GB291	nan	2.0	n		nan	nan	nan
+kelo1247	GB292	nan	0.0	y		nan	nan	nan
+kelo1247	GB294	nan	0.0	n		nan	nan	nan
+kelo1247	GB295	nan	1.0	n		nan	nan	nan
+kelo1247	GB295	nan	1.0	n		nan	nan	nan
+kelo1247	GB296	Is there a morphosyntactically definable class of ideophones (beyond sound)?	?	Not known		nan	3:?;4:no data;0: absent;1: present;2:n	Not mentioned
+kelo1247	GB297	Can polar interrogation be marked by a construction of the type “V Neg V”?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB298	Can standard negation be marked by negative auxiliaries?	?	Not known		nan	0: absent;1: present	Not mentioned, Unclear whether it should count as an auxiliary given that no verbs carry inflection
+kelo1247	GB299	Can standard negation be marked by a freestanding particle?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB300	Is there a verb for the function 'give' that is suppletive for any grammatical category?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB301	Does the language have inclusory constructions productively?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB302	Is there a dedicated, obligatory and productive construction that marks passive voice, not morphologically on the verb nor on the A argument?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+kelo1247	GB303	Is there a dedicated, obligatory, productive construction that marks antipassive voice, not morphologically on the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+kelo1247	GB304	Can the A argument be overtly expressed in a passive clause or be overtly marked to signal a passive clause?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB305	Are there phonologically independent reflexive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned, Not clear if they are phonologically independent
+kelo1247	GB306	Are there reciprocal pronouns that are not-bipartite?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB307	Are there bipartite reciprocal pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB308	Can tense be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+kelo1247	GB309	Are there multiple past or future tenses, distinguishing distance from Time of Reference, in any form?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+kelo1247	GB310	Can aspect be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+kelo1247	GB311	Can mood be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+kelo1247	GB312	Can modal distinctions be marked on the verb, productively, dedicatedly and obligatorily?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+kelo1247	GB313	Are there possessive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB314	Can augmentative be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB315	Can diminutive be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB316	Can singular number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+kelo1247	GB317	Can dual number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+kelo1247	GB318	Can plural number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+kelo1247	GB319	Can trial number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+kelo1247	GB320	Can paucal number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+kelo1247	GB321	Is there an open class of noun stems that are assigned to gender/noun class categories arbitrarily?	?	Not known		nan	0: absent;1: present	Not mentioned, There may be a gender or noun class system but it seems to be semantic
+kelo1247	GB322	Does the language encode direct evidentiality (perceived with senses)?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB323	Does the language encode indirect evidentiality (hearsay, inference, etc.)?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB324	Are some content interrogatives (who?, what?, etc.) expressed in interrogative verbs?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB325	Is there a count/mass distinction in content interrogatives (e.g. English how many vs. how much)?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB326	Do (nominal) content interrogatives normally or frequently occur in situ (i.e. in the normal position for a non-interrogative NP in the same participant role)?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB327	Can the relative clause follow the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB328	Can the relative clause precede the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB329	Are there internally-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB330	Are there correlative relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB331	Are there adjoined relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB332	Are there double-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB333	nan	2.0	y		nan	nan	nan
+kelo1247	GB334	Is there synchronic evidence for any element of a quinary counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB335	Is there synchronic evidence for any element of a vigesimal counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+kelo1247	GB336	nan	2.0	n		nan	nan	nan
+kelo1247	GB502	nan	0.0	1		nan	nan	nan
+kelo1247	GB503	Are S and A marked by the same affix/clitic?	?	Not known		nan	0:y;1:n	nan
+kelo1247	GB508	nan	0.0	n		nan	nan	nan
+kelo1247	GB509	nan	0.0	y	Baird 2008: 61	nan	nan	nan
+kelo1247	GB510	nan	0.0	y		nan	nan	nan
+kelo1247	GB511	nan	1.0	n		nan	nan	nan
+kelo1247	GB512	Is there an opposition between three or more elevation terms in the demonstrative system?	?	Not known		nan	2:?;0:y;1:n	nan
+kelo1247	GB514	nan	0.0	n		nan	nan	nan
+kelo1247	GB515	nan	0.0	n		nan	nan	nan
+kelo1247	GB516	nan	1.0	3	po is the common element	nan	nan	nan
+kelo1247	GB517	nan	1.0	n		nan	nan	nan
+kelo1247	GB518	nan	0.0	y		nan	nan	nan
+kelo1247	GB519	nan	1.0	n		nan	nan	nan
+kelo1247	GB520	nan	1.0	n		nan	nan	nan
+kelo1247	GB521	nan	0.0	n		nan	nan	nan
+kelo1247	R1102	nan	0.0	4		nan	nan	nan
+kelo1247	R1103	nan	0.0	3		nan	nan	nan
+kelo1247	R1103a	nan	0.0	n		nan	nan	nan
+kelo1247	R1103b	nan	0.0	n		nan	nan	nan
+kelo1247	R1105	nan	0.0	y		nan	nan	nan
+kelo1247	R1106	nan	0.0	n		nan	nan	nan
+kelo1247	R1107	nan	0.0	y		nan	nan	nan
+kelo1247	R1108	nan	0.0	n		nan	nan	nan
+kelo1247	R1109	nan	0.0	y		nan	nan	nan
+kelo1247	R1109a	nan	0.0	n		nan	nan	nan
+kelo1247	R1109b	nan	0.0	n		nan	nan	nan
+kelo1247	R1110	nan	0.0	n		nan	nan	nan
+kelo1247	R1111	nan	0.0	y		nan	nan	nan
+kelo1247	R1112	nan	0.0	n		nan	nan	nan
+kelo1247	R1113a	nan	0.0	y	assuming that a, a: and schwa are all central vowels	nan	nan	nan
+kelo1247	R1115	nan	1.0	n		nan	nan	nan
+kelo1247	R1116	Is there weight-sensitive suprasegmental prominence	?	Not known		nan	0:y;1:n	nan
+kelo1247	R1117	nan	0.0	y	stress is penultimate, and weight sensitive, i.e. if the ultimate is heavy, and the penultimate is not, then stress is ultimate. 	Baird 2008: 23	nan	nan
+kelo1247	R1118	nan	1.0	n		nan	nan	nan
+kelo1247	R1202	nan	0.0	y	all consonants are final, except /g'/ and the glides. ng and ɟ are only final.	nan	nan	nan
+kelo1247	R1203a	nan	0.0	n		nan	nan	nan
+kelo1247	R1204	nan	0.0	n		nan	nan	nan
+kelo1247	R2203	nan	0.0	y		nan	nan	nan
+kelo1247	R2504a	Is plant status a relevant category in the noun class/gender system?	?	Not known		nan	0:y;1:n	nan
+kelo1247	R2507	Is there concord beyond the NP, i.e. agreement of elements outside the NP with the noun class of a noun?	?	Not known		nan	0:n	nan
+kelo1247	R2508	nan	0.0	y	Baird 2008: 63	nan	nan	nan
+kelo1247	R2601	nan	0.0	y		nan	nan	nan
+kelo1247	R2702	nan	1.0	n		nan	nan	nan
+kelo1247	R2703b	nan	0.0	n		nan	nan	nan
+kelo1247	R3103	Do the same morphemes systematically encode both TAM and person?	?	Not known		nan	0:n	nan
+kelo1247	R3502	nan	0.0	n		nan	nan	nan
+kelo1247	R3605	nan	0.0	n		nan	nan	nan
+kelo1247	R4305a	nan	0.0	y	Relative clauses start with particle de which is also used as coordinating conjunction	Baird 2008: 84	nan	nan
+kelo1247	R4307	nan	0.0	n		nan	nan	nan
+kelo1247	R4308	nan	0.0	n		nan	nan	nan
+kelo1247	R4308a	nan	1.0	n		nan	nan	nan
+kelo1247	R4309a	nan	1.0	n		nan	nan	nan
+kelo1247	R4309b	nan	1.0	n		nan	nan	nan
+kelo1247	R4309c	Is there a complementizer that precedes a complement clause?	?	Not known		nan	3:?;1:no data;2:y;0:n	nan
+kelo1247	R4309d	Is there a complementizer that follows a complement clause?	?	Not known		nan	3:?;1:no data;2:y;0:n	nan
+kelo1247	R4311	nan	0.0	n		nan	nan	nan
+kelo1247	R5202	nan	1.0	n	no data	nan	nan	nan
+kelo1247	R5203	nan	2.0	?	no data	nan	nan	nan
+kelo1247	R5204	nan	2.0	?	no data	nan	nan	nan
+kelo1247	R5205	nan	2.0	?	no data	nan	nan	nan
+kelo1247	R5206	nan	2.0	?	no data	nan	nan	nan
+kelo1247	R5207	nan	2.0	?	no data	nan	nan	nan
+kelo1247	R5208	nan	2.0	?	no data	nan	nan	nan
+kelo1247	R5209	nan	1.0	?	no data	nan	nan	nan
+kelo1247	R5210	nan	2.0	?	no data	nan	nan	nan
+kelo1247	R5211	nan	2.0	?	no data	nan	nan	nan
+kelo1247	R5212	nan	2.0	?	no data	nan	nan	nan
+kelo1247	SD224	nan	0.0	1		nan	nan	nan
+kelo1247	SD295	nan	1.0	n		nan	nan	nan
+kelo1247	SD319	Are S and A marked by the same prefix/proclitic?	?	Not known		nan	1:y;0:n	nan
+kelo1247	SD320	Are S and A marked by the same suffix/enclitic?	?	Not known		nan	1:?;0:n	nan
+kelo1247	SD321	nan	0.0	y		nan	nan	nan
+kelo1247	SD341	nan	0.0	y		nan	nan	nan
+kelo1247	SD342	nan	1.0	y		nan	nan	nan
+kelo1247	SD343	nan	0.0	y	eyeh 'do not', emeng/emek 'not want'	nan	nan	nan
+kelo1247	SD344	Are there adjectives (elements denoting property concepts) that act like nouns?	?	Not known		nan	1:y;0:n	nan
+kelo1247	SD369	nan	0.0	n		nan	nan	nan
+kelo1247	SD381	nan	2.0	?	no data	nan	nan	nan
+kelo1247	SD388	Are there allophonic phonation types for vowels?	?	Not known		nan	0:y;1:n	nan
+kelo1247	SD389	Is there nominalizing morphology?	?	Not known		nan	0:y	nan
+kelo1247	SD390	Can horizontal direction be marked in demonstratives?	?	Not known		nan	1:y;0:n	nan
+kelo1247	SD391	Is there a predicative possessive construction?	?	Not known		nan	0:y	nan
+kelo1247	SD392	Are S and O marked by the same prefix/proclitic?	?	Not known		nan	0:n	nan
+kelo1247	SD393	Are S and O marked by the same suffix/enclitic?	?	Not known		nan	0:n	nan
+kelo1247	SD394	Are there suppletive forms for negated verbs?	?	Not known		nan	0:y	nan
+kelo1247	SD395	Is topological information expressed by adpositions?	?	Not known		nan	0:n	nan
+kelo1247	SD396	Is topological information expressed by nouns?	?	Not known		nan	0:y	nan
+kelo1247	SD397	Are there native terms expressing directions in space on a geocentric coordinate system (geocentric terms)?	?	Not known		nan	0:y	nan
+kelo1247	SD398	Do geocentric terms have deictic use?	?	Not known		nan	0:y	nan
+kelo1247	SD399	Can geocentric terms function as adverbs?	?	Not known		nan	0:y	nan
+kelo1247	SD400	Can geocentric terms function as adpositions?	?	Not known		nan	0:y	nan
+kelo1247	SD401	Can demonstratives function as adverbs (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+kelo1247	SD402	Can demonstratives function as prepositions (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+kelo1247	SD403	Is it possible to employ an absolute frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+kelo1247	SD404	Is it possible to employ an intrinsic frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+kelo1247	SD405	Is it possible to employ a relative frame of reference when expressing projective spatial relations?	?	Not known		nan	1:?;0:n	nan
+kelo1247	SD406	Is it possible to use another frame of reference?	?	Not known		nan	1:?;0:y	nan
+kelo1247	SD407	Which frame of reference is preferred in the expression of projective spatial relations?	?	Not known		nan	1:?;0:a	nan

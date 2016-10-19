@@ -1,118 +1,111 @@
-Feature_ID	Language_ID	Value	Comment	Source
-R1102	lewo1244	0.0	"Labial, Alveolar, Velar and Glottal
-Nagaya gives 6 places, I however would reduced the phonemic places of articulation to 4. The dental place of articulation does exist in the phonetic articulation, however I do not consider it to be phonemic because it only appear for one consonant (/t/) and it is not relvant to produce a phonemic constrast. The same holds for the alveo-palatal place of articulation (for /dʒ/). In this case, the phonetic articulation is reported to be alveo-palatal but I could imaging that it migth also be articulated alveolarly, as this is for example the case in neighbouring Hewa. "	p.54-55
-R1103	lewo1244	0.0		p.54-55
-R1103a	lewo1244	1.0		p.54-55
-R1103b	lewo1244	0.0	There are not clusters of a nasal followed by a velar stop.	p.77
-R1105	lewo1244	0.0		p.54-55
-R1106	lewo1244	0.0		p.54-55
-R1107	lewo1244	0.0		p.54-55
-R1108	lewo1244	0.0		p.54-55
-R1109	lewo1244	0.0		p.54-55
-R1109a	lewo1244	0.0		p.54-55
-R1109b	lewo1244	0.0		p.54-55
-R1110	lewo1244	0.0		p.54-55
-R1111	lewo1244	1.0		p.54-55
-R1112	lewo1244	1.0	nasal vowels; however, phonemic status questionable	p.54-55, 68
-SD388	lewo1244	1.0		p.54-55
-R1113a	lewo1244	0.0	ə ɐ	p.54-55
-R1115	lewo1244	1.0		
-R1116	lewo1244	1.0		p.79-80
-R1117	lewo1244	0.0	penultimate stress	p.79-80
-R1118	lewo1244	1.0		
-R1202	lewo1244	0.0	only glottal stop is allowed word-finally	p.56
-R1203a	lewo1244	1.0		p.71,77,79
-R1204	lewo1244	0.0		p.71
-GB024	lewo1244	4.0		p.230
-GB025	lewo1244	5.0		p.230
-GB065	lewo1244	6.0	possessor noun prenominal, possessor pronoun postnominal	p.233
-SD224	lewo1244	0.0		p.233
-GB502	lewo1244	2.0		p.233
-GB193	lewo1244	5.0		p.230
-GB026	lewo1244	2.0		
-GB203	lewo1244	7.0		
-GB204	lewo1244	3.0		
-R2508	lewo1244	1.0	There are mesuring words, but these are not classifiers.	p.169
-GB159	lewo1244	2.0	only fossilized examples for noun reduplication	p.128
-GB050	lewo1244	1.0		
-GB039	lewo1244	2.0		
-GB041	lewo1244	2.0		
-GB042	lewo1244	2.0		
-GB043	lewo1244	2.0		
-GB044	lewo1244	2.0		
-GB165	lewo1244	2.0		
-GB166	lewo1244	2.0		
-GB200	lewo1244	1.0		
-GB284	lewo1244	0.0		
-GB185	lewo1244	2.0		
-GB184	lewo1244	2.0		
-GB046	lewo1244	3.0		
-GB188	lewo1244	2.0		
-GB187	lewo1244	2.0		
-GB070	lewo1244	2.0		
-GB071	lewo1244	2.0		
-GB072	lewo1244	2.0		
-GB073	lewo1244	2.0		
-SD389	lewo1244	0.0	"suffix -N or enclitic =kə̃ 
-nominalizinɡ verbs and adjectival verbs
-other functionː marks nouns as possessed "	p.112-115
-GB047	lewo1244	2.0		
-GB048	lewo1244	3.0	suffix -N or enclitic =kə̃, when applied to verbs	p.114-115
-GB049	lewo1244	2.0		
-GB020	lewo1244	3.0		
-GB194	lewo1244	0.0		
-GB509	lewo1244	0.0		
-GB510	lewo1244	0.0		
-GB035	lewo1244	4.0	"There is a division of proximal into point and areal. It has to be found out if this differenciating of point an areal refers to different types of distnaces, like proximal and medial. However, from Nagaya's description, the distinction point and areal seem to be 
+Language_ID	Feature_ID	Feature	Value	Answer	Comment	Source	Possible Values	Suggested standardised comments
+lewo1244	GB014	Is there weight-sensitive suprasegmental prominence, suprasegmental prominence can be loudness, duration, pitch, i.e. stress or tone phenomena?	?	Not known		nan	3:?;2:no data;1:y;0:n	nan
+lewo1244	GB020	nan	3.0	n		nan	nan	nan
+lewo1244	GB021	Is an indefinite NP obligatorily accompanied by an indefinite (or non-specific) article?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, It exists but it is not obligatory, Same as numeral 'one'
+lewo1244	GB022	Are there prenominal articles?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, The definite article is prenominal, The indefinite article is prenominal, The definite article is a prefix, The indefinite article is a prefix
+lewo1244	GB023	Are there postnominal articles?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, The definite article is postnominal, The indefinite article is postnominal, The definite article is a suffix, The indefinite article is a suffix
+lewo1244	GB024	nan	4.0	2		p.230	nan	nan
+lewo1244	GB025	nan	5.0	2		p.230	nan	nan
+lewo1244	GB026	nan	2.0	n		nan	nan	nan
+lewo1244	GB027	nan	2.0	y	Both constructions use the verb -ə̃ʔə̃ 'do' with default or grammatical agreement. However, it is still possible to express a commitaive adjunct or conenct to NPs with this element.	p.302-303	nan	nan
+lewo1244	GB028	nan	2.0	y	pronouns and subject agreement prefixes	p.103,156	nan	nan
+lewo1244	GB029	nan	0.0	n		p.156	nan	nan
+lewo1244	GB030	nan	2.0	n		p.156	nan	nan
+lewo1244	GB031	nan	2.0	n		p.156	nan	nan
+lewo1244	GB032	nan	3.0	y	1PL and 2PL in S-agreement enclitics	p.97	nan	nan
+lewo1244	GB033	nan	0.0	n		nan	nan	nan
+lewo1244	GB034	nan	2.0	n		nan	nan	nan
+lewo1244	GB035	nan	4.0	?	"There is a division of proximal into point and areal. It has to be found out if this differenciating of point an areal refers to different types of distnaces, like proximal and medial. However, from Nagaya's description, the distinction point and areal seem to be 
 There is also the question if these distance terms are demonstratives, because they hve to be nominalized before they can be used in the ""classcal"" function of demonstratives, modifing NPs. 
-How to define a demonstrative?"	p.248
-GB511	lewo1244	0.0		
-GB512	lewo1244	1.0		
-GB036	lewo1244	2.0	Directionals (Nagaya's term for geocentric terms referring to directions) can be used as demonstratives. There are two directionals encoding elevation. However, it is not obligatory to use them, one can also use demonstratives that only encode distnce or horizontal direction.	p.265
-SD390	lewo1244	1.0		p.263
-GB037	lewo1244	2.0		
-GB514	lewo1244	0.0		
-GB515	lewo1244	0.0		
-GB038	lewo1244	2.0		
-GB516	lewo1244	3.0		
-GB517	lewo1244	2.0		
-GB518	lewo1244	0.0		
-GB519	lewo1244	1.0		
-GB520	lewo1244	0.0		
-GB521	lewo1244	0.0		
-GB067	lewo1244	1.0		
-GB333	lewo1244	2.0		
-R2702	lewo1244	1.0		
-GB336	lewo1244	2.0		
-R2703b	lewo1244	0.0		
-GB057	lewo1244	2.0	There are mesuring words, but these are not classifiers.	p.169
-R2601	lewo1244	1.0	There is morphology for the distinciton of alienable and inalienable possession but this gives information on the nature of the possessive relationship but not on the noun itself, i.e. a noun can be alienable in some contexts but inalienable in others.	p.237
-GB058	lewo1244	2.0		
-GB059	lewo1244	2.0	different possessive morphology applys for alienable and inalienable relationships	p.113,116,233
-GB060	lewo1244	0.0	"1. two word order patterns
+How to define a demonstrative?"	p.248	nan	nan
+lewo1244	GB036	nan	2.0	y	Directionals (Nagaya's term for geocentric terms referring to directions) can be used as demonstratives. There are two directionals encoding elevation. However, it is not obligatory to use them, one can also use demonstratives that only encode distnce or horizontal direction.	p.265	nan	nan
+lewo1244	GB037	nan	2.0	n		nan	nan	nan
+lewo1244	GB038	nan	2.0	n		nan	nan	nan
+lewo1244	GB039	nan	2.0	n		nan	nan	nan
+lewo1244	GB040	Are there declensions (partly) determined by gender of the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB041	nan	2.0	n		nan	nan	nan
+lewo1244	GB042	nan	2.0	n		nan	nan	nan
+lewo1244	GB043	nan	2.0	n		nan	nan	nan
+lewo1244	GB044	nan	2.0	n		nan	nan	nan
+lewo1244	GB045	Is number marking prohibited on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+lewo1244	GB046	nan	3.0	n		nan	nan	nan
+lewo1244	GB047	nan	2.0	n		nan	nan	nan
+lewo1244	GB048	nan	3.0	y	suffix -N or enclitic =kə̃, when applied to verbs	p.114-115	nan	nan
+lewo1244	GB049	nan	2.0	n		nan	nan	nan
+lewo1244	GB050	nan	1.0	n		nan	nan	nan
+lewo1244	GB051	Is sex a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+lewo1244	GB052	Is shape a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+lewo1244	GB053	Is animacy (without reference to sex) a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+lewo1244	GB054	Is plant status a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+lewo1244	GB055	Does the language only have a gender distinction in 3rd person pronouns?	?	Not known		nan	0:n	nan
+lewo1244	GB056	Is there concord within the NP, i.e. agreement of elements within the NP with the noun class of a noun?	?	Not known		nan	1:y;0:n	nan
+lewo1244	GB057	nan	2.0	n	There are mesuring words, but these are not classifiers.	p.169	nan	nan
+lewo1244	GB058	nan	2.0	n		nan	nan	nan
+lewo1244	GB059	nan	2.0	y	different possessive morphology applys for alienable and inalienable relationships	p.113,116,233	nan	nan
+lewo1244	GB060	nan	0.0	y	"1. two word order patterns
 Nominal possessors precede the noun.
 Pronominal possessors follow the noun.
 2. two different morphological markings 
-Possessors can be expressed through suffixes/enclitics on the noun (with optional nominal possessor). In this case alienability decides if the affix or the enclitic is used."	p.233
-GB061	lewo1244	3.0		
-GB062	lewo1244	3.0	Suffix on the possessed noun for inalienable possession, enclitic for alienable possession.	p.112,233
-GB063	lewo1244	2.0		
-GB064	lewo1244	2.0	Suffix on possessed noun for inalienable possession, enclitic for alienable possession.	p.112,233
-GB066	lewo1244	0.0		
-SD391	lewo1244	0.0	using the verb noʔo 'exist' or ə̃mũ 'not exist' or the verb -ə̃ʔə̃ 'do;with'	p.345
-GB250	lewo1244	3.0		
-GB251	lewo1244	0.0	When using the verb for exist, the possessum is the subject.	p.345
-GB252	lewo1244	3.0		
-GB253	lewo1244	3.0		
-GB254	lewo1244	3.0		
-GB255	lewo1244	2.0		
-GB256	lewo1244	2.0		
-GB081	lewo1244	2.0		
-GB111	lewo1244	3.0	"There is only one ""irregular"" verb, the verb for eat."	p.106
-GB112	lewo1244	2.0	In the examples given, the verb will take S-agreement enclitics when used intransitively.	p.356-361
-GB117	lewo1244	2.0		
-GB118	lewo1244	2.0		p.461
-GB119	lewo1244	2.0	"clause-final serialized verbs:
+Possessors can be expressed through suffixes/enclitics on the noun (with optional nominal possessor). In this case alienability decides if the affix or the enclitic is used."	p.233	nan	nan
+lewo1244	GB061	nan	3.0	n		nan	nan	nan
+lewo1244	GB062	nan	3.0	y	Suffix on the possessed noun for inalienable possession, enclitic for alienable possession.	p.112,233	nan	nan
+lewo1244	GB063	nan	2.0	n		nan	nan	nan
+lewo1244	GB064	nan	2.0	y	Suffix on possessed noun for inalienable possession, enclitic for alienable possession.	p.112,233	nan	nan
+lewo1244	GB065	nan	6.0	3	possessor noun prenominal, possessor pronoun postnominal	p.233	nan	nan
+lewo1244	GB066	nan	0.0	n		nan	nan	nan
+lewo1244	GB067	nan	1.0	1		nan	nan	nan
+lewo1244	GB068	nan	3.0	n	Adjectival verbs don't take verbal agreement.	nan	nan	nan
+lewo1244	GB069	nan	2.0	y	Adjectival verb need to be nominalized in attributive position, in the same way verbs do.	p.114,115,179	nan	nan
+lewo1244	GB070	nan	2.0	n		nan	nan	nan
+lewo1244	GB071	nan	2.0	n		nan	nan	nan
+lewo1244	GB072	nan	2.0	n		nan	nan	nan
+lewo1244	GB073	nan	2.0	n		nan	nan	nan
+lewo1244	GB074	nan	3.0	?	Certain verbs, all adverbial demonstratives and adverbial directionals can function as prepositions. These are the only native prepositions.	p.206,208,217	nan	nan
+lewo1244	GB075	nan	4.0	?	Locative nouns might be on the way of developing into postpositions.	p.513	nan	nan
+lewo1244	GB076	nan	2.0	n	Recipient/beneficary arguments can optionally be marked with adposition but then change their position and to appear as oblique. 	nan	nan	nan
+lewo1244	GB077	nan	3.0	y	Oblique NPs can be marked by deverbal ('give' for beneficary) or deadverbal prepositions ('here' for recipient) .	p.363	nan	nan
+lewo1244	GB078	nan	0.0	n	This information is expressed in caluse-final deictic motion verbs GO and COME.	p.330	nan	nan
+lewo1244	GB079	nan	2.0	n		nan	nan	nan
+lewo1244	GB080	nan	3.0	n		nan	nan	nan
+lewo1244	GB081	nan	2.0	n		nan	nan	nan
+lewo1244	GB082	nan	2.0	n		nan	nan	nan
+lewo1244	GB083	nan	2.0	n		nan	nan	nan
+lewo1244	GB084	nan	2.0	n		nan	nan	nan
+lewo1244	GB085	Are there multiple past or future tenses, distinguishing distance from Time of Reference, marked on the verb?	?	Not known		nan	0:n	nan
+lewo1244	GB086	nan	3.0	n		nan	nan	nan
+lewo1244	GB087	nan	2.0	n		nan	nan	nan
+lewo1244	GB088	nan	2.0	n		nan	nan	nan
+lewo1244	GB089	nan	3.0	y	S-agreement enclitics	p.97	nan	nan
+lewo1244	GB090	nan	2.0	y	S/A-agreement prefixes	p.103	nan	nan
+lewo1244	GB091	nan	2.0	n		nan	nan	nan
+lewo1244	GB092	nan	3.0	y	S/A-agreement prefixes	p.103	nan	nan
+lewo1244	GB093	nan	3.0	y	pronominal enclitic (only 3SG primary object), it can refer back to something mentioned before, can cooccur in combination with a free pronoun	p.107	nan	nan
+lewo1244	GB094	nan	3.0	n		nan	nan	nan
+lewo1244	GB095	Are variations in marking strategies of core participants based on TAM distinctions?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned
+lewo1244	GB096	Are variations in marking strategies of core participants based on verb classes?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned
+lewo1244	GB097	Are variations in marking strategies of core participants based on clause type, e.g. main vs. subordinate?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+lewo1244	GB098	Are variations in marking strategies of core participants based on person distinctions?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned
+lewo1244	GB099	nan	3.0	?	the verb to eat? 	p.106	nan	nan
+lewo1244	GB100	nan	0.0	n		nan	nan	nan
+lewo1244	GB101	nan	0.0	n		nan	nan	nan
+lewo1244	GB102	nan	0.0	n		nan	nan	nan
+lewo1244	GB103	nan	3.0	y	They can be marked with the object enclitic in case the benefactive NP is absent.	p.377	nan	nan
+lewo1244	GB104	nan	2.0	n		nan	nan	nan
+lewo1244	GB105	nan	2.0	y	It can appear directly following the verb and it can appear in topic position. These are both caracteristics of transitive objects.	p.319	nan	nan
+lewo1244	GB106	nan	3.0	y		p.318,320	nan	nan
+lewo1244	GB107	nan	2.0	n		nan	nan	nan
+lewo1244	GB108	nan	3.0	n		nan	nan	nan
+lewo1244	GB109	nan	2.0	n		nan	nan	nan
+lewo1244	GB110	nan	2.0	n		nan	nan	nan
+lewo1244	GB111	nan	3.0	n	"There is only one ""irregular"" verb, the verb for eat."	p.106	nan	nan
+lewo1244	GB112	nan	2.0	n	In the examples given, the verb will take S-agreement enclitics when used intransitively.	p.356-361	nan	nan
+lewo1244	GB113	nan	2.0	n		nan	nan	nan
+lewo1244	GB114	nan	2.0	n		nan	nan	nan
+lewo1244	GB115	nan	3.0	n		nan	nan	nan
+lewo1244	GB116	nan	2.0	n		nan	nan	nan
+lewo1244	GB117	nan	2.0	n		nan	nan	nan
+lewo1244	GB118	nan	2.0	y		p.461	nan	nan
+lewo1244	GB119	nan	2.0	y	"clause-final serialized verbs:
 -waro 'be capable of'
 -ala 'by mistake'
 bisa 'be allowed, be able' (Indonesian loan but Lamaholto syntax)
@@ -121,8 +114,8 @@ harus
 mesti
 negation markers (Nagaya considers negation to be modal)
 həlaʔ 'NEG' (clause-final)
-laeʔ 'no' (non-existential or negative answer to a question)"	p.420,422,478
-GB120	lewo1244	2.0	"clause-final marker:
+laeʔ 'no' (non-existential or negative answer to a question)"	p.420,422,478	nan	nan
+lewo1244	GB120	nan	2.0	y	"clause-final marker:
 kaeʔ completion
 morə̃ continuation, onɡoinɡ
 kia near future, prosepctive staɡe
@@ -131,180 +124,318 @@ only as V2 in a serial verb constructionː
 puraʔ incipient staɡe
 həkə termination
 təru continuation
-waha completion"	p.411,457
-GB121	lewo1244	2.0		p.405-410
-GB122	lewo1244	3.0		
-GB123	lewo1244	3.0		
-GB124	lewo1244	2.0		
-GB125	lewo1244	2.0		
-GB126	lewo1244	2.0	"noʔo 'exist' 
-ə̃mũ 'not exist'"	p.344
-GB127	lewo1244	4.0	"tobo 'sit'
+waha completion"	p.411,457	nan	nan
+lewo1244	GB121	nan	2.0	n		p.405-410	nan	nan
+lewo1244	GB122	nan	3.0	n		nan	nan	nan
+lewo1244	GB123	nan	3.0	n		nan	nan	nan
+lewo1244	GB124	nan	2.0	n		nan	nan	nan
+lewo1244	GB125	nan	2.0	n		nan	nan	nan
+lewo1244	GB126	nan	2.0	y	"noʔo 'exist' 
+ə̃mũ 'not exist'"	p.344	nan	nan
+lewo1244	GB127	nan	4.0	y?	"tobo 'sit'
 deʔĩ 'stand'
 -awa 'lie'
-obligatory to use?"	p.559
-GB128	lewo1244	0.0		p.320
-GB129	lewo1244	2.0		
-GB158	lewo1244	3.0		
-GB028	lewo1244	2.0	pronouns and subject agreement prefixes	p.103,156
-GB029	lewo1244	0.0		p.156
-GB030	lewo1244	2.0		p.156
-GB168	lewo1244	1.0		p.156
-GB169	lewo1244	0.0		p.156
-GB197	lewo1244	2.0		p.156
-GB162	lewo1244	0.0		p.156
-GB196	lewo1244	2.0		p.156
-GB202	lewo1244	0.0		p.156
-R2203	lewo1244	0.0		p.156
-GB031	lewo1244	2.0		p.156
-GB167	lewo1244	2.0		
-GB032	lewo1244	3.0	1PL and 2PL in S-agreement enclitics	p.97
-GB033	lewo1244	0.0		
-GB034	lewo1244	2.0		
-GB089	lewo1244	3.0	S-agreement enclitics	p.97
-GB090	lewo1244	2.0	S/A-agreement prefixes	p.103
-GB091	lewo1244	2.0		
-GB092	lewo1244	3.0	S/A-agreement prefixes	p.103
-GB093	lewo1244	3.0	pronominal enclitic (only 3SG primary object), it can refer back to something mentioned before, can cooccur in combination with a free pronoun	p.107
-GB094	lewo1244	3.0		
-GB503	lewo1244	0.0		
-SD321	lewo1244	1.0		
-GB249	lewo1244	0.0		
-GB099	lewo1244	3.0	the verb to eat? 	p.106
-GB100	lewo1244	0.0		
-GB109	lewo1244	2.0		
-R3502	lewo1244	0.0		
-GB102	lewo1244	0.0		
-GB141	lewo1244	2.0		
-GB142	lewo1244	2.0		
-GB143	lewo1244	1.0		
-GB144	lewo1244	1.0		
-GB145	lewo1244	1.0		
-GB278	lewo1244	1.0		
-GB103	lewo1244	3.0	They can be marked with the object enclitic in case the benefactive NP is absent.	p.377
-GB104	lewo1244	2.0		
-GB105	lewo1244	2.0	It can appear directly following the verb and it can appear in topic position. These are both caracteristics of transitive objects.	p.319
-GB287	lewo1244	0.0	There is no case marking. Or should this be yes because they have in common that case is not marked in both cases.	p.319,368
-GB288	lewo1244	0.0	Recipients appearing as a prepositional adjunct cannot appear in topiic position, thus behave different than object arguments.	p.395
-GB289	lewo1244	0.0		p. 
-GB290	lewo1244	0.0	There is a 3SG enclitic, that can refer to primary objects and recipient arguments.	
-GB106	lewo1244	3.0		p.318,320
-GB108	lewo1244	3.0		
-GB079	lewo1244	2.0		
-GB080	lewo1244	3.0		
-GB101	lewo1244	0.0		
-GB110	lewo1244	2.0		
-GB082	lewo1244	2.0		
-GB083	lewo1244	2.0		
-GB084	lewo1244	2.0		
-GB086	lewo1244	3.0		
-GB087	lewo1244	2.0		
-GB088	lewo1244	2.0		
-GB113	lewo1244	2.0		
-R3605	lewo1244	1.0	S-agreement enclitics?	p.97,356
-GB114	lewo1244	2.0		
-GB115	lewo1244	3.0		
-GB116	lewo1244	2.0		
-GB177	lewo1244	3.0		
-GB074	lewo1244	3.0	Certain verbs, all adverbial demonstratives and adverbial directionals can function as prepositions. These are the only native prepositions.	p.206,208,217
-GB075	lewo1244	4.0	Locative nouns might be on the way of developing into postpositions.	p.513
-GB076	lewo1244	2.0	Recipient/beneficary arguments can optionally be marked with adposition but then change their position and to appear as oblique. 	
-GB077	lewo1244	3.0	Oblique NPs can be marked by deverbal ('give' for beneficary) or deadverbal prepositions ('here' for recipient) .	p.363
-GB078	lewo1244	0.0	This information is expressed in caluse-final deictic motion verbs GO and COME.	p.330
-GB107	lewo1244	2.0		
-GB137	lewo1244	2.0	Negation markers appear clause-finally.	p.420
-GB138	lewo1244	3.0	only prohibitive	p.430
-SD341	lewo1244	0.0		
-SD342	lewo1244	1.0	only prohibitive	p.430
-GB139	lewo1244	2.0	"declarative: caluse-final həlaʔ
-imperative/prohibitive: preverbal aka or nawa"	p.420,430
-GB140	lewo1244	3.0		
-SD394	lewo1244	0.0	noʔo 'exist' ə̃mũ 'not exist'	p.344-345
-GB068	lewo1244	3.0	Adjectival verbs don't take verbal agreement.	
-SD344	lewo1244	1.0	Adjectival nouns can appear as NPs or modifier without adapting their shape.	p.175
-GB069	lewo1244	2.0	Adjectival verb need to be nominalized in attributive position, in the same way verbs do.	p.114,115,179
-GB265	lewo1244	3.0		p.181
-GB266	lewo1244	2.0		
-GB267	lewo1244	0.0		
-GB268	lewo1244	0.0		
-GB269	lewo1244	0.0		
-GB277	lewo1244	0.0		
-GB270	lewo1244	5.0		
-GB271	lewo1244	2.0	might be	
-GB272	lewo1244	1.0		
-GB273	lewo1244	4.0	"Indonesian loan ""daripada"""	p.181
-GB274	lewo1244	2.0	preverbal bo: 'more'	p.181
-GB275	lewo1244	2.0		
-GB276	lewo1244	3.0	preverbal bo: 'more'	p.181
-GB160	lewo1244	4.0	only fossilized	p.128
-GB146	lewo1244	3.0		
-GB147	lewo1244	2.0		
-GB148	lewo1244	2.0		
-GB191	lewo1244	0.0		
-GB149	lewo1244	2.0		
-GB151	lewo1244	2.0		
-GB152	lewo1244	3.0		
-GB150	lewo1244	3.0		
-GB153	lewo1244	1.0		
-GB027	lewo1244	2.0	Both constructions use the verb -ə̃ʔə̃ 'do' with default or grammatical agreement. However, it is still possible to express a commitaive adjunct or conenct to NPs with this element.	p.302-303
-GB130	lewo1244	4.0		p.305
-GB131	lewo1244	2.0		
-GB132	lewo1244	3.0		p.316
-GB133	lewo1244	3.0	Only deictic cmotion verbs and auxiliary verbs appear clause-finally.	
-GB134	lewo1244	2.0		p.450
-GB135	lewo1244	2.0		p.442
-GB136	lewo1244	2.0		
-R4305a	lewo1244	1.0	Relative clauses are analyzed as nominalizations of verbs. The Indonesian nominalizer/realtiviser yang is used.	p.196,441
-R4307	lewo1244	2.0		
-R4308	lewo1244	2.0		
-R4308a	lewo1244	2.0		
-R4309a	lewo1244	0.0		p.442
-R4309b	lewo1244	0.0		p.442
-R4309c	lewo1244	0.0		p.442
-R4309d	lewo1244	0.0		p.442
-R4311	lewo1244	0.0		
-GB154	lewo1244	0.0	serial verb construction with the verb 'do'	p.360
-GB155	lewo1244	2.0		
-GB156	lewo1244	2.0		
-GB257	lewo1244	2.0		p.426
-GB258	lewo1244	0.0		p.426
-GB259	lewo1244	0.0		p.426
-GB260	lewo1244	2.0		
-GB286	lewo1244	2.0		
-GB285	lewo1244	2.0		
-GB261	lewo1244	1.0	particle combined with raising intonation	p.426
-GB291	lewo1244	2.0		
-GB292	lewo1244	0.0		p.426
-GB262	lewo1244	2.0		
-GB263	lewo1244	2.0		p.426
-GB264	lewo1244	2.0		
-GB157	lewo1244	3.0		
-SD403	lewo1244	0.0		p.562
-SD404	lewo1244	0.0		p.563
-SD405	lewo1244	0.0		p.568
-SD406	lewo1244	0.0	hither/thither'frame of reference	p.573
-SD407	lewo1244	0.0		p.562
-SD395	lewo1244	0.0	by nouns, but they could be on the way to postpositions (gramamticalization)	p.512
-SD396	lewo1244	0.0		p.512
-SD397	lewo1244	0.0		p.530
-SD398	lewo1244	0.0		p.522,525
-SD399	lewo1244	0.0		p.265
-SD400	lewo1244	0.0		p.265
-SD401	lewo1244	1.0		
-SD402	lewo1244	1.0		
-GB294	lewo1244	2.0		
-GB295	lewo1244	3.0		
-GB296	lewo1244	3.0		
-SD369	lewo1244	2.0		
-R5202	lewo1244	3.0		
-R5203	lewo1244	2.0		
-R5204	lewo1244	2.0		
-R5205	lewo1244	2.0		
-R5206	lewo1244	2.0		
-R5207	lewo1244	2.0		
-R5208	lewo1244	2.0		
-R5209	lewo1244	1.0		
-R5210	lewo1244	2.0		
-R5211	lewo1244	0.0		p.152
-R5212	lewo1244	2.0		
-SD381	lewo1244	2.0		
+obligatory to use?"	p.559	nan	nan
+lewo1244	GB128	nan	0.0	n		p.320	nan	nan
+lewo1244	GB129	nan	2.0	n		nan	nan	nan
+lewo1244	GB130	nan	4.0	1		p.305	nan	nan
+lewo1244	GB131	nan	2.0	n		nan	nan	nan
+lewo1244	GB132	nan	3.0	y		p.316	nan	nan
+lewo1244	GB133	nan	3.0	n	Only deictic cmotion verbs and auxiliary verbs appear clause-finally.	nan	nan	nan
+lewo1244	GB134	nan	2.0	y		p.450	nan	nan
+lewo1244	GB135	nan	2.0	y		p.442	nan	nan
+lewo1244	GB136	nan	2.0	y		nan	nan	nan
+lewo1244	GB137	nan	2.0	y	Negation markers appear clause-finally.	p.420	nan	nan
+lewo1244	GB138	nan	3.0	y	only prohibitive	p.430	nan	nan
+lewo1244	GB139	nan	2.0	y	"declarative: caluse-final həlaʔ
+imperative/prohibitive: preverbal aka or nawa"	p.420,430	nan	nan
+lewo1244	GB140	nan	3.0	y		nan	nan	nan
+lewo1244	GB141	nan	2.0	y		nan	nan	nan
+lewo1244	GB142	nan	2.0	y		nan	nan	nan
+lewo1244	GB143	nan	1.0	y		nan	nan	nan
+lewo1244	GB144	nan	1.0	y		nan	nan	nan
+lewo1244	GB145	nan	1.0	n		nan	nan	nan
+lewo1244	GB146	nan	3.0	n		nan	nan	nan
+lewo1244	GB147	nan	2.0	n		nan	nan	nan
+lewo1244	GB148	nan	2.0	n		nan	nan	nan
+lewo1244	GB149	nan	2.0	n		nan	nan	nan
+lewo1244	GB150	nan	3.0	n		nan	nan	nan
+lewo1244	GB151	nan	2.0	n		nan	nan	nan
+lewo1244	GB152	nan	3.0	n		nan	nan	nan
+lewo1244	GB153	nan	1.0	?		nan	nan	nan
+lewo1244	GB154	nan	0.0	y	serial verb construction with the verb 'do'	p.360	nan	nan
+lewo1244	GB155	nan	2.0	n		nan	nan	nan
+lewo1244	GB156	nan	2.0	n		nan	nan	nan
+lewo1244	GB157	nan	3.0	n		nan	nan	nan
+lewo1244	GB158	nan	3.0	n		nan	nan	nan
+lewo1244	GB159	nan	2.0	n	only fossilized examples for noun reduplication	p.128	nan	nan
+lewo1244	GB160	nan	4.0	n	only fossilized	p.128	nan	nan
+lewo1244	GB162	nan	0.0	n		p.156	nan	nan
+lewo1244	GB163	How many genders/noun classes are there?	?	Not known		nan	3:?;0:several;1:2;2:n	nan
+lewo1244	GB165	nan	2.0	n		nan	nan	nan
+lewo1244	GB166	nan	2.0	n		nan	nan	nan
+lewo1244	GB167	nan	2.0	n		nan	nan	nan
+lewo1244	GB168	nan	1.0	n		p.156	nan	nan
+lewo1244	GB169	nan	0.0	n		p.156	nan	nan
+lewo1244	GB170	Can an attributive nominal modifier denoting a property concept agree with any gender/noun class of the noun it modifies?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+lewo1244	GB171	Can an adnominal demonstrative agree in gender/noun class with the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+lewo1244	GB172	Can articles agree with the gender/noun class of the noun they modify?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement, It is not clear whether it is an article
+lewo1244	GB173	Are noun class and number always marked by a portmanteau morpheme on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB174	Are noun class and number marked by a portmanteau morpheme on the noun in singular?	?	Not known		nan	0:n	nan
+lewo1244	GB175	Are noun class and number marked by a portmanteau morpheme on the noun in plural?	?	Not known		nan	0:n	nan
+lewo1244	GB176	Can agreement of gender/noun class and number be marked by a portmanteau morpheme on other items in the noun phrase?	?	Not known		nan	0:n	nan
+lewo1244	GB177	nan	3.0	n		nan	nan	nan
+lewo1244	GB178	Are there several different singular genders/noun classes that can have the same plural gender/noun class?	?	Not known		nan	0:n	nan
+lewo1244	GB179	Are there genders/noun classes that cannot take number marking?	?	Not known		nan	0:n	nan
+lewo1244	GB181	Is number marking obligatory on certain (types of) nouns?	?	Not known		nan	1:?;2:y;0:n	nan
+lewo1244	GB182	Is number marking obligatory on animate nouns?	?	Not known		nan	1:?;0:n	nan
+lewo1244	GB183	Is number marking obligatory on human nouns?	?	Not known		nan	1:?;0:n	nan
+lewo1244	GB184	nan	2.0	n		nan	nan	nan
+lewo1244	GB185	nan	2.0	n		nan	nan	nan
+lewo1244	GB186	Can articles agree in number with the noun they modify?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the number of the noun is present but not called agreement, It is not clear whether it is an article
+lewo1244	GB187	nan	2.0	n		nan	nan	nan
+lewo1244	GB188	nan	2.0	n		nan	nan	nan
+lewo1244	GB191	nan	0.0	n		nan	nan	nan
+lewo1244	GB192	Are the noun's phonological properties relevant for any gender assignment?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, There is gender and it is possible that phonology influences assignment
+lewo1244	GB193	nan	5.0	2		p.230	nan	nan
+lewo1244	GB194	nan	0.0	n		nan	nan	nan
+lewo1244	GB195	Can a noun receive more than one noun class marker at the same time?	?	Not known		nan	0:n	nan
+lewo1244	GB196	nan	2.0	n		p.156	nan	nan
+lewo1244	GB197	nan	2.0	n		p.156	nan	nan
+lewo1244	GB198	Can a numeral used attributively agree with any gender/noun class of the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+lewo1244	GB199	Can verbs agree with the gender/noun class of the nominal object?	?	Not known		nan	1:y;0:n	nan
+lewo1244	GB200	nan	1.0	n		nan	nan	nan
+lewo1244	GB202	nan	0.0	n		p.156	nan	nan
+lewo1244	GB203	nan	7.0	?		nan	nan	nan
+lewo1244	GB204	nan	3.0	?		nan	nan	nan
+lewo1244	GB205	Is number marking prohibited on inanimate nouns?	?	Not known		nan	1:?;0:n	nan
+lewo1244	GB206	Is number marking prohibited on mass nouns?	?	Not known		nan	1:?;0:n	nan
+lewo1244	GB207	Is number marking optional on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+lewo1244	GB208	Can singular number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB209	Can singular number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB210	Can singular number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB211	Can singular number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB212	Can dual number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB213	Can dual number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB214	Can dual number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB215	Can dual number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB216	Can dual number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB217	Can plural number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB218	Can plural number be marked by a suffix on the noun?	?	Not known		nan	1:y;0:n	nan
+lewo1244	GB219	Can plural number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB220	Can plural number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB221	Can plural number be marked by reduplication on the noun?	?	Not known		nan	1:y;0:n	nan
+lewo1244	GB222	Can trial number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB223	Can trial number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB224	Can trial number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB225	Can trial number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB226	Can trial number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB227	Can paucal number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB228	Can paucal number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB229	Can paucal number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB230	Can paucal number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB231	Can paucal number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB232	Can diminutive be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB234	Can diminutive be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB235	Can diminutive be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB236	Can diminutive be marked by tone on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB237	Can diminutive be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB238	Can diminutive be marked by noun class selection?	?	Not known		nan	0:n	nan
+lewo1244	GB239	Can augmentative be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB240	Can augmentative be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB241	Can augmentative be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB242	Can augmentative be marked by tone on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB243	Can augmentative be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB244	Can augmentative be marked by noun class selection?	?	Not known		nan	0:n	nan
+lewo1244	GB245	Can gender/noun class be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB246	Can gender/noun class be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB247	Can gender/noun class be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lewo1244	GB248	Can gender/noun class be marked by tone on the noun only?	?	Not known		nan	0:n	nan
+lewo1244	GB249	nan	0.0	n		nan	nan	nan
+lewo1244	GB250	nan	3.0	n		nan	nan	nan
+lewo1244	GB251	nan	0.0	y	When using the verb for exist, the possessum is the subject.	p.345	nan	nan
+lewo1244	GB252	nan	3.0	n		nan	nan	nan
+lewo1244	GB253	nan	3.0	n		nan	nan	nan
+lewo1244	GB254	nan	3.0	n		nan	nan	nan
+lewo1244	GB255	nan	2.0	n		nan	nan	nan
+lewo1244	GB256	nan	2.0	n		nan	nan	nan
+lewo1244	GB257	nan	2.0	y		p.426	nan	nan
+lewo1244	GB258	nan	0.0	y		p.426	nan	nan
+lewo1244	GB259	nan	0.0	n		p.426	nan	nan
+lewo1244	GB260	nan	2.0	n		nan	nan	nan
+lewo1244	GB261	nan	1.0	y	particle combined with raising intonation	p.426	nan	nan
+lewo1244	GB262	nan	2.0	n		nan	nan	nan
+lewo1244	GB263	nan	2.0	y		p.426	nan	nan
+lewo1244	GB264	nan	2.0	n		nan	nan	nan
+lewo1244	GB265	nan	3.0	n		p.181	nan	nan
+lewo1244	GB266	nan	2.0	n		nan	nan	nan
+lewo1244	GB267	nan	0.0	n		nan	nan	nan
+lewo1244	GB268	nan	0.0	n		nan	nan	nan
+lewo1244	GB269	nan	0.0	n		nan	nan	nan
+lewo1244	GB270	nan	5.0	?		nan	nan	nan
+lewo1244	GB271	nan	2.0	?	might be	nan	nan	nan
+lewo1244	GB272	nan	1.0	n		nan	nan	nan
+lewo1244	GB273	nan	4.0	y	"Indonesian loan ""daripada"""	p.181	nan	nan
+lewo1244	GB274	nan	2.0	y	preverbal bo: 'more'	p.181	nan	nan
+lewo1244	GB275	nan	2.0	n		nan	nan	nan
+lewo1244	GB276	nan	3.0	y	preverbal bo: 'more'	p.181	nan	nan
+lewo1244	GB277	nan	0.0	n		nan	nan	nan
+lewo1244	GB278	nan	1.0	n		nan	nan	nan
+lewo1244	GB279	Is there variation in conflation of core participants based on TAM distinctions?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+lewo1244	GB280	Are variation in conflation of core participants based on verb classes?	?	Not known		nan	3:?;2:no data;0:y;1:n	nan
+lewo1244	GB281	Is there variation in conflation of core participants based on clause type, e.g. main vs. subordinate?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+lewo1244	GB282	Are variation in conflation of core participants based on person distinctions?	?	Not known		nan	3:?;2:no data;0:y;1:n	nan
+lewo1244	GB283	Can verbs agree with the gender/noun class of the nominal subject?	?	Not known		nan	1:y;0:n	nan
+lewo1244	GB284	nan	0.0	n		nan	nan	nan
+lewo1244	GB285	nan	2.0	n		nan	nan	nan
+lewo1244	GB286	nan	2.0	n		nan	nan	nan
+lewo1244	GB287	nan	0.0	n	There is no case marking. Or should this be yes because they have in common that case is not marked in both cases.	p.319,368	nan	nan
+lewo1244	GB288	nan	0.0	n	Recipients appearing as a prepositional adjunct cannot appear in topiic position, thus behave different than object arguments.	p.395	nan	nan
+lewo1244	GB289	nan	0.0	n		p. 	nan	nan
+lewo1244	GB290	nan	0.0	y	There is a 3SG enclitic, that can refer to primary objects and recipient arguments.	nan	nan	nan
+lewo1244	GB291	nan	2.0	n		nan	nan	nan
+lewo1244	GB292	nan	0.0	y		p.426	nan	nan
+lewo1244	GB294	nan	2.0	?		nan	nan	nan
+lewo1244	GB295	nan	3.0	?		nan	nan	nan
+lewo1244	GB296	nan	3.0	?		nan	nan	nan
+lewo1244	GB297	Can polar interrogation be marked by a construction of the type “V Neg V”?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB298	Can standard negation be marked by negative auxiliaries?	?	Not known		nan	0: absent;1: present	Not mentioned, Unclear whether it should count as an auxiliary given that no verbs carry inflection
+lewo1244	GB299	Can standard negation be marked by a freestanding particle?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB300	Is there a verb for the function 'give' that is suppletive for any grammatical category?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB301	Does the language have inclusory constructions productively?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB302	Is there a dedicated, obligatory and productive construction that marks passive voice, not morphologically on the verb nor on the A argument?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+lewo1244	GB303	Is there a dedicated, obligatory, productive construction that marks antipassive voice, not morphologically on the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+lewo1244	GB304	Can the A argument be overtly expressed in a passive clause or be overtly marked to signal a passive clause?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB305	Are there phonologically independent reflexive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned, Not clear if they are phonologically independent
+lewo1244	GB306	Are there reciprocal pronouns that are not-bipartite?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB307	Are there bipartite reciprocal pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB308	Can tense be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+lewo1244	GB309	Are there multiple past or future tenses, distinguishing distance from Time of Reference, in any form?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+lewo1244	GB310	Can aspect be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+lewo1244	GB311	Can mood be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+lewo1244	GB312	Can modal distinctions be marked on the verb, productively, dedicatedly and obligatorily?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+lewo1244	GB313	Are there possessive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB314	Can augmentative be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB315	Can diminutive be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB316	Can singular number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+lewo1244	GB317	Can dual number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+lewo1244	GB318	Can plural number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+lewo1244	GB319	Can trial number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+lewo1244	GB320	Can paucal number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+lewo1244	GB321	Is there an open class of noun stems that are assigned to gender/noun class categories arbitrarily?	?	Not known		nan	0: absent;1: present	Not mentioned, There may be a gender or noun class system but it seems to be semantic
+lewo1244	GB322	Does the language encode direct evidentiality (perceived with senses)?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB323	Does the language encode indirect evidentiality (hearsay, inference, etc.)?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB324	Are some content interrogatives (who?, what?, etc.) expressed in interrogative verbs?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB325	Is there a count/mass distinction in content interrogatives (e.g. English how many vs. how much)?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB326	Do (nominal) content interrogatives normally or frequently occur in situ (i.e. in the normal position for a non-interrogative NP in the same participant role)?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB327	Can the relative clause follow the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB328	Can the relative clause precede the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB329	Are there internally-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB330	Are there correlative relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB331	Are there adjoined relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB332	Are there double-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB333	nan	2.0	y		nan	nan	nan
+lewo1244	GB334	Is there synchronic evidence for any element of a quinary counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB335	Is there synchronic evidence for any element of a vigesimal counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+lewo1244	GB336	nan	2.0	n		nan	nan	nan
+lewo1244	GB502	nan	2.0	2		p.233	nan	nan
+lewo1244	GB503	nan	0.0	y		nan	nan	nan
+lewo1244	GB508	Are there core adjectives (elements denoting property concepts) that act like nouns?	?	Not known		nan	0:n	nan
+lewo1244	GB509	nan	0.0	y		nan	nan	nan
+lewo1244	GB510	nan	0.0	y		nan	nan	nan
+lewo1244	GB511	nan	0.0	y		nan	nan	nan
+lewo1244	GB512	nan	1.0	n		nan	nan	nan
+lewo1244	GB514	nan	0.0	n		nan	nan	nan
+lewo1244	GB515	nan	0.0	n		nan	nan	nan
+lewo1244	GB516	nan	3.0	2		nan	nan	nan
+lewo1244	GB517	nan	2.0	?		nan	nan	nan
+lewo1244	GB518	nan	0.0	y		nan	nan	nan
+lewo1244	GB519	nan	1.0	n		nan	nan	nan
+lewo1244	GB520	nan	0.0	y		nan	nan	nan
+lewo1244	GB521	nan	0.0	n		nan	nan	nan
+lewo1244	R1102	nan	0.0	4	"Labial, Alveolar, Velar and Glottal
+Nagaya gives 6 places, I however would reduced the phonemic places of articulation to 4. The dental place of articulation does exist in the phonetic articulation, however I do not consider it to be phonemic because it only appear for one consonant (/t/) and it is not relvant to produce a phonemic constrast. The same holds for the alveo-palatal place of articulation (for /dʒ/). In this case, the phonetic articulation is reported to be alveo-palatal but I could imaging that it migth also be articulated alveolarly, as this is for example the case in neighbouring Hewa. "	p.54-55	nan	nan
+lewo1244	R1103	nan	0.0	3		p.54-55	nan	nan
+lewo1244	R1103a	nan	1.0	y		p.54-55	nan	nan
+lewo1244	R1103b	nan	0.0	n	There are not clusters of a nasal followed by a velar stop.	p.77	nan	nan
+lewo1244	R1105	nan	0.0	y		p.54-55	nan	nan
+lewo1244	R1106	nan	0.0	n		p.54-55	nan	nan
+lewo1244	R1107	nan	0.0	y		p.54-55	nan	nan
+lewo1244	R1108	nan	0.0	n		p.54-55	nan	nan
+lewo1244	R1109	nan	0.0	y		p.54-55	nan	nan
+lewo1244	R1109a	nan	0.0	n		p.54-55	nan	nan
+lewo1244	R1109b	nan	0.0	n		p.54-55	nan	nan
+lewo1244	R1110	nan	0.0	n		p.54-55	nan	nan
+lewo1244	R1111	nan	1.0	n		p.54-55	nan	nan
+lewo1244	R1112	nan	1.0	y	nasal vowels; however, phonemic status questionable	p.54-55, 68	nan	nan
+lewo1244	R1113a	nan	0.0	y	ə ɐ	p.54-55	nan	nan
+lewo1244	R1115	nan	1.0	n		nan	nan	nan
+lewo1244	R1116	nan	1.0	n		p.79-80	nan	nan
+lewo1244	R1117	nan	0.0	y	penultimate stress	p.79-80	nan	nan
+lewo1244	R1118	nan	1.0	n		nan	nan	nan
+lewo1244	R1202	nan	0.0	y	only glottal stop is allowed word-finally	p.56	nan	nan
+lewo1244	R1203a	nan	1.0	y		p.71,77,79	nan	nan
+lewo1244	R1204	nan	0.0	n		p.71	nan	nan
+lewo1244	R2203	nan	0.0	y		p.156	nan	nan
+lewo1244	R2504a	Is plant status a relevant category in the noun class/gender system?	?	Not known		nan	0:y;1:n	nan
+lewo1244	R2507	Is there concord beyond the NP, i.e. agreement of elements outside the NP with the noun class of a noun?	?	Not known		nan	0:n	nan
+lewo1244	R2508	nan	1.0	n	There are mesuring words, but these are not classifiers.	p.169	nan	nan
+lewo1244	R2601	nan	1.0	n	There is morphology for the distinciton of alienable and inalienable possession but this gives information on the nature of the possessive relationship but not on the noun itself, i.e. a noun can be alienable in some contexts but inalienable in others.	p.237	nan	nan
+lewo1244	R2702	nan	1.0	n		nan	nan	nan
+lewo1244	R2703b	nan	0.0	n		nan	nan	nan
+lewo1244	R3103	Do the same morphemes systematically encode both TAM and person?	?	Not known		nan	0:n	nan
+lewo1244	R3502	nan	0.0	n		nan	nan	nan
+lewo1244	R3605	nan	1.0	?	S-agreement enclitics?	p.97,356	nan	nan
+lewo1244	R4305a	nan	1.0	?	Relative clauses are analyzed as nominalizations of verbs. The Indonesian nominalizer/realtiviser yang is used.	p.196,441	nan	nan
+lewo1244	R4307	nan	2.0	?		nan	nan	nan
+lewo1244	R4308	nan	2.0	?		nan	nan	nan
+lewo1244	R4308a	nan	2.0	?		nan	nan	nan
+lewo1244	R4309a	nan	0.0	y		p.442	nan	nan
+lewo1244	R4309b	nan	0.0	y		p.442	nan	nan
+lewo1244	R4309c	nan	0.0	n		p.442	nan	nan
+lewo1244	R4309d	nan	0.0	n		p.442	nan	nan
+lewo1244	R4311	nan	0.0	n		nan	nan	nan
+lewo1244	R5202	nan	3.0	?		nan	nan	nan
+lewo1244	R5203	nan	2.0	?		nan	nan	nan
+lewo1244	R5204	nan	2.0	?		nan	nan	nan
+lewo1244	R5205	nan	2.0	?		nan	nan	nan
+lewo1244	R5206	nan	2.0	?		nan	nan	nan
+lewo1244	R5207	nan	2.0	?		nan	nan	nan
+lewo1244	R5208	nan	2.0	?		nan	nan	nan
+lewo1244	R5209	nan	1.0	?		nan	nan	nan
+lewo1244	R5210	nan	2.0	?		nan	nan	nan
+lewo1244	R5211	nan	0.0	y		p.152	nan	nan
+lewo1244	R5212	nan	2.0	?		nan	nan	nan
+lewo1244	SD224	nan	0.0	1		p.233	nan	nan
+lewo1244	SD295	Do demonstratives encode direction (based on a coordinate system)?	?	Not known		nan	2:?;0:y;1:n	nan
+lewo1244	SD319	Are S and A marked by the same prefix/proclitic?	?	Not known		nan	1:y;0:n	nan
+lewo1244	SD320	Are S and A marked by the same suffix/enclitic?	?	Not known		nan	1:?;0:n	nan
+lewo1244	SD321	nan	1.0	n		nan	nan	nan
+lewo1244	SD341	nan	0.0	y		nan	nan	nan
+lewo1244	SD342	nan	1.0	y	only prohibitive	p.430	nan	nan
+lewo1244	SD343	Are there negative verbs?	?	Not known		nan	2:?;0:y;1:n	nan
+lewo1244	SD344	nan	1.0	y	Adjectival nouns can appear as NPs or modifier without adapting their shape.	p.175	nan	nan
+lewo1244	SD369	nan	2.0	?		nan	nan	nan
+lewo1244	SD381	nan	2.0	?		nan	nan	nan
+lewo1244	SD388	nan	1.0	n		p.54-55	nan	nan
+lewo1244	SD389	nan	0.0	y	"suffix -N or enclitic =kə̃ 
+nominalizinɡ verbs and adjectival verbs
+other functionː marks nouns as possessed "	p.112-115	nan	nan
+lewo1244	SD390	nan	1.0	y		p.263	nan	nan
+lewo1244	SD391	nan	0.0	y	using the verb noʔo 'exist' or ə̃mũ 'not exist' or the verb -ə̃ʔə̃ 'do;with'	p.345	nan	nan
+lewo1244	SD392	Are S and O marked by the same prefix/proclitic?	?	Not known		nan	0:n	nan
+lewo1244	SD393	Are S and O marked by the same suffix/enclitic?	?	Not known		nan	0:n	nan
+lewo1244	SD394	nan	0.0	y	noʔo 'exist' ə̃mũ 'not exist'	p.344-345	nan	nan
+lewo1244	SD395	nan	0.0	n	by nouns, but they could be on the way to postpositions (gramamticalization)	p.512	nan	nan
+lewo1244	SD396	nan	0.0	y		p.512	nan	nan
+lewo1244	SD397	nan	0.0	y		p.530	nan	nan
+lewo1244	SD398	nan	0.0	y		p.522,525	nan	nan
+lewo1244	SD399	nan	0.0	y		p.265	nan	nan
+lewo1244	SD400	nan	0.0	y		p.265	nan	nan
+lewo1244	SD401	nan	1.0	n		nan	nan	nan
+lewo1244	SD402	nan	1.0	n		nan	nan	nan
+lewo1244	SD403	nan	0.0	y		p.562	nan	nan
+lewo1244	SD404	nan	0.0	y		p.563	nan	nan
+lewo1244	SD405	nan	0.0	n		p.568	nan	nan
+lewo1244	SD406	nan	0.0	y	hither/thither'frame of reference	p.573	nan	nan
+lewo1244	SD407	nan	0.0	a		p.562	nan	nan

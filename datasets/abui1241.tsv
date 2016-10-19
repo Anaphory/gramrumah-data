@@ -1,270 +1,409 @@
-Feature_ID	Language_ID	Value	Comment	Source
-R1102	abui1241	0.0	labial, alveodental, palatal, velar, glottal	Kratochvil (2007:12)
-R1103	abui1241	0.0	labial, alveodental, velar	Kratochvil (2007:12)
-R1103a	abui1241	0.0		
-R1103b	abui1241	0.0		
-R1105	abui1241	0.0		
-R1106	abui1241	0.0		
-R1107	abui1241	0.0		
-R1108	abui1241	0.0		
-R1109	abui1241	0.0		
-R1109a	abui1241	0.0		
-R1109b	abui1241	0.0		
-R1110	abui1241	0.0		
-R1111	abui1241	0.0		
-R1112	abui1241	0.0		
-R1113a	abui1241	0.0		
-R1115	abui1241	0.0	"lexical tone exists although see Reesink's discussion taken from Kratochvil (2007:12) ""Syllables are combined to form prosodic words, in which heavy syllables (syllables with a complex nucleus) attract stress."	
-R1116	abui1241	0.0		
-R1117	abui1241	0.0		
-R1118	abui1241	0.0		
-R1202	abui1241	0.0	n,k,t,s,l,r,ng	
-R1203a	abui1241	0.0		
-R1204	abui1241	0.0		
-GB024	abui1241	4.0	fu nuku [betel.nut one]	
-GB025	abui1241	4.0	Both configurations are possible, depicticing either anaphoric or deictic referents. N DEM:anaphoric.DEM N:deictic	Kratochvil 2007: 62
-GB065	abui1241	5.0		
-SD224	abui1241	0.0		
-GB193	abui1241	4.0		
-GB026	abui1241	2.0		
-GB203	abui1241	4.0	There is no real universal quantifier, but instead the verb tafuda 'be.all'	e.g. of tafuda: Kratochvil (2007: 204)
-GB204	abui1241	2.0	The marker is kanakda 'be.every'. This at least shows that both forms are stative verbs.	
-R2508	abui1241	0.0	free	
-GB159	abui1241	2.0	carries various functions and is a productive process for (stative) verbs	
-GB050	abui1241	1.0	there are classifiers, but we do not consider them to be gender/noun classes distinction	Kratochvil (2007:164)
-GB039	abui1241	2.0		
-GB041	abui1241	2.0		
-GB042	abui1241	2.0		
-GB043	abui1241	2.0		
-GB044	abui1241	2.0	plural word 'loku'. Moku loku 'children'	
-GB165	abui1241	2.0		
-GB166	abui1241	2.0		
-GB200	abui1241	0.0		
-GB284	abui1241	0.0	No Subject marking on verb	
-GB185	abui1241	2.0		
-GB184	abui1241	2.0		
-GB046	abui1241	2.0		
-GB188	abui1241	2.0		
-GB187	abui1241	2.0		
-GB070	abui1241	2.0		
-GB071	abui1241	2.0		
-GB072	abui1241	2.0		
-GB073	abui1241	2.0		
-GB047	abui1241	2.0		
-GB048	abui1241	2.0	loku : PL The plural marker nominalizes VP, e.g. firai 'run', firai loku 'runners'	
-GB049	abui1241	2.0	gereja he-ì [church put] some nominalizations exist, but they seem to be lexicalized and the process does not seem to be productive	
-GB020	abui1241	2.0		
-GB194	abui1241	1.0	nu' : is considered indefinite and specific. Whereas a null marker is considered indefinite and non-specific	
-GB021	abui1241	2.0		
-GB022	abui1241	2.0		
-GB023	abui1241	2.0		
-GB172	abui1241	2.0		
-GB186	abui1241	2.0		
-GB509	abui1241	0.0		
-GB510	abui1241	0.0		
-GB035	abui1241	2.0		
-GB511	abui1241	0.0		
-GB512	abui1241	0.0		
-GB036	abui1241	2.0		
-SD295	abui1241	0.0		
-GB037	abui1241	2.0		
-GB514	abui1241	0.0		
-GB515	abui1241	0.0		
-GB038	abui1241	2.0		
-GB516	abui1241	0.0		
-GB517	abui1241	0.0		
-GB518	abui1241	0.0		
-GB519	abui1241	0.0		
-GB520	abui1241	0.0		
-GB521	abui1241	0.0		
-GB067	abui1241	0.0		
-GB333	abui1241	2.0		
-R2702	abui1241	0.0		
-GB336	abui1241	2.0		
-R2703b	abui1241	0.0		
-GB057	abui1241	2.0		
-R2601	abui1241	0.0		
-GB058	abui1241	2.0		
-GB059	abui1241	2.0		
-GB060	abui1241	0.0	some body parts are inalienably possessed.	
-GB061	abui1241	2.0		
-GB062	abui1241	2.0		
-GB063	abui1241	2.0		
-GB064	abui1241	2.0		
-GB066	abui1241	0.0		
-GB250	abui1241	2.0		
-GB251	abui1241	0.0		
-GB252	abui1241	2.0	seeng nu ne-i naha [money SPC 1SG.LOC-own NEG] '(That certain) money is not mine'                                                            	(Kratochvil & Delpada 2015)
-GB253	abui1241	2.0	seeng no-pa naha 'money 1sg.REC-have NEG' 'I don't have any money'	(Kratochvil & Delpada 2015)
-GB254	abui1241	2.0	ha-ne ha-du dikang Tilaama [3.INAL-name 3.PAT- again Tilaama 'His name is also Tilaama'	Kratochvil corpus
-GB255	abui1241	2.0		
-GB256	abui1241	2.0		
-GB081	abui1241	2.0		
-GB111	abui1241	2.0	this is true for root alternation in aspect marking, but not for pronomial marking.	
-GB112	abui1241	2.0	There are verbs that can be used both transitively and intransitively, but the transitive ones will always take on a pronomial marker.	
-GB117	abui1241	2.0		(Kratochvil 2007:161)
-GB118	abui1241	2.0		
-GB119	abui1241	2.0		
-GB120	abui1241	2.0		
-GB121	abui1241	2.0		
-GB122	abui1241	2.0		
-GB123	abui1241	2.0		Kratochvil (2007:294)
-GB124	abui1241	2.0		
-GB125	abui1241	2.0		
-GB126	abui1241	2.0		
-GB127	abui1241	2.0		
-GB128	abui1241	0.0	Used frequently in serial verb construction, especially with verbs containing differential object marking with respect to animacy, but aspect alternation l-r is common.	Kratochvil (2007:294)
-GB129	abui1241	2.0		
-GB158	abui1241	2.0		
-GB028	abui1241	2.0		
-GB029	abui1241	0.0		
-GB030	abui1241	2.0		
-GB168	abui1241	0.0	Lots of speaker variation. Some young speakers use di as a 3 person marker for inanimates as well.	
-GB169	abui1241	0.0		
-GB197	abui1241	2.0		
-GB162	abui1241	0.0		
-GB196	abui1241	2.0		
-GB202	abui1241	0.0		
-R2203	abui1241	0.0	only for 1st and 2nd person	
-GB031	abui1241	2.0		
-GB167	abui1241	2.0		
-GB032	abui1241	2.0		
-GB033	abui1241	0.0		
-GB034	abui1241	2.0		
-GB089	abui1241	2.0		
-GB090	abui1241	2.0		
-GB091	abui1241	2.0		
-GB092	abui1241	2.0		
-GB093	abui1241	2.0		
-GB094	abui1241	2.0		
-SD321	abui1241	0.0	Sometimes, it depends on the semantics of the verb. No-lila [1SG.REC-hot]'I am hot' & no-k fanga 'he told me', but also Na firai 'I run'	
-GB249	abui1241	1.0		
-GB095	abui1241	2.0		
-GB096	abui1241	2.0		
-GB097	abui1241	2.0		
-GB098	abui1241	2.0		
-GB099	abui1241	2.0		
-GB100	abui1241	0.0		
-GB109	abui1241	2.0		
-R3502	abui1241	0.0		
-GB102	abui1241	0.0		
-GB141	abui1241	2.0		
-GB142	abui1241	2.0		
-GB143	abui1241	0.0		
-GB144	abui1241	0.0		
-GB145	abui1241	0.0		
-GB278	abui1241	0.0		
-GB279	abui1241	2.0		
-GB280	abui1241	0.0		
-GB281	abui1241	2.0		
-GB282	abui1241	0.0		
-GB103	abui1241	2.0		
-GB104	abui1241	2.0	serial verb constructions are used, using the verb mi 'get'.	
-GB105	abui1241	2.0	direct object is not really a relevant term for the Abui system but verbal prefixes can refer to recipients as well as patients	
-GB287	abui1241	0.0		
-GB288	abui1241	0.0		
-GB289	abui1241	0.0		
-GB290	abui1241	0.0		
-GB106	abui1241	2.0		Kratochvil (2007:11)
-GB108	abui1241	2.0	not 100& sure	
-GB079	abui1241	2.0		
-GB080	abui1241	2.0		Kratochvil (2007:110)
-GB101	abui1241	0.0	number and person are marked by a portmanteau prefix, but aspect is marked as a separate suffix + with verb alternation	
-GB110	abui1241	2.0	All verbs undergo stem alternation to mark aspect but not suppletion	Kratochvil (2007:210)
-GB082	abui1241	2.0		
-GB083	abui1241	2.0		
-GB084	abui1241	2.0		
-GB086	abui1241	2.0		
-GB087	abui1241	2.0		
-GB088	abui1241	2.0		
-GB113	abui1241	2.0		
-R3605	abui1241	0.0		
-GB114	abui1241	2.0		
-GB115	abui1241	2.0	The distributive marker tV-	Kratochvil (2007:80)
-GB116	abui1241	2.0		
-GB177	abui1241	2.0	unclear to me: If this question is about animacy based differential object marking (marked on the verb), then the answer is yes. 	
-GB074	abui1241	2.0		
-GB075	abui1241	2.0		
-GB107	abui1241	2.0		
-GB137	abui1241	2.0		
-GB138	abui1241	2.0		
-SD341	abui1241	0.0		
-SD342	abui1241	0.0		
-GB139	abui1241	2.0		
-GB140	abui1241	2.0		
-SD343	abui1241	0.0	kaleng: not.want	
-GB068	abui1241	2.0		own data
-SD344	abui1241	0.0		
-GB069	abui1241	2.0	I would argue for yes, because they can take the same morphology. However, one difference is that they do not require embedding in a relative clause with the linker ba	
-GB265	abui1241	5.0		
-GB266	abui1241	2.0		
-GB267	abui1241	0.0		
-GB268	abui1241	0.0		
-GB269	abui1241	0.0		
-GB277	abui1241	0.0		
-GB270	abui1241	5.0		
-GB271	abui1241	2.0		
-GB272	abui1241	2.0		
-GB273	abui1241	2.0		
-GB274	abui1241	3.0		
-GB275	abui1241	5.0		
-GB276	abui1241	5.0		
-GB160	abui1241	2.0	numerals as well.	
-GB146	abui1241	2.0		
-GB147	abui1241	2.0		
-GB148	abui1241	2.0		
-GB191	abui1241	0.0		
-GB149	abui1241	2.0		
-GB151	abui1241	2.0		
-GB152	abui1241	2.0		
-GB150	abui1241	2.0		
-GB153	abui1241	1.0		
-GB027	abui1241	2.0		
-GB130	abui1241	4.0		
-GB131	abui1241	2.0		
-GB132	abui1241	2.0		
-GB133	abui1241	2.0		
-GB134	abui1241	2.0		
-GB135	abui1241	2.0		
-GB136	abui1241	2.0		
-R4305a	abui1241	0.0		
-R4307	abui1241	0.0		
-R4308	abui1241	0.0		
-R4308a	abui1241	0.0		
-R4309a	abui1241	0.0		
-R4309b	abui1241	0.0		
-R4309c	abui1241	0.0		
-R4309d	abui1241	0.0		
-R4311	abui1241	0.0		
-GB154	abui1241	0.0		
-GB155	abui1241	2.0		
-GB156	abui1241	2.0		
-GB257	abui1241	2.0		
-GB258	abui1241	0.0		
-GB259	abui1241	0.0		
-GB260	abui1241	2.0		
-GB286	abui1241	2.0		
-GB285	abui1241	2.0		
-GB261	abui1241	1.0		
-GB291	abui1241	2.0		
-GB292	abui1241	0.0		
-GB262	abui1241	2.0		
-GB263	abui1241	2.0		
-GB264	abui1241	2.0		
-GB157	abui1241	2.0		
-GB294	abui1241	0.0		
-GB295	abui1241	0.0		
-GB296	abui1241	2.0		
-SD369	abui1241	0.0		
-R5202	abui1241	3.0		
-R5203	abui1241	0.0		
-R5204	abui1241	0.0		
-R5205	abui1241	0.0		
-R5206	abui1241	0.0		
-R5207	abui1241	0.0		
-R5208	abui1241	0.0		
-R5209	abui1241	0.0		
-R5210	abui1241	0.0		
-R5211	abui1241	0.0		
-R5212	abui1241	0.0		
-SD381	abui1241	0.0		
+Language_ID	Feature_ID	Feature	Value	Answer	Comment	Source	Possible Values	Suggested standardised comments
+abui1241	GB014	Is there weight-sensitive suprasegmental prominence, suprasegmental prominence can be loudness, duration, pitch, i.e. stress or tone phenomena?	?	Not known		nan	3:?;2:no data;1:y;0:n	nan
+abui1241	GB020	nan	2.0	y		nan	nan	nan
+abui1241	GB021	nan	2.0	n		nan	nan	nan
+abui1241	GB022	nan	2.0	n		nan	nan	nan
+abui1241	GB023	nan	2.0	y		nan	nan	nan
+abui1241	GB024	nan	4.0	2	fu nuku [betel.nut one]	nan	nan	nan
+abui1241	GB025	nan	4.0	3	Both configurations are possible, depicticing either anaphoric or deictic referents. N DEM:anaphoric.DEM N:deictic	Kratochvil 2007: 62	nan	nan
+abui1241	GB026	nan	2.0	n		nan	nan	nan
+abui1241	GB027	nan	2.0	y		nan	nan	nan
+abui1241	GB028	nan	2.0	y		nan	nan	nan
+abui1241	GB029	nan	0.0	n		nan	nan	nan
+abui1241	GB030	nan	2.0	n		nan	nan	nan
+abui1241	GB031	nan	2.0	n		nan	nan	nan
+abui1241	GB032	nan	2.0	n		nan	nan	nan
+abui1241	GB033	nan	0.0	n		nan	nan	nan
+abui1241	GB034	nan	2.0	n		nan	nan	nan
+abui1241	GB035	nan	2.0	y		nan	nan	nan
+abui1241	GB036	nan	2.0	y		nan	nan	nan
+abui1241	GB037	nan	2.0	n		nan	nan	nan
+abui1241	GB038	nan	2.0	n		nan	nan	nan
+abui1241	GB039	nan	2.0	n		nan	nan	nan
+abui1241	GB040	Are there declensions (partly) determined by gender of the noun?	?	Not known		nan	0:n	nan
+abui1241	GB041	nan	2.0	n		nan	nan	nan
+abui1241	GB042	nan	2.0	n		nan	nan	nan
+abui1241	GB043	nan	2.0	n		nan	nan	nan
+abui1241	GB044	nan	2.0	n	plural word 'loku'. Moku loku 'children'	nan	nan	nan
+abui1241	GB045	Is number marking prohibited on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+abui1241	GB046	nan	2.0	y		nan	nan	nan
+abui1241	GB047	nan	2.0	n		nan	nan	nan
+abui1241	GB048	nan	2.0	n	loku : PL The plural marker nominalizes VP, e.g. firai 'run', firai loku 'runners'	nan	nan	nan
+abui1241	GB049	nan	2.0	n	gereja he-ì [church put] some nominalizations exist, but they seem to be lexicalized and the process does not seem to be productive	nan	nan	nan
+abui1241	GB050	nan	1.0	n	there are classifiers, but we do not consider them to be gender/noun classes distinction	Kratochvil (2007:164)	nan	nan
+abui1241	GB051	Is sex a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+abui1241	GB052	Is shape a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+abui1241	GB053	Is animacy (without reference to sex) a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+abui1241	GB054	Is plant status a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+abui1241	GB055	Does the language only have a gender distinction in 3rd person pronouns?	?	Not known		nan	0:n	nan
+abui1241	GB056	Is there concord within the NP, i.e. agreement of elements within the NP with the noun class of a noun?	?	Not known		nan	1:y;0:n	nan
+abui1241	GB057	nan	2.0	n		nan	nan	nan
+abui1241	GB058	nan	2.0	n		nan	nan	nan
+abui1241	GB059	nan	2.0	y		nan	nan	nan
+abui1241	GB060	nan	0.0	y	some body parts are inalienably possessed.	nan	nan	nan
+abui1241	GB061	nan	2.0	y		nan	nan	nan
+abui1241	GB062	nan	2.0	n		nan	nan	nan
+abui1241	GB063	nan	2.0	n		nan	nan	nan
+abui1241	GB064	nan	2.0	y		nan	nan	nan
+abui1241	GB065	nan	5.0	1		nan	nan	nan
+abui1241	GB066	nan	0.0	n		nan	nan	nan
+abui1241	GB067	nan	0.0	2		nan	nan	nan
+abui1241	GB068	nan	2.0	y		own data	nan	nan
+abui1241	GB069	nan	2.0	y	I would argue for yes, because they can take the same morphology. However, one difference is that they do not require embedding in a relative clause with the linker ba	nan	nan	nan
+abui1241	GB070	nan	2.0	n		nan	nan	nan
+abui1241	GB071	nan	2.0	n		nan	nan	nan
+abui1241	GB072	nan	2.0	n		nan	nan	nan
+abui1241	GB073	nan	2.0	n		nan	nan	nan
+abui1241	GB074	nan	2.0	n		nan	nan	nan
+abui1241	GB075	nan	2.0	n		nan	nan	nan
+abui1241	GB076	Are there adpositions to mark core NPs?	?	Not known		nan	4:?;3:y;1: present;0: absent;2:n	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+abui1241	GB077	Are there adpositions to mark oblique NPs?	?	Not known		nan	4:?;3:y;1: present;0: absent;2:n	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+abui1241	GB078	Is there a distinction between locational and directional adpositions?	?	Not known		nan	2:?;1:y;0:n	nan
+abui1241	GB079	nan	2.0	n		nan	nan	nan
+abui1241	GB080	nan	2.0	y		Kratochvil (2007:110)	nan	nan
+abui1241	GB081	nan	2.0	n		nan	nan	nan
+abui1241	GB082	nan	2.0	n		nan	nan	nan
+abui1241	GB083	nan	2.0	n		nan	nan	nan
+abui1241	GB084	nan	2.0	n		nan	nan	nan
+abui1241	GB085	Are there multiple past or future tenses, distinguishing distance from Time of Reference, marked on the verb?	?	Not known		nan	0:n	nan
+abui1241	GB086	nan	2.0	y		nan	nan	nan
+abui1241	GB087	nan	2.0	n		nan	nan	nan
+abui1241	GB088	nan	2.0	n		nan	nan	nan
+abui1241	GB089	nan	2.0	n		nan	nan	nan
+abui1241	GB090	nan	2.0	y		nan	nan	nan
+abui1241	GB091	nan	2.0	n		nan	nan	nan
+abui1241	GB092	nan	2.0	n		nan	nan	nan
+abui1241	GB093	nan	2.0	n		nan	nan	nan
+abui1241	GB094	nan	2.0	y		nan	nan	nan
+abui1241	GB095	nan	2.0	n		nan	nan	nan
+abui1241	GB096	nan	2.0	y		nan	nan	nan
+abui1241	GB097	nan	2.0	n		nan	nan	nan
+abui1241	GB098	nan	2.0	n		nan	nan	nan
+abui1241	GB099	nan	2.0	n		nan	nan	nan
+abui1241	GB100	nan	0.0	n		nan	nan	nan
+abui1241	GB101	nan	0.0	n	number and person are marked by a portmanteau prefix, but aspect is marked as a separate suffix + with verb alternation	nan	nan	nan
+abui1241	GB102	nan	0.0	n		nan	nan	nan
+abui1241	GB103	nan	2.0	n		nan	nan	nan
+abui1241	GB104	nan	2.0	n	serial verb constructions are used, using the verb mi 'get'.	nan	nan	nan
+abui1241	GB105	nan	2.0	y	direct object is not really a relevant term for the Abui system but verbal prefixes can refer to recipients as well as patients	nan	nan	nan
+abui1241	GB106	nan	2.0	n		Kratochvil (2007:11)	nan	nan
+abui1241	GB107	nan	2.0	n		nan	nan	nan
+abui1241	GB108	nan	2.0	y	not 100& sure	nan	nan	nan
+abui1241	GB109	nan	2.0	n		nan	nan	nan
+abui1241	GB110	nan	2.0	n	All verbs undergo stem alternation to mark aspect but not suppletion	Kratochvil (2007:210)	nan	nan
+abui1241	GB111	nan	2.0	y	this is true for root alternation in aspect marking, but not for pronomial marking.	nan	nan	nan
+abui1241	GB112	nan	2.0	n	There are verbs that can be used both transitively and intransitively, but the transitive ones will always take on a pronomial marker.	nan	nan	nan
+abui1241	GB113	nan	2.0	n		nan	nan	nan
+abui1241	GB114	nan	2.0	n		nan	nan	nan
+abui1241	GB115	nan	2.0	y	The distributive marker tV-	Kratochvil (2007:80)	nan	nan
+abui1241	GB116	nan	2.0	n		nan	nan	nan
+abui1241	GB117	nan	2.0	n		(Kratochvil 2007:161)	nan	nan
+abui1241	GB118	nan	2.0	y		nan	nan	nan
+abui1241	GB119	nan	2.0	y		nan	nan	nan
+abui1241	GB120	nan	2.0	y		nan	nan	nan
+abui1241	GB121	nan	2.0	n		nan	nan	nan
+abui1241	GB122	nan	2.0	y		nan	nan	nan
+abui1241	GB123	nan	2.0	y		Kratochvil (2007:294)	nan	nan
+abui1241	GB124	nan	2.0	n		nan	nan	nan
+abui1241	GB125	nan	2.0	n		nan	nan	nan
+abui1241	GB126	nan	2.0	y		nan	nan	nan
+abui1241	GB127	nan	2.0	y		nan	nan	nan
+abui1241	GB128	nan	0.0	n	Used frequently in serial verb construction, especially with verbs containing differential object marking with respect to animacy, but aspect alternation l-r is common.	Kratochvil (2007:294)	nan	nan
+abui1241	GB129	nan	2.0	n		nan	nan	nan
+abui1241	GB130	nan	4.0	1		nan	nan	nan
+abui1241	GB131	nan	2.0	n		nan	nan	nan
+abui1241	GB132	nan	2.0	n		nan	nan	nan
+abui1241	GB133	nan	2.0	y		nan	nan	nan
+abui1241	GB134	nan	2.0	y		nan	nan	nan
+abui1241	GB135	nan	2.0	y		nan	nan	nan
+abui1241	GB136	nan	2.0	y		nan	nan	nan
+abui1241	GB137	nan	2.0	y		nan	nan	nan
+abui1241	GB138	nan	2.0	n		nan	nan	nan
+abui1241	GB139	nan	2.0	y		nan	nan	nan
+abui1241	GB140	nan	2.0	n		nan	nan	nan
+abui1241	GB141	nan	2.0	y		nan	nan	nan
+abui1241	GB142	nan	2.0	y		nan	nan	nan
+abui1241	GB143	nan	0.0	n		nan	nan	nan
+abui1241	GB144	nan	0.0	n		nan	nan	nan
+abui1241	GB145	nan	0.0	y		nan	nan	nan
+abui1241	GB146	nan	2.0	y		nan	nan	nan
+abui1241	GB147	nan	2.0	n		nan	nan	nan
+abui1241	GB148	nan	2.0	n		nan	nan	nan
+abui1241	GB149	nan	2.0	n		nan	nan	nan
+abui1241	GB150	nan	2.0	y		nan	nan	nan
+abui1241	GB151	nan	2.0	n		nan	nan	nan
+abui1241	GB152	nan	2.0	y		nan	nan	nan
+abui1241	GB153	nan	1.0	?		nan	nan	nan
+abui1241	GB154	nan	0.0	y		nan	nan	nan
+abui1241	GB155	nan	2.0	n		nan	nan	nan
+abui1241	GB156	nan	2.0	n		nan	nan	nan
+abui1241	GB157	nan	2.0	y		nan	nan	nan
+abui1241	GB158	nan	2.0	y		nan	nan	nan
+abui1241	GB159	nan	2.0	n	carries various functions and is a productive process for (stative) verbs	nan	nan	nan
+abui1241	GB160	nan	2.0	y	numerals as well.	nan	nan	nan
+abui1241	GB162	nan	0.0	n		nan	nan	nan
+abui1241	GB163	How many genders/noun classes are there?	?	Not known		nan	3:?;0:several;1:2;2:n	nan
+abui1241	GB165	nan	2.0	n		nan	nan	nan
+abui1241	GB166	nan	2.0	n		nan	nan	nan
+abui1241	GB167	nan	2.0	n		nan	nan	nan
+abui1241	GB168	nan	0.0	y	Lots of speaker variation. Some young speakers use di as a 3 person marker for inanimates as well.	nan	nan	nan
+abui1241	GB169	nan	0.0	n		nan	nan	nan
+abui1241	GB170	Can an attributive nominal modifier denoting a property concept agree with any gender/noun class of the noun it modifies?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+abui1241	GB171	Can an adnominal demonstrative agree in gender/noun class with the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+abui1241	GB172	nan	2.0	n		nan	nan	nan
+abui1241	GB173	Are noun class and number always marked by a portmanteau morpheme on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB174	Are noun class and number marked by a portmanteau morpheme on the noun in singular?	?	Not known		nan	0:n	nan
+abui1241	GB175	Are noun class and number marked by a portmanteau morpheme on the noun in plural?	?	Not known		nan	0:n	nan
+abui1241	GB176	Can agreement of gender/noun class and number be marked by a portmanteau morpheme on other items in the noun phrase?	?	Not known		nan	0:n	nan
+abui1241	GB177	nan	2.0	y	unclear to me: If this question is about animacy based differential object marking (marked on the verb), then the answer is yes. 	nan	nan	nan
+abui1241	GB178	Are there several different singular genders/noun classes that can have the same plural gender/noun class?	?	Not known		nan	0:n	nan
+abui1241	GB179	Are there genders/noun classes that cannot take number marking?	?	Not known		nan	0:n	nan
+abui1241	GB181	Is number marking obligatory on certain (types of) nouns?	?	Not known		nan	1:?;2:y;0:n	nan
+abui1241	GB182	Is number marking obligatory on animate nouns?	?	Not known		nan	1:?;0:n	nan
+abui1241	GB183	Is number marking obligatory on human nouns?	?	Not known		nan	1:?;0:n	nan
+abui1241	GB184	nan	2.0	n		nan	nan	nan
+abui1241	GB185	nan	2.0	n		nan	nan	nan
+abui1241	GB186	nan	2.0	n		nan	nan	nan
+abui1241	GB187	nan	2.0	n		nan	nan	nan
+abui1241	GB188	nan	2.0	n		nan	nan	nan
+abui1241	GB191	nan	0.0	n		nan	nan	nan
+abui1241	GB192	Are the noun's phonological properties relevant for any gender assignment?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, There is gender and it is possible that phonology influences assignment
+abui1241	GB193	nan	4.0	1		nan	nan	nan
+abui1241	GB194	nan	1.0	y	nu' : is considered indefinite and specific. Whereas a null marker is considered indefinite and non-specific	nan	nan	nan
+abui1241	GB195	Can a noun receive more than one noun class marker at the same time?	?	Not known		nan	0:n	nan
+abui1241	GB196	nan	2.0	n		nan	nan	nan
+abui1241	GB197	nan	2.0	n		nan	nan	nan
+abui1241	GB198	Can a numeral used attributively agree with any gender/noun class of the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+abui1241	GB199	Can verbs agree with the gender/noun class of the nominal object?	?	Not known		nan	1:y;0:n	nan
+abui1241	GB200	nan	0.0	y		nan	nan	nan
+abui1241	GB202	nan	0.0	n		nan	nan	nan
+abui1241	GB203	nan	4.0	0	There is no real universal quantifier, but instead the verb tafuda 'be.all'	e.g. of tafuda: Kratochvil (2007: 204)	nan	nan
+abui1241	GB204	nan	2.0	y	The marker is kanakda 'be.every'. This at least shows that both forms are stative verbs.	nan	nan	nan
+abui1241	GB205	Is number marking prohibited on inanimate nouns?	?	Not known		nan	1:?;0:n	nan
+abui1241	GB206	Is number marking prohibited on mass nouns?	?	Not known		nan	1:?;0:n	nan
+abui1241	GB207	Is number marking optional on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+abui1241	GB208	Can singular number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB209	Can singular number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB210	Can singular number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB211	Can singular number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB212	Can dual number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB213	Can dual number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB214	Can dual number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB215	Can dual number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB216	Can dual number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB217	Can plural number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB218	Can plural number be marked by a suffix on the noun?	?	Not known		nan	1:y;0:n	nan
+abui1241	GB219	Can plural number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB220	Can plural number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB221	Can plural number be marked by reduplication on the noun?	?	Not known		nan	1:y;0:n	nan
+abui1241	GB222	Can trial number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB223	Can trial number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB224	Can trial number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB225	Can trial number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB226	Can trial number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB227	Can paucal number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB228	Can paucal number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB229	Can paucal number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB230	Can paucal number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB231	Can paucal number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB232	Can diminutive be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB234	Can diminutive be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB235	Can diminutive be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB236	Can diminutive be marked by tone on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB237	Can diminutive be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB238	Can diminutive be marked by noun class selection?	?	Not known		nan	0:n	nan
+abui1241	GB239	Can augmentative be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB240	Can augmentative be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB241	Can augmentative be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB242	Can augmentative be marked by tone on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB243	Can augmentative be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB244	Can augmentative be marked by noun class selection?	?	Not known		nan	0:n	nan
+abui1241	GB245	Can gender/noun class be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB246	Can gender/noun class be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB247	Can gender/noun class be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+abui1241	GB248	Can gender/noun class be marked by tone on the noun only?	?	Not known		nan	0:n	nan
+abui1241	GB249	nan	1.0	y		nan	nan	nan
+abui1241	GB250	nan	2.0	y		nan	nan	nan
+abui1241	GB251	nan	0.0	y		nan	nan	nan
+abui1241	GB252	nan	2.0	y	seeng nu ne-i naha [money SPC 1SG.LOC-own NEG] '(That certain) money is not mine'                                                            	(Kratochvil & Delpada 2015)	nan	nan
+abui1241	GB253	nan	2.0	y	seeng no-pa naha 'money 1sg.REC-have NEG' 'I don't have any money'	(Kratochvil & Delpada 2015)	nan	nan
+abui1241	GB254	nan	2.0	y	ha-ne ha-du dikang Tilaama [3.INAL-name 3.PAT- again Tilaama 'His name is also Tilaama'	Kratochvil corpus	nan	nan
+abui1241	GB255	nan	2.0	n		nan	nan	nan
+abui1241	GB256	nan	2.0	n		nan	nan	nan
+abui1241	GB257	nan	2.0	y		nan	nan	nan
+abui1241	GB258	nan	0.0	y		nan	nan	nan
+abui1241	GB259	nan	0.0	n		nan	nan	nan
+abui1241	GB260	nan	2.0	n		nan	nan	nan
+abui1241	GB261	nan	1.0	y		nan	nan	nan
+abui1241	GB262	nan	2.0	n		nan	nan	nan
+abui1241	GB263	nan	2.0	y		nan	nan	nan
+abui1241	GB264	nan	2.0	n		nan	nan	nan
+abui1241	GB265	nan	5.0	?		nan	nan	nan
+abui1241	GB266	nan	2.0	n		nan	nan	nan
+abui1241	GB267	nan	0.0	n		nan	nan	nan
+abui1241	GB268	nan	0.0	n		nan	nan	nan
+abui1241	GB269	nan	0.0	n		nan	nan	nan
+abui1241	GB270	nan	5.0	?		nan	nan	nan
+abui1241	GB271	nan	2.0	?		nan	nan	nan
+abui1241	GB272	nan	2.0	?		nan	nan	nan
+abui1241	GB273	nan	2.0	n		nan	nan	nan
+abui1241	GB274	nan	3.0	?		nan	nan	nan
+abui1241	GB275	nan	5.0	?		nan	nan	nan
+abui1241	GB276	nan	5.0	?		nan	nan	nan
+abui1241	GB277	nan	0.0	n		nan	nan	nan
+abui1241	GB278	nan	0.0	y		nan	nan	nan
+abui1241	GB279	nan	2.0	n		nan	nan	nan
+abui1241	GB280	nan	0.0	y		nan	nan	nan
+abui1241	GB281	nan	2.0	n		nan	nan	nan
+abui1241	GB282	nan	0.0	y		nan	nan	nan
+abui1241	GB283	Can verbs agree with the gender/noun class of the nominal subject?	?	Not known		nan	1:y;0:n	nan
+abui1241	GB284	nan	0.0	n	No Subject marking on verb	nan	nan	nan
+abui1241	GB285	nan	2.0	n		nan	nan	nan
+abui1241	GB286	nan	2.0	n		nan	nan	nan
+abui1241	GB287	nan	0.0	n		nan	nan	nan
+abui1241	GB288	nan	0.0	n		nan	nan	nan
+abui1241	GB289	nan	0.0	n		nan	nan	nan
+abui1241	GB290	nan	0.0	y		nan	nan	nan
+abui1241	GB291	nan	2.0	n		nan	nan	nan
+abui1241	GB292	nan	0.0	y		nan	nan	nan
+abui1241	GB294	nan	0.0	n		nan	nan	nan
+abui1241	GB295	nan	0.0	y		nan	nan	nan
+abui1241	GB296	nan	2.0	n		nan	nan	nan
+abui1241	GB297	Can polar interrogation be marked by a construction of the type “V Neg V”?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB298	Can standard negation be marked by negative auxiliaries?	?	Not known		nan	0: absent;1: present	Not mentioned, Unclear whether it should count as an auxiliary given that no verbs carry inflection
+abui1241	GB299	Can standard negation be marked by a freestanding particle?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB300	Is there a verb for the function 'give' that is suppletive for any grammatical category?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB301	Does the language have inclusory constructions productively?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB302	Is there a dedicated, obligatory and productive construction that marks passive voice, not morphologically on the verb nor on the A argument?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+abui1241	GB303	Is there a dedicated, obligatory, productive construction that marks antipassive voice, not morphologically on the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+abui1241	GB304	Can the A argument be overtly expressed in a passive clause or be overtly marked to signal a passive clause?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB305	Are there phonologically independent reflexive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned, Not clear if they are phonologically independent
+abui1241	GB306	Are there reciprocal pronouns that are not-bipartite?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB307	Are there bipartite reciprocal pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB308	Can tense be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+abui1241	GB309	Are there multiple past or future tenses, distinguishing distance from Time of Reference, in any form?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+abui1241	GB310	Can aspect be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+abui1241	GB311	Can mood be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+abui1241	GB312	Can modal distinctions be marked on the verb, productively, dedicatedly and obligatorily?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+abui1241	GB313	Are there possessive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB314	Can augmentative be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB315	Can diminutive be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB316	Can singular number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+abui1241	GB317	Can dual number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+abui1241	GB318	Can plural number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+abui1241	GB319	Can trial number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+abui1241	GB320	Can paucal number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+abui1241	GB321	Is there an open class of noun stems that are assigned to gender/noun class categories arbitrarily?	?	Not known		nan	0: absent;1: present	Not mentioned, There may be a gender or noun class system but it seems to be semantic
+abui1241	GB322	Does the language encode direct evidentiality (perceived with senses)?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB323	Does the language encode indirect evidentiality (hearsay, inference, etc.)?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB324	Are some content interrogatives (who?, what?, etc.) expressed in interrogative verbs?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB325	Is there a count/mass distinction in content interrogatives (e.g. English how many vs. how much)?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB326	Do (nominal) content interrogatives normally or frequently occur in situ (i.e. in the normal position for a non-interrogative NP in the same participant role)?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB327	Can the relative clause follow the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB328	Can the relative clause precede the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB329	Are there internally-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB330	Are there correlative relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB331	Are there adjoined relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB332	Are there double-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB333	nan	2.0	y		nan	nan	nan
+abui1241	GB334	Is there synchronic evidence for any element of a quinary counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB335	Is there synchronic evidence for any element of a vigesimal counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+abui1241	GB336	nan	2.0	n		nan	nan	nan
+abui1241	GB502	What is the relative position of possessor pronoun and possessed in the attributive possessive construction?	?	Not known		nan	1:n pospro;2:2;0:1	nan
+abui1241	GB503	Are S and A marked by the same affix/clitic?	?	Not known		nan	0:y;1:n	nan
+abui1241	GB508	Are there core adjectives (elements denoting property concepts) that act like nouns?	?	Not known		nan	0:n	nan
+abui1241	GB509	nan	0.0	y		nan	nan	nan
+abui1241	GB510	nan	0.0	y		nan	nan	nan
+abui1241	GB511	nan	0.0	y		nan	nan	nan
+abui1241	GB512	nan	0.0	y		nan	nan	nan
+abui1241	GB514	nan	0.0	n		nan	nan	nan
+abui1241	GB515	nan	0.0	n		nan	nan	nan
+abui1241	GB516	nan	0.0	1		nan	nan	nan
+abui1241	GB517	nan	0.0	y		nan	nan	nan
+abui1241	GB518	nan	0.0	y		nan	nan	nan
+abui1241	GB519	nan	0.0	y		nan	nan	nan
+abui1241	GB520	nan	0.0	y		nan	nan	nan
+abui1241	GB521	nan	0.0	n		nan	nan	nan
+abui1241	R1102	nan	0.0	4	labial, alveodental, palatal, velar, glottal	Kratochvil (2007:12)	nan	nan
+abui1241	R1103	nan	0.0	3	labial, alveodental, velar	Kratochvil (2007:12)	nan	nan
+abui1241	R1103a	nan	0.0	n		nan	nan	nan
+abui1241	R1103b	nan	0.0	n		nan	nan	nan
+abui1241	R1105	nan	0.0	y		nan	nan	nan
+abui1241	R1106	nan	0.0	n		nan	nan	nan
+abui1241	R1107	nan	0.0	y		nan	nan	nan
+abui1241	R1108	nan	0.0	n		nan	nan	nan
+abui1241	R1109	nan	0.0	y		nan	nan	nan
+abui1241	R1109a	nan	0.0	n		nan	nan	nan
+abui1241	R1109b	nan	0.0	n		nan	nan	nan
+abui1241	R1110	nan	0.0	n		nan	nan	nan
+abui1241	R1111	nan	0.0	y		nan	nan	nan
+abui1241	R1112	nan	0.0	n		nan	nan	nan
+abui1241	R1113a	nan	0.0	y		nan	nan	nan
+abui1241	R1115	nan	0.0	y	"lexical tone exists although see Reesink's discussion taken from Kratochvil (2007:12) ""Syllables are combined to form prosodic words, in which heavy syllables (syllables with a complex nucleus) attract stress."	nan	nan	nan
+abui1241	R1116	nan	0.0	y		nan	nan	nan
+abui1241	R1117	nan	0.0	y		nan	nan	nan
+abui1241	R1118	nan	0.0	y		nan	nan	nan
+abui1241	R1202	nan	0.0	y	n,k,t,s,l,r,ng	nan	nan	nan
+abui1241	R1203a	nan	0.0	n		nan	nan	nan
+abui1241	R1204	nan	0.0	n		nan	nan	nan
+abui1241	R2203	nan	0.0	y	only for 1st and 2nd person	nan	nan	nan
+abui1241	R2504a	Is plant status a relevant category in the noun class/gender system?	?	Not known		nan	0:y;1:n	nan
+abui1241	R2507	Is there concord beyond the NP, i.e. agreement of elements outside the NP with the noun class of a noun?	?	Not known		nan	0:n	nan
+abui1241	R2508	nan	0.0	y	free	nan	nan	nan
+abui1241	R2601	nan	0.0	y		nan	nan	nan
+abui1241	R2702	nan	0.0	y		nan	nan	nan
+abui1241	R2703b	nan	0.0	n		nan	nan	nan
+abui1241	R3103	Do the same morphemes systematically encode both TAM and person?	?	Not known		nan	0:n	nan
+abui1241	R3502	nan	0.0	n		nan	nan	nan
+abui1241	R3605	nan	0.0	n		nan	nan	nan
+abui1241	R4305a	nan	0.0	y		nan	nan	nan
+abui1241	R4307	nan	0.0	n		nan	nan	nan
+abui1241	R4308	nan	0.0	n		nan	nan	nan
+abui1241	R4308a	nan	0.0	y		nan	nan	nan
+abui1241	R4309a	nan	0.0	y		nan	nan	nan
+abui1241	R4309b	nan	0.0	y		nan	nan	nan
+abui1241	R4309c	nan	0.0	n		nan	nan	nan
+abui1241	R4309d	nan	0.0	n		nan	nan	nan
+abui1241	R4311	nan	0.0	n		nan	nan	nan
+abui1241	R5202	nan	3.0	?		nan	nan	nan
+abui1241	R5203	nan	0.0	n		nan	nan	nan
+abui1241	R5204	nan	0.0	n		nan	nan	nan
+abui1241	R5205	nan	0.0	n		nan	nan	nan
+abui1241	R5206	nan	0.0	n		nan	nan	nan
+abui1241	R5207	nan	0.0	n		nan	nan	nan
+abui1241	R5208	nan	0.0	n		nan	nan	nan
+abui1241	R5209	nan	0.0	n		nan	nan	nan
+abui1241	R5210	nan	0.0	y		nan	nan	nan
+abui1241	R5211	nan	0.0	y		nan	nan	nan
+abui1241	R5212	nan	0.0	n		nan	nan	nan
+abui1241	SD224	nan	0.0	1		nan	nan	nan
+abui1241	SD295	nan	0.0	y		nan	nan	nan
+abui1241	SD319	Are S and A marked by the same prefix/proclitic?	?	Not known		nan	1:y;0:n	nan
+abui1241	SD320	Are S and A marked by the same suffix/enclitic?	?	Not known		nan	1:?;0:n	nan
+abui1241	SD321	nan	0.0	y	Sometimes, it depends on the semantics of the verb. No-lila [1SG.REC-hot]'I am hot' & no-k fanga 'he told me', but also Na firai 'I run'	nan	nan	nan
+abui1241	SD341	nan	0.0	y		nan	nan	nan
+abui1241	SD342	nan	0.0	n		nan	nan	nan
+abui1241	SD343	nan	0.0	y	kaleng: not.want	nan	nan	nan
+abui1241	SD344	nan	0.0	n		nan	nan	nan
+abui1241	SD369	nan	0.0	n		nan	nan	nan
+abui1241	SD381	nan	0.0	y		nan	nan	nan
+abui1241	SD388	Are there allophonic phonation types for vowels?	?	Not known		nan	0:y;1:n	nan
+abui1241	SD389	Is there nominalizing morphology?	?	Not known		nan	0:y	nan
+abui1241	SD390	Can horizontal direction be marked in demonstratives?	?	Not known		nan	1:y;0:n	nan
+abui1241	SD391	Is there a predicative possessive construction?	?	Not known		nan	0:y	nan
+abui1241	SD392	Are S and O marked by the same prefix/proclitic?	?	Not known		nan	0:n	nan
+abui1241	SD393	Are S and O marked by the same suffix/enclitic?	?	Not known		nan	0:n	nan
+abui1241	SD394	Are there suppletive forms for negated verbs?	?	Not known		nan	0:y	nan
+abui1241	SD395	Is topological information expressed by adpositions?	?	Not known		nan	0:n	nan
+abui1241	SD396	Is topological information expressed by nouns?	?	Not known		nan	0:y	nan
+abui1241	SD397	Are there native terms expressing directions in space on a geocentric coordinate system (geocentric terms)?	?	Not known		nan	0:y	nan
+abui1241	SD398	Do geocentric terms have deictic use?	?	Not known		nan	0:y	nan
+abui1241	SD399	Can geocentric terms function as adverbs?	?	Not known		nan	0:y	nan
+abui1241	SD400	Can geocentric terms function as adpositions?	?	Not known		nan	0:y	nan
+abui1241	SD401	Can demonstratives function as adverbs (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+abui1241	SD402	Can demonstratives function as prepositions (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+abui1241	SD403	Is it possible to employ an absolute frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+abui1241	SD404	Is it possible to employ an intrinsic frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+abui1241	SD405	Is it possible to employ a relative frame of reference when expressing projective spatial relations?	?	Not known		nan	1:?;0:n	nan
+abui1241	SD406	Is it possible to use another frame of reference?	?	Not known		nan	1:?;0:y	nan
+abui1241	SD407	Which frame of reference is preferred in the expression of projective spatial relations?	?	Not known		nan	1:?;0:a	nan

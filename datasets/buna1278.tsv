@@ -1,289 +1,413 @@
-Feature_ID	Language_ID	Value	Comment	Source
-R1102	buna1278	0.0		
-R1103	buna1278	1.0		
-R1103a	buna1278	0.0		
-R1103b	buna1278	0.0		
-R1105	buna1278	0.0		
-R1106	buna1278	0.0		
-R1107	buna1278	0.0		
-R1108	buna1278	0.0		
-R1109	buna1278	0.0		
-R1109a	buna1278	0.0		
-R1109b	buna1278	0.0		
-R1110	buna1278	0.0		
-R1111	buna1278	1.0		
-R1112	buna1278	0.0		
-R1113a	buna1278	1.0		
-R1115	buna1278	1.0		
-GB014	buna1278	0.0		
-R1117	buna1278	0.0	stress is on penultimate syllable	p. 62
-R1118	buna1278	1.0		
-R1202	buna1278	0.0		for CV patterns, see p.54-57
-R1203a	buna1278	0.0		
-R1204	buna1278	0.0		
-GB024	buna1278	4.0		p. 100
-GB025	buna1278	5.0		p. 100, p. 238 ff
-GB065	buna1278	5.0		p. 314
-SD224	buna1278	0.0		
-GB502	buna1278	0.0		
-GB193	buna1278	5.0		
-GB026	buna1278	2.0		
-GB203	buna1278	6.0		
-GB204	buna1278	2.0	naran 'every (sort)' precedes N, hotu-hotu 'all' follows N. 	p. 105-106
-R2508	buna1278	1.0		
-GB159	buna1278	3.0		
-GB050	buna1278	0.0	p.172-173ff: The Bunaq nominal classification system involves a two-way class distinction of ANIMATE versus INANIMATE noun class.	
-GB163	buna1278	1.0		
-GB051	buna1278	2.0		
-GB052	buna1278	3.0		
-GB053	buna1278	2.0		
-R2504a	buna1278	0.0	p.178: In the ANIMATE class are the nouns referring to corn, potato and pumpkin, foods which are at the centre of the diets of the Bunaq people and are the focus of agricultural production. By contrast, the crops of the INANIMATE noun class items, such as taro and rice, are on the whole much less significant in the livelihoods of the Bunaq.	
-GB192	buna1278	2.0		
-GB055	buna1278	0.0		
-GB056	buna1278	1.0	p.173: Noun class is a covert property of Bunaq nouns. It is reflected on two agreement targets, prefixes on verbs (§10.1) and determiners (§7.1)	
-R2507	buna1278	0.0		
-GB199	buna1278	0.0		
-GB283	buna1278	1.0	p. 188 has an example where verb agrees with animate noun subject.	section 10.1
-GB171	buna1278	3.0		section 7.1
-GB170	buna1278	2.0		
-GB198	buna1278	2.0		
-GB040	buna1278	0.0		
-GB245	buna1278	0.0		
-GB246	buna1278	0.0		
-GB247	buna1278	0.0		
-GB248	buna1278	0.0		
-GB195	buna1278	0.0		
-GB039	buna1278	2.0	"see p.117-118; p.197: Nouns are unmarked for number in Bunaq. Number may be optionally expressed through the use of items with quantificational meaning, specifying the amount of the
-referent."	
-GB041	buna1278	2.0		
-GB042	buna1278	2.0		
-GB043	buna1278	2.0		
-GB044	buna1278	2.0		
-GB165	buna1278	2.0		
-GB166	buna1278	2.0		
-GB200	buna1278	0.0		
-GB284	buna1278	0.0		
-GB185	buna1278	2.0		
-GB184	buna1278	2.0		
-GB179	buna1278	0.0		
-GB046	buna1278	2.0	There is an associative plural construction using the 3rd plural pronoun halaqi, see exs 59 and 60 on pg 196. 	
-GB178	buna1278	0.0		
-GB173	buna1278	0.0		
-GB174	buna1278	0.0		
-GB175	buna1278	0.0		
-GB176	buna1278	0.0		
-GB188	buna1278	2.0		
-GB187	buna1278	2.0		
-GB070	buna1278	2.0		p. 29 no morphological case in Bunaq
-GB071	buna1278	2.0		
-GB072	buna1278	2.0		
-GB073	buna1278	2.0		
-GB047	buna1278	3.0	p.75: There is also a sizeable group of roots that may appear without derivation as either nouns or verbs (§3.4), p.89.	
-GB048	buna1278	2.0		
-GB049	buna1278	3.0	"see p.89: a. verbs denoting an event/state and a noun denoting the associated instrument, result or patient of that event, and;
-b. verbs denoting an event/state and a noun denoting that same event/state."	
-GB020	buna1278	2.0		p.79; 274, also used on clauses
-GB194	buna1278	0.0		
-GB021	buna1278	2.0		see p.104; but not really obligatory
-GB022	buna1278	2.0		
-GB023	buna1278	2.0		p.79; 274, also in final position on clauses
-GB172	buna1278	2.0		
-GB186	buna1278	2.0	article can agree with noun class, not with number	
-GB509	buna1278	0.0		p. 99
-GB510	buna1278	0.0		
-GB035	buna1278	3.0	p.98: only prox vs non-prox; there are other types of demonstratives/determiners	
-GB511	buna1278	1.0		
-SD295	buna1278	1.0		
-GB037	buna1278	2.0		
-GB514	buna1278	1.0		
-GB515	buna1278	0.0		
-GB038	buna1278	2.0	"It depends what you mean by classified. There is the animate-inanimate ""gender"" contrast marked on demonstratives"	
-GB516	buna1278	2.0		
-GB517	buna1278	1.0		
-GB518	buna1278	0.0		
-GB519	buna1278	0.0		
-GB520	buna1278	1.0		
-GB521	buna1278	0.0		
-GB067	buna1278	1.0		
-GB333	buna1278	2.0	p.99-100, with 7-9 borrowed from surrounding AN	
-R2702	buna1278	1.0		
-GB336	buna1278	2.0		
-R2703b	buna1278	0.0		
-GB057	buna1278	2.0		
-R2601	buna1278	0.0		chapter 9
-GB058	buna1278	2.0		
-GB059	buna1278	2.0		
-GB060	buna1278	0.0		p. 311 ff. There are restrictions on the post- and pre- posing of alienable possessor phrases headed by gie depending on the meaning they carry.
-GB061	buna1278	2.0		p.321ff on inalienable possession
-GB062	buna1278	2.0		
-GB063	buna1278	2.0		
-GB064	buna1278	2.0		
-GB066	buna1278	1.0		
-GB250	buna1278	3.0		
-GB251	buna1278	0.0		p. 371
-GB252	buna1278	2.0		p. 371
-GB253	buna1278	3.0		
-GB254	buna1278	3.0		
-GB255	buna1278	2.0		
-GB256	buna1278	2.0		
-GB081	buna1278	2.0		
-GB111	buna1278	2.0		
-GB112	buna1278	3.0	referred to as 'labile verbs'	p. 363
-GB117	buna1278	2.0		p. 132
-GB118	buna1278	2.0		chapter 13
-GB119	buna1278	3.0	described as post-verbal predicate aspectual particles, p.499	
-GB120	buna1278	2.0		
-GB121	buna1278	2.0		
-GB122	buna1278	3.0		
-GB123	buna1278	3.0		
-GB124	buna1278	2.0		
-GB125	buna1278	2.0		
-GB126	buna1278	3.0		
-GB127	buna1278	3.0		
-GB128	buna1278	0.0		
-GB129	buna1278	2.0		
-GB158	buna1278	2.0		p. 68
-GB028	buna1278	2.0		p. 90
-GB029	buna1278	0.0	p.19 argued fro ProtoTAP. AS: But it should be N here, since it is not synchronically present in Bunaq.	
-GB030	buna1278	2.0	Yes in Corbett's sense of gender there is. But not if you mean a sex-based contrast of masculine- feminine.	
-GB168	buna1278	0.0		
-GB169	buna1278	0.0		
-GB197	buna1278	2.0		
-GB162	buna1278	0.0		
-GB196	buna1278	2.0		
-GB202	buna1278	0.0		
-R2203	buna1278	0.0		
-GB031	buna1278	3.0		p. 90
-GB167	buna1278	2.0		
-GB032	buna1278	2.0		
-GB033	buna1278	0.0		
-GB034	buna1278	2.0		
-GB089	buna1278	2.0		
-GB090	buna1278	2.0	p.358: In the corpus, there are seven monovalent verbs which have agreement prefixes coindexing their S argument. The S arguments of prefixing monovalent verbs are patientive, being low in properties such as control and volition	
-GB091	buna1278	2.0		
-GB092	buna1278	2.0		
-GB093	buna1278	2.0		
-GB094	buna1278	2.0	p.338: Prefixes on bivalent verbs index the P argument, and never the A. Bivalent verbs divide into the four classes seen above with the division made chiefly according to the prototypical ANIMACY of the P argument and the manner in which it is coindexed on the verb.	
-SD321	buna1278	1.0		
-GB249	buna1278	0.0		
-GB099	buna1278	2.0		
-GB100	buna1278	0.0		
-GB109	buna1278	2.0		
-R3502	buna1278	0.0		
-GB102	buna1278	0.0		
-GB141	buna1278	2.0	By prefixing on some verb classes, see p.358	
-GB142	buna1278	2.0	By absence of verbal prefixation and expression by free pronouns, see p.339 for Class I bivalent verbs, and p. 357: There are 502 monovalent verbs in the corpus. Each subcategorises for only an S argument (see §10.6 on verbs taking an S and an OBL) and take no agreement prefix.	
-GB143	buna1278	0.0		
-GB144	buna1278	0.0		
-GB145	buna1278	1.0		
-GB278	buna1278	1.0		
-GB103	buna1278	2.0	by means of erstwhile SVC > verbal postposition /h-ege/ '3sg-give', see p. 435	
-GB104	buna1278	2.0	by means of verbal postposition /dele/, p.421	
-GB105	buna1278	2.0		p. 126
-GB287	buna1278	0.0		
-GB288	buna1278	0.0		
-GB289	buna1278	1.0	prefix g- on the verb -ege 'give' encodes the recipient	
-GB290	buna1278	1.0		
-GB106	buna1278	3.0		
-GB108	buna1278	3.0		
-GB079	buna1278	2.0		
-GB080	buna1278	3.0		
-GB101	buna1278	0.0		
-GB110	buna1278	2.0		
-GB082	buna1278	2.0	p.29: Bunaq TAM marking is by serial verbs or postverbal free morphemes, similar to the Papuan type.	
-GB083	buna1278	2.0		
-GB084	buna1278	2.0		
-GB086	buna1278	3.0		
-GB087	buna1278	2.0		
-GB088	buna1278	2.0		
-GB113	buna1278	2.0		
-R3605	buna1278	0.0		
-GB114	buna1278	3.0		p.377: Reflexive prefix /dV-/
-GB115	buna1278	2.0		p.391: Reciprocal /tV-/
-GB116	buna1278	2.0		
-GB177	buna1278	4.0		
-GB074	buna1278	2.0		
-GB075	buna1278	3.0		p. 105
-GB076	buna1278	2.0		
-GB077	buna1278	3.0	"p.105: the oblique (locational and temporal) postposition no ‘OBL’ (and its dialectal variant ni ‘OBL’), the locational
-postposition gene ‘LOC’ and the similative postposition goet ‘LIKE’."	
-GB078	buna1278	1.0	In verbal postpositions, p.417	
-GB107	buna1278	2.0		
-GB137	buna1278	2.0	p.137: Clauses are negated by means of the clausal negator niq ‘NEG’ following the predicate. Niq ‘NEG’ is used to negate a clause irrespective of the type of predicate	
-GB138	buna1278	2.0		
-SD341	buna1278	0.0	p. 137-138	
-SD342	buna1278	1.0	p. 139-149	
-GB139	buna1278	2.0	p.141: negative imperatives are  encoded with the prohibitive modality adverb, hani ‘PROH’	
-GB140	buna1278	3.0	p.137: Niq ‘NEG’ is used to negate a clause irrespective of the type of predicate	
-SD343	buna1278	2.0		
-GB068	buna1278	2.0	p.83: There is no distinct adjective class in Bunaq. […] In Bunaq all verbs can occur attributively. That is, regardless of whether a verb is stative or active, monovalent or bivalent, it can occur modifying the head of an NP.	
-GB508	buna1278	0.0		
-GB069	buna1278	2.0		
-GB265	buna1278	3.0	adverb lesin 'more'	
-GB266	buna1278	3.0	the verbal form -o also marks point of relation in locations.	p. 430-431
-GB267	buna1278	0.0		
-GB268	buna1278	0.0		
-GB269	buna1278	0.0		
-GB277	buna1278	0.0		
-GB270	buna1278	4.0		
-GB273	buna1278	2.0		
-GB274	buna1278	2.0		
-GB275	buna1278	2.0		
-GB276	buna1278	3.0		
-GB160	buna1278	2.0	Numerals reduplicate, see pg 99.	
-GB146	buna1278	3.0		
-GB147	buna1278	2.0	p.384 /dV-/ reflexives are passive-like, i.e. middle verbs	
-GB148	buna1278	2.0		
-GB191	buna1278	0.0	A reflexive prefix is used on the verb to express a middle notion	p. 381 ff
-GB149	buna1278	2.0		
-GB151	buna1278	2.0		
-GB152	buna1278	3.0		
-GB150	buna1278	3.0		
-GB153	buna1278	0.0	sasi 'say, speak, tell' is not used in such contexts in the examples	
-GB027	buna1278	2.0		comitative, see p. 136-137; coordination of NP, see p.206-208: zero, /o/ 'AND', /halali/ '3DU'.
-GB130	buna1278	4.0		
-GB131	buna1278	2.0		
-GB132	buna1278	3.0	In trivalent clauses, the theme frequently occurs post-predicate, p.126	
-GB133	buna1278	2.0	p. 124	
-GB134	buna1278	2.0		
-GB135	buna1278	2.0		
-GB136	buna1278	2.0		
-R4305a	buna1278	0.0	p.193: The head of a restrictive RC occurs at the front of the RC marked with the restrictive focus particle na ‘FOC’ (§3.5.7.2). As with non-restrictive RCs, the head is gapped, that is, is missing from inside the RC itself.	
-R4307	buna1278	0.0	at least not non-finite	
-R4308	buna1278	0.0		
-R4308a	buna1278	1.0		
-R4309a	buna1278	1.0	answer based on examples like (82) p.279	
-R4309b	buna1278	1.0		
-R4311	buna1278	0.0		
-GB154	buna1278	0.0	p.446; and by means of /h-ini/ '3sg-caus', see p. 367	
-GB155	buna1278	2.0		
-GB156	buna1278	2.0	p.361: Note that g-ini ‘3AN-CAUS’ in (41d) is a straightforward causative with the verb topol ‘fall’ and not introducing a supposition. Answer was Y, but AS: I am not sure that Y is the right answer here. I think the meaning of -ini to denote an attributed quotation is an extension of the indirect causation denoted by -ini and not the other way round. Etymologically, -ini is a verb 'give' and not 'say'.	
-GB257	buna1278	2.0		
-GB258	buna1278	0.0		
-GB259	buna1278	0.0		
-GB260	buna1278	2.0		
-GB286	buna1278	2.0		
-GB285	buna1278	2.0		
-GB261	buna1278	1.0		
-GB291	buna1278	2.0		
-GB292	buna1278	0.0		
-GB262	buna1278	2.0		
-GB263	buna1278	2.0		
-GB264	buna1278	2.0		
-GB157	buna1278	2.0	Yes! At least in my understanding of the definition. See, for instance, ex 30 pg 251, ex 37 pg 255.	
-GB294	buna1278	0.0		
-GB295	buna1278	1.0		
-GB295	buna1278	1.0		
-SD369	buna1278	0.0		
-R5202	buna1278	1.0		
-R5203	buna1278	1.0	Terms for males of the ego’s parent’s generation show a “simple bifurcate merging pattern”: males of the parental generation on the ego’s father’s family are referred to as “father”, while males of the parental generation on the ego’s mother’s family have a distinct term, baba. 	
-R5204	buna1278	0.0		
-R5205	buna1278	0.0		
-R5206	buna1278	0.0		
-R5207	buna1278	0.0		
-R5208	buna1278	0.0		
-R5209	buna1278	0.0		
-R5210	buna1278	1.0		
-R5211	buna1278	0.0		
-R5212	buna1278	1.0		
-SD381	buna1278	1.0		
+Language_ID	Feature_ID	Feature	Value	Answer	Comment	Source	Possible Values	Suggested standardised comments
+buna1278	GB014	nan	0.0	n		nan	nan	nan
+buna1278	GB020	nan	2.0	y		p.79; 274, also used on clauses	nan	nan
+buna1278	GB021	nan	2.0	n		see p.104; but not really obligatory	nan	nan
+buna1278	GB022	nan	2.0	n		nan	nan	nan
+buna1278	GB023	nan	2.0	y		p.79; 274, also in final position on clauses	nan	nan
+buna1278	GB024	nan	4.0	2		p. 100	nan	nan
+buna1278	GB025	nan	5.0	2		p. 100, p. 238 ff	nan	nan
+buna1278	GB026	nan	2.0	n		nan	nan	nan
+buna1278	GB027	nan	2.0	y		comitative, see p. 136-137; coordination of NP, see p.206-208: zero, /o/ 'AND', /halali/ '3DU'.	nan	nan
+buna1278	GB028	nan	2.0	y		p. 90	nan	nan
+buna1278	GB029	nan	0.0	n	p.19 argued fro ProtoTAP. AS: But it should be N here, since it is not synchronically present in Bunaq.	nan	nan	nan
+buna1278	GB030	nan	2.0	n	Yes in Corbett's sense of gender there is. But not if you mean a sex-based contrast of masculine- feminine.	nan	nan	nan
+buna1278	GB031	nan	3.0	y		p. 90	nan	nan
+buna1278	GB032	nan	2.0	n		nan	nan	nan
+buna1278	GB033	nan	0.0	n		nan	nan	nan
+buna1278	GB034	nan	2.0	n		nan	nan	nan
+buna1278	GB035	nan	3.0	n	p.98: only prox vs non-prox; there are other types of demonstratives/determiners	nan	nan	nan
+buna1278	GB036	Is elevation morphologically marked in demonstratives?	?	Not known		nan	4:?;2:y;1: present;0: absent;3:n	Not mentioned
+buna1278	GB037	nan	2.0	n		nan	nan	nan
+buna1278	GB038	nan	2.0	n	"It depends what you mean by classified. There is the animate-inanimate ""gender"" contrast marked on demonstratives"	nan	nan	nan
+buna1278	GB039	nan	2.0	n	"see p.117-118; p.197: Nouns are unmarked for number in Bunaq. Number may be optionally expressed through the use of items with quantificational meaning, specifying the amount of the
+referent."	nan	nan	nan
+buna1278	GB040	nan	0.0	n		nan	nan	nan
+buna1278	GB041	nan	2.0	n		nan	nan	nan
+buna1278	GB042	nan	2.0	n		nan	nan	nan
+buna1278	GB043	nan	2.0	n		nan	nan	nan
+buna1278	GB044	nan	2.0	n		nan	nan	nan
+buna1278	GB045	Is number marking prohibited on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+buna1278	GB046	nan	2.0	y	There is an associative plural construction using the 3rd plural pronoun halaqi, see exs 59 and 60 on pg 196. 	nan	nan	nan
+buna1278	GB047	nan	3.0	y	p.75: There is also a sizeable group of roots that may appear without derivation as either nouns or verbs (§3.4), p.89.	nan	nan	nan
+buna1278	GB048	nan	2.0	n		nan	nan	nan
+buna1278	GB049	nan	3.0	y	"see p.89: a. verbs denoting an event/state and a noun denoting the associated instrument, result or patient of that event, and;
+b. verbs denoting an event/state and a noun denoting that same event/state."	nan	nan	nan
+buna1278	GB050	nan	0.0	y	p.172-173ff: The Bunaq nominal classification system involves a two-way class distinction of ANIMATE versus INANIMATE noun class.	nan	nan	nan
+buna1278	GB051	nan	2.0	n		nan	nan	nan
+buna1278	GB052	nan	3.0	n		nan	nan	nan
+buna1278	GB053	nan	2.0	y		nan	nan	nan
+buna1278	GB054	Is plant status a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+buna1278	GB055	nan	0.0	n		nan	nan	nan
+buna1278	GB056	nan	1.0	y	p.173: Noun class is a covert property of Bunaq nouns. It is reflected on two agreement targets, prefixes on verbs (§10.1) and determiners (§7.1)	nan	nan	nan
+buna1278	GB057	nan	2.0	n		nan	nan	nan
+buna1278	GB058	nan	2.0	n		nan	nan	nan
+buna1278	GB059	nan	2.0	y		nan	nan	nan
+buna1278	GB060	nan	0.0	y		p. 311 ff. There are restrictions on the post- and pre- posing of alienable possessor phrases headed by gie depending on the meaning they carry.	nan	nan
+buna1278	GB061	nan	2.0	y		p.321ff on inalienable possession	nan	nan
+buna1278	GB062	nan	2.0	n		nan	nan	nan
+buna1278	GB063	nan	2.0	n		nan	nan	nan
+buna1278	GB064	nan	2.0	y		nan	nan	nan
+buna1278	GB065	nan	5.0	1		p. 314	nan	nan
+buna1278	GB066	nan	1.0	y		nan	nan	nan
+buna1278	GB067	nan	1.0	1		nan	nan	nan
+buna1278	GB068	nan	2.0	y	p.83: There is no distinct adjective class in Bunaq. […] In Bunaq all verbs can occur attributively. That is, regardless of whether a verb is stative or active, monovalent or bivalent, it can occur modifying the head of an NP.	nan	nan	nan
+buna1278	GB069	nan	2.0	y		nan	nan	nan
+buna1278	GB070	nan	2.0	n		p. 29 no morphological case in Bunaq	nan	nan
+buna1278	GB071	nan	2.0	n		nan	nan	nan
+buna1278	GB072	nan	2.0	n		nan	nan	nan
+buna1278	GB073	nan	2.0	n		nan	nan	nan
+buna1278	GB074	nan	2.0	n		nan	nan	nan
+buna1278	GB075	nan	3.0	y		p. 105	nan	nan
+buna1278	GB076	nan	2.0	n		nan	nan	nan
+buna1278	GB077	nan	3.0	y	"p.105: the oblique (locational and temporal) postposition no ‘OBL’ (and its dialectal variant ni ‘OBL’), the locational
+postposition gene ‘LOC’ and the similative postposition goet ‘LIKE’."	nan	nan	nan
+buna1278	GB078	nan	1.0	y	In verbal postpositions, p.417	nan	nan	nan
+buna1278	GB079	nan	2.0	n		nan	nan	nan
+buna1278	GB080	nan	3.0	n		nan	nan	nan
+buna1278	GB081	nan	2.0	n		nan	nan	nan
+buna1278	GB082	nan	2.0	n	p.29: Bunaq TAM marking is by serial verbs or postverbal free morphemes, similar to the Papuan type.	nan	nan	nan
+buna1278	GB083	nan	2.0	n		nan	nan	nan
+buna1278	GB084	nan	2.0	n		nan	nan	nan
+buna1278	GB085	Are there multiple past or future tenses, distinguishing distance from Time of Reference, marked on the verb?	?	Not known		nan	0:n	nan
+buna1278	GB086	nan	3.0	n		nan	nan	nan
+buna1278	GB087	nan	2.0	n		nan	nan	nan
+buna1278	GB088	nan	2.0	n		nan	nan	nan
+buna1278	GB089	nan	2.0	n		nan	nan	nan
+buna1278	GB090	nan	2.0	y	p.358: In the corpus, there are seven monovalent verbs which have agreement prefixes coindexing their S argument. The S arguments of prefixing monovalent verbs are patientive, being low in properties such as control and volition	nan	nan	nan
+buna1278	GB091	nan	2.0	n		nan	nan	nan
+buna1278	GB092	nan	2.0	n		nan	nan	nan
+buna1278	GB093	nan	2.0	n		nan	nan	nan
+buna1278	GB094	nan	2.0	y	p.338: Prefixes on bivalent verbs index the P argument, and never the A. Bivalent verbs divide into the four classes seen above with the division made chiefly according to the prototypical ANIMACY of the P argument and the manner in which it is coindexed on the verb.	nan	nan	nan
+buna1278	GB095	Are variations in marking strategies of core participants based on TAM distinctions?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned
+buna1278	GB096	Are variations in marking strategies of core participants based on verb classes?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned
+buna1278	GB097	Are variations in marking strategies of core participants based on clause type, e.g. main vs. subordinate?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+buna1278	GB098	Are variations in marking strategies of core participants based on person distinctions?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned
+buna1278	GB099	nan	2.0	n		nan	nan	nan
+buna1278	GB100	nan	0.0	n		nan	nan	nan
+buna1278	GB101	nan	0.0	n		nan	nan	nan
+buna1278	GB102	nan	0.0	n		nan	nan	nan
+buna1278	GB103	nan	2.0	n	by means of erstwhile SVC > verbal postposition /h-ege/ '3sg-give', see p. 435	nan	nan	nan
+buna1278	GB104	nan	2.0	n	by means of verbal postposition /dele/, p.421	nan	nan	nan
+buna1278	GB105	nan	2.0	y		p. 126	nan	nan
+buna1278	GB106	nan	3.0	y		nan	nan	nan
+buna1278	GB107	nan	2.0	n		nan	nan	nan
+buna1278	GB108	nan	3.0	n		nan	nan	nan
+buna1278	GB109	nan	2.0	n		nan	nan	nan
+buna1278	GB110	nan	2.0	n		nan	nan	nan
+buna1278	GB111	nan	2.0	y		nan	nan	nan
+buna1278	GB112	nan	3.0	y	referred to as 'labile verbs'	p. 363	nan	nan
+buna1278	GB113	nan	2.0	n		nan	nan	nan
+buna1278	GB114	nan	3.0	y		p.377: Reflexive prefix /dV-/	nan	nan
+buna1278	GB115	nan	2.0	y		p.391: Reciprocal /tV-/	nan	nan
+buna1278	GB116	nan	2.0	n		nan	nan	nan
+buna1278	GB117	nan	2.0	n		p. 132	nan	nan
+buna1278	GB118	nan	2.0	y		chapter 13	nan	nan
+buna1278	GB119	nan	3.0	n	described as post-verbal predicate aspectual particles, p.499	nan	nan	nan
+buna1278	GB120	nan	2.0	y		nan	nan	nan
+buna1278	GB121	nan	2.0	n		nan	nan	nan
+buna1278	GB122	nan	3.0	n		nan	nan	nan
+buna1278	GB123	nan	3.0	n		nan	nan	nan
+buna1278	GB124	nan	2.0	n		nan	nan	nan
+buna1278	GB125	nan	2.0	n		nan	nan	nan
+buna1278	GB126	nan	3.0	n		nan	nan	nan
+buna1278	GB127	nan	3.0	n		nan	nan	nan
+buna1278	GB128	nan	0.0	n		nan	nan	nan
+buna1278	GB129	nan	2.0	n		nan	nan	nan
+buna1278	GB130	nan	4.0	1		nan	nan	nan
+buna1278	GB131	nan	2.0	n		nan	nan	nan
+buna1278	GB132	nan	3.0	y	In trivalent clauses, the theme frequently occurs post-predicate, p.126	nan	nan	nan
+buna1278	GB133	nan	2.0	y	p. 124	nan	nan	nan
+buna1278	GB134	nan	2.0	y		nan	nan	nan
+buna1278	GB135	nan	2.0	y		nan	nan	nan
+buna1278	GB136	nan	2.0	y		nan	nan	nan
+buna1278	GB137	nan	2.0	y	p.137: Clauses are negated by means of the clausal negator niq ‘NEG’ following the predicate. Niq ‘NEG’ is used to negate a clause irrespective of the type of predicate	nan	nan	nan
+buna1278	GB138	nan	2.0	n		nan	nan	nan
+buna1278	GB139	nan	2.0	y	p.141: negative imperatives are  encoded with the prohibitive modality adverb, hani ‘PROH’	nan	nan	nan
+buna1278	GB140	nan	3.0	y	p.137: Niq ‘NEG’ is used to negate a clause irrespective of the type of predicate	nan	nan	nan
+buna1278	GB141	nan	2.0	y	By prefixing on some verb classes, see p.358	nan	nan	nan
+buna1278	GB142	nan	2.0	y	By absence of verbal prefixation and expression by free pronouns, see p.339 for Class I bivalent verbs, and p. 357: There are 502 monovalent verbs in the corpus. Each subcategorises for only an S argument (see §10.6 on verbs taking an S and an OBL) and take no agreement prefix.	nan	nan	nan
+buna1278	GB143	nan	0.0	n		nan	nan	nan
+buna1278	GB144	nan	0.0	n		nan	nan	nan
+buna1278	GB145	nan	1.0	n		nan	nan	nan
+buna1278	GB146	nan	3.0	n		nan	nan	nan
+buna1278	GB147	nan	2.0	n	p.384 /dV-/ reflexives are passive-like, i.e. middle verbs	nan	nan	nan
+buna1278	GB148	nan	2.0	n		nan	nan	nan
+buna1278	GB149	nan	2.0	n		nan	nan	nan
+buna1278	GB150	nan	3.0	n		nan	nan	nan
+buna1278	GB151	nan	2.0	n		nan	nan	nan
+buna1278	GB152	nan	3.0	n		nan	nan	nan
+buna1278	GB153	nan	0.0	n	sasi 'say, speak, tell' is not used in such contexts in the examples	nan	nan	nan
+buna1278	GB154	nan	0.0	y	p.446; and by means of /h-ini/ '3sg-caus', see p. 367	nan	nan	nan
+buna1278	GB155	nan	2.0	n		nan	nan	nan
+buna1278	GB156	nan	2.0	n	p.361: Note that g-ini ‘3AN-CAUS’ in (41d) is a straightforward causative with the verb topol ‘fall’ and not introducing a supposition. Answer was Y, but AS: I am not sure that Y is the right answer here. I think the meaning of -ini to denote an attributed quotation is an extension of the indirect causation denoted by -ini and not the other way round. Etymologically, -ini is a verb 'give' and not 'say'.	nan	nan	nan
+buna1278	GB157	nan	2.0	y	Yes! At least in my understanding of the definition. See, for instance, ex 30 pg 251, ex 37 pg 255.	nan	nan	nan
+buna1278	GB158	nan	2.0	y		p. 68	nan	nan
+buna1278	GB159	nan	3.0	y		nan	nan	nan
+buna1278	GB160	nan	2.0	y	Numerals reduplicate, see pg 99.	nan	nan	nan
+buna1278	GB162	nan	0.0	n		nan	nan	nan
+buna1278	GB163	nan	1.0	2		nan	nan	nan
+buna1278	GB165	nan	2.0	n		nan	nan	nan
+buna1278	GB166	nan	2.0	n		nan	nan	nan
+buna1278	GB167	nan	2.0	n		nan	nan	nan
+buna1278	GB168	nan	0.0	y		nan	nan	nan
+buna1278	GB169	nan	0.0	n		nan	nan	nan
+buna1278	GB170	nan	2.0	n		nan	nan	nan
+buna1278	GB171	nan	3.0	y		section 7.1	nan	nan
+buna1278	GB172	nan	2.0	n		nan	nan	nan
+buna1278	GB173	nan	0.0	n		nan	nan	nan
+buna1278	GB174	nan	0.0	n		nan	nan	nan
+buna1278	GB175	nan	0.0	n		nan	nan	nan
+buna1278	GB176	nan	0.0	n		nan	nan	nan
+buna1278	GB177	nan	4.0	?		nan	nan	nan
+buna1278	GB178	nan	0.0	n		nan	nan	nan
+buna1278	GB179	nan	0.0	n		nan	nan	nan
+buna1278	GB181	Is number marking obligatory on certain (types of) nouns?	?	Not known		nan	1:?;2:y;0:n	nan
+buna1278	GB182	Is number marking obligatory on animate nouns?	?	Not known		nan	1:?;0:n	nan
+buna1278	GB183	Is number marking obligatory on human nouns?	?	Not known		nan	1:?;0:n	nan
+buna1278	GB184	nan	2.0	n		nan	nan	nan
+buna1278	GB185	nan	2.0	n		nan	nan	nan
+buna1278	GB186	nan	2.0	n	article can agree with noun class, not with number	nan	nan	nan
+buna1278	GB187	nan	2.0	n		nan	nan	nan
+buna1278	GB188	nan	2.0	n		nan	nan	nan
+buna1278	GB191	nan	0.0	n	A reflexive prefix is used on the verb to express a middle notion	p. 381 ff	nan	nan
+buna1278	GB192	nan	2.0	n		nan	nan	nan
+buna1278	GB193	nan	5.0	2		nan	nan	nan
+buna1278	GB194	nan	0.0	n		nan	nan	nan
+buna1278	GB195	nan	0.0	n		nan	nan	nan
+buna1278	GB196	nan	2.0	n		nan	nan	nan
+buna1278	GB197	nan	2.0	n		nan	nan	nan
+buna1278	GB198	nan	2.0	n		nan	nan	nan
+buna1278	GB199	nan	0.0	n		nan	nan	nan
+buna1278	GB200	nan	0.0	y		nan	nan	nan
+buna1278	GB202	nan	0.0	n		nan	nan	nan
+buna1278	GB203	nan	6.0	3		nan	nan	nan
+buna1278	GB204	nan	2.0	y	naran 'every (sort)' precedes N, hotu-hotu 'all' follows N. 	p. 105-106	nan	nan
+buna1278	GB205	Is number marking prohibited on inanimate nouns?	?	Not known		nan	1:?;0:n	nan
+buna1278	GB206	Is number marking prohibited on mass nouns?	?	Not known		nan	1:?;0:n	nan
+buna1278	GB207	Is number marking optional on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+buna1278	GB208	Can singular number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB209	Can singular number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB210	Can singular number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB211	Can singular number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB212	Can dual number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB213	Can dual number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB214	Can dual number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB215	Can dual number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB216	Can dual number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB217	Can plural number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB218	Can plural number be marked by a suffix on the noun?	?	Not known		nan	1:y;0:n	nan
+buna1278	GB219	Can plural number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB220	Can plural number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB221	Can plural number be marked by reduplication on the noun?	?	Not known		nan	1:y;0:n	nan
+buna1278	GB222	Can trial number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB223	Can trial number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB224	Can trial number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB225	Can trial number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB226	Can trial number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB227	Can paucal number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB228	Can paucal number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB229	Can paucal number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB230	Can paucal number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB231	Can paucal number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB232	Can diminutive be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB234	Can diminutive be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB235	Can diminutive be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB236	Can diminutive be marked by tone on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB237	Can diminutive be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB238	Can diminutive be marked by noun class selection?	?	Not known		nan	0:n	nan
+buna1278	GB239	Can augmentative be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB240	Can augmentative be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB241	Can augmentative be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB242	Can augmentative be marked by tone on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB243	Can augmentative be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+buna1278	GB244	Can augmentative be marked by noun class selection?	?	Not known		nan	0:n	nan
+buna1278	GB245	nan	0.0	n		nan	nan	nan
+buna1278	GB246	nan	0.0	n		nan	nan	nan
+buna1278	GB247	nan	0.0	n		nan	nan	nan
+buna1278	GB248	nan	0.0	n		nan	nan	nan
+buna1278	GB249	nan	0.0	n		nan	nan	nan
+buna1278	GB250	nan	3.0	n		nan	nan	nan
+buna1278	GB251	nan	0.0	y		p. 371	nan	nan
+buna1278	GB252	nan	2.0	y		p. 371	nan	nan
+buna1278	GB253	nan	3.0	n		nan	nan	nan
+buna1278	GB254	nan	3.0	n		nan	nan	nan
+buna1278	GB255	nan	2.0	n		nan	nan	nan
+buna1278	GB256	nan	2.0	n		nan	nan	nan
+buna1278	GB257	nan	2.0	y		nan	nan	nan
+buna1278	GB258	nan	0.0	y		nan	nan	nan
+buna1278	GB259	nan	0.0	n		nan	nan	nan
+buna1278	GB260	nan	2.0	n		nan	nan	nan
+buna1278	GB261	nan	1.0	y		nan	nan	nan
+buna1278	GB262	nan	2.0	n		nan	nan	nan
+buna1278	GB263	nan	2.0	y		nan	nan	nan
+buna1278	GB264	nan	2.0	n		nan	nan	nan
+buna1278	GB265	nan	3.0	n	adverb lesin 'more'	nan	nan	nan
+buna1278	GB266	nan	3.0	y	the verbal form -o also marks point of relation in locations.	p. 430-431	nan	nan
+buna1278	GB267	nan	0.0	n		nan	nan	nan
+buna1278	GB268	nan	0.0	n		nan	nan	nan
+buna1278	GB269	nan	0.0	n		nan	nan	nan
+buna1278	GB270	nan	4.0	n		nan	nan	nan
+buna1278	GB271	Are the predicates in the conjoined comparative construction antonyms?	?	Not known		nan	2:?;0:no data;3:y;1:n	nan
+buna1278	GB272	Do the  predicates in the conjoined comparative construction differ in polarity?	?	Not known		nan	2:?;0:no data;3:y;1:n	nan
+buna1278	GB273	nan	2.0	n		nan	nan	nan
+buna1278	GB274	nan	2.0	y		nan	nan	nan
+buna1278	GB275	nan	2.0	n		nan	nan	nan
+buna1278	GB276	nan	3.0	y		nan	nan	nan
+buna1278	GB277	nan	0.0	n		nan	nan	nan
+buna1278	GB278	nan	1.0	n		nan	nan	nan
+buna1278	GB279	Is there variation in conflation of core participants based on TAM distinctions?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+buna1278	GB280	Are variation in conflation of core participants based on verb classes?	?	Not known		nan	3:?;2:no data;0:y;1:n	nan
+buna1278	GB281	Is there variation in conflation of core participants based on clause type, e.g. main vs. subordinate?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+buna1278	GB282	Are variation in conflation of core participants based on person distinctions?	?	Not known		nan	3:?;2:no data;0:y;1:n	nan
+buna1278	GB283	nan	1.0	y	p. 188 has an example where verb agrees with animate noun subject.	section 10.1	nan	nan
+buna1278	GB284	nan	0.0	n		nan	nan	nan
+buna1278	GB285	nan	2.0	n		nan	nan	nan
+buna1278	GB286	nan	2.0	n		nan	nan	nan
+buna1278	GB287	nan	0.0	n		nan	nan	nan
+buna1278	GB288	nan	0.0	n		nan	nan	nan
+buna1278	GB289	nan	1.0	y	prefix g- on the verb -ege 'give' encodes the recipient	nan	nan	nan
+buna1278	GB290	nan	1.0	n		nan	nan	nan
+buna1278	GB291	nan	2.0	n		nan	nan	nan
+buna1278	GB292	nan	0.0	y		nan	nan	nan
+buna1278	GB294	nan	0.0	n		nan	nan	nan
+buna1278	GB295	nan	1.0	n		nan	nan	nan
+buna1278	GB295	nan	1.0	n		nan	nan	nan
+buna1278	GB296	Is there a morphosyntactically definable class of ideophones (beyond sound)?	?	Not known		nan	3:?;4:no data;0: absent;1: present;2:n	Not mentioned
+buna1278	GB297	Can polar interrogation be marked by a construction of the type “V Neg V”?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB298	Can standard negation be marked by negative auxiliaries?	?	Not known		nan	0: absent;1: present	Not mentioned, Unclear whether it should count as an auxiliary given that no verbs carry inflection
+buna1278	GB299	Can standard negation be marked by a freestanding particle?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB300	Is there a verb for the function 'give' that is suppletive for any grammatical category?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB301	Does the language have inclusory constructions productively?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB302	Is there a dedicated, obligatory and productive construction that marks passive voice, not morphologically on the verb nor on the A argument?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+buna1278	GB303	Is there a dedicated, obligatory, productive construction that marks antipassive voice, not morphologically on the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+buna1278	GB304	Can the A argument be overtly expressed in a passive clause or be overtly marked to signal a passive clause?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB305	Are there phonologically independent reflexive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned, Not clear if they are phonologically independent
+buna1278	GB306	Are there reciprocal pronouns that are not-bipartite?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB307	Are there bipartite reciprocal pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB308	Can tense be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+buna1278	GB309	Are there multiple past or future tenses, distinguishing distance from Time of Reference, in any form?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+buna1278	GB310	Can aspect be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+buna1278	GB311	Can mood be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+buna1278	GB312	Can modal distinctions be marked on the verb, productively, dedicatedly and obligatorily?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+buna1278	GB313	Are there possessive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB314	Can augmentative be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB315	Can diminutive be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB316	Can singular number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+buna1278	GB317	Can dual number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+buna1278	GB318	Can plural number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+buna1278	GB319	Can trial number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+buna1278	GB320	Can paucal number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+buna1278	GB321	Is there an open class of noun stems that are assigned to gender/noun class categories arbitrarily?	?	Not known		nan	0: absent;1: present	Not mentioned, There may be a gender or noun class system but it seems to be semantic
+buna1278	GB322	Does the language encode direct evidentiality (perceived with senses)?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB323	Does the language encode indirect evidentiality (hearsay, inference, etc.)?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB324	Are some content interrogatives (who?, what?, etc.) expressed in interrogative verbs?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB325	Is there a count/mass distinction in content interrogatives (e.g. English how many vs. how much)?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB326	Do (nominal) content interrogatives normally or frequently occur in situ (i.e. in the normal position for a non-interrogative NP in the same participant role)?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB327	Can the relative clause follow the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB328	Can the relative clause precede the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB329	Are there internally-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB330	Are there correlative relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB331	Are there adjoined relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB332	Are there double-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB333	nan	2.0	y	p.99-100, with 7-9 borrowed from surrounding AN	nan	nan	nan
+buna1278	GB334	Is there synchronic evidence for any element of a quinary counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB335	Is there synchronic evidence for any element of a vigesimal counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+buna1278	GB336	nan	2.0	n		nan	nan	nan
+buna1278	GB502	nan	0.0	1		nan	nan	nan
+buna1278	GB503	Are S and A marked by the same affix/clitic?	?	Not known		nan	0:y;1:n	nan
+buna1278	GB508	nan	0.0	n		nan	nan	nan
+buna1278	GB509	nan	0.0	y		p. 99	nan	nan
+buna1278	GB510	nan	0.0	y		nan	nan	nan
+buna1278	GB511	nan	1.0	n		nan	nan	nan
+buna1278	GB512	Is there an opposition between three or more elevation terms in the demonstrative system?	?	Not known		nan	2:?;0:y;1:n	nan
+buna1278	GB514	nan	1.0	y		nan	nan	nan
+buna1278	GB515	nan	0.0	n		nan	nan	nan
+buna1278	GB516	nan	2.0	0		nan	nan	nan
+buna1278	GB517	nan	1.0	n		nan	nan	nan
+buna1278	GB518	nan	0.0	y		nan	nan	nan
+buna1278	GB519	nan	0.0	y		nan	nan	nan
+buna1278	GB520	nan	1.0	n		nan	nan	nan
+buna1278	GB521	nan	0.0	n		nan	nan	nan
+buna1278	R1102	nan	0.0	4		nan	nan	nan
+buna1278	R1103	nan	1.0	2		nan	nan	nan
+buna1278	R1103a	nan	0.0	n		nan	nan	nan
+buna1278	R1103b	nan	0.0	n		nan	nan	nan
+buna1278	R1105	nan	0.0	y		nan	nan	nan
+buna1278	R1106	nan	0.0	n		nan	nan	nan
+buna1278	R1107	nan	0.0	y		nan	nan	nan
+buna1278	R1108	nan	0.0	n		nan	nan	nan
+buna1278	R1109	nan	0.0	y		nan	nan	nan
+buna1278	R1109a	nan	0.0	n		nan	nan	nan
+buna1278	R1109b	nan	0.0	n		nan	nan	nan
+buna1278	R1110	nan	0.0	n		nan	nan	nan
+buna1278	R1111	nan	1.0	n		nan	nan	nan
+buna1278	R1112	nan	0.0	n		nan	nan	nan
+buna1278	R1113a	nan	1.0	n		nan	nan	nan
+buna1278	R1115	nan	1.0	n		nan	nan	nan
+buna1278	R1116	Is there weight-sensitive suprasegmental prominence	?	Not known		nan	0:y;1:n	nan
+buna1278	R1117	nan	0.0	y	stress is on penultimate syllable	p. 62	nan	nan
+buna1278	R1118	nan	1.0	n		nan	nan	nan
+buna1278	R1202	nan	0.0	y		for CV patterns, see p.54-57	nan	nan
+buna1278	R1203a	nan	0.0	n		nan	nan	nan
+buna1278	R1204	nan	0.0	n		nan	nan	nan
+buna1278	R2203	nan	0.0	y		nan	nan	nan
+buna1278	R2504a	nan	0.0	y	p.178: In the ANIMATE class are the nouns referring to corn, potato and pumpkin, foods which are at the centre of the diets of the Bunaq people and are the focus of agricultural production. By contrast, the crops of the INANIMATE noun class items, such as taro and rice, are on the whole much less significant in the livelihoods of the Bunaq.	nan	nan	nan
+buna1278	R2507	nan	0.0	n		nan	nan	nan
+buna1278	R2508	nan	1.0	n		nan	nan	nan
+buna1278	R2601	nan	0.0	y		chapter 9	nan	nan
+buna1278	R2702	nan	1.0	n		nan	nan	nan
+buna1278	R2703b	nan	0.0	n		nan	nan	nan
+buna1278	R3103	Do the same morphemes systematically encode both TAM and person?	?	Not known		nan	0:n	nan
+buna1278	R3502	nan	0.0	n		nan	nan	nan
+buna1278	R3605	nan	0.0	n		nan	nan	nan
+buna1278	R4305a	nan	0.0	y	p.193: The head of a restrictive RC occurs at the front of the RC marked with the restrictive focus particle na ‘FOC’ (§3.5.7.2). As with non-restrictive RCs, the head is gapped, that is, is missing from inside the RC itself.	nan	nan	nan
+buna1278	R4307	nan	0.0	n	at least not non-finite	nan	nan	nan
+buna1278	R4308	nan	0.0	n		nan	nan	nan
+buna1278	R4308a	nan	1.0	n		nan	nan	nan
+buna1278	R4309a	nan	1.0	n	answer based on examples like (82) p.279	nan	nan	nan
+buna1278	R4309b	nan	1.0	n		nan	nan	nan
+buna1278	R4309c	Is there a complementizer that precedes a complement clause?	?	Not known		nan	3:?;1:no data;2:y;0:n	nan
+buna1278	R4309d	Is there a complementizer that follows a complement clause?	?	Not known		nan	3:?;1:no data;2:y;0:n	nan
+buna1278	R4311	nan	0.0	n		nan	nan	nan
+buna1278	R5202	nan	1.0	n		nan	nan	nan
+buna1278	R5203	nan	1.0	y	Terms for males of the ego’s parent’s generation show a “simple bifurcate merging pattern”: males of the parental generation on the ego’s father’s family are referred to as “father”, while males of the parental generation on the ego’s mother’s family have a distinct term, baba. 	nan	nan	nan
+buna1278	R5204	nan	0.0	n		nan	nan	nan
+buna1278	R5205	nan	0.0	n		nan	nan	nan
+buna1278	R5206	nan	0.0	n		nan	nan	nan
+buna1278	R5207	nan	0.0	n		nan	nan	nan
+buna1278	R5208	nan	0.0	n		nan	nan	nan
+buna1278	R5209	nan	0.0	n		nan	nan	nan
+buna1278	R5210	nan	1.0	n		nan	nan	nan
+buna1278	R5211	nan	0.0	y		nan	nan	nan
+buna1278	R5212	nan	1.0	y		nan	nan	nan
+buna1278	SD224	nan	0.0	1		nan	nan	nan
+buna1278	SD295	nan	1.0	n		nan	nan	nan
+buna1278	SD319	Are S and A marked by the same prefix/proclitic?	?	Not known		nan	1:y;0:n	nan
+buna1278	SD320	Are S and A marked by the same suffix/enclitic?	?	Not known		nan	1:?;0:n	nan
+buna1278	SD321	nan	1.0	n		nan	nan	nan
+buna1278	SD341	nan	0.0	y	p. 137-138	nan	nan	nan
+buna1278	SD342	nan	1.0	y	p. 139-149	nan	nan	nan
+buna1278	SD343	nan	2.0	?		nan	nan	nan
+buna1278	SD344	Are there adjectives (elements denoting property concepts) that act like nouns?	?	Not known		nan	1:y;0:n	nan
+buna1278	SD369	nan	0.0	n		nan	nan	nan
+buna1278	SD381	nan	1.0	n		nan	nan	nan
+buna1278	SD388	Are there allophonic phonation types for vowels?	?	Not known		nan	0:y;1:n	nan
+buna1278	SD389	Is there nominalizing morphology?	?	Not known		nan	0:y	nan
+buna1278	SD390	Can horizontal direction be marked in demonstratives?	?	Not known		nan	1:y;0:n	nan
+buna1278	SD391	Is there a predicative possessive construction?	?	Not known		nan	0:y	nan
+buna1278	SD392	Are S and O marked by the same prefix/proclitic?	?	Not known		nan	0:n	nan
+buna1278	SD393	Are S and O marked by the same suffix/enclitic?	?	Not known		nan	0:n	nan
+buna1278	SD394	Are there suppletive forms for negated verbs?	?	Not known		nan	0:y	nan
+buna1278	SD395	Is topological information expressed by adpositions?	?	Not known		nan	0:n	nan
+buna1278	SD396	Is topological information expressed by nouns?	?	Not known		nan	0:y	nan
+buna1278	SD397	Are there native terms expressing directions in space on a geocentric coordinate system (geocentric terms)?	?	Not known		nan	0:y	nan
+buna1278	SD398	Do geocentric terms have deictic use?	?	Not known		nan	0:y	nan
+buna1278	SD399	Can geocentric terms function as adverbs?	?	Not known		nan	0:y	nan
+buna1278	SD400	Can geocentric terms function as adpositions?	?	Not known		nan	0:y	nan
+buna1278	SD401	Can demonstratives function as adverbs (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+buna1278	SD402	Can demonstratives function as prepositions (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+buna1278	SD403	Is it possible to employ an absolute frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+buna1278	SD404	Is it possible to employ an intrinsic frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+buna1278	SD405	Is it possible to employ a relative frame of reference when expressing projective spatial relations?	?	Not known		nan	1:?;0:n	nan
+buna1278	SD406	Is it possible to use another frame of reference?	?	Not known		nan	1:?;0:y	nan
+buna1278	SD407	Which frame of reference is preferred in the expression of projective spatial relations?	?	Not known		nan	1:?;0:a	nan

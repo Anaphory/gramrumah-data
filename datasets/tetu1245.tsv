@@ -1,255 +1,410 @@
-Feature_ID	Language_ID	Value	Comment	Source
-R1102	tetu1245	0.0		
-R1103	tetu1245	1.0		
-R1103a	tetu1245	0.0		
-R1103b	tetu1245	0.0		
-R1105	tetu1245	0.0		
-R1106	tetu1245	0.0		
-R1107	tetu1245	0.0		
-R1108	tetu1245	0.0		
-R1109	tetu1245	0.0		
-R1109a	tetu1245	0.0		
-R1109b	tetu1245	0.0		
-R1110	tetu1245	0.0		
-R1111	tetu1245	0.0		
-R1112	tetu1245	0.0		
-R1113a	tetu1245	1.0		
-R1115	tetu1245	1.0		
-GB014	tetu1245	1.0	long vowels attract stress (but closed syllables do not)	
-R1117	tetu1245	0.0	penultimate syllable of root gets stress	
-R1118	tetu1245	1.0		
-R1202	tetu1245	0.0		
-R1203a	tetu1245	1.0		
-R1204	tetu1245	0.0		
-GB024	tetu1245	4.0		
-GB025	tetu1245	5.0		
-GB065	tetu1245	5.0		
-SD224	tetu1245	0.0		
-GB502	tetu1245	0.0		
-GB193	tetu1245	5.0		
-GB026	tetu1245	2.0		
-GB203	tetu1245	5.0	hotu-hotu 'all' follows the noun	p. 120
-GB204	tetu1245	2.0	sura 'every' is precedes the noun, and is also used as a transitive verb 'to count'. 	p. 153-154
-R2508	tetu1245	0.0		
-GB159	tetu1245	3.0		
-GB050	tetu1245	1.0		
-GB039	tetu1245	2.0		
-GB041	tetu1245	2.0		
-GB042	tetu1245	2.0		
-GB043	tetu1245	2.0		
-GB044	tetu1245	2.0		
-GB165	tetu1245	2.0		
-GB166	tetu1245	2.0		
-GB200	tetu1245	1.0		
-GB284	tetu1245	1.0	Certain verb classes agree with person and number of subject.	
-GB185	tetu1245	2.0		
-GB184	tetu1245	2.0		
-GB046	tetu1245	3.0		
-GB188	tetu1245	2.0		
-GB187	tetu1245	2.0		
-GB070	tetu1245	2.0		
-GB071	tetu1245	2.0	The same set of full pronouns is  used for subject and objects in argument or cleft or topicalised position. The set of reduced pronouns can only be used for subjects and preposed possessors	p. 111-112
-GB072	tetu1245	2.0		
-GB073	tetu1245	2.0		
-GB047	tetu1245	2.0		
-GB048	tetu1245	3.0	the  prefixes mak- and  ma- derive 'actor' nominalizations	p. 71-72
-GB049	tetu1245	3.0		p. 79-80
-GB020	tetu1245	2.0		
-GB194	tetu1245	0.0	the numeral ida 'one' also functions as an indefinite article	p. 123-124
-GB021	tetu1245	2.0		
-GB022	tetu1245	2.0		
-GB023	tetu1245	2.0		
-GB172	tetu1245	2.0		
-GB186	tetu1245	2.0		
-GB509	tetu1245	0.0		p. 110
-GB510	tetu1245	0.0		
-GB035	tetu1245	3.0		
-GB511	tetu1245	1.0		
-SD295	tetu1245	1.0		
-GB037	tetu1245	2.0		
-GB514	tetu1245	0.0		
-GB515	tetu1245	0.0		
-GB038	tetu1245	2.0		
-GB516	tetu1245	1.0	nemai 'here', nebá 'there'	p. 119-120
-GB517	tetu1245	1.0		
-GB518	tetu1245	1.0		
-GB520	tetu1245	1.0		
-GB521	tetu1245	0.0		
-GB067	tetu1245	1.0		
-GB333	tetu1245	2.0		
-R2702	tetu1245	1.0		
-GB336	tetu1245	2.0		
-R2703b	tetu1245	0.0		
-GB057	tetu1245	3.0		
-R2601	tetu1245	0.0	there are statistic tendencies showing alienable/inalienable classes, no clear-cut boundaries. There are inalienable nouns with fossilized possessive suffix -n.	p. 145-152
-GB058	tetu1245	2.0		
-GB059	tetu1245	2.0		
-GB060	tetu1245	0.0		
-GB061	tetu1245	3.0		
-GB062	tetu1245	3.0		
-GB063	tetu1245	3.0		
-GB064	tetu1245	2.0		
-GB066	tetu1245	1.0	Possessors can be preposed or postposed, and expressed with enclitic or not; and this is influenced by the alienability of the relationship, as well as other factors	p. 151-152
-GB250	tetu1245	2.0	hó 'have'	p. 187-188
-GB251	tetu1245	0.0	n-ó '3s-have/exist'	p. 188-189
-GB252	tetu1245	3.0		
-GB253	tetu1245	3.0		
-GB254	tetu1245	2.0	"As  in ""these coconuts (are) ours""."	p. 194
-GB255	tetu1245	2.0		
-GB256	tetu1245	2.0		
-GB081	tetu1245	2.0		
-GB111	tetu1245	2.0	Verbs starting with /h/ take subject marking, vowel initial verbs never take subject marking, and consonant-initial verbs besides /h/ take only 1sg subject marking.	p. 172-175
-GB112	tetu1245	2.0		
-GB117	tetu1245	3.0	ní 	p. 182-183
-GB118	tetu1245	2.0		
-GB119	tetu1245	2.0	e.g. lalika 'need not'	p. 228
-GB120	tetu1245	3.0	aspectual adverbs ti'an 'already', kedan 'immediately' are not verbal	p. 235-237
-GB121	tetu1245	2.0		
-GB122	tetu1245	3.0		
-GB123	tetu1245	3.0		
-GB124	tetu1245	2.0	some noun incorporation exists but it is rare	p. 181
-GB125	tetu1245	2.0		
-GB126	tetu1245	2.0		
-GB127	tetu1245	3.0		
-GB128	tetu1245	1.0	ditransitives are rare overall, and the verb fó'give' is the only one with two bare object NPs. The other verbs 'sell' and 'offer betel' introduce the recipient in  a PP with bá 'to'. 	p. 181-182
-GB129	tetu1245	2.0		
-GB158	tetu1245	2.0		
-GB028	tetu1245	2.0		p. 111
-GB029	tetu1245	0.0		
-GB030	tetu1245	2.0		
-GB168	tetu1245	1.0		
-GB169	tetu1245	0.0		
-GB197	tetu1245	2.0		
-GB162	tetu1245	0.0		
-GB196	tetu1245	2.0		
-GB202	tetu1245	0.0		
-R2203	tetu1245	0.0		
-GB031	tetu1245	2.0		
-GB167	tetu1245	2.0		
-GB032	tetu1245	2.0		
-GB033	tetu1245	0.0		
-GB034	tetu1245	2.0		
-GB089	tetu1245	2.0		
-GB090	tetu1245	2.0		
-GB091	tetu1245	2.0		
-GB092	tetu1245	3.0		
-GB093	tetu1245	2.0		
-GB094	tetu1245	3.0		
-GB503	tetu1245	0.0		
-GB249	tetu1245	0.0		
-GB099	tetu1245	2.0		
-GB100	tetu1245	0.0		
-GB109	tetu1245	2.0		
-R3502	tetu1245	0.0		
-GB102	tetu1245	0.0		
-GB141	tetu1245	3.0		
-GB142	tetu1245	2.0		
-GB143	tetu1245	1.0	Verbs of 'reported order' to call, to order, to tell: object of matrix verb is coreferent with subject of embedded verb.	p. 289-290
-GB144	tetu1245	1.0	Verbs of 'reported order' to call, to order, to tell: object of matrix verb is coreferent with subject of embedded verb.	p. 289-290
-GB145	tetu1245	1.0		
-GB278	tetu1245	1.0		
-GB103	tetu1245	2.0		
-GB104	tetu1245	2.0		
-GB105	tetu1245	3.0	recipients are expressed in PP or marginally as bare NP preceding the direct object.	p. 181, 268
-GB106	tetu1245	3.0		
-GB108	tetu1245	3.0		
-GB079	tetu1245	3.0		
-GB080	tetu1245	3.0		
-GB101	tetu1245	0.0		
-GB110	tetu1245	2.0		
-GB082	tetu1245	2.0		
-GB083	tetu1245	2.0		
-GB084	tetu1245	2.0		
-GB086	tetu1245	3.0		
-GB087	tetu1245	2.0		
-GB088	tetu1245	2.0		
-GB113	tetu1245	3.0		
-R3605	tetu1245	2.0		
-GB114	tetu1245	2.0	reflexive is expressed by an adverb (án)	p. 233
-GB115	tetu1245	2.0	reciprocal is expressed with circumfix hak- -k and with the word malu each other'	p. 233-234
-GB116	tetu1245	2.0		
-GB177	tetu1245	3.0		
-GB074	tetu1245	4.0		
-GB075	tetu1245	2.0		
-GB076	tetu1245	2.0		
-GB077	tetu1245	3.0		
-GB078	tetu1245	1.0	iha 'LOC', re 'at', ba 'to, for (time/result)	p. 160
-GB107	tetu1245	2.0		
-GB137	tetu1245	3.0		
-GB138	tetu1245	2.0		
-SD341	tetu1245	0.0	ha'i follows the verb and can co-occor with la. It is less common than la.	p. 228-229
-SD342	tetu1245	1.0	la precedes the verb and can co-occur with ha'i. It is more common than ha'i.	p. 228-229
-GB139	tetu1245	2.0	the auxiliary negative verb keta 'do not' expresses prohibitives. It precedes the main verb.	p. 226
-GB140	tetu1245	2.0	ha'i 'negator for nominal and verbal predicates', la/ lale 'negator for only verbal predicates'	p. 193, p. 211
-SD343	tetu1245	0.0		
-GB068	tetu1245	2.0		
-GB508	tetu1245	0.0		
-GB069	tetu1245	3.0		
-GB265	tetu1245	4.0	intensifying verb liu 'go further'	p. 232
-GB266	tetu1245	2.0		
-GB267	tetu1245	0.0		
-GB268	tetu1245	0.0		
-GB269	tetu1245	0.0		
-GB277	tetu1245	0.0		
-GB270	tetu1245	4.0		
-GB273	tetu1245	2.0		
-GB274	tetu1245	1.0		
-GB160	tetu1245	2.0		
-GB146	tetu1245	3.0		p. 13
-GB147	tetu1245	2.0		p.13
-GB148	tetu1245	2.0		p.13
-GB191	tetu1245	0.0		p. 13
-GB149	tetu1245	2.0		
-GB151	tetu1245	2.0		
-GB152	tetu1245	3.0	no morphological distinction	
-GB150	tetu1245	3.0		
-GB153	tetu1245	0.0	the verb hakara 'wish, want' is used to express desire	p. 290 and elswhere
-GB027	tetu1245	3.0	nó coordinates NPs and clauses	p. 301ff
-GB130	tetu1245	4.0		
-GB131	tetu1245	2.0		
-GB132	tetu1245	3.0		
-GB133	tetu1245	3.0		
-GB134	tetu1245	2.0		
-GB135	tetu1245	2.0		
-GB136	tetu1245	2.0	A rare patter of  SOV order exists in a negative and interrogative sentences. It is analysed as object incorporation	p. 181
-R4305a	tetu1245	0.0		
-R4307	tetu1245	1.0		p. 285
-R4308	tetu1245	0.0		
-R4308a	tetu1245	0.0		p. 312
-R4309a	tetu1245	0.0		p. 277
-R4309b	tetu1245	0.0		p. 278
-R4309c	tetu1245	2.0	hosi 'about', batu 'so that', ne'ebe 'so that; they are rare and infrequently used.	p 283ff.
-R4309d	tetu1245	0.0		
-R4311	tetu1245	0.0		
-GB154	tetu1245	0.0		
-GB155	tetu1245	3.0		
-GB156	tetu1245	2.0		
-GB257	tetu1245	2.0		
-GB258	tetu1245	0.0		
-GB259	tetu1245	0.0		
-GB260	tetu1245	2.0		
-GB286	tetu1245	2.0		
-GB285	tetu1245	2.0		
-GB261	tetu1245	1.0		
-GB291	tetu1245	2.0		
-GB292	tetu1245	0.0		
-GB262	tetu1245	2.0		
-GB263	tetu1245	2.0		
-GB264	tetu1245	2.0		
-GB157	tetu1245	3.0		
-GB294	tetu1245	0.0		
-GB295	tetu1245	1.0		
-GB295	tetu1245	1.0		
-SD369	tetu1245	0.0		
-R5202	tetu1245	1.0	ina-'ama is only example	
-R5203	tetu1245	1.0	ama	
-R5204	tetu1245	0.0	nai tua	
-R5205	tetu1245	2.0	no data	
-R5206	tetu1245	0.0	oa are paternal cousins, ali are maternal cousins; no distinction between cross/parallel cousins	
-R5207	tetu1245	2.0	no data	
-R5208	tetu1245	1.0	oa are paternal cousins, ali are maternal cousins; no distinction between cross/parallel cousins	
-R5209	tetu1245	0.0		
-R5210	tetu1245	1.0		
-R5211	tetu1245	0.0	mau, bi= older sibling, kau= younger sibling	
-R5212	tetu1245	1.0	mau = older brother, bi=older sister	
-SD381	tetu1245	1.0		
+Language_ID	Feature_ID	Feature	Value	Answer	Comment	Source	Possible Values	Suggested standardised comments
+tetu1245	GB014	nan	1.0	y	long vowels attract stress (but closed syllables do not)	nan	nan	nan
+tetu1245	GB020	nan	2.0	y		nan	nan	nan
+tetu1245	GB021	nan	2.0	n		nan	nan	nan
+tetu1245	GB022	nan	2.0	n		nan	nan	nan
+tetu1245	GB023	nan	2.0	y		nan	nan	nan
+tetu1245	GB024	nan	4.0	2		nan	nan	nan
+tetu1245	GB025	nan	5.0	2		nan	nan	nan
+tetu1245	GB026	nan	2.0	n		nan	nan	nan
+tetu1245	GB027	nan	3.0	n	nó coordinates NPs and clauses	p. 301ff	nan	nan
+tetu1245	GB028	nan	2.0	y		p. 111	nan	nan
+tetu1245	GB029	nan	0.0	n		nan	nan	nan
+tetu1245	GB030	nan	2.0	n		nan	nan	nan
+tetu1245	GB031	nan	2.0	n		nan	nan	nan
+tetu1245	GB032	nan	2.0	n		nan	nan	nan
+tetu1245	GB033	nan	0.0	n		nan	nan	nan
+tetu1245	GB034	nan	2.0	n		nan	nan	nan
+tetu1245	GB035	nan	3.0	n		nan	nan	nan
+tetu1245	GB036	Is elevation morphologically marked in demonstratives?	?	Not known		nan	4:?;2:y;1: present;0: absent;3:n	Not mentioned
+tetu1245	GB037	nan	2.0	n		nan	nan	nan
+tetu1245	GB038	nan	2.0	n		nan	nan	nan
+tetu1245	GB039	nan	2.0	n		nan	nan	nan
+tetu1245	GB040	Are there declensions (partly) determined by gender of the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB041	nan	2.0	n		nan	nan	nan
+tetu1245	GB042	nan	2.0	n		nan	nan	nan
+tetu1245	GB043	nan	2.0	n		nan	nan	nan
+tetu1245	GB044	nan	2.0	n		nan	nan	nan
+tetu1245	GB045	Is number marking prohibited on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+tetu1245	GB046	nan	3.0	n		nan	nan	nan
+tetu1245	GB047	nan	2.0	n		nan	nan	nan
+tetu1245	GB048	nan	3.0	y	the  prefixes mak- and  ma- derive 'actor' nominalizations	p. 71-72	nan	nan
+tetu1245	GB049	nan	3.0	y		p. 79-80	nan	nan
+tetu1245	GB050	nan	1.0	n		nan	nan	nan
+tetu1245	GB051	Is sex a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+tetu1245	GB052	Is shape a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+tetu1245	GB053	Is animacy (without reference to sex) a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+tetu1245	GB054	Is plant status a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+tetu1245	GB055	Does the language only have a gender distinction in 3rd person pronouns?	?	Not known		nan	0:n	nan
+tetu1245	GB056	Is there concord within the NP, i.e. agreement of elements within the NP with the noun class of a noun?	?	Not known		nan	1:y;0:n	nan
+tetu1245	GB057	nan	3.0	y		nan	nan	nan
+tetu1245	GB058	nan	2.0	n		nan	nan	nan
+tetu1245	GB059	nan	2.0	y		nan	nan	nan
+tetu1245	GB060	nan	0.0	y		nan	nan	nan
+tetu1245	GB061	nan	3.0	n		nan	nan	nan
+tetu1245	GB062	nan	3.0	y		nan	nan	nan
+tetu1245	GB063	nan	3.0	y		nan	nan	nan
+tetu1245	GB064	nan	2.0	y		nan	nan	nan
+tetu1245	GB065	nan	5.0	1		nan	nan	nan
+tetu1245	GB066	nan	1.0	y	Possessors can be preposed or postposed, and expressed with enclitic or not; and this is influenced by the alienability of the relationship, as well as other factors	p. 151-152	nan	nan
+tetu1245	GB067	nan	1.0	1		nan	nan	nan
+tetu1245	GB068	nan	2.0	y		nan	nan	nan
+tetu1245	GB069	nan	3.0	n		nan	nan	nan
+tetu1245	GB070	nan	2.0	n		nan	nan	nan
+tetu1245	GB071	nan	2.0	n	The same set of full pronouns is  used for subject and objects in argument or cleft or topicalised position. The set of reduced pronouns can only be used for subjects and preposed possessors	p. 111-112	nan	nan
+tetu1245	GB072	nan	2.0	n		nan	nan	nan
+tetu1245	GB073	nan	2.0	n		nan	nan	nan
+tetu1245	GB074	nan	4.0	y		nan	nan	nan
+tetu1245	GB075	nan	2.0	n		nan	nan	nan
+tetu1245	GB076	nan	2.0	n		nan	nan	nan
+tetu1245	GB077	nan	3.0	y		nan	nan	nan
+tetu1245	GB078	nan	1.0	y	iha 'LOC', re 'at', ba 'to, for (time/result)	p. 160	nan	nan
+tetu1245	GB079	nan	3.0	y		nan	nan	nan
+tetu1245	GB080	nan	3.0	n		nan	nan	nan
+tetu1245	GB081	nan	2.0	n		nan	nan	nan
+tetu1245	GB082	nan	2.0	n		nan	nan	nan
+tetu1245	GB083	nan	2.0	n		nan	nan	nan
+tetu1245	GB084	nan	2.0	n		nan	nan	nan
+tetu1245	GB085	Are there multiple past or future tenses, distinguishing distance from Time of Reference, marked on the verb?	?	Not known		nan	0:n	nan
+tetu1245	GB086	nan	3.0	n		nan	nan	nan
+tetu1245	GB087	nan	2.0	n		nan	nan	nan
+tetu1245	GB088	nan	2.0	n		nan	nan	nan
+tetu1245	GB089	nan	2.0	n		nan	nan	nan
+tetu1245	GB090	nan	2.0	y		nan	nan	nan
+tetu1245	GB091	nan	2.0	n		nan	nan	nan
+tetu1245	GB092	nan	3.0	y		nan	nan	nan
+tetu1245	GB093	nan	2.0	n		nan	nan	nan
+tetu1245	GB094	nan	3.0	n		nan	nan	nan
+tetu1245	GB095	Are variations in marking strategies of core participants based on TAM distinctions?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned
+tetu1245	GB096	Are variations in marking strategies of core participants based on verb classes?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned
+tetu1245	GB097	Are variations in marking strategies of core participants based on clause type, e.g. main vs. subordinate?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+tetu1245	GB098	Are variations in marking strategies of core participants based on person distinctions?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned
+tetu1245	GB099	nan	2.0	n		nan	nan	nan
+tetu1245	GB100	nan	0.0	n		nan	nan	nan
+tetu1245	GB101	nan	0.0	n		nan	nan	nan
+tetu1245	GB102	nan	0.0	n		nan	nan	nan
+tetu1245	GB103	nan	2.0	n		nan	nan	nan
+tetu1245	GB104	nan	2.0	n		nan	nan	nan
+tetu1245	GB105	nan	3.0	n	recipients are expressed in PP or marginally as bare NP preceding the direct object.	p. 181, 268	nan	nan
+tetu1245	GB106	nan	3.0	y		nan	nan	nan
+tetu1245	GB107	nan	2.0	n		nan	nan	nan
+tetu1245	GB108	nan	3.0	n		nan	nan	nan
+tetu1245	GB109	nan	2.0	n		nan	nan	nan
+tetu1245	GB110	nan	2.0	n		nan	nan	nan
+tetu1245	GB111	nan	2.0	y	Verbs starting with /h/ take subject marking, vowel initial verbs never take subject marking, and consonant-initial verbs besides /h/ take only 1sg subject marking.	p. 172-175	nan	nan
+tetu1245	GB112	nan	2.0	n		nan	nan	nan
+tetu1245	GB113	nan	3.0	y		nan	nan	nan
+tetu1245	GB114	nan	2.0	n	reflexive is expressed by an adverb (án)	p. 233	nan	nan
+tetu1245	GB115	nan	2.0	y	reciprocal is expressed with circumfix hak- -k and with the word malu each other'	p. 233-234	nan	nan
+tetu1245	GB116	nan	2.0	n		nan	nan	nan
+tetu1245	GB117	nan	3.0	y	ní 	p. 182-183	nan	nan
+tetu1245	GB118	nan	2.0	y		nan	nan	nan
+tetu1245	GB119	nan	2.0	y	e.g. lalika 'need not'	p. 228	nan	nan
+tetu1245	GB120	nan	3.0	n	aspectual adverbs ti'an 'already', kedan 'immediately' are not verbal	p. 235-237	nan	nan
+tetu1245	GB121	nan	2.0	n		nan	nan	nan
+tetu1245	GB122	nan	3.0	n		nan	nan	nan
+tetu1245	GB123	nan	3.0	n		nan	nan	nan
+tetu1245	GB124	nan	2.0	n	some noun incorporation exists but it is rare	p. 181	nan	nan
+tetu1245	GB125	nan	2.0	n		nan	nan	nan
+tetu1245	GB126	nan	2.0	y		nan	nan	nan
+tetu1245	GB127	nan	3.0	n		nan	nan	nan
+tetu1245	GB128	nan	1.0	y	ditransitives are rare overall, and the verb fó'give' is the only one with two bare object NPs. The other verbs 'sell' and 'offer betel' introduce the recipient in  a PP with bá 'to'. 	p. 181-182	nan	nan
+tetu1245	GB129	nan	2.0	n		nan	nan	nan
+tetu1245	GB130	nan	4.0	1		nan	nan	nan
+tetu1245	GB131	nan	2.0	n		nan	nan	nan
+tetu1245	GB132	nan	3.0	y		nan	nan	nan
+tetu1245	GB133	nan	3.0	n		nan	nan	nan
+tetu1245	GB134	nan	2.0	y		nan	nan	nan
+tetu1245	GB135	nan	2.0	y		nan	nan	nan
+tetu1245	GB136	nan	2.0	y	A rare patter of  SOV order exists in a negative and interrogative sentences. It is analysed as object incorporation	p. 181	nan	nan
+tetu1245	GB137	nan	3.0	n		nan	nan	nan
+tetu1245	GB138	nan	2.0	n		nan	nan	nan
+tetu1245	GB139	nan	2.0	y	the auxiliary negative verb keta 'do not' expresses prohibitives. It precedes the main verb.	p. 226	nan	nan
+tetu1245	GB140	nan	2.0	n	ha'i 'negator for nominal and verbal predicates', la/ lale 'negator for only verbal predicates'	p. 193, p. 211	nan	nan
+tetu1245	GB141	nan	3.0	n		nan	nan	nan
+tetu1245	GB142	nan	2.0	y		nan	nan	nan
+tetu1245	GB143	nan	1.0	y	Verbs of 'reported order' to call, to order, to tell: object of matrix verb is coreferent with subject of embedded verb.	p. 289-290	nan	nan
+tetu1245	GB144	nan	1.0	y	Verbs of 'reported order' to call, to order, to tell: object of matrix verb is coreferent with subject of embedded verb.	p. 289-290	nan	nan
+tetu1245	GB145	nan	1.0	n		nan	nan	nan
+tetu1245	GB146	nan	3.0	n		p. 13	nan	nan
+tetu1245	GB147	nan	2.0	n		p.13	nan	nan
+tetu1245	GB148	nan	2.0	n		p.13	nan	nan
+tetu1245	GB149	nan	2.0	n		nan	nan	nan
+tetu1245	GB150	nan	3.0	n		nan	nan	nan
+tetu1245	GB151	nan	2.0	n		nan	nan	nan
+tetu1245	GB152	nan	3.0	n	no morphological distinction	nan	nan	nan
+tetu1245	GB153	nan	0.0	n	the verb hakara 'wish, want' is used to express desire	p. 290 and elswhere	nan	nan
+tetu1245	GB154	nan	0.0	y		nan	nan	nan
+tetu1245	GB155	nan	3.0	y		nan	nan	nan
+tetu1245	GB156	nan	2.0	n		nan	nan	nan
+tetu1245	GB157	nan	3.0	n		nan	nan	nan
+tetu1245	GB158	nan	2.0	y		nan	nan	nan
+tetu1245	GB159	nan	3.0	y		nan	nan	nan
+tetu1245	GB160	nan	2.0	y		nan	nan	nan
+tetu1245	GB162	nan	0.0	n		nan	nan	nan
+tetu1245	GB163	How many genders/noun classes are there?	?	Not known		nan	3:?;0:several;1:2;2:n	nan
+tetu1245	GB165	nan	2.0	n		nan	nan	nan
+tetu1245	GB166	nan	2.0	n		nan	nan	nan
+tetu1245	GB167	nan	2.0	n		nan	nan	nan
+tetu1245	GB168	nan	1.0	n		nan	nan	nan
+tetu1245	GB169	nan	0.0	n		nan	nan	nan
+tetu1245	GB170	Can an attributive nominal modifier denoting a property concept agree with any gender/noun class of the noun it modifies?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+tetu1245	GB171	Can an adnominal demonstrative agree in gender/noun class with the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+tetu1245	GB172	nan	2.0	n		nan	nan	nan
+tetu1245	GB173	Are noun class and number always marked by a portmanteau morpheme on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB174	Are noun class and number marked by a portmanteau morpheme on the noun in singular?	?	Not known		nan	0:n	nan
+tetu1245	GB175	Are noun class and number marked by a portmanteau morpheme on the noun in plural?	?	Not known		nan	0:n	nan
+tetu1245	GB176	Can agreement of gender/noun class and number be marked by a portmanteau morpheme on other items in the noun phrase?	?	Not known		nan	0:n	nan
+tetu1245	GB177	nan	3.0	n		nan	nan	nan
+tetu1245	GB178	Are there several different singular genders/noun classes that can have the same plural gender/noun class?	?	Not known		nan	0:n	nan
+tetu1245	GB179	Are there genders/noun classes that cannot take number marking?	?	Not known		nan	0:n	nan
+tetu1245	GB181	Is number marking obligatory on certain (types of) nouns?	?	Not known		nan	1:?;2:y;0:n	nan
+tetu1245	GB182	Is number marking obligatory on animate nouns?	?	Not known		nan	1:?;0:n	nan
+tetu1245	GB183	Is number marking obligatory on human nouns?	?	Not known		nan	1:?;0:n	nan
+tetu1245	GB184	nan	2.0	n		nan	nan	nan
+tetu1245	GB185	nan	2.0	n		nan	nan	nan
+tetu1245	GB186	nan	2.0	n		nan	nan	nan
+tetu1245	GB187	nan	2.0	n		nan	nan	nan
+tetu1245	GB188	nan	2.0	n		nan	nan	nan
+tetu1245	GB191	nan	0.0	n		p. 13	nan	nan
+tetu1245	GB192	Are the noun's phonological properties relevant for any gender assignment?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, There is gender and it is possible that phonology influences assignment
+tetu1245	GB193	nan	5.0	2		nan	nan	nan
+tetu1245	GB194	nan	0.0	n	the numeral ida 'one' also functions as an indefinite article	p. 123-124	nan	nan
+tetu1245	GB195	Can a noun receive more than one noun class marker at the same time?	?	Not known		nan	0:n	nan
+tetu1245	GB196	nan	2.0	n		nan	nan	nan
+tetu1245	GB197	nan	2.0	n		nan	nan	nan
+tetu1245	GB198	Can a numeral used attributively agree with any gender/noun class of the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+tetu1245	GB199	Can verbs agree with the gender/noun class of the nominal object?	?	Not known		nan	1:y;0:n	nan
+tetu1245	GB200	nan	1.0	n		nan	nan	nan
+tetu1245	GB202	nan	0.0	n		nan	nan	nan
+tetu1245	GB203	nan	5.0	2	hotu-hotu 'all' follows the noun	p. 120	nan	nan
+tetu1245	GB204	nan	2.0	y	sura 'every' is precedes the noun, and is also used as a transitive verb 'to count'. 	p. 153-154	nan	nan
+tetu1245	GB205	Is number marking prohibited on inanimate nouns?	?	Not known		nan	1:?;0:n	nan
+tetu1245	GB206	Is number marking prohibited on mass nouns?	?	Not known		nan	1:?;0:n	nan
+tetu1245	GB207	Is number marking optional on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+tetu1245	GB208	Can singular number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB209	Can singular number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB210	Can singular number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB211	Can singular number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB212	Can dual number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB213	Can dual number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB214	Can dual number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB215	Can dual number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB216	Can dual number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB217	Can plural number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB218	Can plural number be marked by a suffix on the noun?	?	Not known		nan	1:y;0:n	nan
+tetu1245	GB219	Can plural number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB220	Can plural number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB221	Can plural number be marked by reduplication on the noun?	?	Not known		nan	1:y;0:n	nan
+tetu1245	GB222	Can trial number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB223	Can trial number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB224	Can trial number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB225	Can trial number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB226	Can trial number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB227	Can paucal number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB228	Can paucal number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB229	Can paucal number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB230	Can paucal number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB231	Can paucal number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB232	Can diminutive be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB234	Can diminutive be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB235	Can diminutive be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB236	Can diminutive be marked by tone on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB237	Can diminutive be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB238	Can diminutive be marked by noun class selection?	?	Not known		nan	0:n	nan
+tetu1245	GB239	Can augmentative be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB240	Can augmentative be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB241	Can augmentative be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB242	Can augmentative be marked by tone on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB243	Can augmentative be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB244	Can augmentative be marked by noun class selection?	?	Not known		nan	0:n	nan
+tetu1245	GB245	Can gender/noun class be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB246	Can gender/noun class be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB247	Can gender/noun class be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+tetu1245	GB248	Can gender/noun class be marked by tone on the noun only?	?	Not known		nan	0:n	nan
+tetu1245	GB249	nan	0.0	n		nan	nan	nan
+tetu1245	GB250	nan	2.0	y	hó 'have'	p. 187-188	nan	nan
+tetu1245	GB251	nan	0.0	y	n-ó '3s-have/exist'	p. 188-189	nan	nan
+tetu1245	GB252	nan	3.0	n		nan	nan	nan
+tetu1245	GB253	nan	3.0	n		nan	nan	nan
+tetu1245	GB254	nan	2.0	y	"As  in ""these coconuts (are) ours""."	p. 194	nan	nan
+tetu1245	GB255	nan	2.0	n		nan	nan	nan
+tetu1245	GB256	nan	2.0	n		nan	nan	nan
+tetu1245	GB257	nan	2.0	y		nan	nan	nan
+tetu1245	GB258	nan	0.0	y		nan	nan	nan
+tetu1245	GB259	nan	0.0	n		nan	nan	nan
+tetu1245	GB260	nan	2.0	n		nan	nan	nan
+tetu1245	GB261	nan	1.0	y		nan	nan	nan
+tetu1245	GB262	nan	2.0	n		nan	nan	nan
+tetu1245	GB263	nan	2.0	y		nan	nan	nan
+tetu1245	GB264	nan	2.0	n		nan	nan	nan
+tetu1245	GB265	nan	4.0	y	intensifying verb liu 'go further'	p. 232	nan	nan
+tetu1245	GB266	nan	2.0	n		nan	nan	nan
+tetu1245	GB267	nan	0.0	n		nan	nan	nan
+tetu1245	GB268	nan	0.0	n		nan	nan	nan
+tetu1245	GB269	nan	0.0	n		nan	nan	nan
+tetu1245	GB270	nan	4.0	n		nan	nan	nan
+tetu1245	GB271	Are the predicates in the conjoined comparative construction antonyms?	?	Not known		nan	2:?;0:no data;3:y;1:n	nan
+tetu1245	GB272	Do the  predicates in the conjoined comparative construction differ in polarity?	?	Not known		nan	2:?;0:no data;3:y;1:n	nan
+tetu1245	GB273	nan	2.0	n		nan	nan	nan
+tetu1245	GB274	nan	1.0	n		nan	nan	nan
+tetu1245	GB275	Is the element marking the property concept in the comparative construction marked by an affix indicating comparision or grading?	?	Not known		nan	2:n;4:no data;0: absent;5:?;3:y;1: present	Not mentioned, The marker is adjacent to the property word but not treated as morphologically bound
+tetu1245	GB276	Is the element marking the property concept in the comparative construction marked by a sepeare degree word indicating comparision or grading?	?	Not known		nan	2:n;4:no data;0: absent;5:?;3:y;1: present	Not mentioned, The marker is adjacent to the property word but not treated as morphologically bound
+tetu1245	GB277	nan	0.0	n		nan	nan	nan
+tetu1245	GB278	nan	1.0	n		nan	nan	nan
+tetu1245	GB279	Is there variation in conflation of core participants based on TAM distinctions?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+tetu1245	GB280	Are variation in conflation of core participants based on verb classes?	?	Not known		nan	3:?;2:no data;0:y;1:n	nan
+tetu1245	GB281	Is there variation in conflation of core participants based on clause type, e.g. main vs. subordinate?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+tetu1245	GB282	Are variation in conflation of core participants based on person distinctions?	?	Not known		nan	3:?;2:no data;0:y;1:n	nan
+tetu1245	GB283	Can verbs agree with the gender/noun class of the nominal subject?	?	Not known		nan	1:y;0:n	nan
+tetu1245	GB284	nan	1.0	y	Certain verb classes agree with person and number of subject.	nan	nan	nan
+tetu1245	GB285	nan	2.0	n		nan	nan	nan
+tetu1245	GB286	nan	2.0	n		nan	nan	nan
+tetu1245	GB287	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of case marking?	?	Not known		nan	1:y?;0:n	nan
+tetu1245	GB288	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of core argument marking by adpositions?	?	Not known		nan	0:n	nan
+tetu1245	GB289	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of verbal agreement marking?	?	Not known		nan	2:?;1:y;0:n	nan
+tetu1245	GB290	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of verbal person marking (not agreement)?	?	Not known		nan	0:y;1:n	nan
+tetu1245	GB291	nan	2.0	n		nan	nan	nan
+tetu1245	GB292	nan	0.0	y		nan	nan	nan
+tetu1245	GB294	nan	0.0	n		nan	nan	nan
+tetu1245	GB295	nan	1.0	n		nan	nan	nan
+tetu1245	GB295	nan	1.0	n		nan	nan	nan
+tetu1245	GB296	Is there a morphosyntactically definable class of ideophones (beyond sound)?	?	Not known		nan	3:?;4:no data;0: absent;1: present;2:n	Not mentioned
+tetu1245	GB297	Can polar interrogation be marked by a construction of the type “V Neg V”?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB298	Can standard negation be marked by negative auxiliaries?	?	Not known		nan	0: absent;1: present	Not mentioned, Unclear whether it should count as an auxiliary given that no verbs carry inflection
+tetu1245	GB299	Can standard negation be marked by a freestanding particle?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB300	Is there a verb for the function 'give' that is suppletive for any grammatical category?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB301	Does the language have inclusory constructions productively?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB302	Is there a dedicated, obligatory and productive construction that marks passive voice, not morphologically on the verb nor on the A argument?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+tetu1245	GB303	Is there a dedicated, obligatory, productive construction that marks antipassive voice, not morphologically on the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+tetu1245	GB304	Can the A argument be overtly expressed in a passive clause or be overtly marked to signal a passive clause?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB305	Are there phonologically independent reflexive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned, Not clear if they are phonologically independent
+tetu1245	GB306	Are there reciprocal pronouns that are not-bipartite?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB307	Are there bipartite reciprocal pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB308	Can tense be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+tetu1245	GB309	Are there multiple past or future tenses, distinguishing distance from Time of Reference, in any form?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+tetu1245	GB310	Can aspect be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+tetu1245	GB311	Can mood be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+tetu1245	GB312	Can modal distinctions be marked on the verb, productively, dedicatedly and obligatorily?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+tetu1245	GB313	Are there possessive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB314	Can augmentative be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB315	Can diminutive be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB316	Can singular number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+tetu1245	GB317	Can dual number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+tetu1245	GB318	Can plural number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+tetu1245	GB319	Can trial number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+tetu1245	GB320	Can paucal number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+tetu1245	GB321	Is there an open class of noun stems that are assigned to gender/noun class categories arbitrarily?	?	Not known		nan	0: absent;1: present	Not mentioned, There may be a gender or noun class system but it seems to be semantic
+tetu1245	GB322	Does the language encode direct evidentiality (perceived with senses)?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB323	Does the language encode indirect evidentiality (hearsay, inference, etc.)?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB324	Are some content interrogatives (who?, what?, etc.) expressed in interrogative verbs?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB325	Is there a count/mass distinction in content interrogatives (e.g. English how many vs. how much)?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB326	Do (nominal) content interrogatives normally or frequently occur in situ (i.e. in the normal position for a non-interrogative NP in the same participant role)?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB327	Can the relative clause follow the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB328	Can the relative clause precede the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB329	Are there internally-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB330	Are there correlative relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB331	Are there adjoined relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB332	Are there double-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB333	nan	2.0	y		nan	nan	nan
+tetu1245	GB334	Is there synchronic evidence for any element of a quinary counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB335	Is there synchronic evidence for any element of a vigesimal counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+tetu1245	GB336	nan	2.0	n		nan	nan	nan
+tetu1245	GB502	nan	0.0	1		nan	nan	nan
+tetu1245	GB503	nan	0.0	y		nan	nan	nan
+tetu1245	GB508	nan	0.0	n		nan	nan	nan
+tetu1245	GB509	nan	0.0	y		p. 110	nan	nan
+tetu1245	GB510	nan	0.0	y		nan	nan	nan
+tetu1245	GB511	nan	1.0	n		nan	nan	nan
+tetu1245	GB512	Is there an opposition between three or more elevation terms in the demonstrative system?	?	Not known		nan	2:?;0:y;1:n	nan
+tetu1245	GB514	nan	0.0	n		nan	nan	nan
+tetu1245	GB515	nan	0.0	n		nan	nan	nan
+tetu1245	GB516	nan	1.0	3	nemai 'here', nebá 'there'	p. 119-120	nan	nan
+tetu1245	GB517	nan	1.0	n		nan	nan	nan
+tetu1245	GB518	nan	1.0	n		nan	nan	nan
+tetu1245	GB519	Is there an opposition between three or more elevation terms in the locational system?	?	Not known		nan	2:?;0:y;1:n	nan
+tetu1245	GB520	nan	1.0	n		nan	nan	nan
+tetu1245	GB521	nan	0.0	n		nan	nan	nan
+tetu1245	R1102	nan	0.0	4		nan	nan	nan
+tetu1245	R1103	nan	1.0	2		nan	nan	nan
+tetu1245	R1103a	nan	0.0	n		nan	nan	nan
+tetu1245	R1103b	nan	0.0	n		nan	nan	nan
+tetu1245	R1105	nan	0.0	y		nan	nan	nan
+tetu1245	R1106	nan	0.0	n		nan	nan	nan
+tetu1245	R1107	nan	0.0	y		nan	nan	nan
+tetu1245	R1108	nan	0.0	n		nan	nan	nan
+tetu1245	R1109	nan	0.0	y		nan	nan	nan
+tetu1245	R1109a	nan	0.0	n		nan	nan	nan
+tetu1245	R1109b	nan	0.0	n		nan	nan	nan
+tetu1245	R1110	nan	0.0	n		nan	nan	nan
+tetu1245	R1111	nan	0.0	y		nan	nan	nan
+tetu1245	R1112	nan	0.0	n		nan	nan	nan
+tetu1245	R1113a	nan	1.0	n		nan	nan	nan
+tetu1245	R1115	nan	1.0	n		nan	nan	nan
+tetu1245	R1116	Is there weight-sensitive suprasegmental prominence	?	Not known		nan	0:y;1:n	nan
+tetu1245	R1117	nan	0.0	y	penultimate syllable of root gets stress	nan	nan	nan
+tetu1245	R1118	nan	1.0	n		nan	nan	nan
+tetu1245	R1202	nan	0.0	y		nan	nan	nan
+tetu1245	R1203a	nan	1.0	y		nan	nan	nan
+tetu1245	R1204	nan	0.0	n		nan	nan	nan
+tetu1245	R2203	nan	0.0	y		nan	nan	nan
+tetu1245	R2504a	Is plant status a relevant category in the noun class/gender system?	?	Not known		nan	0:y;1:n	nan
+tetu1245	R2507	Is there concord beyond the NP, i.e. agreement of elements outside the NP with the noun class of a noun?	?	Not known		nan	0:n	nan
+tetu1245	R2508	nan	0.0	y		nan	nan	nan
+tetu1245	R2601	nan	0.0	y	there are statistic tendencies showing alienable/inalienable classes, no clear-cut boundaries. There are inalienable nouns with fossilized possessive suffix -n.	p. 145-152	nan	nan
+tetu1245	R2702	nan	1.0	n		nan	nan	nan
+tetu1245	R2703b	nan	0.0	n		nan	nan	nan
+tetu1245	R3103	Do the same morphemes systematically encode both TAM and person?	?	Not known		nan	0:n	nan
+tetu1245	R3502	nan	0.0	n		nan	nan	nan
+tetu1245	R3605	nan	2.0	y		nan	nan	nan
+tetu1245	R4305a	nan	0.0	y		nan	nan	nan
+tetu1245	R4307	nan	1.0	y		p. 285	nan	nan
+tetu1245	R4308	nan	0.0	n		nan	nan	nan
+tetu1245	R4308a	nan	0.0	y		p. 312	nan	nan
+tetu1245	R4309a	nan	0.0	y		p. 277	nan	nan
+tetu1245	R4309b	nan	0.0	y		p. 278	nan	nan
+tetu1245	R4309c	nan	2.0	y	hosi 'about', batu 'so that', ne'ebe 'so that; they are rare and infrequently used.	p 283ff.	nan	nan
+tetu1245	R4309d	nan	0.0	n		nan	nan	nan
+tetu1245	R4311	nan	0.0	n		nan	nan	nan
+tetu1245	R5202	nan	1.0	n	ina-'ama is only example	nan	nan	nan
+tetu1245	R5203	nan	1.0	y	ama	nan	nan	nan
+tetu1245	R5204	nan	0.0	n	nai tua	nan	nan	nan
+tetu1245	R5205	nan	2.0	?	no data	nan	nan	nan
+tetu1245	R5206	nan	0.0	n	oa are paternal cousins, ali are maternal cousins; no distinction between cross/parallel cousins	nan	nan	nan
+tetu1245	R5207	nan	2.0	?	no data	nan	nan	nan
+tetu1245	R5208	nan	1.0	y	oa are paternal cousins, ali are maternal cousins; no distinction between cross/parallel cousins	nan	nan	nan
+tetu1245	R5209	nan	0.0	n		nan	nan	nan
+tetu1245	R5210	nan	1.0	n		nan	nan	nan
+tetu1245	R5211	nan	0.0	y	mau, bi= older sibling, kau= younger sibling	nan	nan	nan
+tetu1245	R5212	nan	1.0	y	mau = older brother, bi=older sister	nan	nan	nan
+tetu1245	SD224	nan	0.0	1		nan	nan	nan
+tetu1245	SD295	nan	1.0	n		nan	nan	nan
+tetu1245	SD319	Are S and A marked by the same prefix/proclitic?	?	Not known		nan	1:y;0:n	nan
+tetu1245	SD320	Are S and A marked by the same suffix/enclitic?	?	Not known		nan	1:?;0:n	nan
+tetu1245	SD321	Are S and O marked by the same affix/clitic?	?	Not known		nan	0:y;1:n	nan
+tetu1245	SD341	nan	0.0	y	ha'i follows the verb and can co-occor with la. It is less common than la.	p. 228-229	nan	nan
+tetu1245	SD342	nan	1.0	y	la precedes the verb and can co-occur with ha'i. It is more common than ha'i.	p. 228-229	nan	nan
+tetu1245	SD343	nan	0.0	y		nan	nan	nan
+tetu1245	SD344	Are there adjectives (elements denoting property concepts) that act like nouns?	?	Not known		nan	1:y;0:n	nan
+tetu1245	SD369	nan	0.0	n		nan	nan	nan
+tetu1245	SD381	nan	1.0	n		nan	nan	nan
+tetu1245	SD388	Are there allophonic phonation types for vowels?	?	Not known		nan	0:y;1:n	nan
+tetu1245	SD389	Is there nominalizing morphology?	?	Not known		nan	0:y	nan
+tetu1245	SD390	Can horizontal direction be marked in demonstratives?	?	Not known		nan	1:y;0:n	nan
+tetu1245	SD391	Is there a predicative possessive construction?	?	Not known		nan	0:y	nan
+tetu1245	SD392	Are S and O marked by the same prefix/proclitic?	?	Not known		nan	0:n	nan
+tetu1245	SD393	Are S and O marked by the same suffix/enclitic?	?	Not known		nan	0:n	nan
+tetu1245	SD394	Are there suppletive forms for negated verbs?	?	Not known		nan	0:y	nan
+tetu1245	SD395	Is topological information expressed by adpositions?	?	Not known		nan	0:n	nan
+tetu1245	SD396	Is topological information expressed by nouns?	?	Not known		nan	0:y	nan
+tetu1245	SD397	Are there native terms expressing directions in space on a geocentric coordinate system (geocentric terms)?	?	Not known		nan	0:y	nan
+tetu1245	SD398	Do geocentric terms have deictic use?	?	Not known		nan	0:y	nan
+tetu1245	SD399	Can geocentric terms function as adverbs?	?	Not known		nan	0:y	nan
+tetu1245	SD400	Can geocentric terms function as adpositions?	?	Not known		nan	0:y	nan
+tetu1245	SD401	Can demonstratives function as adverbs (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+tetu1245	SD402	Can demonstratives function as prepositions (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+tetu1245	SD403	Is it possible to employ an absolute frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+tetu1245	SD404	Is it possible to employ an intrinsic frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+tetu1245	SD405	Is it possible to employ a relative frame of reference when expressing projective spatial relations?	?	Not known		nan	1:?;0:n	nan
+tetu1245	SD406	Is it possible to use another frame of reference?	?	Not known		nan	1:?;0:y	nan
+tetu1245	SD407	Which frame of reference is preferred in the expression of projective spatial relations?	?	Not known		nan	1:?;0:a	nan

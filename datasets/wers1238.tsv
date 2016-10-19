@@ -1,263 +1,410 @@
-Feature_ID	Language_ID	Value	Comment	Source
-R1102	wers1238	1.0		
-R1103	wers1238	0.0		
-R1103a	wers1238	1.0		
-R1103b	wers1238	0.0		
-R1105	wers1238	0.0		
-R1106	wers1238	0.0		
-R1107	wers1238	0.0		
-R1108	wers1238	0.0		
-R1109	wers1238	0.0		
-R1109a	wers1238	0.0		
-R1109b	wers1238	0.0		
-R1110	wers1238	0.0		
-R1111	wers1238	1.0		
-R1112	wers1238	0.0		
-R1113a	wers1238	1.0		
-R1115	wers1238	0.0		
-GB014	wers1238	3.0		
-R1117	wers1238	3.0		
-R1118	wers1238	1.0		
-R1202	wers1238	0.0		
-R1203a	wers1238	1.0	most commonly stop + liquid	S&H2014: 448
-R1204	wers1238	0.0		
-GB024	wers1238	4.0		
-GB025	wers1238	5.0		
-GB065	wers1238	5.0		
-SD224	wers1238	0.0		
-GB502	wers1238	0.0		
-GB193	wers1238	5.0		
-GB026	wers1238	2.0		
-GB203	wers1238	5.0		
-GB204	wers1238	3.0		
-R2508	wers1238	0.0	only one human classifier -(a)nin	S&H2014:467
-GB159	wers1238	5.0		
-GB050	wers1238	1.0		
-GB039	wers1238	2.0		
-GB041	wers1238	2.0		
-GB042	wers1238	2.0		
-GB043	wers1238	2.0		
-GB044	wers1238	2.0		
-GB165	wers1238	2.0		
-GB166	wers1238	2.0		
-GB200	wers1238	0.0		
-GB284	wers1238	1.0		
-GB185	wers1238	2.0		
-GB184	wers1238	2.0		
-GB046	wers1238	2.0	naing follows the noun and marks associative plural	S&H2014:469
-GB188	wers1238	2.0		
-GB187	wers1238	2.0		
-GB070	wers1238	2.0		
-GB071	wers1238	3.0		
-GB072	wers1238	2.0		
-GB073	wers1238	2.0		
-GB047	wers1238	2.0		
-GB048	wers1238	2.0		
-GB049	wers1238	2.0		
-GB020	wers1238	2.0		S&H2014:469
-GB194	wers1238	0.0		
-GB021	wers1238	2.0		
-GB022	wers1238	2.0		
-GB023	wers1238	2.0		
-GB172	wers1238	2.0		
-GB186	wers1238	2.0		
-GB509	wers1238	0.0		S&H2014:470
-GB510	wers1238	0.0		S&H2014:470
-GB035	wers1238	3.0		S&H2014:470
-GB511	wers1238	1.0		
-SD295	wers1238	1.0		
-GB037	wers1238	2.0		
-GB514	wers1238	0.0		
-GB515	wers1238	0.0		
-GB038	wers1238	2.0		
-GB516	wers1238	2.0		
-GB517	wers1238	1.0		
-GB518	wers1238	0.0		S&H2014:457
-GB519	wers1238	0.0		
-GB520	wers1238	1.0		
-GB521	wers1238	0.0		
-GB067	wers1238	0.0		
-GB333	wers1238	2.0		
-R2702	wers1238	0.0		
-GB336	wers1238	2.0		
-R2703b	wers1238	0.0		
-GB057	wers1238	3.0	just one for humans	
-R2601	wers1238	0.0		
-GB058	wers1238	2.0		
-GB059	wers1238	2.0		
-GB060	wers1238	1.0	the difference between alienable and inalienable is obligatory vs optional possessor prefix	S&H2014:471
-GB061	wers1238	2.0		
-GB062	wers1238	2.0		
-GB063	wers1238	2.0		
-GB064	wers1238	2.0		
-GB066	wers1238	0.0		
-GB250	wers1238	3.0		
-GB251	wers1238	1.0		
-GB252	wers1238	3.0		
-GB253	wers1238	3.0		
-GB254	wers1238	2.0	cloth DEF 1SG.POSS 'the cloth is mine'	S&H2014:479
-GB255	wers1238	2.0		
-GB256	wers1238	2.0		
-GB081	wers1238	2.0		
-GB111	wers1238	2.0		S&H2014:481-483
-GB112	wers1238	2.0		
-GB117	wers1238	2.0		
-GB118	wers1238	2.0		
-GB119	wers1238	2.0	if emphatic particle bo is considered a modal element. There is also a realis suffix -a on final verbal predicates.	S&H2014: 463, 497
-GB120	wers1238	2.0	if aspectual markers are seen as auxiliaries	S&H2014:499-501
-GB121	wers1238	2.0		
-GB122	wers1238	5.0		
-GB123	wers1238	3.0		
-GB124	wers1238	2.0		
-GB125	wers1238	2.0		
-GB126	wers1238	3.0		S&H2014:459
-GB127	wers1238	2.0		S&H2014:459
-GB128	wers1238	1.0	the verb -nir 'give' i s the only verb that takes the applicative prefix wa-	S&H2014:455
-GB129	wers1238	2.0		
-GB158	wers1238	5.0		
-GB028	wers1238	2.0		
-GB029	wers1238	0.0		
-GB030	wers1238	2.0		
-GB168	wers1238	1.0		
-GB169	wers1238	0.0		
-GB197	wers1238	2.0		
-GB162	wers1238	0.0		
-GB196	wers1238	2.0		
-GB202	wers1238	0.0		
-R2203	wers1238	0.0		
-GB031	wers1238	3.0		S&H2014:478
-GB167	wers1238	2.0		
-GB032	wers1238	2.0		
-GB033	wers1238	0.0		
-GB034	wers1238	2.0		
-GB089	wers1238	2.0		
-GB090	wers1238	2.0		
-GB091	wers1238	2.0		
-GB092	wers1238	3.0		
-GB093	wers1238	2.0		
-GB094	wers1238	2.0		
-GB503	wers1238	0.0		
-SD321	wers1238	0.0		
-GB249	wers1238	1.0		
-GB095	wers1238	2.0		
-GB096	wers1238	2.0		
-GB097	wers1238	4.0		
-GB098	wers1238	2.0		
-GB099	wers1238	2.0		
-GB100	wers1238	0.0		
-GB109	wers1238	2.0		
-R3502	wers1238	0.0		
-GB102	wers1238	0.0		
-GB141	wers1238	2.0		
-GB142	wers1238	2.0		
-GB143	wers1238	3.0		
-GB144	wers1238	3.0		
-GB145	wers1238	0.0		
-GB278	wers1238	1.0		
-GB103	wers1238	3.0		
-GB104	wers1238	2.0		
-GB105	wers1238	2.0		S&H2014:455
-GB287	wers1238	0.0		
-GB288	wers1238	0.0		
-GB289	wers1238	1.0		
-GB290	wers1238	0.0		
-GB106	wers1238	3.0		S&H2014:454
-GB108	wers1238	2.0		
-GB079	wers1238	3.0	applicative prefixes	
-GB080	wers1238	2.0	realis suffix	
-GB101	wers1238	0.0		
-GB110	wers1238	2.0		
-GB082	wers1238	2.0		
-GB083	wers1238	2.0		
-GB084	wers1238	2.0		
-GB086	wers1238	3.0		
-GB087	wers1238	3.0	realis suffix	
-GB088	wers1238	2.0		
-GB113	wers1238	3.0	applicative prefixes	S&H2014: 485-488
-R3605	wers1238	0.0		
-GB114	wers1238	5.0		
-GB115	wers1238	2.0	prefix t- '1PL.INCL'	S&H2014:472
-GB116	wers1238	2.0		
-GB177	wers1238	3.0		
-GB074	wers1238	2.0		
-GB075	wers1238	2.0		
-GB107	wers1238	2.0		
-GB137	wers1238	2.0		
-GB138	wers1238	2.0		
-SD341	wers1238	0.0		
-SD342	wers1238	0.0		
-GB139	wers1238	2.0	nanu/naung negates declaratives, sining the prohibitive marker	S&H2014: 460-461
-GB140	wers1238	3.0		
-SD343	wers1238	0.0	amalosi 'not want'	S&H2014:470
-GB068	wers1238	2.0	property words take realis inflection	
-GB508	wers1238	0.0		
-GB069	wers1238	2.0	both can be used attributively without any morphology, e.g. cooked cassava (p. 475) and heavy bag (p. 474)	
-GB265	wers1238	5.0		
-GB266	wers1238	5.0		
-GB267	wers1238	3.0		
-GB268	wers1238	3.0		
-GB269	wers1238	2.0		
-GB277	wers1238	3.0		
-GB270	wers1238	5.0		
-GB271	wers1238	2.0		
-GB272	wers1238	2.0		
-GB273	wers1238	5.0		
-GB274	wers1238	3.0		
-GB275	wers1238	5.0		
-GB276	wers1238	5.0		
-GB160	wers1238	5.0		
-GB146	wers1238	3.0		
-GB147	wers1238	2.0		
-GB148	wers1238	2.0		
-GB191	wers1238	0.0		
-GB149	wers1238	2.0		
-GB151	wers1238	2.0		
-GB152	wers1238	3.0	the examples show no morphological distinction but rather a different use of conjunctions: pan=sa 'while', while sequential clauses are not marked with a conjunction	S&H2014: 470 ex (71) vs. 463 ex (49c)
-GB150	wers1238	3.0		
-GB153	wers1238	0.0		
-GB027	wers1238	5.0		
-GB130	wers1238	4.0		
-GB131	wers1238	2.0		
-GB132	wers1238	2.0		
-GB133	wers1238	2.0		
-GB134	wers1238	2.0		
-GB136	wers1238	2.0		
-R4305a	wers1238	0.0		
-R4307	wers1238	0.0	serial verb constructions or clause juxtaposition 	S&H2014: 463
-R4308	wers1238	0.0	serial verb constructions or clause juxtaposition 	
-R4308a	wers1238	1.0	serial verb constructions or clause juxtaposition 	S&H2014: 462 ex (45)
-R4309a	wers1238	2.0	no examples	
-R4309b	wers1238	1.0		
-R4309c	wers1238	3.0		
-R4309d	wers1238	3.0		
-R4311	wers1238	0.0		
-GB154	wers1238	0.0	svc with ong 'use'	S&H2014: 482-483
-GB155	wers1238	2.0		
-GB156	wers1238	2.0		
-GB257	wers1238	3.0		
-GB260	wers1238	2.0		
-GB286	wers1238	2.0		
-GB285	wers1238	2.0		
-GB261	wers1238	1.0		
-GB291	wers1238	2.0		
-GB292	wers1238	0.0		
-GB262	wers1238	2.0		
-GB263	wers1238	2.0		
-GB264	wers1238	2.0		
-GB157	wers1238	6.0		
-GB294	wers1238	2.0		
-GB295	wers1238	3.0		
-GB295	wers1238	3.0		
-SD369	wers1238	2.0		
-R5202	wers1238	3.0		
-R5203	wers1238	0.0		Holton 2014: 225-226
-R5204	wers1238	1.0		
-R5205	wers1238	2.0		
-R5206	wers1238	0.0	all -nang / -kaku 	
-R5207	wers1238	0.0	all -tam	Holton 2014: 225
-R5208	wers1238	0.0		
-R5209	wers1238	0.0		
-R5210	wers1238	1.0		
-R5211	wers1238	0.0		
-R5212	wers1238	1.0		Holton 2014: 224
-SD381	wers1238	1.0		
+Language_ID	Feature_ID	Feature	Value	Answer	Comment	Source	Possible Values	Suggested standardised comments
+wers1238	GB014	nan	3.0	?		nan	nan	nan
+wers1238	GB020	nan	2.0	y		S&H2014:469	nan	nan
+wers1238	GB021	nan	2.0	n		nan	nan	nan
+wers1238	GB022	nan	2.0	n		nan	nan	nan
+wers1238	GB023	nan	2.0	y		nan	nan	nan
+wers1238	GB024	nan	4.0	2		nan	nan	nan
+wers1238	GB025	nan	5.0	2		nan	nan	nan
+wers1238	GB026	nan	2.0	n		nan	nan	nan
+wers1238	GB027	nan	5.0	?		nan	nan	nan
+wers1238	GB028	nan	2.0	y		nan	nan	nan
+wers1238	GB029	nan	0.0	n		nan	nan	nan
+wers1238	GB030	nan	2.0	n		nan	nan	nan
+wers1238	GB031	nan	3.0	y		S&H2014:478	nan	nan
+wers1238	GB032	nan	2.0	n		nan	nan	nan
+wers1238	GB033	nan	0.0	n		nan	nan	nan
+wers1238	GB034	nan	2.0	n		nan	nan	nan
+wers1238	GB035	nan	3.0	n		S&H2014:470	nan	nan
+wers1238	GB036	Is elevation morphologically marked in demonstratives?	?	Not known		nan	4:?;2:y;1: present;0: absent;3:n	Not mentioned
+wers1238	GB037	nan	2.0	n		nan	nan	nan
+wers1238	GB038	nan	2.0	n		nan	nan	nan
+wers1238	GB039	nan	2.0	n		nan	nan	nan
+wers1238	GB040	Are there declensions (partly) determined by gender of the noun?	?	Not known		nan	0:n	nan
+wers1238	GB041	nan	2.0	n		nan	nan	nan
+wers1238	GB042	nan	2.0	n		nan	nan	nan
+wers1238	GB043	nan	2.0	n		nan	nan	nan
+wers1238	GB044	nan	2.0	n		nan	nan	nan
+wers1238	GB045	Is number marking prohibited on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+wers1238	GB046	nan	2.0	y	naing follows the noun and marks associative plural	S&H2014:469	nan	nan
+wers1238	GB047	nan	2.0	n		nan	nan	nan
+wers1238	GB048	nan	2.0	n		nan	nan	nan
+wers1238	GB049	nan	2.0	n		nan	nan	nan
+wers1238	GB050	nan	1.0	n		nan	nan	nan
+wers1238	GB051	Is sex a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+wers1238	GB052	Is shape a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+wers1238	GB053	Is animacy (without reference to sex) a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+wers1238	GB054	Is plant status a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+wers1238	GB055	Does the language only have a gender distinction in 3rd person pronouns?	?	Not known		nan	0:n	nan
+wers1238	GB056	Is there concord within the NP, i.e. agreement of elements within the NP with the noun class of a noun?	?	Not known		nan	1:y;0:n	nan
+wers1238	GB057	nan	3.0	y	just one for humans	nan	nan	nan
+wers1238	GB058	nan	2.0	n		nan	nan	nan
+wers1238	GB059	nan	2.0	y		nan	nan	nan
+wers1238	GB060	nan	1.0	n	the difference between alienable and inalienable is obligatory vs optional possessor prefix	S&H2014:471	nan	nan
+wers1238	GB061	nan	2.0	y		nan	nan	nan
+wers1238	GB062	nan	2.0	n		nan	nan	nan
+wers1238	GB063	nan	2.0	n		nan	nan	nan
+wers1238	GB064	nan	2.0	y		nan	nan	nan
+wers1238	GB065	nan	5.0	1		nan	nan	nan
+wers1238	GB066	nan	0.0	n		nan	nan	nan
+wers1238	GB067	nan	0.0	2		nan	nan	nan
+wers1238	GB068	nan	2.0	y	property words take realis inflection	nan	nan	nan
+wers1238	GB069	nan	2.0	y	both can be used attributively without any morphology, e.g. cooked cassava (p. 475) and heavy bag (p. 474)	nan	nan	nan
+wers1238	GB070	nan	2.0	n		nan	nan	nan
+wers1238	GB071	nan	3.0	y		nan	nan	nan
+wers1238	GB072	nan	2.0	n		nan	nan	nan
+wers1238	GB073	nan	2.0	n		nan	nan	nan
+wers1238	GB074	nan	2.0	n		nan	nan	nan
+wers1238	GB075	nan	2.0	n		nan	nan	nan
+wers1238	GB076	Are there adpositions to mark core NPs?	?	Not known		nan	4:?;3:y;1: present;0: absent;2:n	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+wers1238	GB077	Are there adpositions to mark oblique NPs?	?	Not known		nan	4:?;3:y;1: present;0: absent;2:n	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+wers1238	GB078	Is there a distinction between locational and directional adpositions?	?	Not known		nan	2:?;1:y;0:n	nan
+wers1238	GB079	nan	3.0	y	applicative prefixes	nan	nan	nan
+wers1238	GB080	nan	2.0	y	realis suffix	nan	nan	nan
+wers1238	GB081	nan	2.0	n		nan	nan	nan
+wers1238	GB082	nan	2.0	n		nan	nan	nan
+wers1238	GB083	nan	2.0	n		nan	nan	nan
+wers1238	GB084	nan	2.0	n		nan	nan	nan
+wers1238	GB085	Are there multiple past or future tenses, distinguishing distance from Time of Reference, marked on the verb?	?	Not known		nan	0:n	nan
+wers1238	GB086	nan	3.0	n		nan	nan	nan
+wers1238	GB087	nan	3.0	y	realis suffix	nan	nan	nan
+wers1238	GB088	nan	2.0	n		nan	nan	nan
+wers1238	GB089	nan	2.0	n		nan	nan	nan
+wers1238	GB090	nan	2.0	y		nan	nan	nan
+wers1238	GB091	nan	2.0	n		nan	nan	nan
+wers1238	GB092	nan	3.0	y		nan	nan	nan
+wers1238	GB093	nan	2.0	n		nan	nan	nan
+wers1238	GB094	nan	2.0	y		nan	nan	nan
+wers1238	GB095	nan	2.0	n		nan	nan	nan
+wers1238	GB096	nan	2.0	y		nan	nan	nan
+wers1238	GB097	nan	4.0	?		nan	nan	nan
+wers1238	GB098	nan	2.0	n		nan	nan	nan
+wers1238	GB099	nan	2.0	n		nan	nan	nan
+wers1238	GB100	nan	0.0	n		nan	nan	nan
+wers1238	GB101	nan	0.0	n		nan	nan	nan
+wers1238	GB102	nan	0.0	n		nan	nan	nan
+wers1238	GB103	nan	3.0	y		nan	nan	nan
+wers1238	GB104	nan	2.0	n		nan	nan	nan
+wers1238	GB105	nan	2.0	y		S&H2014:455	nan	nan
+wers1238	GB106	nan	3.0	y		S&H2014:454	nan	nan
+wers1238	GB107	nan	2.0	n		nan	nan	nan
+wers1238	GB108	nan	2.0	y		nan	nan	nan
+wers1238	GB109	nan	2.0	n		nan	nan	nan
+wers1238	GB110	nan	2.0	n		nan	nan	nan
+wers1238	GB111	nan	2.0	y		S&H2014:481-483	nan	nan
+wers1238	GB112	nan	2.0	n		nan	nan	nan
+wers1238	GB113	nan	3.0	y	applicative prefixes	S&H2014: 485-488	nan	nan
+wers1238	GB114	nan	5.0	?		nan	nan	nan
+wers1238	GB115	nan	2.0	y	prefix t- '1PL.INCL'	S&H2014:472	nan	nan
+wers1238	GB116	nan	2.0	n		nan	nan	nan
+wers1238	GB117	nan	2.0	n		nan	nan	nan
+wers1238	GB118	nan	2.0	y		nan	nan	nan
+wers1238	GB119	nan	2.0	y	if emphatic particle bo is considered a modal element. There is also a realis suffix -a on final verbal predicates.	S&H2014: 463, 497	nan	nan
+wers1238	GB120	nan	2.0	y	if aspectual markers are seen as auxiliaries	S&H2014:499-501	nan	nan
+wers1238	GB121	nan	2.0	n		nan	nan	nan
+wers1238	GB122	nan	5.0	?		nan	nan	nan
+wers1238	GB123	nan	3.0	n		nan	nan	nan
+wers1238	GB124	nan	2.0	n		nan	nan	nan
+wers1238	GB125	nan	2.0	n		nan	nan	nan
+wers1238	GB126	nan	3.0	n		S&H2014:459	nan	nan
+wers1238	GB127	nan	2.0	y		S&H2014:459	nan	nan
+wers1238	GB128	nan	1.0	y	the verb -nir 'give' i s the only verb that takes the applicative prefix wa-	S&H2014:455	nan	nan
+wers1238	GB129	nan	2.0	n		nan	nan	nan
+wers1238	GB130	nan	4.0	1		nan	nan	nan
+wers1238	GB131	nan	2.0	n		nan	nan	nan
+wers1238	GB132	nan	2.0	n		nan	nan	nan
+wers1238	GB133	nan	2.0	y		nan	nan	nan
+wers1238	GB134	nan	2.0	y		nan	nan	nan
+wers1238	GB135	Do clausal objects occur in the same position as nominal objects?	?	Not known		nan	4:?;2:y;1: present;0: absent;3:n	Not mentioned
+wers1238	GB136	nan	2.0	y		nan	nan	nan
+wers1238	GB137	nan	2.0	y		nan	nan	nan
+wers1238	GB138	nan	2.0	n		nan	nan	nan
+wers1238	GB139	nan	2.0	y	nanu/naung negates declaratives, sining the prohibitive marker	S&H2014: 460-461	nan	nan
+wers1238	GB140	nan	3.0	y		nan	nan	nan
+wers1238	GB141	nan	2.0	y		nan	nan	nan
+wers1238	GB142	nan	2.0	y		nan	nan	nan
+wers1238	GB143	nan	3.0	?		nan	nan	nan
+wers1238	GB144	nan	3.0	?		nan	nan	nan
+wers1238	GB145	nan	0.0	y		nan	nan	nan
+wers1238	GB146	nan	3.0	n		nan	nan	nan
+wers1238	GB147	nan	2.0	n		nan	nan	nan
+wers1238	GB148	nan	2.0	n		nan	nan	nan
+wers1238	GB149	nan	2.0	n		nan	nan	nan
+wers1238	GB150	nan	3.0	n		nan	nan	nan
+wers1238	GB151	nan	2.0	n		nan	nan	nan
+wers1238	GB152	nan	3.0	n	the examples show no morphological distinction but rather a different use of conjunctions: pan=sa 'while', while sequential clauses are not marked with a conjunction	S&H2014: 470 ex (71) vs. 463 ex (49c)	nan	nan
+wers1238	GB153	nan	0.0	n		nan	nan	nan
+wers1238	GB154	nan	0.0	y	svc with ong 'use'	S&H2014: 482-483	nan	nan
+wers1238	GB155	nan	2.0	n		nan	nan	nan
+wers1238	GB156	nan	2.0	n		nan	nan	nan
+wers1238	GB157	nan	6.0	?		nan	nan	nan
+wers1238	GB158	nan	5.0	?		nan	nan	nan
+wers1238	GB159	nan	5.0	?		nan	nan	nan
+wers1238	GB160	nan	5.0	?		nan	nan	nan
+wers1238	GB162	nan	0.0	n		nan	nan	nan
+wers1238	GB163	How many genders/noun classes are there?	?	Not known		nan	3:?;0:several;1:2;2:n	nan
+wers1238	GB165	nan	2.0	n		nan	nan	nan
+wers1238	GB166	nan	2.0	n		nan	nan	nan
+wers1238	GB167	nan	2.0	n		nan	nan	nan
+wers1238	GB168	nan	1.0	n		nan	nan	nan
+wers1238	GB169	nan	0.0	n		nan	nan	nan
+wers1238	GB170	Can an attributive nominal modifier denoting a property concept agree with any gender/noun class of the noun it modifies?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+wers1238	GB171	Can an adnominal demonstrative agree in gender/noun class with the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+wers1238	GB172	nan	2.0	n		nan	nan	nan
+wers1238	GB173	Are noun class and number always marked by a portmanteau morpheme on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB174	Are noun class and number marked by a portmanteau morpheme on the noun in singular?	?	Not known		nan	0:n	nan
+wers1238	GB175	Are noun class and number marked by a portmanteau morpheme on the noun in plural?	?	Not known		nan	0:n	nan
+wers1238	GB176	Can agreement of gender/noun class and number be marked by a portmanteau morpheme on other items in the noun phrase?	?	Not known		nan	0:n	nan
+wers1238	GB177	nan	3.0	n		nan	nan	nan
+wers1238	GB178	Are there several different singular genders/noun classes that can have the same plural gender/noun class?	?	Not known		nan	0:n	nan
+wers1238	GB179	Are there genders/noun classes that cannot take number marking?	?	Not known		nan	0:n	nan
+wers1238	GB181	Is number marking obligatory on certain (types of) nouns?	?	Not known		nan	1:?;2:y;0:n	nan
+wers1238	GB182	Is number marking obligatory on animate nouns?	?	Not known		nan	1:?;0:n	nan
+wers1238	GB183	Is number marking obligatory on human nouns?	?	Not known		nan	1:?;0:n	nan
+wers1238	GB184	nan	2.0	n		nan	nan	nan
+wers1238	GB185	nan	2.0	n		nan	nan	nan
+wers1238	GB186	nan	2.0	n		nan	nan	nan
+wers1238	GB187	nan	2.0	n		nan	nan	nan
+wers1238	GB188	nan	2.0	n		nan	nan	nan
+wers1238	GB191	nan	0.0	n		nan	nan	nan
+wers1238	GB192	Are the noun's phonological properties relevant for any gender assignment?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, There is gender and it is possible that phonology influences assignment
+wers1238	GB193	nan	5.0	2		nan	nan	nan
+wers1238	GB194	nan	0.0	n		nan	nan	nan
+wers1238	GB195	Can a noun receive more than one noun class marker at the same time?	?	Not known		nan	0:n	nan
+wers1238	GB196	nan	2.0	n		nan	nan	nan
+wers1238	GB197	nan	2.0	n		nan	nan	nan
+wers1238	GB198	Can a numeral used attributively agree with any gender/noun class of the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+wers1238	GB199	Can verbs agree with the gender/noun class of the nominal object?	?	Not known		nan	1:y;0:n	nan
+wers1238	GB200	nan	0.0	y		nan	nan	nan
+wers1238	GB202	nan	0.0	n		nan	nan	nan
+wers1238	GB203	nan	5.0	2		nan	nan	nan
+wers1238	GB204	nan	3.0	?		nan	nan	nan
+wers1238	GB205	Is number marking prohibited on inanimate nouns?	?	Not known		nan	1:?;0:n	nan
+wers1238	GB206	Is number marking prohibited on mass nouns?	?	Not known		nan	1:?;0:n	nan
+wers1238	GB207	Is number marking optional on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+wers1238	GB208	Can singular number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB209	Can singular number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB210	Can singular number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB211	Can singular number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB212	Can dual number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB213	Can dual number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB214	Can dual number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB215	Can dual number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB216	Can dual number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB217	Can plural number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB218	Can plural number be marked by a suffix on the noun?	?	Not known		nan	1:y;0:n	nan
+wers1238	GB219	Can plural number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB220	Can plural number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB221	Can plural number be marked by reduplication on the noun?	?	Not known		nan	1:y;0:n	nan
+wers1238	GB222	Can trial number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB223	Can trial number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB224	Can trial number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB225	Can trial number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB226	Can trial number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB227	Can paucal number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB228	Can paucal number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB229	Can paucal number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB230	Can paucal number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB231	Can paucal number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB232	Can diminutive be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB234	Can diminutive be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB235	Can diminutive be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB236	Can diminutive be marked by tone on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB237	Can diminutive be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB238	Can diminutive be marked by noun class selection?	?	Not known		nan	0:n	nan
+wers1238	GB239	Can augmentative be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB240	Can augmentative be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB241	Can augmentative be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB242	Can augmentative be marked by tone on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB243	Can augmentative be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB244	Can augmentative be marked by noun class selection?	?	Not known		nan	0:n	nan
+wers1238	GB245	Can gender/noun class be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB246	Can gender/noun class be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB247	Can gender/noun class be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+wers1238	GB248	Can gender/noun class be marked by tone on the noun only?	?	Not known		nan	0:n	nan
+wers1238	GB249	nan	1.0	y		nan	nan	nan
+wers1238	GB250	nan	3.0	n		nan	nan	nan
+wers1238	GB251	nan	1.0	n		nan	nan	nan
+wers1238	GB252	nan	3.0	n		nan	nan	nan
+wers1238	GB253	nan	3.0	n		nan	nan	nan
+wers1238	GB254	nan	2.0	y	cloth DEF 1SG.POSS 'the cloth is mine'	S&H2014:479	nan	nan
+wers1238	GB255	nan	2.0	n		nan	nan	nan
+wers1238	GB256	nan	2.0	n		nan	nan	nan
+wers1238	GB257	nan	3.0	n		nan	nan	nan
+wers1238	GB258	Is the polar interrogative intonation rising?	?	Not known		nan	1:?;2:no data;0:y	nan
+wers1238	GB259	Is the polar interrogative intonation falling?	?	Not known		nan	1:?;2:no data;3:y;0:n	nan
+wers1238	GB260	nan	2.0	n		nan	nan	nan
+wers1238	GB261	nan	1.0	y		nan	nan	nan
+wers1238	GB262	nan	2.0	n		nan	nan	nan
+wers1238	GB263	nan	2.0	y		nan	nan	nan
+wers1238	GB264	nan	2.0	n		nan	nan	nan
+wers1238	GB265	nan	5.0	?		nan	nan	nan
+wers1238	GB266	nan	5.0	?		nan	nan	nan
+wers1238	GB267	nan	3.0	?		nan	nan	nan
+wers1238	GB268	nan	3.0	?		nan	nan	nan
+wers1238	GB269	nan	2.0	?		nan	nan	nan
+wers1238	GB270	nan	5.0	?		nan	nan	nan
+wers1238	GB271	nan	2.0	?		nan	nan	nan
+wers1238	GB272	nan	2.0	?		nan	nan	nan
+wers1238	GB273	nan	5.0	?		nan	nan	nan
+wers1238	GB274	nan	3.0	?		nan	nan	nan
+wers1238	GB275	nan	5.0	?		nan	nan	nan
+wers1238	GB276	nan	5.0	?		nan	nan	nan
+wers1238	GB277	nan	3.0	?		nan	nan	nan
+wers1238	GB278	nan	1.0	n		nan	nan	nan
+wers1238	GB279	Is there variation in conflation of core participants based on TAM distinctions?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+wers1238	GB280	Are variation in conflation of core participants based on verb classes?	?	Not known		nan	3:?;2:no data;0:y;1:n	nan
+wers1238	GB281	Is there variation in conflation of core participants based on clause type, e.g. main vs. subordinate?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+wers1238	GB282	Are variation in conflation of core participants based on person distinctions?	?	Not known		nan	3:?;2:no data;0:y;1:n	nan
+wers1238	GB283	Can verbs agree with the gender/noun class of the nominal subject?	?	Not known		nan	1:y;0:n	nan
+wers1238	GB284	nan	1.0	y		nan	nan	nan
+wers1238	GB285	nan	2.0	n		nan	nan	nan
+wers1238	GB286	nan	2.0	n		nan	nan	nan
+wers1238	GB287	nan	0.0	n		nan	nan	nan
+wers1238	GB288	nan	0.0	n		nan	nan	nan
+wers1238	GB289	nan	1.0	y		nan	nan	nan
+wers1238	GB290	nan	0.0	y		nan	nan	nan
+wers1238	GB291	nan	2.0	n		nan	nan	nan
+wers1238	GB292	nan	0.0	y		nan	nan	nan
+wers1238	GB294	nan	2.0	?		nan	nan	nan
+wers1238	GB295	nan	3.0	?		nan	nan	nan
+wers1238	GB295	nan	3.0	?		nan	nan	nan
+wers1238	GB296	Is there a morphosyntactically definable class of ideophones (beyond sound)?	?	Not known		nan	3:?;4:no data;0: absent;1: present;2:n	Not mentioned
+wers1238	GB297	Can polar interrogation be marked by a construction of the type “V Neg V”?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB298	Can standard negation be marked by negative auxiliaries?	?	Not known		nan	0: absent;1: present	Not mentioned, Unclear whether it should count as an auxiliary given that no verbs carry inflection
+wers1238	GB299	Can standard negation be marked by a freestanding particle?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB300	Is there a verb for the function 'give' that is suppletive for any grammatical category?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB301	Does the language have inclusory constructions productively?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB302	Is there a dedicated, obligatory and productive construction that marks passive voice, not morphologically on the verb nor on the A argument?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+wers1238	GB303	Is there a dedicated, obligatory, productive construction that marks antipassive voice, not morphologically on the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+wers1238	GB304	Can the A argument be overtly expressed in a passive clause or be overtly marked to signal a passive clause?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB305	Are there phonologically independent reflexive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned, Not clear if they are phonologically independent
+wers1238	GB306	Are there reciprocal pronouns that are not-bipartite?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB307	Are there bipartite reciprocal pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB308	Can tense be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+wers1238	GB309	Are there multiple past or future tenses, distinguishing distance from Time of Reference, in any form?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+wers1238	GB310	Can aspect be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+wers1238	GB311	Can mood be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+wers1238	GB312	Can modal distinctions be marked on the verb, productively, dedicatedly and obligatorily?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+wers1238	GB313	Are there possessive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB314	Can augmentative be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB315	Can diminutive be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB316	Can singular number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+wers1238	GB317	Can dual number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+wers1238	GB318	Can plural number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+wers1238	GB319	Can trial number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+wers1238	GB320	Can paucal number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+wers1238	GB321	Is there an open class of noun stems that are assigned to gender/noun class categories arbitrarily?	?	Not known		nan	0: absent;1: present	Not mentioned, There may be a gender or noun class system but it seems to be semantic
+wers1238	GB322	Does the language encode direct evidentiality (perceived with senses)?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB323	Does the language encode indirect evidentiality (hearsay, inference, etc.)?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB324	Are some content interrogatives (who?, what?, etc.) expressed in interrogative verbs?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB325	Is there a count/mass distinction in content interrogatives (e.g. English how many vs. how much)?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB326	Do (nominal) content interrogatives normally or frequently occur in situ (i.e. in the normal position for a non-interrogative NP in the same participant role)?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB327	Can the relative clause follow the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB328	Can the relative clause precede the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB329	Are there internally-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB330	Are there correlative relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB331	Are there adjoined relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB332	Are there double-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB333	nan	2.0	y		nan	nan	nan
+wers1238	GB334	Is there synchronic evidence for any element of a quinary counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB335	Is there synchronic evidence for any element of a vigesimal counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+wers1238	GB336	nan	2.0	n		nan	nan	nan
+wers1238	GB502	nan	0.0	1		nan	nan	nan
+wers1238	GB503	nan	0.0	y		nan	nan	nan
+wers1238	GB508	nan	0.0	n		nan	nan	nan
+wers1238	GB509	nan	0.0	y		S&H2014:470	nan	nan
+wers1238	GB510	nan	0.0	y		S&H2014:470	nan	nan
+wers1238	GB511	nan	1.0	n		nan	nan	nan
+wers1238	GB512	Is there an opposition between three or more elevation terms in the demonstrative system?	?	Not known		nan	2:?;0:y;1:n	nan
+wers1238	GB514	nan	0.0	n		nan	nan	nan
+wers1238	GB515	nan	0.0	n		nan	nan	nan
+wers1238	GB516	nan	2.0	0		nan	nan	nan
+wers1238	GB517	nan	1.0	n		nan	nan	nan
+wers1238	GB518	nan	0.0	y		S&H2014:457	nan	nan
+wers1238	GB519	nan	0.0	y		nan	nan	nan
+wers1238	GB520	nan	1.0	n		nan	nan	nan
+wers1238	GB521	nan	0.0	n		nan	nan	nan
+wers1238	R1102	nan	1.0	3		nan	nan	nan
+wers1238	R1103	nan	0.0	3		nan	nan	nan
+wers1238	R1103a	nan	1.0	y		nan	nan	nan
+wers1238	R1103b	nan	0.0	n		nan	nan	nan
+wers1238	R1105	nan	0.0	y		nan	nan	nan
+wers1238	R1106	nan	0.0	n		nan	nan	nan
+wers1238	R1107	nan	0.0	y		nan	nan	nan
+wers1238	R1108	nan	0.0	n		nan	nan	nan
+wers1238	R1109	nan	0.0	y		nan	nan	nan
+wers1238	R1109a	nan	0.0	n		nan	nan	nan
+wers1238	R1109b	nan	0.0	n		nan	nan	nan
+wers1238	R1110	nan	0.0	n		nan	nan	nan
+wers1238	R1111	nan	1.0	n		nan	nan	nan
+wers1238	R1112	nan	0.0	n		nan	nan	nan
+wers1238	R1113a	nan	1.0	n		nan	nan	nan
+wers1238	R1115	nan	0.0	y		nan	nan	nan
+wers1238	R1116	Is there weight-sensitive suprasegmental prominence	?	Not known		nan	0:y;1:n	nan
+wers1238	R1117	nan	3.0	?		nan	nan	nan
+wers1238	R1118	nan	1.0	n		nan	nan	nan
+wers1238	R1202	nan	0.0	y		nan	nan	nan
+wers1238	R1203a	nan	1.0	y	most commonly stop + liquid	S&H2014: 448	nan	nan
+wers1238	R1204	nan	0.0	n		nan	nan	nan
+wers1238	R2203	nan	0.0	y		nan	nan	nan
+wers1238	R2504a	Is plant status a relevant category in the noun class/gender system?	?	Not known		nan	0:y;1:n	nan
+wers1238	R2507	Is there concord beyond the NP, i.e. agreement of elements outside the NP with the noun class of a noun?	?	Not known		nan	0:n	nan
+wers1238	R2508	nan	0.0	y	only one human classifier -(a)nin	S&H2014:467	nan	nan
+wers1238	R2601	nan	0.0	y		nan	nan	nan
+wers1238	R2702	nan	0.0	y		nan	nan	nan
+wers1238	R2703b	nan	0.0	n		nan	nan	nan
+wers1238	R3103	Do the same morphemes systematically encode both TAM and person?	?	Not known		nan	0:n	nan
+wers1238	R3502	nan	0.0	n		nan	nan	nan
+wers1238	R3605	nan	0.0	n		nan	nan	nan
+wers1238	R4305a	nan	0.0	y		nan	nan	nan
+wers1238	R4307	nan	0.0	n	serial verb constructions or clause juxtaposition 	S&H2014: 463	nan	nan
+wers1238	R4308	nan	0.0	n	serial verb constructions or clause juxtaposition 	nan	nan	nan
+wers1238	R4308a	nan	1.0	n	serial verb constructions or clause juxtaposition 	S&H2014: 462 ex (45)	nan	nan
+wers1238	R4309a	nan	2.0	?	no examples	nan	nan	nan
+wers1238	R4309b	nan	1.0	n		nan	nan	nan
+wers1238	R4309c	nan	3.0	?		nan	nan	nan
+wers1238	R4309d	nan	3.0	?		nan	nan	nan
+wers1238	R4311	nan	0.0	n		nan	nan	nan
+wers1238	R5202	nan	3.0	?		nan	nan	nan
+wers1238	R5203	nan	0.0	n		Holton 2014: 225-226	nan	nan
+wers1238	R5204	nan	1.0	y		nan	nan	nan
+wers1238	R5205	nan	2.0	?		nan	nan	nan
+wers1238	R5206	nan	0.0	n	all -nang / -kaku 	nan	nan	nan
+wers1238	R5207	nan	0.0	n	all -tam	Holton 2014: 225	nan	nan
+wers1238	R5208	nan	0.0	n		nan	nan	nan
+wers1238	R5209	nan	0.0	n		nan	nan	nan
+wers1238	R5210	nan	1.0	n		nan	nan	nan
+wers1238	R5211	nan	0.0	y		nan	nan	nan
+wers1238	R5212	nan	1.0	y		Holton 2014: 224	nan	nan
+wers1238	SD224	nan	0.0	1		nan	nan	nan
+wers1238	SD295	nan	1.0	n		nan	nan	nan
+wers1238	SD319	Are S and A marked by the same prefix/proclitic?	?	Not known		nan	1:y;0:n	nan
+wers1238	SD320	Are S and A marked by the same suffix/enclitic?	?	Not known		nan	1:?;0:n	nan
+wers1238	SD321	nan	0.0	y		nan	nan	nan
+wers1238	SD341	nan	0.0	y		nan	nan	nan
+wers1238	SD342	nan	0.0	n		nan	nan	nan
+wers1238	SD343	nan	0.0	y	amalosi 'not want'	S&H2014:470	nan	nan
+wers1238	SD344	Are there adjectives (elements denoting property concepts) that act like nouns?	?	Not known		nan	1:y;0:n	nan
+wers1238	SD369	nan	2.0	?		nan	nan	nan
+wers1238	SD381	nan	1.0	n		nan	nan	nan
+wers1238	SD388	Are there allophonic phonation types for vowels?	?	Not known		nan	0:y;1:n	nan
+wers1238	SD389	Is there nominalizing morphology?	?	Not known		nan	0:y	nan
+wers1238	SD390	Can horizontal direction be marked in demonstratives?	?	Not known		nan	1:y;0:n	nan
+wers1238	SD391	Is there a predicative possessive construction?	?	Not known		nan	0:y	nan
+wers1238	SD392	Are S and O marked by the same prefix/proclitic?	?	Not known		nan	0:n	nan
+wers1238	SD393	Are S and O marked by the same suffix/enclitic?	?	Not known		nan	0:n	nan
+wers1238	SD394	Are there suppletive forms for negated verbs?	?	Not known		nan	0:y	nan
+wers1238	SD395	Is topological information expressed by adpositions?	?	Not known		nan	0:n	nan
+wers1238	SD396	Is topological information expressed by nouns?	?	Not known		nan	0:y	nan
+wers1238	SD397	Are there native terms expressing directions in space on a geocentric coordinate system (geocentric terms)?	?	Not known		nan	0:y	nan
+wers1238	SD398	Do geocentric terms have deictic use?	?	Not known		nan	0:y	nan
+wers1238	SD399	Can geocentric terms function as adverbs?	?	Not known		nan	0:y	nan
+wers1238	SD400	Can geocentric terms function as adpositions?	?	Not known		nan	0:y	nan
+wers1238	SD401	Can demonstratives function as adverbs (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+wers1238	SD402	Can demonstratives function as prepositions (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+wers1238	SD403	Is it possible to employ an absolute frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+wers1238	SD404	Is it possible to employ an intrinsic frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+wers1238	SD405	Is it possible to employ a relative frame of reference when expressing projective spatial relations?	?	Not known		nan	1:?;0:n	nan
+wers1238	SD406	Is it possible to use another frame of reference?	?	Not known		nan	1:?;0:y	nan
+wers1238	SD407	Which frame of reference is preferred in the expression of projective spatial relations?	?	Not known		nan	1:?;0:a	nan

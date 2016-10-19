@@ -1,255 +1,410 @@
-Feature_ID	Language_ID	Value	Comment	Source
-R1102	keda1252	1.0		
-R1103	keda1252	0.0		
-R1103a	keda1252	1.0		
-R1103b	keda1252	0.0		
-R1105	keda1252	0.0		
-R1106	keda1252	0.0		
-R1107	keda1252	0.0		
-R1108	keda1252	0.0		
-R1109	keda1252	0.0		
-R1109a	keda1252	0.0		
-R1109b	keda1252	0.0		
-R1110	keda1252	0.0		
-R1111	keda1252	1.0		
-R1112	keda1252	1.0		
-R1113a	keda1252	1.0		
-R1115	keda1252	1.0		
-GB014	keda1252	0.0		
-R1117	keda1252	0.0		Samely and Barnes: 16
-R1118	keda1252	1.0		
-R1202	keda1252	0.0		
-R1203a	keda1252	0.0		
-R1204	keda1252	0.0		
-GB024	keda1252	4.0		Samely 1991: 151
-GB025	keda1252	5.0		
-GB065	keda1252	5.0		Samely 1991: 152
-SD224	keda1252	0.0		Samely 1991: 154
-GB502	keda1252	0.0		
-GB193	keda1252	5.0		Samely 1991: 76
-GB026	keda1252	2.0		
-GB203	keda1252	5.0	N followed by rai or réiq = all	Samely and Barnes 2013: 557, 567 
-GB204	keda1252	2.0	di loyo di loyo= 'every day' (di = locative, loyo=day)	Samely and Barnes 2013: 154 
-R2508	keda1252	0.0	uren: general classifier used as counter for numerals 1-10 and for any countable noun; uluq 'seed, kernel, stone' used with numerals 1-10 and for round objects; ateused as a classifier for humans. 	Samely 1991:96, 90 
-GB159	keda1252	2.0		
-GB050	keda1252	1.0		
-GB039	keda1252	2.0		
-GB041	keda1252	2.0		
-GB042	keda1252	2.0		
-GB043	keda1252	2.0		
-GB044	keda1252	2.0		
-GB165	keda1252	2.0		
-GB166	keda1252	2.0		
-GB200	keda1252	2.0	check	
-GB284	keda1252	2.0	check	
-GB185	keda1252	2.0		
-GB184	keda1252	2.0		
-GB046	keda1252	5.0		
-GB188	keda1252	2.0		
-GB187	keda1252	2.0		
-GB070	keda1252	2.0		
-GB071	keda1252	3.0		
-GB072	keda1252	2.0		
-GB073	keda1252	2.0		
-GB047	keda1252	3.0		
-GB048	keda1252	2.0	wala is a free form meaning 'lord, master, Sir' and is used to derive agent noun compounds (help > help wala 'helper', play > play wala 'player'. NB In Western Pantar, the word wala 'person' has a similar function (Holton 2015: 46, in Schapper ed.). Kedang also has ata 'person' and W Pantar also has aname 'person'). 	Samely 1991: 67
-GB049	keda1252	2.0		
-GB020	keda1252	3.0		
-GB194	keda1252	0.0		
-GB509	keda1252	0.0		Samely 1991: 118
-GB510	keda1252	0.0		Samely 1991: 119
-GB035	keda1252	3.0		
-GB511	keda1252	0.0	ote 'that up there; eastward', ole 'that down there; westward'	Samely 1991: 119
-GB512	keda1252	1.0		
-GB036	keda1252	3.0		
-SD295	keda1252	0.0	oli 'landwards', owe 'seawards', oyo 'perpendicular to land-sea line', ote 'eastward', ole 'westwards'	Samely 1991:117-119
-GB037	keda1252	2.0		
-GB514	keda1252	0.0		
-GB515	keda1252	0.0		
-GB038	keda1252	2.0		
-GB516	keda1252	3.0	oyo->/>oyoɁ/	Samely 1991: 127
-GB517	keda1252	1.0		
-GB518	keda1252	0.0		
-GB519	keda1252	1.0		
-GB520	keda1252	0.0		
-GB521	keda1252	0.0		
-GB067	keda1252	1.0	leme >apaɁ '5 4' = 'nine'	Samely 1991: 96
-GB333	keda1252	2.0		
-R2702	keda1252	0.0		
-GB336	keda1252	2.0		
-R2703b	keda1252	0.0		
-GB057	keda1252	3.0		Samely 1991:96, 90 
-R2601	keda1252	1.0		
-GB058	keda1252	2.0		
-GB059	keda1252	3.0		
-GB060	keda1252	1.0		
-GB061	keda1252	3.0		
-GB062	keda1252	2.0		
-GB063	keda1252	2.0		
-GB064	keda1252	3.0		
-GB066	keda1252	0.0		
-GB250	keda1252	3.0	koɁ is listed by S 1991 as 'to have, possess' but this is in fact the 1sg.POSS pronoun	Samely 1991: 178
-GB251	keda1252	1.0	: my house (is) big-3sg, my house (is) big-3sg.NOML	Samely 1991: 76
-GB252	keda1252	3.0		
-GB253	keda1252	3.0		
-GB254	keda1252	3.0		
-GB255	keda1252	2.0		
-GB256	keda1252	2.0		
-GB081	keda1252	3.0	nominalizing infix -an-	Samely 1991: 66
-GB111	keda1252	2.0		
-GB112	keda1252	3.0		
-GB117	keda1252	2.0		
-GB118	keda1252	2.0		
-GB119	keda1252	2.0		
-GB120	keda1252	2.0		
-GB121	keda1252	3.0		
-GB122	keda1252	2.0		Samely 1991: 108
-GB123	keda1252	3.0		
-GB124	keda1252	2.0		
-GB125	keda1252	2.0		
-GB126	keda1252	2.0	nore 'there is/are'	Samely 1991: 84, 186
-GB127	keda1252	3.0		
-GB128	keda1252	0.0		
-GB129	keda1252	2.0		
-GB158	keda1252	3.0		
-GB028	keda1252	2.0		
-GB029	keda1252	0.0		
-GB030	keda1252	2.0		
-GB168	keda1252	1.0		
-GB169	keda1252	0.0		
-GB197	keda1252	2.0		
-GB162	keda1252	0.0		
-GB196	keda1252	2.0		
-GB202	keda1252	0.0		
-R2203	keda1252	0.0		
-GB031	keda1252	3.0	dual pronoun paradigm is formed on the basis of sue 'two' followed by glottal.stop-pronominal suffix	Samely 1991: 99
-GB167	keda1252	2.0		
-GB032	keda1252	2.0		
-GB033	keda1252	0.0		
-GB034	keda1252	2.0		
-GB089	keda1252	3.0		
-GB090	keda1252	3.0	if preverbal, it is a free form	Samely 1991: 71-74
-GB091	keda1252	4.0		Samely 1991: 71, example (5) and (6)
-GB092	keda1252	2.0		
-GB093	keda1252	3.0		
-GB094	keda1252	3.0		
-GB503	keda1252	0.0	in some cases, A can be an enclitic just like S is	
-SD321	keda1252	0.0		
-GB249	keda1252	1.0		
-GB095	keda1252	3.0		
-GB096	keda1252	3.0		
-GB097	keda1252	2.0		
-GB098	keda1252	2.0		
-GB099	keda1252	2.0		
-GB100	keda1252	0.0		
-GB109	keda1252	2.0		
-R3502	keda1252	0.0		
-GB102	keda1252	0.0		
-GB141	keda1252	2.0		
-GB142	keda1252	2.0		
-GB143	keda1252	0.0		
-GB144	keda1252	0.0		
-GB145	keda1252	1.0		
-GB278	keda1252	1.0		
-GB103	keda1252	2.0		
-GB104	keda1252	2.0		
-GB105	keda1252	3.0		
-GB106	keda1252	3.0		Samely 1991: 71 ex (7)
-GB108	keda1252	3.0		
-GB079	keda1252	2.0		
-GB080	keda1252	3.0		
-GB101	keda1252	0.0		
-GB110	keda1252	2.0		
-GB082	keda1252	2.0		
-GB083	keda1252	2.0		
-GB084	keda1252	2.0		
-GB086	keda1252	3.0		
-GB087	keda1252	2.0		
-GB088	keda1252	2.0		
-GB113	keda1252	2.0		
-R3605	keda1252	0.0		
-GB114	keda1252	2.0	wèɁ 'body' used to form reflexive verbs e.g.  leave each other, hide each other, hand each other, surrender oneself	Samely 1991
-GB115	keda1252	3.0	wèɁ 'body' used to form reflexive verbs e.g.  leave each other, hide each other, hand each other, surrender oneself	
-GB116	keda1252	2.0		
-GB177	keda1252	3.0		
-GB074	keda1252	4.0	e.g. bè 'general locative preposition'	Samely 1991: 116
-GB075	keda1252	2.0		
-GB076	keda1252	2.0		
-GB077	keda1252	3.0		
-GB078	keda1252	0.0	The preposition bè means 'in', 'at' 'on', 'towards' or 'to'	Samely 1991: 116
-GB107	keda1252	2.0		
-GB137	keda1252	3.0		
-GB138	keda1252	2.0		
-SD341	keda1252	1.0		
-SD342	keda1252	1.0		
-GB139	keda1252	2.0	prohibitive kora	Samely 1991: 77
-GB140	keda1252	3.0	declarative ohaɁ negates verbal and nominal predicates	Samely 1991: 74, 77
-SD343	keda1252	0.0	daeɁ 'not want, reject,refuse'	Samely 1991: 155, 217
-GB068	keda1252	2.0	they take subject enclitics, e.g. =ne '3sg'	Samely  1991: 84
-GB508	keda1252	0.0		
-GB069	keda1252	3.0	they take a suffix -n when used attributively	Samely  1991: 84
-GB265	keda1252	4.0	ketang 'surpass'	Samely 1991: 86
-GB266	keda1252	2.0		
-GB267	keda1252	0.0		
-GB268	keda1252	0.0		
-GB269	keda1252	0.0		
-GB277	keda1252	0.0		
-GB270	keda1252	4.0		
-GB273	keda1252	2.0		
-GB274	keda1252	2.0	hara(ka) 'a little'	Samely 1991: 86
-GB275	keda1252	2.0		
-GB276	keda1252	3.0		
-GB160	keda1252	2.0	adjectives in superlative construction are reduplicated: wetaq haraka ria-ria neɁe 'house a.litt.e big big 3sg.POSS' 'the biggest house' 	
-GB146	keda1252	3.0		
-GB147	keda1252	2.0		
-GB148	keda1252	2.0		
-GB191	keda1252	0.0		
-GB149	keda1252	2.0		
-GB151	keda1252	2.0		
-GB152	keda1252	3.0		
-GB150	keda1252	3.0		
-GB153	keda1252	0.0	laha 'do, make' and 'want, wish' (tele 'say')	Samely 1991: 71, 224
-GB027	keda1252	3.0	(n)ore 'and, be with' 	Samely 1991: 155, 157; Samely and Barnes 2013: 492
-GB130	keda1252	4.0		
-GB131	keda1252	2.0		
-GB132	keda1252	3.0		
-GB133	keda1252	3.0		
-GB134	keda1252	2.0		Samely 1991: 73 ex (20)
-GB135	keda1252	2.0	quotes follow hoing  'tell s.o.', thoughts follow kèlèn  'to think' 	Samely 1991: 158, 74
-GB136	keda1252	2.0		
-R4305a	keda1252	2.0	agent focus pronouons with marker -ti are used to render clauses that are translated as subject relative clauses	Samely 1991: 81
-R4307	keda1252	0.0		
-R4308	keda1252	1.0	bahe 'completed, finished' follows main clause	Samely 1991: 90-91
-R4308a	keda1252	0.0	la 'if'	Samely and Barnes 2013: 324
-R4309a	keda1252	0.0	tèhèɁ-tèlè 'speak-say' is followed by juxtaposed quote	Samely 1991: 151 vv
-R4309b	keda1252	0.0	boraɁ 'see' followed by juxtaposed clause	Samely 1991: 157
-R4309c	keda1252	0.0		
-R4309d	keda1252	0.0		
-R4311	keda1252	0.0		
-GB154	keda1252	0.0		
-GB155	keda1252	2.0		
-GB156	keda1252	2.0		
-GB257	keda1252	2.0	this is inferred from the examples in the text	e.g. Samely 1991: 71, 154
-GB258	keda1252	1.0		
-GB259	keda1252	1.0		
-GB260	keda1252	2.0		
-GB286	keda1252	2.0		
-GB285	keda1252	2.0		
-GB261	keda1252	0.0		
-GB157	keda1252	6.0		
-GB294	keda1252	2.0		
-GB295	keda1252	3.0		
-GB295	keda1252	3.0		
-SD369	keda1252	2.0		
-R5202	keda1252	2.0	ino amo 'parents'	
-R5203	keda1252	1.0	FB = amo (utun) 'father (small)'	
-R5204	keda1252	0.0	MB = epu	
-R5205	keda1252	2.0		
-R5206	keda1252	1.0		
-R5207	keda1252	1.0		
-R5208	keda1252	1.0		
-R5209	keda1252	0.0		
-R5210	keda1252	0.0		
-R5211	keda1252	0.0	ariɁ 'younger sibling', aɁe 'older sibling'	
-R5212	keda1252	0.0		
-SD381	keda1252	1.0		
+Language_ID	Feature_ID	Feature	Value	Answer	Comment	Source	Possible Values	Suggested standardised comments
+keda1252	GB014	nan	0.0	n		nan	nan	nan
+keda1252	GB020	nan	3.0	n		nan	nan	nan
+keda1252	GB021	Is an indefinite NP obligatorily accompanied by an indefinite (or non-specific) article?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, It exists but it is not obligatory, Same as numeral 'one'
+keda1252	GB022	Are there prenominal articles?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, The definite article is prenominal, The indefinite article is prenominal, The definite article is a prefix, The indefinite article is a prefix
+keda1252	GB023	Are there postnominal articles?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, The definite article is postnominal, The indefinite article is postnominal, The definite article is a suffix, The indefinite article is a suffix
+keda1252	GB024	nan	4.0	2		Samely 1991: 151	nan	nan
+keda1252	GB025	nan	5.0	2		nan	nan	nan
+keda1252	GB026	nan	2.0	n		nan	nan	nan
+keda1252	GB027	nan	3.0	n	(n)ore 'and, be with' 	Samely 1991: 155, 157; Samely and Barnes 2013: 492	nan	nan
+keda1252	GB028	nan	2.0	y		nan	nan	nan
+keda1252	GB029	nan	0.0	n		nan	nan	nan
+keda1252	GB030	nan	2.0	n		nan	nan	nan
+keda1252	GB031	nan	3.0	y	dual pronoun paradigm is formed on the basis of sue 'two' followed by glottal.stop-pronominal suffix	Samely 1991: 99	nan	nan
+keda1252	GB032	nan	2.0	n		nan	nan	nan
+keda1252	GB033	nan	0.0	n		nan	nan	nan
+keda1252	GB034	nan	2.0	n		nan	nan	nan
+keda1252	GB035	nan	3.0	n		nan	nan	nan
+keda1252	GB036	nan	3.0	n		nan	nan	nan
+keda1252	GB037	nan	2.0	n		nan	nan	nan
+keda1252	GB038	nan	2.0	n		nan	nan	nan
+keda1252	GB039	nan	2.0	n		nan	nan	nan
+keda1252	GB040	Are there declensions (partly) determined by gender of the noun?	?	Not known		nan	0:n	nan
+keda1252	GB041	nan	2.0	n		nan	nan	nan
+keda1252	GB042	nan	2.0	n		nan	nan	nan
+keda1252	GB043	nan	2.0	n		nan	nan	nan
+keda1252	GB044	nan	2.0	n		nan	nan	nan
+keda1252	GB045	Is number marking prohibited on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+keda1252	GB046	nan	5.0	?		nan	nan	nan
+keda1252	GB047	nan	3.0	y		nan	nan	nan
+keda1252	GB048	nan	2.0	n	wala is a free form meaning 'lord, master, Sir' and is used to derive agent noun compounds (help > help wala 'helper', play > play wala 'player'. NB In Western Pantar, the word wala 'person' has a similar function (Holton 2015: 46, in Schapper ed.). Kedang also has ata 'person' and W Pantar also has aname 'person'). 	Samely 1991: 67	nan	nan
+keda1252	GB049	nan	2.0	n		nan	nan	nan
+keda1252	GB050	nan	1.0	n		nan	nan	nan
+keda1252	GB051	Is sex a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+keda1252	GB052	Is shape a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+keda1252	GB053	Is animacy (without reference to sex) a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+keda1252	GB054	Is plant status a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+keda1252	GB055	Does the language only have a gender distinction in 3rd person pronouns?	?	Not known		nan	0:n	nan
+keda1252	GB056	Is there concord within the NP, i.e. agreement of elements within the NP with the noun class of a noun?	?	Not known		nan	1:y;0:n	nan
+keda1252	GB057	nan	3.0	y		Samely 1991:96, 90 	nan	nan
+keda1252	GB058	nan	2.0	n		nan	nan	nan
+keda1252	GB059	nan	3.0	n		nan	nan	nan
+keda1252	GB060	nan	1.0	n		nan	nan	nan
+keda1252	GB061	nan	3.0	n		nan	nan	nan
+keda1252	GB062	nan	2.0	n		nan	nan	nan
+keda1252	GB063	nan	2.0	n		nan	nan	nan
+keda1252	GB064	nan	3.0	n		nan	nan	nan
+keda1252	GB065	nan	5.0	1		Samely 1991: 152	nan	nan
+keda1252	GB066	nan	0.0	n		nan	nan	nan
+keda1252	GB067	nan	1.0	1	leme >apaɁ '5 4' = 'nine'	Samely 1991: 96	nan	nan
+keda1252	GB068	nan	2.0	y	they take subject enclitics, e.g. =ne '3sg'	Samely  1991: 84	nan	nan
+keda1252	GB069	nan	3.0	n	they take a suffix -n when used attributively	Samely  1991: 84	nan	nan
+keda1252	GB070	nan	2.0	n		nan	nan	nan
+keda1252	GB071	nan	3.0	y		nan	nan	nan
+keda1252	GB072	nan	2.0	n		nan	nan	nan
+keda1252	GB073	nan	2.0	n		nan	nan	nan
+keda1252	GB074	nan	4.0	y	e.g. bè 'general locative preposition'	Samely 1991: 116	nan	nan
+keda1252	GB075	nan	2.0	n		nan	nan	nan
+keda1252	GB076	nan	2.0	n		nan	nan	nan
+keda1252	GB077	nan	3.0	y		nan	nan	nan
+keda1252	GB078	nan	0.0	n	The preposition bè means 'in', 'at' 'on', 'towards' or 'to'	Samely 1991: 116	nan	nan
+keda1252	GB079	nan	2.0	n		nan	nan	nan
+keda1252	GB080	nan	3.0	n		nan	nan	nan
+keda1252	GB081	nan	3.0	y	nominalizing infix -an-	Samely 1991: 66	nan	nan
+keda1252	GB082	nan	2.0	n		nan	nan	nan
+keda1252	GB083	nan	2.0	n		nan	nan	nan
+keda1252	GB084	nan	2.0	n		nan	nan	nan
+keda1252	GB085	Are there multiple past or future tenses, distinguishing distance from Time of Reference, marked on the verb?	?	Not known		nan	0:n	nan
+keda1252	GB086	nan	3.0	n		nan	nan	nan
+keda1252	GB087	nan	2.0	n		nan	nan	nan
+keda1252	GB088	nan	2.0	n		nan	nan	nan
+keda1252	GB089	nan	3.0	y		nan	nan	nan
+keda1252	GB090	nan	3.0	n	if preverbal, it is a free form	Samely 1991: 71-74	nan	nan
+keda1252	GB091	nan	4.0	y		Samely 1991: 71, example (5) and (6)	nan	nan
+keda1252	GB092	nan	2.0	n		nan	nan	nan
+keda1252	GB093	nan	3.0	y		nan	nan	nan
+keda1252	GB094	nan	3.0	n		nan	nan	nan
+keda1252	GB095	nan	3.0	y		nan	nan	nan
+keda1252	GB096	nan	3.0	n		nan	nan	nan
+keda1252	GB097	nan	2.0	n		nan	nan	nan
+keda1252	GB098	nan	2.0	n		nan	nan	nan
+keda1252	GB099	nan	2.0	n		nan	nan	nan
+keda1252	GB100	nan	0.0	n		nan	nan	nan
+keda1252	GB101	nan	0.0	n		nan	nan	nan
+keda1252	GB102	nan	0.0	n		nan	nan	nan
+keda1252	GB103	nan	2.0	n		nan	nan	nan
+keda1252	GB104	nan	2.0	n		nan	nan	nan
+keda1252	GB105	nan	3.0	n		nan	nan	nan
+keda1252	GB106	nan	3.0	y		Samely 1991: 71 ex (7)	nan	nan
+keda1252	GB107	nan	2.0	n		nan	nan	nan
+keda1252	GB108	nan	3.0	n		nan	nan	nan
+keda1252	GB109	nan	2.0	n		nan	nan	nan
+keda1252	GB110	nan	2.0	n		nan	nan	nan
+keda1252	GB111	nan	2.0	y		nan	nan	nan
+keda1252	GB112	nan	3.0	y		nan	nan	nan
+keda1252	GB113	nan	2.0	n		nan	nan	nan
+keda1252	GB114	nan	2.0	n	wèɁ 'body' used to form reflexive verbs e.g.  leave each other, hide each other, hand each other, surrender oneself	Samely 1991	nan	nan
+keda1252	GB115	nan	3.0	n	wèɁ 'body' used to form reflexive verbs e.g.  leave each other, hide each other, hand each other, surrender oneself	nan	nan	nan
+keda1252	GB116	nan	2.0	n		nan	nan	nan
+keda1252	GB117	nan	2.0	n		nan	nan	nan
+keda1252	GB118	nan	2.0	y		nan	nan	nan
+keda1252	GB119	nan	2.0	y		nan	nan	nan
+keda1252	GB120	nan	2.0	y		nan	nan	nan
+keda1252	GB121	nan	3.0	y		nan	nan	nan
+keda1252	GB122	nan	2.0	y		Samely 1991: 108	nan	nan
+keda1252	GB123	nan	3.0	n		nan	nan	nan
+keda1252	GB124	nan	2.0	n		nan	nan	nan
+keda1252	GB125	nan	2.0	n		nan	nan	nan
+keda1252	GB126	nan	2.0	y	nore 'there is/are'	Samely 1991: 84, 186	nan	nan
+keda1252	GB127	nan	3.0	n		nan	nan	nan
+keda1252	GB128	nan	0.0	n		nan	nan	nan
+keda1252	GB129	nan	2.0	n		nan	nan	nan
+keda1252	GB130	nan	4.0	1		nan	nan	nan
+keda1252	GB131	nan	2.0	n		nan	nan	nan
+keda1252	GB132	nan	3.0	y		nan	nan	nan
+keda1252	GB133	nan	3.0	n		nan	nan	nan
+keda1252	GB134	nan	2.0	y		Samely 1991: 73 ex (20)	nan	nan
+keda1252	GB135	nan	2.0	y	quotes follow hoing  'tell s.o.', thoughts follow kèlèn  'to think' 	Samely 1991: 158, 74	nan	nan
+keda1252	GB136	nan	2.0	y		nan	nan	nan
+keda1252	GB137	nan	3.0	n		nan	nan	nan
+keda1252	GB138	nan	2.0	n		nan	nan	nan
+keda1252	GB139	nan	2.0	y	prohibitive kora	Samely 1991: 77	nan	nan
+keda1252	GB140	nan	3.0	y	declarative ohaɁ negates verbal and nominal predicates	Samely 1991: 74, 77	nan	nan
+keda1252	GB141	nan	2.0	y		nan	nan	nan
+keda1252	GB142	nan	2.0	y		nan	nan	nan
+keda1252	GB143	nan	0.0	n		nan	nan	nan
+keda1252	GB144	nan	0.0	n		nan	nan	nan
+keda1252	GB145	nan	1.0	n		nan	nan	nan
+keda1252	GB146	nan	3.0	n		nan	nan	nan
+keda1252	GB147	nan	2.0	n		nan	nan	nan
+keda1252	GB148	nan	2.0	n		nan	nan	nan
+keda1252	GB149	nan	2.0	n		nan	nan	nan
+keda1252	GB150	nan	3.0	n		nan	nan	nan
+keda1252	GB151	nan	2.0	n		nan	nan	nan
+keda1252	GB152	nan	3.0	n		nan	nan	nan
+keda1252	GB153	nan	0.0	n	laha 'do, make' and 'want, wish' (tele 'say')	Samely 1991: 71, 224	nan	nan
+keda1252	GB154	nan	0.0	y		nan	nan	nan
+keda1252	GB155	nan	2.0	n		nan	nan	nan
+keda1252	GB156	nan	2.0	n		nan	nan	nan
+keda1252	GB157	nan	6.0	?		nan	nan	nan
+keda1252	GB158	nan	3.0	n		nan	nan	nan
+keda1252	GB159	nan	2.0	n		nan	nan	nan
+keda1252	GB160	nan	2.0	y	adjectives in superlative construction are reduplicated: wetaq haraka ria-ria neɁe 'house a.litt.e big big 3sg.POSS' 'the biggest house' 	nan	nan	nan
+keda1252	GB162	nan	0.0	n		nan	nan	nan
+keda1252	GB163	How many genders/noun classes are there?	?	Not known		nan	3:?;0:several;1:2;2:n	nan
+keda1252	GB165	nan	2.0	n		nan	nan	nan
+keda1252	GB166	nan	2.0	n		nan	nan	nan
+keda1252	GB167	nan	2.0	n		nan	nan	nan
+keda1252	GB168	nan	1.0	n		nan	nan	nan
+keda1252	GB169	nan	0.0	n		nan	nan	nan
+keda1252	GB170	Can an attributive nominal modifier denoting a property concept agree with any gender/noun class of the noun it modifies?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+keda1252	GB171	Can an adnominal demonstrative agree in gender/noun class with the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+keda1252	GB172	Can articles agree with the gender/noun class of the noun they modify?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement, It is not clear whether it is an article
+keda1252	GB173	Are noun class and number always marked by a portmanteau morpheme on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB174	Are noun class and number marked by a portmanteau morpheme on the noun in singular?	?	Not known		nan	0:n	nan
+keda1252	GB175	Are noun class and number marked by a portmanteau morpheme on the noun in plural?	?	Not known		nan	0:n	nan
+keda1252	GB176	Can agreement of gender/noun class and number be marked by a portmanteau morpheme on other items in the noun phrase?	?	Not known		nan	0:n	nan
+keda1252	GB177	nan	3.0	n		nan	nan	nan
+keda1252	GB178	Are there several different singular genders/noun classes that can have the same plural gender/noun class?	?	Not known		nan	0:n	nan
+keda1252	GB179	Are there genders/noun classes that cannot take number marking?	?	Not known		nan	0:n	nan
+keda1252	GB181	Is number marking obligatory on certain (types of) nouns?	?	Not known		nan	1:?;2:y;0:n	nan
+keda1252	GB182	Is number marking obligatory on animate nouns?	?	Not known		nan	1:?;0:n	nan
+keda1252	GB183	Is number marking obligatory on human nouns?	?	Not known		nan	1:?;0:n	nan
+keda1252	GB184	nan	2.0	n		nan	nan	nan
+keda1252	GB185	nan	2.0	n		nan	nan	nan
+keda1252	GB186	Can articles agree in number with the noun they modify?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the number of the noun is present but not called agreement, It is not clear whether it is an article
+keda1252	GB187	nan	2.0	n		nan	nan	nan
+keda1252	GB188	nan	2.0	n		nan	nan	nan
+keda1252	GB191	nan	0.0	n		nan	nan	nan
+keda1252	GB192	Are the noun's phonological properties relevant for any gender assignment?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, There is gender and it is possible that phonology influences assignment
+keda1252	GB193	nan	5.0	2		Samely 1991: 76	nan	nan
+keda1252	GB194	nan	0.0	n		nan	nan	nan
+keda1252	GB195	Can a noun receive more than one noun class marker at the same time?	?	Not known		nan	0:n	nan
+keda1252	GB196	nan	2.0	n		nan	nan	nan
+keda1252	GB197	nan	2.0	n		nan	nan	nan
+keda1252	GB198	Can a numeral used attributively agree with any gender/noun class of the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+keda1252	GB199	Can verbs agree with the gender/noun class of the nominal object?	?	Not known		nan	1:y;0:n	nan
+keda1252	GB200	nan	2.0	?	check	nan	nan	nan
+keda1252	GB202	nan	0.0	n		nan	nan	nan
+keda1252	GB203	nan	5.0	2	N followed by rai or réiq = all	Samely and Barnes 2013: 557, 567 	nan	nan
+keda1252	GB204	nan	2.0	y	di loyo di loyo= 'every day' (di = locative, loyo=day)	Samely and Barnes 2013: 154 	nan	nan
+keda1252	GB205	Is number marking prohibited on inanimate nouns?	?	Not known		nan	1:?;0:n	nan
+keda1252	GB206	Is number marking prohibited on mass nouns?	?	Not known		nan	1:?;0:n	nan
+keda1252	GB207	Is number marking optional on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+keda1252	GB208	Can singular number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB209	Can singular number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB210	Can singular number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB211	Can singular number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB212	Can dual number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB213	Can dual number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB214	Can dual number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB215	Can dual number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB216	Can dual number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB217	Can plural number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB218	Can plural number be marked by a suffix on the noun?	?	Not known		nan	1:y;0:n	nan
+keda1252	GB219	Can plural number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB220	Can plural number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB221	Can plural number be marked by reduplication on the noun?	?	Not known		nan	1:y;0:n	nan
+keda1252	GB222	Can trial number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB223	Can trial number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB224	Can trial number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB225	Can trial number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB226	Can trial number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB227	Can paucal number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB228	Can paucal number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB229	Can paucal number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB230	Can paucal number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB231	Can paucal number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB232	Can diminutive be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB234	Can diminutive be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB235	Can diminutive be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB236	Can diminutive be marked by tone on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB237	Can diminutive be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB238	Can diminutive be marked by noun class selection?	?	Not known		nan	0:n	nan
+keda1252	GB239	Can augmentative be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB240	Can augmentative be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB241	Can augmentative be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB242	Can augmentative be marked by tone on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB243	Can augmentative be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB244	Can augmentative be marked by noun class selection?	?	Not known		nan	0:n	nan
+keda1252	GB245	Can gender/noun class be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB246	Can gender/noun class be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB247	Can gender/noun class be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+keda1252	GB248	Can gender/noun class be marked by tone on the noun only?	?	Not known		nan	0:n	nan
+keda1252	GB249	nan	1.0	y		nan	nan	nan
+keda1252	GB250	nan	3.0	n	koɁ is listed by S 1991 as 'to have, possess' but this is in fact the 1sg.POSS pronoun	Samely 1991: 178	nan	nan
+keda1252	GB251	nan	1.0	n	: my house (is) big-3sg, my house (is) big-3sg.NOML	Samely 1991: 76	nan	nan
+keda1252	GB252	nan	3.0	n		nan	nan	nan
+keda1252	GB253	nan	3.0	n		nan	nan	nan
+keda1252	GB254	nan	3.0	n		nan	nan	nan
+keda1252	GB255	nan	2.0	n		nan	nan	nan
+keda1252	GB256	nan	2.0	n		nan	nan	nan
+keda1252	GB257	nan	2.0	y	this is inferred from the examples in the text	e.g. Samely 1991: 71, 154	nan	nan
+keda1252	GB258	nan	1.0	?		nan	nan	nan
+keda1252	GB259	nan	1.0	?		nan	nan	nan
+keda1252	GB260	nan	2.0	n		nan	nan	nan
+keda1252	GB261	nan	0.0	n		nan	nan	nan
+keda1252	GB262	Is there a clause-initial polar interrogative particle?	?	Not known		nan	3:?;1: present;0: absent;2:n	Not mentioned, The elements used in polar interrogation are distributed over the clause
+keda1252	GB263	Is there a clause-final polar interrogative particle?	?	Not known		nan	3:?;2:y;1: present;0: absent;4:n	Not mentioned, The elements used in polar interrogation are distributed over the clause
+keda1252	GB264	Is there a clause-medial polar interrogative particle?	?	Not known		nan	3:?;1: present;0: absent;2:n	Not mentioned, The elements used in polar interrogation are distributed over the clause
+keda1252	GB265	nan	4.0	y	ketang 'surpass'	Samely 1991: 86	nan	nan
+keda1252	GB266	nan	2.0	n		nan	nan	nan
+keda1252	GB267	nan	0.0	n		nan	nan	nan
+keda1252	GB268	nan	0.0	n		nan	nan	nan
+keda1252	GB269	nan	0.0	n		nan	nan	nan
+keda1252	GB270	nan	4.0	n		nan	nan	nan
+keda1252	GB271	Are the predicates in the conjoined comparative construction antonyms?	?	Not known		nan	2:?;0:no data;3:y;1:n	nan
+keda1252	GB272	Do the  predicates in the conjoined comparative construction differ in polarity?	?	Not known		nan	2:?;0:no data;3:y;1:n	nan
+keda1252	GB273	nan	2.0	n		nan	nan	nan
+keda1252	GB274	nan	2.0	y	hara(ka) 'a little'	Samely 1991: 86	nan	nan
+keda1252	GB275	nan	2.0	n		nan	nan	nan
+keda1252	GB276	nan	3.0	y		nan	nan	nan
+keda1252	GB277	nan	0.0	n		nan	nan	nan
+keda1252	GB278	nan	1.0	n		nan	nan	nan
+keda1252	GB279	Is there variation in conflation of core participants based on TAM distinctions?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+keda1252	GB280	Are variation in conflation of core participants based on verb classes?	?	Not known		nan	3:?;2:no data;0:y;1:n	nan
+keda1252	GB281	Is there variation in conflation of core participants based on clause type, e.g. main vs. subordinate?	?	Not known		nan	4:?;3:no data;0: absent;1: present;2:n	Not mentioned
+keda1252	GB282	Are variation in conflation of core participants based on person distinctions?	?	Not known		nan	3:?;2:no data;0:y;1:n	nan
+keda1252	GB283	Can verbs agree with the gender/noun class of the nominal subject?	?	Not known		nan	1:y;0:n	nan
+keda1252	GB284	nan	2.0	?	check	nan	nan	nan
+keda1252	GB285	nan	2.0	n		nan	nan	nan
+keda1252	GB286	nan	2.0	n		nan	nan	nan
+keda1252	GB287	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of case marking?	?	Not known		nan	1:y?;0:n	nan
+keda1252	GB288	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of core argument marking by adpositions?	?	Not known		nan	0:n	nan
+keda1252	GB289	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of verbal agreement marking?	?	Not known		nan	2:?;1:y;0:n	nan
+keda1252	GB290	Can recipients be treated as a transitive object, i.e. as Direct Object in terms of verbal person marking (not agreement)?	?	Not known		nan	0:y;1:n	nan
+keda1252	GB291	Can polar interrogation be marked by tone?	?	Not known		nan	3:?;1: present;0: absent;2:n	Not mentioned, The question particle carries tone but this might also be intonation
+keda1252	GB292	Is the particle marking polar interrogation not tone?	?	Not known		nan	2:?;0:y;1:n	nan
+keda1252	GB294	nan	2.0	?		nan	nan	nan
+keda1252	GB295	nan	3.0	?		nan	nan	nan
+keda1252	GB295	nan	3.0	?		nan	nan	nan
+keda1252	GB296	Is there a morphosyntactically definable class of ideophones (beyond sound)?	?	Not known		nan	3:?;4:no data;0: absent;1: present;2:n	Not mentioned
+keda1252	GB297	Can polar interrogation be marked by a construction of the type “V Neg V”?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB298	Can standard negation be marked by negative auxiliaries?	?	Not known		nan	0: absent;1: present	Not mentioned, Unclear whether it should count as an auxiliary given that no verbs carry inflection
+keda1252	GB299	Can standard negation be marked by a freestanding particle?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB300	Is there a verb for the function 'give' that is suppletive for any grammatical category?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB301	Does the language have inclusory constructions productively?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB302	Is there a dedicated, obligatory and productive construction that marks passive voice, not morphologically on the verb nor on the A argument?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+keda1252	GB303	Is there a dedicated, obligatory, productive construction that marks antipassive voice, not morphologically on the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+keda1252	GB304	Can the A argument be overtly expressed in a passive clause or be overtly marked to signal a passive clause?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB305	Are there phonologically independent reflexive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned, Not clear if they are phonologically independent
+keda1252	GB306	Are there reciprocal pronouns that are not-bipartite?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB307	Are there bipartite reciprocal pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB308	Can tense be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+keda1252	GB309	Are there multiple past or future tenses, distinguishing distance from Time of Reference, in any form?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+keda1252	GB310	Can aspect be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+keda1252	GB311	Can mood be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+keda1252	GB312	Can modal distinctions be marked on the verb, productively, dedicatedly and obligatorily?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+keda1252	GB313	Are there possessive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB314	Can augmentative be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB315	Can diminutive be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB316	Can singular number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+keda1252	GB317	Can dual number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+keda1252	GB318	Can plural number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+keda1252	GB319	Can trial number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+keda1252	GB320	Can paucal number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+keda1252	GB321	Is there an open class of noun stems that are assigned to gender/noun class categories arbitrarily?	?	Not known		nan	0: absent;1: present	Not mentioned, There may be a gender or noun class system but it seems to be semantic
+keda1252	GB322	Does the language encode direct evidentiality (perceived with senses)?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB323	Does the language encode indirect evidentiality (hearsay, inference, etc.)?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB324	Are some content interrogatives (who?, what?, etc.) expressed in interrogative verbs?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB325	Is there a count/mass distinction in content interrogatives (e.g. English how many vs. how much)?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB326	Do (nominal) content interrogatives normally or frequently occur in situ (i.e. in the normal position for a non-interrogative NP in the same participant role)?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB327	Can the relative clause follow the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB328	Can the relative clause precede the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB329	Are there internally-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB330	Are there correlative relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB331	Are there adjoined relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB332	Are there double-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB333	nan	2.0	y		nan	nan	nan
+keda1252	GB334	Is there synchronic evidence for any element of a quinary counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB335	Is there synchronic evidence for any element of a vigesimal counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+keda1252	GB336	nan	2.0	n		nan	nan	nan
+keda1252	GB502	nan	0.0	1		nan	nan	nan
+keda1252	GB503	nan	0.0	y	in some cases, A can be an enclitic just like S is	nan	nan	nan
+keda1252	GB508	nan	0.0	n		nan	nan	nan
+keda1252	GB509	nan	0.0	y		Samely 1991: 118	nan	nan
+keda1252	GB510	nan	0.0	y		Samely 1991: 119	nan	nan
+keda1252	GB511	nan	0.0	y	ote 'that up there; eastward', ole 'that down there; westward'	Samely 1991: 119	nan	nan
+keda1252	GB512	nan	1.0	n		nan	nan	nan
+keda1252	GB514	nan	0.0	n		nan	nan	nan
+keda1252	GB515	nan	0.0	n		nan	nan	nan
+keda1252	GB516	nan	3.0	2	oyo->/>oyoɁ/	Samely 1991: 127	nan	nan
+keda1252	GB517	nan	1.0	n		nan	nan	nan
+keda1252	GB518	nan	0.0	y		nan	nan	nan
+keda1252	GB519	nan	1.0	n		nan	nan	nan
+keda1252	GB520	nan	0.0	y		nan	nan	nan
+keda1252	GB521	nan	0.0	n		nan	nan	nan
+keda1252	R1102	nan	1.0	3		nan	nan	nan
+keda1252	R1103	nan	0.0	3		nan	nan	nan
+keda1252	R1103a	nan	1.0	y		nan	nan	nan
+keda1252	R1103b	nan	0.0	n		nan	nan	nan
+keda1252	R1105	nan	0.0	y		nan	nan	nan
+keda1252	R1106	nan	0.0	n		nan	nan	nan
+keda1252	R1107	nan	0.0	y		nan	nan	nan
+keda1252	R1108	nan	0.0	n		nan	nan	nan
+keda1252	R1109	nan	0.0	y		nan	nan	nan
+keda1252	R1109a	nan	0.0	n		nan	nan	nan
+keda1252	R1109b	nan	0.0	n		nan	nan	nan
+keda1252	R1110	nan	0.0	n		nan	nan	nan
+keda1252	R1111	nan	1.0	n		nan	nan	nan
+keda1252	R1112	nan	1.0	y		nan	nan	nan
+keda1252	R1113a	nan	1.0	n		nan	nan	nan
+keda1252	R1115	nan	1.0	n		nan	nan	nan
+keda1252	R1116	Is there weight-sensitive suprasegmental prominence	?	Not known		nan	0:y;1:n	nan
+keda1252	R1117	nan	0.0	y		Samely and Barnes: 16	nan	nan
+keda1252	R1118	nan	1.0	n		nan	nan	nan
+keda1252	R1202	nan	0.0	y		nan	nan	nan
+keda1252	R1203a	nan	0.0	n		nan	nan	nan
+keda1252	R1204	nan	0.0	n		nan	nan	nan
+keda1252	R2203	nan	0.0	y		nan	nan	nan
+keda1252	R2504a	Is plant status a relevant category in the noun class/gender system?	?	Not known		nan	0:y;1:n	nan
+keda1252	R2507	Is there concord beyond the NP, i.e. agreement of elements outside the NP with the noun class of a noun?	?	Not known		nan	0:n	nan
+keda1252	R2508	nan	0.0	y	uren: general classifier used as counter for numerals 1-10 and for any countable noun; uluq 'seed, kernel, stone' used with numerals 1-10 and for round objects; ateused as a classifier for humans. 	Samely 1991:96, 90 	nan	nan
+keda1252	R2601	nan	1.0	n		nan	nan	nan
+keda1252	R2702	nan	0.0	y		nan	nan	nan
+keda1252	R2703b	nan	0.0	n		nan	nan	nan
+keda1252	R3103	Do the same morphemes systematically encode both TAM and person?	?	Not known		nan	0:n	nan
+keda1252	R3502	nan	0.0	n		nan	nan	nan
+keda1252	R3605	nan	0.0	n		nan	nan	nan
+keda1252	R4305a	nan	2.0	n	agent focus pronouons with marker -ti are used to render clauses that are translated as subject relative clauses	Samely 1991: 81	nan	nan
+keda1252	R4307	nan	0.0	n		nan	nan	nan
+keda1252	R4308	nan	1.0	y	bahe 'completed, finished' follows main clause	Samely 1991: 90-91	nan	nan
+keda1252	R4308a	nan	0.0	y	la 'if'	Samely and Barnes 2013: 324	nan	nan
+keda1252	R4309a	nan	0.0	y	tèhèɁ-tèlè 'speak-say' is followed by juxtaposed quote	Samely 1991: 151 vv	nan	nan
+keda1252	R4309b	nan	0.0	y	boraɁ 'see' followed by juxtaposed clause	Samely 1991: 157	nan	nan
+keda1252	R4309c	nan	0.0	n		nan	nan	nan
+keda1252	R4309d	nan	0.0	n		nan	nan	nan
+keda1252	R4311	nan	0.0	n		nan	nan	nan
+keda1252	R5202	nan	2.0	y	ino amo 'parents'	nan	nan	nan
+keda1252	R5203	nan	1.0	y	FB = amo (utun) 'father (small)'	nan	nan	nan
+keda1252	R5204	nan	0.0	n	MB = epu	nan	nan	nan
+keda1252	R5205	nan	2.0	?		nan	nan	nan
+keda1252	R5206	nan	1.0	y		nan	nan	nan
+keda1252	R5207	nan	1.0	y		nan	nan	nan
+keda1252	R5208	nan	1.0	y		nan	nan	nan
+keda1252	R5209	nan	0.0	n		nan	nan	nan
+keda1252	R5210	nan	0.0	y		nan	nan	nan
+keda1252	R5211	nan	0.0	y	ariɁ 'younger sibling', aɁe 'older sibling'	nan	nan	nan
+keda1252	R5212	nan	0.0	n		nan	nan	nan
+keda1252	SD224	nan	0.0	1		Samely 1991: 154	nan	nan
+keda1252	SD295	nan	0.0	y	oli 'landwards', owe 'seawards', oyo 'perpendicular to land-sea line', ote 'eastward', ole 'westwards'	Samely 1991:117-119	nan	nan
+keda1252	SD319	Are S and A marked by the same prefix/proclitic?	?	Not known		nan	1:y;0:n	nan
+keda1252	SD320	Are S and A marked by the same suffix/enclitic?	?	Not known		nan	1:?;0:n	nan
+keda1252	SD321	nan	0.0	y		nan	nan	nan
+keda1252	SD341	nan	1.0	n		nan	nan	nan
+keda1252	SD342	nan	1.0	y		nan	nan	nan
+keda1252	SD343	nan	0.0	y	daeɁ 'not want, reject,refuse'	Samely 1991: 155, 217	nan	nan
+keda1252	SD344	Are there adjectives (elements denoting property concepts) that act like nouns?	?	Not known		nan	1:y;0:n	nan
+keda1252	SD369	nan	2.0	?		nan	nan	nan
+keda1252	SD381	nan	1.0	n		nan	nan	nan
+keda1252	SD388	Are there allophonic phonation types for vowels?	?	Not known		nan	0:y;1:n	nan
+keda1252	SD389	Is there nominalizing morphology?	?	Not known		nan	0:y	nan
+keda1252	SD390	Can horizontal direction be marked in demonstratives?	?	Not known		nan	1:y;0:n	nan
+keda1252	SD391	Is there a predicative possessive construction?	?	Not known		nan	0:y	nan
+keda1252	SD392	Are S and O marked by the same prefix/proclitic?	?	Not known		nan	0:n	nan
+keda1252	SD393	Are S and O marked by the same suffix/enclitic?	?	Not known		nan	0:n	nan
+keda1252	SD394	Are there suppletive forms for negated verbs?	?	Not known		nan	0:y	nan
+keda1252	SD395	Is topological information expressed by adpositions?	?	Not known		nan	0:n	nan
+keda1252	SD396	Is topological information expressed by nouns?	?	Not known		nan	0:y	nan
+keda1252	SD397	Are there native terms expressing directions in space on a geocentric coordinate system (geocentric terms)?	?	Not known		nan	0:y	nan
+keda1252	SD398	Do geocentric terms have deictic use?	?	Not known		nan	0:y	nan
+keda1252	SD399	Can geocentric terms function as adverbs?	?	Not known		nan	0:y	nan
+keda1252	SD400	Can geocentric terms function as adpositions?	?	Not known		nan	0:y	nan
+keda1252	SD401	Can demonstratives function as adverbs (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+keda1252	SD402	Can demonstratives function as prepositions (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+keda1252	SD403	Is it possible to employ an absolute frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+keda1252	SD404	Is it possible to employ an intrinsic frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+keda1252	SD405	Is it possible to employ a relative frame of reference when expressing projective spatial relations?	?	Not known		nan	1:?;0:n	nan
+keda1252	SD406	Is it possible to use another frame of reference?	?	Not known		nan	1:?;0:y	nan
+keda1252	SD407	Which frame of reference is preferred in the expression of projective spatial relations?	?	Not known		nan	1:?;0:a	nan

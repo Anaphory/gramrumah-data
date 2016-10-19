@@ -1,20 +1,21 @@
 {
-  "references": [
-    "Source: Schapper, Antoinette. 2010. Bunaq: A Papuan language of central Timor. PhD thesis, ANU."
-  ],
-  "id": "buna1278",
-  "language": "buna1278",
-  "source": [
-    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/BFN_Lamaknen_MK_2016_typological_questionnaire_Bunaq_Lamaknen.xlsx"
-  ],
+  "abstract": "Typological features of buna1278. Coded by Ger Reesink and checked by Antoinette Schapper following ['/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/BFN_Lamaknen_MK_2016_typological_questionnaire_Bunaq_Lamaknen.xlsx', 'Source: Schapper, Antoinette. 2010. Bunaq: A Papuan language of central Timor. PhD thesis, ANU.'].",
   "comment": "",
-  "name": "BFN_Lamaknen_MK_2016_typological_questionnaire_Bunaq_Lamaknen.xlsx",
+  "created": [
+    2011,
+    "March 2016"
+  ],
   "creator": [
     "Ger Reesink and checked by Antoinette Schapper",
     "remaining questions from Nijmegen Typological Survey filled in  by Marian Klamer"
   ],
-  "created": [
-    2011,
-    "March 2016"
+  "id": "buna1278",
+  "language": "buna1278",
+  "name": "BFN_Lamaknen_MK_2016_typological_questionnaire_Bunaq_Lamaknen.xlsx",
+  "references": [
+    "Source: Schapper, Antoinette. 2010. Bunaq: A Papuan language of central Timor. PhD thesis, ANU."
+  ],
+  "source": [
+    "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/BFN_Lamaknen_MK_2016_typological_questionnaire_Bunaq_Lamaknen.xlsx"
   ]
 }

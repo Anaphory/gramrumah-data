@@ -1,19 +1,20 @@
 {
+  "abstract": "Typological features of kaer1234. Coded by Marian Klamer following ['/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/JKA_MK_2016_Typological_Questionnaire_Kaera.xlsx', 'Klamer, Marian. (2014). Kaera, in Antoinette Schapper (Ed.), pp. 97-146. The Papuan Language of Timor, Alor and Pantar. Vol 1. Berlin: De Gruyter Mouton', 'Kaera corpus of texts (collected by M. Klamer 2005-2012)'].",
+  "comment": "",
+  "created": [
+    "March 2016"
+  ],
+  "creator": [
+    "Marian Klamer"
+  ],
+  "id": "kaer1234",
+  "language": "kaer1234",
+  "name": "JKA_MK_2016_Typological_Questionnaire_Kaera.xlsx",
   "references": [
     "Klamer, Marian. (2014). Kaera, in Antoinette Schapper (Ed.), pp. 97-146. The Papuan Language of Timor, Alor and Pantar. Vol 1. Berlin: De Gruyter Mouton",
     "Kaera corpus of texts (collected by M. Klamer 2005-2012)"
   ],
-  "id": "kaer1234",
-  "language": "kaer1234",
   "source": [
-    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/JKA_MK_2016_Typological_Questionnaire_Kaera.xlsx"
-  ],
-  "comment": "",
-  "name": "JKA_MK_2016_Typological_Questionnaire_Kaera.xlsx",
-  "creator": [
-    "Marian Klamer"
-  ],
-  "created": [
-    "March 2016"
+    "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/JKA_MK_2016_Typological_Questionnaire_Kaera.xlsx"
   ]
 }

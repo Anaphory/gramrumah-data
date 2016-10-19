@@ -1,21 +1,22 @@
 {
+  "abstract": "Typological features of lamm1241. Coded by Marian Klamer following ['/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/LEV_MK_2016_Typological_Questionnaire_W Pantar.xlsx', 'Holton, Gary. 2010. Person marking, verb classes, and the notion of alignment in Western Pantar (Lamma). In: Michael Ewing and Marian Klamer (eds.). East Nusantara: Typological and areal analyses.', 'Holton, Gary. 2014a. Western Pantar. In A. Schapper (ed.) The Papuan languages of Timor, Alor and Pantar Volume I. ', 'Holton, Gary. 2014b. Kinship in the Alor-Pantar languages. In M. Klamer (ed.) The Alor Pantar languages: History and typology.', 'Holton, Gary, p.c. 2016.'].",
+  "comment": "",
+  "created": [
+    "March 2016"
+  ],
+  "creator": [
+    "Marian Klamer"
+  ],
+  "id": "lamm1241",
+  "language": "lamm1241",
+  "name": "LEV_MK_2016_Typological_Questionnaire_W Pantar.xlsx",
   "references": [
     "Holton, Gary. 2010. Person marking, verb classes, and the notion of alignment in Western Pantar (Lamma). In: Michael Ewing and Marian Klamer (eds.). East Nusantara: Typological and areal analyses.",
     "Holton, Gary. 2014a. Western Pantar. In A. Schapper (ed.) The Papuan languages of Timor, Alor and Pantar Volume I. ",
     "Holton, Gary. 2014b. Kinship in the Alor-Pantar languages. In M. Klamer (ed.) The Alor Pantar languages: History and typology.",
     "Holton, Gary, p.c. 2016."
   ],
-  "id": "lamm1241",
-  "language": "lamm1241",
   "source": [
-    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/LEV_MK_2016_Typological_Questionnaire_W Pantar.xlsx"
-  ],
-  "comment": "",
-  "name": "LEV_MK_2016_Typological_Questionnaire_W Pantar.xlsx",
-  "creator": [
-    "Marian Klamer"
-  ],
-  "created": [
-    "March 2016"
+    "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/LEV_MK_2016_Typological_Questionnaire_W Pantar.xlsx"
   ]
 }

@@ -1,264 +1,412 @@
-Feature_ID	Language_ID	Value	Comment	Source
-R1102	lamm1241	0.0		
-R1103	lamm1241	0.0		
-R1103a	lamm1241	0.0		
-R1103b	lamm1241	0.0		
-R1105	lamm1241	0.0		
-R1106	lamm1241	0.0		
-R1107	lamm1241	0.0		
-R1108	lamm1241	0.0		
-R1109	lamm1241	0.0		
-R1109a	lamm1241	0.0		
-R1109b	lamm1241	0.0		
-R1110	lamm1241	1.0		
-R1111	lamm1241	1.0		
-R1112	lamm1241	0.0		
-R1113a	lamm1241	1.0		
-R1115	lamm1241	0.0	/kro/ vs. /ka'ro/ with ultimate stress, while penultimate stress is the rule.	Holton 2014a: 39-40
-GB014	lamm1241	0.0		
-R1117	lamm1241	0.0		
-R1118	lamm1241	1.0		
-R1202	lamm1241	0.0	in indigenous words: p,s,ng,r,l; in loans: k,b,m,n	
-R1203a	lamm1241	1.0		
-R1204	lamm1241	1.0		
-GB024	lamm1241	4.0		
-GB025	lamm1241	5.0		
-GB065	lamm1241	5.0		
-SD224	lamm1241	0.0		
-GB502	lamm1241	0.0		
-GB193	lamm1241	5.0		
-GB026	lamm1241	2.0		
-GB203	lamm1241	4.0	the quantifier gaterannang 'all of them' is a noun with a fossilized possessive prefix.	Holton 2014a: 56
-GB204	lamm1241	5.0		Holton p.c. 2016
-R2508	lamm1241	0.0		
-GB159	lamm1241	2.0	There are a few nominal compounds that consist of a reduplication but this is  an unproductive and semantically  opaque process.	Holton 2014a: 43
-GB050	lamm1241	1.0		Holton 2014a: 54
-GB039	lamm1241	2.0		
-GB041	lamm1241	2.0		
-GB042	lamm1241	2.0		
-GB043	lamm1241	2.0		
-GB044	lamm1241	2.0		
-GB165	lamm1241	2.0		
-GB166	lamm1241	2.0		
-GB200	lamm1241	0.0		
-GB284	lamm1241	1.0	only a few exceptional verbs.	Holton 2014a: 77
-GB185	lamm1241	2.0		
-GB184	lamm1241	2.0		
-GB046	lamm1241	2.0	the human nominalizing morpheme wala may function as an associative plural for nouns referring to humans 	Holton 2014a: 55
-GB188	lamm1241	2.0		
-GB187	lamm1241	2.0		
-GB070	lamm1241	2.0		
-GB071	lamm1241	3.0		
-GB072	lamm1241	2.0		
-GB073	lamm1241	2.0		
-GB047	lamm1241	3.0	possessive prefix can derive nominalisations from verbs	Holton 2014a: 54
-GB048	lamm1241	2.0		
-GB049	lamm1241	2.0		
-GB020	lamm1241	2.0		
-GB194	lamm1241	0.0		
-GB021	lamm1241	2.0		
-GB022	lamm1241	2.0		
-GB023	lamm1241	2.0		
-GB172	lamm1241	2.0		
-GB186	lamm1241	2.0		
-GB509	lamm1241	0.0		
-GB510	lamm1241	0.0		
-GB035	lamm1241	3.0		
-GB511	lamm1241	0.0		
-GB512	lamm1241	0.0		
-GB036	lamm1241	3.0	segments d/r vs p vs m (not morphemes) encode elevation in demonstratives 	
-SD295	lamm1241	1.0		
-GB037	lamm1241	3.0		
-GB514	lamm1241	0.0		
-GB515	lamm1241	0.0		
-GB038	lamm1241	2.0		
-GB516	lamm1241	1.0	derived	Holton, p.c. 2016
-GB517	lamm1241	1.0		
-GB518	lamm1241	0.0		
-GB519	lamm1241	0.0		
-GB520	lamm1241	1.0	In practice the elevation system projects a local coordinate system derived from local topography.	Holton, p.c. 2016
-GB521	lamm1241	1.0		
-GB067	lamm1241	1.0		
-GB333	lamm1241	2.0		
-R2702	lamm1241	0.0	"It appears that Western Pantar hisnakkuŋ'six'
+Language_ID	Feature_ID	Feature	Value	Answer	Comment	Source	Possible Values	Suggested standardised comments
+lamm1241	GB014	nan	0.0	n		nan	nan	nan
+lamm1241	GB020	nan	2.0	y		nan	nan	nan
+lamm1241	GB021	nan	2.0	n		nan	nan	nan
+lamm1241	GB022	nan	2.0	n		nan	nan	nan
+lamm1241	GB023	nan	2.0	y		nan	nan	nan
+lamm1241	GB024	nan	4.0	2		nan	nan	nan
+lamm1241	GB025	nan	5.0	2		nan	nan	nan
+lamm1241	GB026	nan	2.0	n		nan	nan	nan
+lamm1241	GB027	nan	2.0	y	Comitative is expressed as verb -tu 'be together with'. NP coordination expressed with postposition gar	Holton 2014a: 	nan	nan
+lamm1241	GB028	nan	2.0	y		nan	nan	nan
+lamm1241	GB029	nan	0.0	n	But I think this is how Donohue would view it.	Holton, p.c. 2016	nan	nan
+lamm1241	GB030	nan	2.0	n		nan	nan	nan
+lamm1241	GB031	nan	2.0	n		nan	nan	nan
+lamm1241	GB032	nan	2.0	n		nan	nan	nan
+lamm1241	GB033	nan	0.0	n		nan	nan	nan
+lamm1241	GB034	nan	2.0	n		nan	nan	nan
+lamm1241	GB035	nan	3.0	n		nan	nan	nan
+lamm1241	GB036	nan	3.0	n	segments d/r vs p vs m (not morphemes) encode elevation in demonstratives 	nan	nan	nan
+lamm1241	GB037	nan	3.0	y		nan	nan	nan
+lamm1241	GB038	nan	2.0	n		nan	nan	nan
+lamm1241	GB039	nan	2.0	n		nan	nan	nan
+lamm1241	GB040	Are there declensions (partly) determined by gender of the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB041	nan	2.0	n		nan	nan	nan
+lamm1241	GB042	nan	2.0	n		nan	nan	nan
+lamm1241	GB043	nan	2.0	n		nan	nan	nan
+lamm1241	GB044	nan	2.0	n		nan	nan	nan
+lamm1241	GB045	Is number marking prohibited on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+lamm1241	GB046	nan	2.0	y	the human nominalizing morpheme wala may function as an associative plural for nouns referring to humans 	Holton 2014a: 55	nan	nan
+lamm1241	GB047	nan	3.0	y	possessive prefix can derive nominalisations from verbs	Holton 2014a: 54	nan	nan
+lamm1241	GB048	nan	2.0	n		nan	nan	nan
+lamm1241	GB049	nan	2.0	n		nan	nan	nan
+lamm1241	GB050	nan	1.0	n		Holton 2014a: 54	nan	nan
+lamm1241	GB051	Is sex a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+lamm1241	GB052	Is shape a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+lamm1241	GB053	Is animacy (without reference to sex) a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+lamm1241	GB054	Is plant status a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+lamm1241	GB055	Does the language only have a gender distinction in 3rd person pronouns?	?	Not known		nan	0:n	nan
+lamm1241	GB056	Is there concord within the NP, i.e. agreement of elements within the NP with the noun class of a noun?	?	Not known		nan	1:y;0:n	nan
+lamm1241	GB057	nan	3.0	y		nan	nan	nan
+lamm1241	GB058	nan	2.0	n		nan	nan	nan
+lamm1241	GB059	nan	2.0	y		nan	nan	nan
+lamm1241	GB060	nan	0.0	y		nan	nan	nan
+lamm1241	GB061	nan	2.0	y		nan	nan	nan
+lamm1241	GB062	nan	2.0	n		nan	nan	nan
+lamm1241	GB063	nan	2.0	n		nan	nan	nan
+lamm1241	GB064	nan	2.0	y		nan	nan	nan
+lamm1241	GB065	nan	5.0	1		nan	nan	nan
+lamm1241	GB066	nan	0.0	n	In possessive NP, possessor precedes possessee, but a genitive pronoun follows an adjunct NP (which can be omitted)	Holton 2014a: 65-66	nan	nan
+lamm1241	GB067	nan	1.0	1		nan	nan	nan
+lamm1241	GB068	nan	3.0	n		nan	nan	nan
+lamm1241	GB069	nan	3.0	n		nan	nan	nan
+lamm1241	GB070	nan	2.0	n		nan	nan	nan
+lamm1241	GB071	nan	3.0	y		nan	nan	nan
+lamm1241	GB072	nan	2.0	n		nan	nan	nan
+lamm1241	GB073	nan	2.0	n		nan	nan	nan
+lamm1241	GB074	nan	2.0	n		nan	nan	nan
+lamm1241	GB075	nan	2.0	n	adposition-like elements behave like verbs.	nan	nan	nan
+lamm1241	GB076	Are there adpositions to mark core NPs?	?	Not known		nan	4:?;3:y;1: present;0: absent;2:n	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+lamm1241	GB077	Are there adpositions to mark oblique NPs?	?	Not known		nan	4:?;3:y;1: present;0: absent;2:n	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+lamm1241	GB078	Is there a distinction between locational and directional adpositions?	?	Not known		nan	2:?;1:y;0:n	nan
+lamm1241	GB079	nan	2.0	n		nan	nan	nan
+lamm1241	GB080	nan	3.0	n		nan	nan	nan
+lamm1241	GB081	nan	2.0	n		nan	nan	nan
+lamm1241	GB082	nan	2.0	n		nan	nan	nan
+lamm1241	GB083	nan	2.0	n		nan	nan	nan
+lamm1241	GB084	nan	2.0	n		nan	nan	nan
+lamm1241	GB085	Are there multiple past or future tenses, distinguishing distance from Time of Reference, marked on the verb?	?	Not known		nan	0:n	nan
+lamm1241	GB086	nan	3.0	n	progressive and inceptive are morphologically marked	nan	nan	nan
+lamm1241	GB087	nan	2.0	n		nan	nan	nan
+lamm1241	GB088	nan	2.0	n		nan	nan	nan
+lamm1241	GB089	nan	2.0	n		nan	nan	nan
+lamm1241	GB090	nan	2.0	y		Holton, p.c. 2016	nan	nan
+lamm1241	GB091	nan	2.0	n		nan	nan	nan
+lamm1241	GB092	nan	2.0	n		nan	nan	nan
+lamm1241	GB093	nan	2.0	n		nan	nan	nan
+lamm1241	GB094	nan	2.0	y		nan	nan	nan
+lamm1241	GB095	nan	2.0	n		nan	nan	nan
+lamm1241	GB096	nan	2.0	y		nan	nan	nan
+lamm1241	GB097	nan	2.0	n		nan	nan	nan
+lamm1241	GB098	nan	3.0	y	there are verbs that take a 1/2 person actor prefix and a 3 person undergoer prefix.	Holton 2014a: 79	nan	nan
+lamm1241	GB099	nan	2.0	n		nan	nan	nan
+lamm1241	GB100	nan	0.0	n		nan	nan	nan
+lamm1241	GB101	nan	0.0	n		nan	nan	nan
+lamm1241	GB102	nan	0.0	n		nan	nan	nan
+lamm1241	GB103	nan	3.0	y		nan	nan	nan
+lamm1241	GB104	nan	2.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB105	nan	2.0	y		nan	nan	nan
+lamm1241	GB106	nan	2.0	n	ma -nia 'come -give' is ditransitive but is a serial verb construction	Holton 2014a: 45	nan	nan
+lamm1241	GB107	nan	2.0	n		nan	nan	nan
+lamm1241	GB108	nan	3.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB109	nan	2.0	n		nan	nan	nan
+lamm1241	GB110	nan	2.0	n		nan	nan	nan
+lamm1241	GB111	nan	3.0	n		nan	nan	nan
+lamm1241	GB112	nan	3.0	y		Holton 2010: 109-110	nan	nan
+lamm1241	GB113	nan	2.0	n		nan	nan	nan
+lamm1241	GB114	nan	2.0	n	reflexive can be encoded using a 4th person pronoun; or a prefix on the verb icw a free reflexive pronoun.	Holton 2014a: 72	nan	nan
+lamm1241	GB115	nan	3.0	n		Holton 2014a: 87	nan	nan
+lamm1241	GB116	nan	2.0	n		nan	nan	nan
+lamm1241	GB117	nan	2.0	n		nan	nan	nan
+lamm1241	GB118	nan	2.0	y		nan	nan	nan
+lamm1241	GB119	nan	2.0	y		nan	nan	nan
+lamm1241	GB120	nan	3.0	n		nan	nan	nan
+lamm1241	GB121	nan	2.0	n		nan	nan	nan
+lamm1241	GB122	nan	3.0	n	there are some serial verb constructions that may be analysed as verb compounds	Holton 2014a: 43	nan	nan
+lamm1241	GB123	nan	2.0	y	these are referred to as 'auxiliary verbs' in the  sketch grammar.	nan	nan	nan
+lamm1241	GB124	nan	2.0	n		nan	nan	nan
+lamm1241	GB125	nan	2.0	n		nan	nan	nan
+lamm1241	GB126	nan	2.0	y	the verb wang	nan	nan	nan
+lamm1241	GB127	nan	2.0	y		Holton, p.c. 2016	nan	nan
+lamm1241	GB128	nan	0.0	n		nan	nan	nan
+lamm1241	GB129	nan	2.0	n		nan	nan	nan
+lamm1241	GB130	nan	4.0	1		nan	nan	nan
+lamm1241	GB131	nan	2.0	n		nan	nan	nan
+lamm1241	GB132	nan	2.0	n		nan	nan	nan
+lamm1241	GB133	nan	2.0	y		nan	nan	nan
+lamm1241	GB134	Is the order of constituents the same in main and subordinate clauses?	?	Not known		nan	3:?;1: present;0: absent;2:y	Not mentioned, Only in some type of subordinate clauses, Order is more restricted in main clauses, Order is more restricted in subordinate clauses
+lamm1241	GB135	nan	2.0	y		nan	nan	nan
+lamm1241	GB136	nan	2.0	y		nan	nan	nan
+lamm1241	GB137	nan	2.0	y		nan	nan	nan
+lamm1241	GB138	nan	2.0	n		nan	nan	nan
+lamm1241	GB139	nan	2.0	y	Negative imperative constructions are marked with the clause-final particle	Holton 2014a: 52	nan	nan
+lamm1241	GB140	nan	3.0	y	gayang.	nan	nan	nan
+lamm1241	GB141	nan	3.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB142	nan	3.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB143	nan	0.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB144	nan	0.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB145	nan	1.0	n		nan	nan	nan
+lamm1241	GB146	nan	3.0	n		nan	nan	nan
+lamm1241	GB147	nan	2.0	n		nan	nan	nan
+lamm1241	GB148	nan	2.0	n		nan	nan	nan
+lamm1241	GB149	nan	2.0	n		nan	nan	nan
+lamm1241	GB150	nan	3.0	n		nan	nan	nan
+lamm1241	GB151	nan	2.0	n	In discourse context fourth-person pronouns function as switch-reference marker, but this is a derived function of these free pronouns, and they are not affixes.	Holton 2014a: 72	nan	nan
+lamm1241	GB152	nan	3.0	n		nan	nan	nan
+lamm1241	GB153	nan	0.0	n		nan	nan	nan
+lamm1241	GB154	nan	0.0	y		Holton 2014a: 82	nan	nan
+lamm1241	GB155	nan	2.0	n		nan	nan	nan
+lamm1241	GB156	nan	2.0	n		nan	nan	nan
+lamm1241	GB157	nan	3.0	n		nan	nan	nan
+lamm1241	GB158	nan	3.0	n	verb reduplication is not productive	Holton 2014a: 43	nan	nan
+lamm1241	GB159	nan	2.0	n	There are a few nominal compounds that consist of a reduplication but this is  an unproductive and semantically  opaque process.	Holton 2014a: 43	nan	nan
+lamm1241	GB160	nan	2.0	y	e.g., numerals	Holton, p.c. 2016	nan	nan
+lamm1241	GB162	nan	0.0	n		nan	nan	nan
+lamm1241	GB163	How many genders/noun classes are there?	?	Not known		nan	3:?;0:several;1:2;2:n	nan
+lamm1241	GB165	nan	2.0	n		nan	nan	nan
+lamm1241	GB166	nan	2.0	n		nan	nan	nan
+lamm1241	GB167	nan	2.0	n		nan	nan	nan
+lamm1241	GB168	nan	1.0	n		nan	nan	nan
+lamm1241	GB169	nan	0.0	n		nan	nan	nan
+lamm1241	GB170	Can an attributive nominal modifier denoting a property concept agree with any gender/noun class of the noun it modifies?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+lamm1241	GB171	Can an adnominal demonstrative agree in gender/noun class with the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+lamm1241	GB172	nan	2.0	n		nan	nan	nan
+lamm1241	GB173	Are noun class and number always marked by a portmanteau morpheme on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB174	Are noun class and number marked by a portmanteau morpheme on the noun in singular?	?	Not known		nan	0:n	nan
+lamm1241	GB175	Are noun class and number marked by a portmanteau morpheme on the noun in plural?	?	Not known		nan	0:n	nan
+lamm1241	GB176	Can agreement of gender/noun class and number be marked by a portmanteau morpheme on other items in the noun phrase?	?	Not known		nan	0:n	nan
+lamm1241	GB177	nan	2.0	y	prefix with animate referent may co-occur with free pronoun, prefix with inanimate referent may not.	Holton 2014a: 77	nan	nan
+lamm1241	GB178	Are there several different singular genders/noun classes that can have the same plural gender/noun class?	?	Not known		nan	0:n	nan
+lamm1241	GB179	Are there genders/noun classes that cannot take number marking?	?	Not known		nan	0:n	nan
+lamm1241	GB181	Is number marking obligatory on certain (types of) nouns?	?	Not known		nan	1:?;2:y;0:n	nan
+lamm1241	GB182	Is number marking obligatory on animate nouns?	?	Not known		nan	1:?;0:n	nan
+lamm1241	GB183	Is number marking obligatory on human nouns?	?	Not known		nan	1:?;0:n	nan
+lamm1241	GB184	nan	2.0	n		nan	nan	nan
+lamm1241	GB185	nan	2.0	n		nan	nan	nan
+lamm1241	GB186	nan	2.0	n		nan	nan	nan
+lamm1241	GB187	nan	2.0	n		nan	nan	nan
+lamm1241	GB188	nan	2.0	n		nan	nan	nan
+lamm1241	GB191	nan	0.0	n		nan	nan	nan
+lamm1241	GB192	Are the noun's phonological properties relevant for any gender assignment?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, There is gender and it is possible that phonology influences assignment
+lamm1241	GB193	nan	5.0	2		nan	nan	nan
+lamm1241	GB194	nan	0.0	n		nan	nan	nan
+lamm1241	GB195	Can a noun receive more than one noun class marker at the same time?	?	Not known		nan	0:n	nan
+lamm1241	GB196	nan	2.0	n		nan	nan	nan
+lamm1241	GB197	nan	2.0	n		nan	nan	nan
+lamm1241	GB198	Can a numeral used attributively agree with any gender/noun class of the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+lamm1241	GB199	Can verbs agree with the gender/noun class of the nominal object?	?	Not known		nan	1:y;0:n	nan
+lamm1241	GB200	nan	0.0	y		nan	nan	nan
+lamm1241	GB202	nan	0.0	n		nan	nan	nan
+lamm1241	GB203	nan	4.0	0	the quantifier gaterannang 'all of them' is a noun with a fossilized possessive prefix.	Holton 2014a: 56	nan	nan
+lamm1241	GB204	nan	5.0	n		Holton p.c. 2016	nan	nan
+lamm1241	GB205	Is number marking prohibited on inanimate nouns?	?	Not known		nan	1:?;0:n	nan
+lamm1241	GB206	Is number marking prohibited on mass nouns?	?	Not known		nan	1:?;0:n	nan
+lamm1241	GB207	Is number marking optional on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+lamm1241	GB208	Can singular number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB209	Can singular number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB210	Can singular number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB211	Can singular number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB212	Can dual number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB213	Can dual number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB214	Can dual number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB215	Can dual number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB216	Can dual number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB217	Can plural number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB218	Can plural number be marked by a suffix on the noun?	?	Not known		nan	1:y;0:n	nan
+lamm1241	GB219	Can plural number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB220	Can plural number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB221	Can plural number be marked by reduplication on the noun?	?	Not known		nan	1:y;0:n	nan
+lamm1241	GB222	Can trial number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB223	Can trial number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB224	Can trial number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB225	Can trial number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB226	Can trial number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB227	Can paucal number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB228	Can paucal number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB229	Can paucal number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB230	Can paucal number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB231	Can paucal number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB232	Can diminutive be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB234	Can diminutive be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB235	Can diminutive be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB236	Can diminutive be marked by tone on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB237	Can diminutive be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB238	Can diminutive be marked by noun class selection?	?	Not known		nan	0:n	nan
+lamm1241	GB239	Can augmentative be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB240	Can augmentative be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB241	Can augmentative be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB242	Can augmentative be marked by tone on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB243	Can augmentative be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB244	Can augmentative be marked by noun class selection?	?	Not known		nan	0:n	nan
+lamm1241	GB245	Can gender/noun class be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB246	Can gender/noun class be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB247	Can gender/noun class be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+lamm1241	GB248	Can gender/noun class be marked by tone on the noun only?	?	Not known		nan	0:n	nan
+lamm1241	GB249	nan	1.0	y		nan	nan	nan
+lamm1241	GB250	nan	3.0	n		nan	nan	nan
+lamm1241	GB251	nan	1.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB252	nan	3.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB253	nan	3.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB254	nan	2.0	y		Holton, p.c. 2016	nan	nan
+lamm1241	GB255	nan	2.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB256	nan	2.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB257	nan	2.0	y		Holton, p.c. 2016	nan	nan
+lamm1241	GB258	nan	0.0	y		Holton, p.c. 2016	nan	nan
+lamm1241	GB259	nan	0.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB260	nan	2.0	n		nan	nan	nan
+lamm1241	GB261	nan	0.0	n		nan	nan	nan
+lamm1241	GB262	Is there a clause-initial polar interrogative particle?	?	Not known		nan	3:?;1: present;0: absent;2:n	Not mentioned, The elements used in polar interrogation are distributed over the clause
+lamm1241	GB263	Is there a clause-final polar interrogative particle?	?	Not known		nan	3:?;2:y;1: present;0: absent;4:n	Not mentioned, The elements used in polar interrogation are distributed over the clause
+lamm1241	GB264	Is there a clause-medial polar interrogative particle?	?	Not known		nan	3:?;1: present;0: absent;2:n	Not mentioned, The elements used in polar interrogation are distributed over the clause
+lamm1241	GB265	nan	4.0	y	tabba	Holton, p.c. 2016	nan	nan
+lamm1241	GB266	nan	2.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB267	nan	0.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB268	nan	0.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB269	nan	0.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB270	nan	4.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB271	Are the predicates in the conjoined comparative construction antonyms?	?	Not known		nan	2:?;0:no data;3:y;1:n	nan
+lamm1241	GB272	nan	1.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB273	nan	4.0	y	odong	Holton, p.c. 2016	nan	nan
+lamm1241	GB274	nan	1.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB275	Is the element marking the property concept in the comparative construction marked by an affix indicating comparision or grading?	?	Not known		nan	2:n;4:no data;0: absent;5:?;3:y;1: present	Not mentioned, The marker is adjacent to the property word but not treated as morphologically bound
+lamm1241	GB276	Is the element marking the property concept in the comparative construction marked by a sepeare degree word indicating comparision or grading?	?	Not known		nan	2:n;4:no data;0: absent;5:?;3:y;1: present	Not mentioned, The marker is adjacent to the property word but not treated as morphologically bound
+lamm1241	GB277	nan	0.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	GB278	nan	0.0	y		nan	nan	nan
+lamm1241	GB279	nan	2.0	n		nan	nan	nan
+lamm1241	GB280	nan	0.0	y		nan	nan	nan
+lamm1241	GB281	nan	2.0	n		nan	nan	nan
+lamm1241	GB282	nan	1.0	n		nan	nan	nan
+lamm1241	GB283	Can verbs agree with the gender/noun class of the nominal subject?	?	Not known		nan	1:y;0:n	nan
+lamm1241	GB284	nan	1.0	y	only a few exceptional verbs.	Holton 2014a: 77	nan	nan
+lamm1241	GB285	nan	2.0	n		nan	nan	nan
+lamm1241	GB286	nan	2.0	n		nan	nan	nan
+lamm1241	GB287	nan	0.0	n		nan	nan	nan
+lamm1241	GB288	nan	0.0	n	There are no real adpositions, they are verb-like	nan	nan	nan
+lamm1241	GB289	nan	1.0	y		nan	nan	nan
+lamm1241	GB290	nan	0.0	y		nan	nan	nan
+lamm1241	GB291	Can polar interrogation be marked by tone?	?	Not known		nan	3:?;1: present;0: absent;2:n	Not mentioned, The question particle carries tone but this might also be intonation
+lamm1241	GB292	Is the particle marking polar interrogation not tone?	?	Not known		nan	2:?;0:y;1:n	nan
+lamm1241	GB294	nan	0.0	n		nan	nan	nan
+lamm1241	GB295	nan	1.0	n		nan	nan	nan
+lamm1241	GB295	nan	1.0	n		nan	nan	nan
+lamm1241	GB296	Is there a morphosyntactically definable class of ideophones (beyond sound)?	?	Not known		nan	3:?;4:no data;0: absent;1: present;2:n	Not mentioned
+lamm1241	GB297	Can polar interrogation be marked by a construction of the type “V Neg V”?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB298	Can standard negation be marked by negative auxiliaries?	?	Not known		nan	0: absent;1: present	Not mentioned, Unclear whether it should count as an auxiliary given that no verbs carry inflection
+lamm1241	GB299	Can standard negation be marked by a freestanding particle?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB300	Is there a verb for the function 'give' that is suppletive for any grammatical category?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB301	Does the language have inclusory constructions productively?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB302	Is there a dedicated, obligatory and productive construction that marks passive voice, not morphologically on the verb nor on the A argument?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+lamm1241	GB303	Is there a dedicated, obligatory, productive construction that marks antipassive voice, not morphologically on the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+lamm1241	GB304	Can the A argument be overtly expressed in a passive clause or be overtly marked to signal a passive clause?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB305	Are there phonologically independent reflexive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned, Not clear if they are phonologically independent
+lamm1241	GB306	Are there reciprocal pronouns that are not-bipartite?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB307	Are there bipartite reciprocal pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB308	Can tense be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+lamm1241	GB309	Are there multiple past or future tenses, distinguishing distance from Time of Reference, in any form?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+lamm1241	GB310	Can aspect be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+lamm1241	GB311	Can mood be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+lamm1241	GB312	Can modal distinctions be marked on the verb, productively, dedicatedly and obligatorily?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+lamm1241	GB313	Are there possessive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB314	Can augmentative be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB315	Can diminutive be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB316	Can singular number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+lamm1241	GB317	Can dual number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+lamm1241	GB318	Can plural number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+lamm1241	GB319	Can trial number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+lamm1241	GB320	Can paucal number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+lamm1241	GB321	Is there an open class of noun stems that are assigned to gender/noun class categories arbitrarily?	?	Not known		nan	0: absent;1: present	Not mentioned, There may be a gender or noun class system but it seems to be semantic
+lamm1241	GB322	Does the language encode direct evidentiality (perceived with senses)?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB323	Does the language encode indirect evidentiality (hearsay, inference, etc.)?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB324	Are some content interrogatives (who?, what?, etc.) expressed in interrogative verbs?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB325	Is there a count/mass distinction in content interrogatives (e.g. English how many vs. how much)?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB326	Do (nominal) content interrogatives normally or frequently occur in situ (i.e. in the normal position for a non-interrogative NP in the same participant role)?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB327	Can the relative clause follow the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB328	Can the relative clause precede the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB329	Are there internally-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB330	Are there correlative relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB331	Are there adjoined relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB332	Are there double-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB333	nan	2.0	y		nan	nan	nan
+lamm1241	GB334	Is there synchronic evidence for any element of a quinary counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB335	Is there synchronic evidence for any element of a vigesimal counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+lamm1241	GB336	nan	2.0	n		nan	nan	nan
+lamm1241	GB502	nan	0.0	1		nan	nan	nan
+lamm1241	GB503	nan	0.0	y	There is only one prefix paradigm. Indexing of S and A is lexically conditioned.	nan	nan	nan
+lamm1241	GB508	nan	0.0	n		nan	nan	nan
+lamm1241	GB509	nan	0.0	y		nan	nan	nan
+lamm1241	GB510	nan	0.0	y		nan	nan	nan
+lamm1241	GB511	nan	0.0	y		nan	nan	nan
+lamm1241	GB512	nan	0.0	y		nan	nan	nan
+lamm1241	GB514	nan	0.0	n		nan	nan	nan
+lamm1241	GB515	nan	0.0	n		nan	nan	nan
+lamm1241	GB516	nan	1.0	3	derived	Holton, p.c. 2016	nan	nan
+lamm1241	GB517	nan	1.0	n		nan	nan	nan
+lamm1241	GB518	nan	0.0	y		nan	nan	nan
+lamm1241	GB519	nan	0.0	y		nan	nan	nan
+lamm1241	GB520	nan	1.0	n	In practice the elevation system projects a local coordinate system derived from local topography.	Holton, p.c. 2016	nan	nan
+lamm1241	GB521	nan	1.0	y		nan	nan	nan
+lamm1241	R1102	nan	0.0	4		nan	nan	nan
+lamm1241	R1103	nan	0.0	3		nan	nan	nan
+lamm1241	R1103a	nan	0.0	n		nan	nan	nan
+lamm1241	R1103b	nan	0.0	n		nan	nan	nan
+lamm1241	R1105	nan	0.0	y		nan	nan	nan
+lamm1241	R1106	nan	0.0	n		nan	nan	nan
+lamm1241	R1107	nan	0.0	y		nan	nan	nan
+lamm1241	R1108	nan	0.0	n		nan	nan	nan
+lamm1241	R1109	nan	0.0	y		nan	nan	nan
+lamm1241	R1109a	nan	0.0	n		nan	nan	nan
+lamm1241	R1109b	nan	0.0	n		nan	nan	nan
+lamm1241	R1110	nan	1.0	y		nan	nan	nan
+lamm1241	R1111	nan	1.0	n		nan	nan	nan
+lamm1241	R1112	nan	0.0	n		nan	nan	nan
+lamm1241	R1113a	nan	1.0	n		nan	nan	nan
+lamm1241	R1115	nan	0.0	y	/kro/ vs. /ka'ro/ with ultimate stress, while penultimate stress is the rule.	Holton 2014a: 39-40	nan	nan
+lamm1241	R1116	Is there weight-sensitive suprasegmental prominence	?	Not known		nan	0:y;1:n	nan
+lamm1241	R1117	nan	0.0	y		nan	nan	nan
+lamm1241	R1118	nan	1.0	n		nan	nan	nan
+lamm1241	R1202	nan	0.0	y	in indigenous words: p,s,ng,r,l; in loans: k,b,m,n	nan	nan	nan
+lamm1241	R1203a	nan	1.0	y		nan	nan	nan
+lamm1241	R1204	nan	1.0	y		nan	nan	nan
+lamm1241	R2203	nan	0.0	y		nan	nan	nan
+lamm1241	R2504a	Is plant status a relevant category in the noun class/gender system?	?	Not known		nan	0:y;1:n	nan
+lamm1241	R2507	Is there concord beyond the NP, i.e. agreement of elements outside the NP with the noun class of a noun?	?	Not known		nan	0:n	nan
+lamm1241	R2508	nan	0.0	y		nan	nan	nan
+lamm1241	R2601	nan	0.0	y		nan	nan	nan
+lamm1241	R2702	nan	0.0	y	"It appears that Western Pantar hisnakkuŋ'six'
 represents a partial calque of the base-five pattern found in Austronesian languages
-of Timor."	Schapper and Klamer 2014: 296
-GB336	lamm1241	2.0		
-R2703b	lamm1241	0.0		
-GB057	lamm1241	3.0		
-R2601	lamm1241	0.0		
-GB058	lamm1241	2.0		
-GB059	lamm1241	2.0		
-GB060	lamm1241	0.0		
-GB061	lamm1241	2.0		
-GB062	lamm1241	2.0		
-GB063	lamm1241	2.0		
-GB064	lamm1241	2.0		
-GB066	lamm1241	0.0	In possessive NP, possessor precedes possessee, but a genitive pronoun follows an adjunct NP (which can be omitted)	Holton 2014a: 65-66
-GB250	lamm1241	3.0		
-GB251	lamm1241	1.0		Holton, p.c. 2016
-GB252	lamm1241	3.0		Holton, p.c. 2016
-GB253	lamm1241	3.0		Holton, p.c. 2016
-GB254	lamm1241	2.0		Holton, p.c. 2016
-GB255	lamm1241	2.0		Holton, p.c. 2016
-GB256	lamm1241	2.0		Holton, p.c. 2016
-GB081	lamm1241	2.0		
-GB111	lamm1241	3.0		
-GB112	lamm1241	3.0		Holton 2010: 109-110
-GB117	lamm1241	2.0		
-GB118	lamm1241	2.0		
-GB119	lamm1241	2.0		
-GB120	lamm1241	3.0		
-GB121	lamm1241	2.0		
-GB122	lamm1241	3.0	there are some serial verb constructions that may be analysed as verb compounds	Holton 2014a: 43
-GB123	lamm1241	2.0	these are referred to as 'auxiliary verbs' in the  sketch grammar.	
-GB124	lamm1241	2.0		
-GB125	lamm1241	2.0		
-GB126	lamm1241	2.0	the verb wang	
-GB127	lamm1241	2.0		Holton, p.c. 2016
-GB128	lamm1241	0.0		
-GB129	lamm1241	2.0		
-GB158	lamm1241	3.0	verb reduplication is not productive	Holton 2014a: 43
-GB028	lamm1241	2.0		
-GB029	lamm1241	0.0	But I think this is how Donohue would view it.	Holton, p.c. 2016
-GB030	lamm1241	2.0		
-GB168	lamm1241	1.0		
-GB169	lamm1241	0.0		
-GB197	lamm1241	2.0		
-GB162	lamm1241	0.0		
-GB196	lamm1241	2.0		
-GB202	lamm1241	0.0		
-R2203	lamm1241	0.0		
-GB031	lamm1241	2.0		
-GB167	lamm1241	2.0		
-GB032	lamm1241	2.0		
-GB033	lamm1241	0.0		
-GB034	lamm1241	2.0		
-GB089	lamm1241	2.0		
-GB090	lamm1241	2.0		Holton, p.c. 2016
-GB091	lamm1241	2.0		
-GB092	lamm1241	2.0		
-GB093	lamm1241	2.0		
-GB094	lamm1241	2.0		
-GB503	lamm1241	0.0	There is only one prefix paradigm. Indexing of S and A is lexically conditioned.	
-SD321	lamm1241	0.0	There is only one prefix paradigm.	
-GB249	lamm1241	1.0		
-GB095	lamm1241	2.0		
-GB096	lamm1241	2.0		
-GB097	lamm1241	2.0		
-GB098	lamm1241	3.0	there are verbs that take a 1/2 person actor prefix and a 3 person undergoer prefix.	Holton 2014a: 79
-GB099	lamm1241	2.0		
-GB100	lamm1241	0.0		
-GB109	lamm1241	2.0		
-R3502	lamm1241	0.0		
-GB102	lamm1241	0.0		
-GB141	lamm1241	3.0		Holton, p.c. 2016
-GB142	lamm1241	3.0		Holton, p.c. 2016
-GB143	lamm1241	0.0		Holton, p.c. 2016
-GB144	lamm1241	0.0		Holton, p.c. 2016
-GB145	lamm1241	1.0		
-GB278	lamm1241	0.0		
-GB279	lamm1241	2.0		
-GB280	lamm1241	0.0		
-GB281	lamm1241	2.0		
-GB282	lamm1241	1.0		
-GB103	lamm1241	3.0		
-GB104	lamm1241	2.0		Holton, p.c. 2016
-GB105	lamm1241	2.0		
-GB287	lamm1241	0.0		
-GB288	lamm1241	0.0	There are no real adpositions, they are verb-like	
-GB289	lamm1241	1.0		
-GB290	lamm1241	0.0		
-GB106	lamm1241	2.0	ma -nia 'come -give' is ditransitive but is a serial verb construction	Holton 2014a: 45
-GB108	lamm1241	3.0		Holton, p.c. 2016
-GB079	lamm1241	2.0		
-GB080	lamm1241	3.0		
-GB101	lamm1241	0.0		
-GB110	lamm1241	2.0		
-GB082	lamm1241	2.0		
-GB083	lamm1241	2.0		
-GB084	lamm1241	2.0		
-GB086	lamm1241	3.0	progressive and inceptive are morphologically marked	
-GB087	lamm1241	2.0		
-GB088	lamm1241	2.0		
-GB113	lamm1241	2.0		
-R3605	lamm1241	0.0		
-GB114	lamm1241	2.0	reflexive can be encoded using a 4th person pronoun; or a prefix on the verb icw a free reflexive pronoun.	Holton 2014a: 72
-GB115	lamm1241	3.0		Holton 2014a: 87
-GB116	lamm1241	2.0		
-GB177	lamm1241	2.0	prefix with animate referent may co-occur with free pronoun, prefix with inanimate referent may not.	Holton 2014a: 77
-GB074	lamm1241	2.0		
-GB075	lamm1241	2.0	adposition-like elements behave like verbs.	
-GB107	lamm1241	2.0		
-GB137	lamm1241	2.0		
-GB138	lamm1241	2.0		
-SD341	lamm1241	0.0		
-SD342	lamm1241	0.0		
-GB139	lamm1241	2.0	Negative imperative constructions are marked with the clause-final particle	Holton 2014a: 52
-GB140	lamm1241	3.0	gayang.	
-SD343	lamm1241	0.0	Negator kauwa has verb-like properties	
-GB068	lamm1241	3.0		
-GB508	lamm1241	0.0		
-GB069	lamm1241	3.0		
-GB265	lamm1241	4.0	tabba	Holton, p.c. 2016
-GB266	lamm1241	2.0		Holton, p.c. 2016
-GB267	lamm1241	0.0		Holton, p.c. 2016
-GB268	lamm1241	0.0		Holton, p.c. 2016
-GB269	lamm1241	0.0		Holton, p.c. 2016
-GB277	lamm1241	0.0		Holton, p.c. 2016
-GB270	lamm1241	4.0		Holton, p.c. 2016
-GB271	lamm1241	3.0		Holton, p.c. 2016
-GB272	lamm1241	1.0		Holton, p.c. 2016
-GB273	lamm1241	4.0	odong	Holton, p.c. 2016
-GB274	lamm1241	1.0		Holton, p.c. 2016
-GB160	lamm1241	2.0	e.g., numerals	Holton, p.c. 2016
-GB146	lamm1241	3.0		
-GB147	lamm1241	2.0		
-GB148	lamm1241	2.0		
-GB191	lamm1241	0.0		
-GB149	lamm1241	2.0		
-GB151	lamm1241	2.0	In discourse context fourth-person pronouns function as switch-reference marker, but this is a derived function of these free pronouns, and they are not affixes.	Holton 2014a: 72
-GB152	lamm1241	3.0		
-GB150	lamm1241	3.0		
-GB153	lamm1241	0.0		
-GB027	lamm1241	2.0	Comitative is expressed as verb -tu 'be together with'. NP coordination expressed with postposition gar	Holton 2014a: 
-GB130	lamm1241	4.0		
-GB131	lamm1241	2.0		
-GB132	lamm1241	2.0		
-GB133	lamm1241	2.0		
-GB135	lamm1241	2.0		
-GB136	lamm1241	2.0		
-R4305a	lamm1241	0.0	relativizers ba, an	Holton, p.c. 2016
-R4307	lamm1241	0.0		
-R4308	lamm1241	0.0		
-R4308a	lamm1241	1.0		
-R4309a	lamm1241	1.0		
-R4309b	lamm1241	1.0		
-R4311	lamm1241	0.0		
-GB154	lamm1241	0.0		Holton 2014a: 82
-GB155	lamm1241	2.0		
-GB156	lamm1241	2.0		
-GB257	lamm1241	2.0		Holton, p.c. 2016
-GB258	lamm1241	0.0		Holton, p.c. 2016
-GB259	lamm1241	0.0		Holton, p.c. 2016
-GB260	lamm1241	2.0		
-GB286	lamm1241	2.0		
-GB285	lamm1241	2.0		
-GB261	lamm1241	0.0		
-GB157	lamm1241	3.0		
-GB294	lamm1241	0.0		
-GB295	lamm1241	1.0		
-GB295	lamm1241	1.0		
-SD369	lamm1241	0.0		
-R5202	lamm1241	1.0		Holton, p.c. 2016
-R5203	lamm1241	1.0		Holton 2014b: 206
-R5204	lamm1241	0.0		
-R5205	lamm1241	0.0		Holton, p.c. 2016
-R5206	lamm1241	1.0		Holton 2014b: 202
-R5207	lamm1241	0.0		
-R5208	lamm1241	0.0		
-R5209	lamm1241	0.0		
-R5210	lamm1241	1.0		
-R5211	lamm1241	0.0		
-R5212	lamm1241	1.0		
-SD381	lamm1241	0.0		
+of Timor."	Schapper and Klamer 2014: 296	nan	nan
+lamm1241	R2703b	nan	0.0	n		nan	nan	nan
+lamm1241	R3103	Do the same morphemes systematically encode both TAM and person?	?	Not known		nan	0:n	nan
+lamm1241	R3502	nan	0.0	n		nan	nan	nan
+lamm1241	R3605	nan	0.0	n		nan	nan	nan
+lamm1241	R4305a	nan	0.0	y	relativizers ba, an	Holton, p.c. 2016	nan	nan
+lamm1241	R4307	nan	0.0	n		nan	nan	nan
+lamm1241	R4308	nan	0.0	n		nan	nan	nan
+lamm1241	R4308a	nan	1.0	n		nan	nan	nan
+lamm1241	R4309a	nan	1.0	n		nan	nan	nan
+lamm1241	R4309b	nan	1.0	n		nan	nan	nan
+lamm1241	R4309c	Is there a complementizer that precedes a complement clause?	?	Not known		nan	3:?;1:no data;2:y;0:n	nan
+lamm1241	R4309d	Is there a complementizer that follows a complement clause?	?	Not known		nan	3:?;1:no data;2:y;0:n	nan
+lamm1241	R4311	nan	0.0	n		nan	nan	nan
+lamm1241	R5202	nan	1.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	R5203	nan	1.0	y		Holton 2014b: 206	nan	nan
+lamm1241	R5204	nan	0.0	n		nan	nan	nan
+lamm1241	R5205	nan	0.0	n		Holton, p.c. 2016	nan	nan
+lamm1241	R5206	nan	1.0	y		Holton 2014b: 202	nan	nan
+lamm1241	R5207	nan	0.0	n		nan	nan	nan
+lamm1241	R5208	nan	0.0	n		nan	nan	nan
+lamm1241	R5209	nan	0.0	n		nan	nan	nan
+lamm1241	R5210	nan	1.0	n		nan	nan	nan
+lamm1241	R5211	nan	0.0	y		nan	nan	nan
+lamm1241	R5212	nan	1.0	y		nan	nan	nan
+lamm1241	SD224	nan	0.0	1		nan	nan	nan
+lamm1241	SD295	nan	1.0	n		nan	nan	nan
+lamm1241	SD319	Are S and A marked by the same prefix/proclitic?	?	Not known		nan	1:y;0:n	nan
+lamm1241	SD320	Are S and A marked by the same suffix/enclitic?	?	Not known		nan	1:?;0:n	nan
+lamm1241	SD321	nan	0.0	y	There is only one prefix paradigm.	nan	nan	nan
+lamm1241	SD341	nan	0.0	y		nan	nan	nan
+lamm1241	SD342	nan	0.0	n		nan	nan	nan
+lamm1241	SD343	nan	0.0	y	Negator kauwa has verb-like properties	nan	nan	nan
+lamm1241	SD344	Are there adjectives (elements denoting property concepts) that act like nouns?	?	Not known		nan	1:y;0:n	nan
+lamm1241	SD369	nan	0.0	n		nan	nan	nan
+lamm1241	SD381	nan	0.0	y		nan	nan	nan
+lamm1241	SD388	Are there allophonic phonation types for vowels?	?	Not known		nan	0:y;1:n	nan
+lamm1241	SD389	Is there nominalizing morphology?	?	Not known		nan	0:y	nan
+lamm1241	SD390	Can horizontal direction be marked in demonstratives?	?	Not known		nan	1:y;0:n	nan
+lamm1241	SD391	Is there a predicative possessive construction?	?	Not known		nan	0:y	nan
+lamm1241	SD392	Are S and O marked by the same prefix/proclitic?	?	Not known		nan	0:n	nan
+lamm1241	SD393	Are S and O marked by the same suffix/enclitic?	?	Not known		nan	0:n	nan
+lamm1241	SD394	Are there suppletive forms for negated verbs?	?	Not known		nan	0:y	nan
+lamm1241	SD395	Is topological information expressed by adpositions?	?	Not known		nan	0:n	nan
+lamm1241	SD396	Is topological information expressed by nouns?	?	Not known		nan	0:y	nan
+lamm1241	SD397	Are there native terms expressing directions in space on a geocentric coordinate system (geocentric terms)?	?	Not known		nan	0:y	nan
+lamm1241	SD398	Do geocentric terms have deictic use?	?	Not known		nan	0:y	nan
+lamm1241	SD399	Can geocentric terms function as adverbs?	?	Not known		nan	0:y	nan
+lamm1241	SD400	Can geocentric terms function as adpositions?	?	Not known		nan	0:y	nan
+lamm1241	SD401	Can demonstratives function as adverbs (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+lamm1241	SD402	Can demonstratives function as prepositions (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+lamm1241	SD403	Is it possible to employ an absolute frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+lamm1241	SD404	Is it possible to employ an intrinsic frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+lamm1241	SD405	Is it possible to employ a relative frame of reference when expressing projective spatial relations?	?	Not known		nan	1:?;0:n	nan
+lamm1241	SD406	Is it possible to use another frame of reference?	?	Not known		nan	1:?;0:y	nan
+lamm1241	SD407	Which frame of reference is preferred in the expression of projective spatial relations?	?	Not known		nan	1:?;0:a	nan

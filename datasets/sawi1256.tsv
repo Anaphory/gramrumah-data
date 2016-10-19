@@ -1,264 +1,409 @@
-Feature_ID	Language_ID	Value	Comment	Source
-R1102	sawi1256	0.0	labial, alveodental, velar, glottal	Kratochvil 2014: 354
-R1103	sawi1256	0.0	labial, alveodental, velar	
-R1103a	sawi1256	0.0		
-R1103b	sawi1256	0.0		
-R1105	sawi1256	0.0		
-R1106	sawi1256	0.0		
-R1107	sawi1256	0.0	Note that the l/r distinction is not in all places (a similar situation exists in Kula)	F. Kratochvíl p.c. 2016
-R1108	sawi1256	0.0		
-R1109	sawi1256	0.0		
-R1109a	sawi1256	0.0		
-R1109b	sawi1256	0.0		
-R1110	sawi1256	0.0		
-R1111	sawi1256	0.0		
-R1112	sawi1256	0.0		
-R1113a	sawi1256	1.0		
-R1115	sawi1256	0.0		Kr2014: 359
-R1116	sawi1256	0.0		Kr2014: 359
-R1117	sawi1256	0.0		Kr2014: 359
-R1118	sawi1256	1.0	Possibly, need to be investigated further	F. Kratochvíl p.c. 2016
-R1202	sawi1256	0.0	m, n, ng, l, r, k, s	
-R1203a	sawi1256	1.0	[stop liquid] only	
-R1204	sawi1256	0.0		
-GB024	sawi1256	4.0		
-GB025	sawi1256	5.0		
-GB065	sawi1256	5.0		
-SD224	sawi1256	0.0	Possessor possessed (John ga-house)	F. Kratochvíl p.c. 2016
-GB502	sawi1256	0.0	possessor possessed (gannu ga-house)	F. Kratochvíl p.c. 2016
-GB193	sawi1256	5.0		
-GB026	sawi1256	2.0		
-GB203	sawi1256	5.0		
-GB204	sawi1256	3.0		
-R2508	sawi1256	0.0	aning 'person', kiki 'seed'	Kr2014:386
-GB159	sawi1256	3.0	Not really, reduplication is possible, but it is not a productive process to mark number or other grammatical category.	F. Kratochvíl p.c. 2016
-GB050	sawi1256	1.0		
-GB039	sawi1256	2.0		
-GB041	sawi1256	2.0		
-GB042	sawi1256	2.0		
-GB043	sawi1256	2.0		
-GB044	sawi1256	2.0	plural word du (follows quantifiers)	Kr2014:385, 386
-GB165	sawi1256	2.0		
-GB166	sawi1256	2.0		
-GB200	sawi1256	0.0		
-GB284	sawi1256	1.0	set I person prefixes can encode S, A, and P	Kr2014:396
-GB185	sawi1256	2.0		
-GB184	sawi1256	2.0		
-GB046	sawi1256	2.0	Yes, the associative plural marker is nanna 	Kr2014:139, F. Kratochvíl p.c. 2016
-GB188	sawi1256	2.0	the adjective likka 'large' is used as an augmentative, although this is not a bound morpheme	
-GB187	sawi1256	2.0		
-GB070	sawi1256	2.0		
-GB071	sawi1256	3.0	3 paradigms	Kr2014:390
-GB072	sawi1256	2.0		
-GB073	sawi1256	2.0		
-GB047	sawi1256	2.0		
-GB048	sawi1256	2.0		
-GB049	sawi1256	2.0		
-GB020	sawi1256	3.0	There are definite demonstratives ngana 'DEF'and wiina 'DEF.NVIS'. This question assumes that the distinction between demonstratives and articles is a clear-cut one. Sawila demonstratives are quite grammaticalized, and phonologically dependent on the head noun (vowel harmony etc.)	Kr2014:377, 379
-GB194	sawi1256	0.0		
-GB509	sawi1256	0.0		Kr2014:377 ex (59B)
-GB510	sawi1256	0.0		Kr2014:377 vv
-GB035	sawi1256	3.0		
-GB511	sawi1256	1.0		
-SD295	sawi1256	1.0		
-GB037	sawi1256	3.0		
-GB514	sawi1256	0.0		
-GB515	sawi1256	0.0		
-GB038	sawi1256	2.0		
-GB516	sawi1256	2.0	possibly somewhat related - ma/ ang-ama-etc.	F. Kratochvíl p.c. 2016
-GB517	sawi1256	0.0	yes: ma, li, and mara	F. Kratochvíl p.c. 2016
-GB518	sawi1256	1.0		
-GB520	sawi1256	1.0		
-GB521	sawi1256	0.0		
-GB067	sawi1256	0.0		
-GB333	sawi1256	2.0		
-R2702	sawi1256	0.0		
-GB336	sawi1256	2.0		
-R2703b	sawi1256	0.0		
-GB057	sawi1256	3.0		
-R2601	sawi1256	0.0		
-GB058	sawi1256	2.0		
-GB059	sawi1256	2.0		
-GB060	sawi1256	0.0		
-GB061	sawi1256	2.0		
-GB062	sawi1256	2.0		
-GB063	sawi1256	2.0		
-GB064	sawi1256	2.0		
-GB066	sawi1256	0.0		
-GB250	sawi1256	3.0		
-GB251	sawi1256	1.0		
-GB252	sawi1256	3.0		
-GB253	sawi1256	3.0		
-GB254	sawi1256	2.0	[that house] 1sg.GEN 'That house is mine, belongs to me' 	Kr2014: 372
-GB255	sawi1256	2.0		
-GB256	sawi1256	2.0		
-GB081	sawi1256	2.0		
-GB111	sawi1256	2.0	there are verbal inflectional classes	Kr2014: 407
-GB112	sawi1256	2.0		
-GB117	sawi1256	2.0		
-GB118	sawi1256	2.0		
-GB119	sawi1256	2.0	If 'modal' is considered the same as 'mood': Sawila has particles expressing realis, irrealis, prohibitive, conditional etc. 	Kr2014: 421
-GB120	sawi1256	2.0		Kr2014:419
-GB121	sawi1256	2.0		
-GB122	sawi1256	3.0		
-GB123	sawi1256	2.0	"My eye (is) good' for ""I am alive"""	Kr2014:389
-GB124	sawi1256	2.0		
-GB125	sawi1256	2.0		
-GB126	sawi1256	2.0	mara 'exist'	Kr2014: 371 ex (36)
-GB127	sawi1256	6.0		
-GB128	sawi1256	1.0	bound form -rani 'give' displays person marking of the recipient fuse with the applicative prefix wii- as wee-.This prefix changes when combined with other person prefixes	Kr2014: 429-430
-GB129	sawi1256	2.0		
-GB158	sawi1256	2.0		
-GB028	sawi1256	2.0		
-GB029	sawi1256	0.0		
-GB030	sawi1256	2.0		
-GB168	sawi1256	1.0		
-GB169	sawi1256	0.0		
-GB197	sawi1256	2.0		
-GB162	sawi1256	0.0		
-GB196	sawi1256	2.0		
-GB202	sawi1256	0.0		
-R2203	sawi1256	0.0		
-GB031	sawi1256	2.0		
-GB167	sawi1256	2.0		
-GB032	sawi1256	2.0		
-GB033	sawi1256	0.0		
-GB034	sawi1256	2.0		
-GB089	sawi1256	2.0		
-GB090	sawi1256	2.0		Kr2014:396-387
-GB091	sawi1256	2.0		
-GB092	sawi1256	3.0		Kr2014:396-387
-GB093	sawi1256	2.0		
-GB094	sawi1256	2.0		Kr2014:398-99 ex (118a) (120b), p. 406
-GB503	sawi1256	0.0		
-SD321	sawi1256	0.0		
-GB249	sawi1256	1.0		
-GB095	sawi1256	2.0		
-GB096	sawi1256	2.0		
-GB097	sawi1256	2.0		
-GB098	sawi1256	2.0		
-GB099	sawi1256	2.0		
-GB100	sawi1256	0.0		
-GB109	sawi1256	2.0		
-R3502	sawi1256	0.0		
-GB102	sawi1256	0.0		
-GB141	sawi1256	2.0		
-GB142	sawi1256	2.0		
-GB143	sawi1256	0.0		
-GB144	sawi1256	0.0		
-GB145	sawi1256	0.0	P and S may both be prefixed on the verb	Kr2014:406
-GB278	sawi1256	0.0		
-GB279	sawi1256	2.0		
-GB280	sawi1256	0.0		
-GB281	sawi1256	2.0		
-GB282	sawi1256	1.0		
-GB103	sawi1256	3.0		Kr2014:430 ex (191)
-GB104	sawi1256	2.0	serial verb constructions are used, using the verb wii 'use'.	
-GB105	sawi1256	2.0		
-GB287	sawi1256	0.0		
-GB288	sawi1256	0.0		
-GB289	sawi1256	0.0		
-GB290	sawi1256	0.0		
-GB106	sawi1256	2.0		
-GB108	sawi1256	3.0		
-GB079	sawi1256	3.0		
-GB080	sawi1256	3.0		
-GB101	sawi1256	0.0		
-GB110	sawi1256	2.0		
-GB082	sawi1256	2.0		
-GB083	sawi1256	2.0		
-GB084	sawi1256	2.0		
-GB086	sawi1256	3.0	aspect is encoded with free forms	
-GB087	sawi1256	2.0	mood is encoded with enclitics	Kr2014:421-23
-GB088	sawi1256	2.0		
-GB113	sawi1256	3.0	applicative prefixes increase verbal valency	
-R3605	sawi1256	0.0		
-GB114	sawi1256	2.0		
-GB115	sawi1256	2.0	the distributive prefix	Kr2014: 390
-GB116	sawi1256	2.0		
-GB177	sawi1256	2.0		
-GB074	sawi1256	2.0		
-GB075	sawi1256	2.0		
-GB107	sawi1256	2.0		
-GB137	sawi1256	2.0		
-GB138	sawi1256	2.0		
-SD341	sawi1256	0.0		
-SD342	sawi1256	0.0		
-GB139	sawi1256	2.0	naanu 'NEG', tirea 'prohibitive', 	
-GB140	sawi1256	3.0		Kr2014:373 (44c), 374
-SD343	sawi1256	0.0		
-GB068	sawi1256	2.0		Kr2014:381
-SD344	sawi1256	0.0	Adjectival roots can take on possessive prefixes to become nominal, e.g. lamu 'long' > gi-lamu 'length'. 	F. Kratochvíl p.c. 2016
-GB069	sawi1256	2.0		
-GB265	sawi1256	3.0	prefix ma- attached to verb creates superlative meaning	Kr2014:401
-GB266	sawi1256	2.0		
-GB267	sawi1256	3.0		
-GB268	sawi1256	3.0		
-GB269	sawi1256	2.0		
-GB277	sawi1256	3.0		
-GB270	sawi1256	5.0		
-GB271	sawi1256	2.0		
-GB272	sawi1256	2.0		
-GB273	sawi1256	5.0		
-GB274	sawi1256	3.0		
-GB275	sawi1256	5.0		
-GB276	sawi1256	5.0		
-GB160	sawi1256	5.0		
-GB146	sawi1256	2.0		Kr2014:390
-GB147	sawi1256	2.0		
-GB148	sawi1256	2.0		
-GB191	sawi1256	0.0		
-GB149	sawi1256	2.0		
-GB151	sawi1256	2.0		
-GB152	sawi1256	2.0		Kr2014:421
-GB150	sawi1256	5.0		
-GB153	sawi1256	0.0		Kr2014:396 ex (113b)
-GB027	sawi1256	5.0		
-GB130	sawi1256	4.0		
-GB131	sawi1256	2.0		
-GB132	sawi1256	2.0		
-GB133	sawi1256	2.0		
-GB134	sawi1256	2.0		
-GB135	sawi1256	2.0		
-GB136	sawi1256	2.0		
-R4305a	sawi1256	0.0		
-R4307	sawi1256	1.0	The answer is yes here because the purposive clauses follow the main clause and carry the mood marker. The disctinction finite-non-finite is not the best way to capture that, but they do display marking which is restricted to clause-medial position.	F. Kratochvíl p.c. 2016
-R4308	sawi1256	1.0	Yes, using demonstratives as nominalizers.	F. Kratochvíl p.c. 2016
-R4308a	sawi1256	0.0	The conditional marker is ma, i, which is also the locative marker, or condition is marked by other forms such as anda and masi. The indication of finiteness is difficult to assess.	F. Kratochvíl p.c. 2016
-R4309a	sawi1256	1.0	the clause with the speech verb (not the quote) is nominalised with ngana. the complementizer is typically ngana  (<DEM) and the complement clause follows the complement taking verb.	Kr2014:403 ex 130
-R4309b	sawi1256	1.0	same as above	F. Kratochvíl p.c. 2016
-R4309c	sawi1256	0.0	complementizer is in between the main and complement clause (linking them)	F. Kratochvíl p.c. 2016
-R4309d	sawi1256	2.0	if nominalising ngana 'DEF' is analysed as a complementiser. The quotative wanti occurs in the final position of the complement clause, but is not obligatory. It could be analyzed as the second part of the complementizer.	
-R4311	sawi1256	0.0		
-GB154	sawi1256	0.0	using the verb pi 'make' in a serial verb construction	Kr2014: 428 ex (184), 434 ex (139)
-GB155	sawi1256	2.0		
-GB156	sawi1256	2.0		
-GB257	sawi1256	2.0		
-GB258	sawi1256	0.0		
-GB259	sawi1256	0.0		
-GB260	sawi1256	2.0		
-GB286	sawi1256	2.0		
-GB285	sawi1256	2.0		
-GB261	sawi1256	1.0		
-GB291	sawi1256	2.0		
-GB292	sawi1256	0.0		
-GB262	sawi1256	2.0		
-GB263	sawi1256	2.0		
-GB264	sawi1256	2.0		
-GB157	sawi1256	2.0	Yes, repeating the same verb, or using a verb such as amane 'doing so…'	F. Kratochvíl p.c. 2016
-GB294	sawi1256	2.0	not sure	F. Kratochvíl p.c. 2016
-GB295	sawi1256	3.0	They are followed by verbs such as amane 'doing so'	F. Kratochvíl p.c. 2016
-GB296	sawi1256	3.0	not sure	F. Kratochvíl p.c. 2016
-SD369	sawi1256	2.0		
-R5202	sawi1256	3.0	eg. mother-father 'parents'	
-R5203	sawi1256	1.0		
-R5204	sawi1256	1.0	probably	F. Kratochvíl p.c. 2016
-R5205	sawi1256	2.0		
-R5206	sawi1256	2.0	I only have the term na-mok 'cousin'. Not sure whether it applies to both	F. Kratochvíl p.c. 2016
-R5207	sawi1256	2.0		
-R5208	sawi1256	1.0	for paternal lineage, the word liwe 'father's house' is added  	F. Kratochvíl p.c. 2016
-R5209	sawi1256	0.0		
-R5210	sawi1256	2.0	not sure	F. Kratochvíl p.c. 2016
-R5211	sawi1256	0.0	the terms are ikisila (junior) and madumma (senior)	F. Kratochvíl p.c. 2016
-R5212	sawi1256	0.0		
-SD381	sawi1256	1.0		
+Language_ID	Feature_ID	Feature	Value	Answer	Comment	Source	Possible Values	Suggested standardised comments
+sawi1256	GB014	Is there weight-sensitive suprasegmental prominence, suprasegmental prominence can be loudness, duration, pitch, i.e. stress or tone phenomena?	?	Not known		nan	3:?;2:no data;1:y;0:n	nan
+sawi1256	GB020	nan	3.0	n	There are definite demonstratives ngana 'DEF'and wiina 'DEF.NVIS'. This question assumes that the distinction between demonstratives and articles is a clear-cut one. Sawila demonstratives are quite grammaticalized, and phonologically dependent on the head noun (vowel harmony etc.)	Kr2014:377, 379	nan	nan
+sawi1256	GB021	Is an indefinite NP obligatorily accompanied by an indefinite (or non-specific) article?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, It exists but it is not obligatory, Same as numeral 'one'
+sawi1256	GB022	Are there prenominal articles?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, The definite article is prenominal, The indefinite article is prenominal, The definite article is a prefix, The indefinite article is a prefix
+sawi1256	GB023	Are there postnominal articles?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, The definite article is postnominal, The indefinite article is postnominal, The definite article is a suffix, The indefinite article is a suffix
+sawi1256	GB024	nan	4.0	2		nan	nan	nan
+sawi1256	GB025	nan	5.0	2		nan	nan	nan
+sawi1256	GB026	nan	2.0	n		nan	nan	nan
+sawi1256	GB027	nan	5.0	?		nan	nan	nan
+sawi1256	GB028	nan	2.0	y		nan	nan	nan
+sawi1256	GB029	nan	0.0	n		nan	nan	nan
+sawi1256	GB030	nan	2.0	n		nan	nan	nan
+sawi1256	GB031	nan	2.0	n		nan	nan	nan
+sawi1256	GB032	nan	2.0	n		nan	nan	nan
+sawi1256	GB033	nan	0.0	n		nan	nan	nan
+sawi1256	GB034	nan	2.0	n		nan	nan	nan
+sawi1256	GB035	nan	3.0	n		nan	nan	nan
+sawi1256	GB036	Is elevation morphologically marked in demonstratives?	?	Not known		nan	4:?;2:y;1: present;0: absent;3:n	Not mentioned
+sawi1256	GB037	nan	3.0	y		nan	nan	nan
+sawi1256	GB038	nan	2.0	n		nan	nan	nan
+sawi1256	GB039	nan	2.0	n		nan	nan	nan
+sawi1256	GB040	Are there declensions (partly) determined by gender of the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB041	nan	2.0	n		nan	nan	nan
+sawi1256	GB042	nan	2.0	n		nan	nan	nan
+sawi1256	GB043	nan	2.0	n		nan	nan	nan
+sawi1256	GB044	nan	2.0	n	plural word du (follows quantifiers)	Kr2014:385, 386	nan	nan
+sawi1256	GB045	Is number marking prohibited on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+sawi1256	GB046	nan	2.0	y	Yes, the associative plural marker is nanna 	Kr2014:139, F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	GB047	nan	2.0	n		nan	nan	nan
+sawi1256	GB048	nan	2.0	n		nan	nan	nan
+sawi1256	GB049	nan	2.0	n		nan	nan	nan
+sawi1256	GB050	nan	1.0	n		nan	nan	nan
+sawi1256	GB051	Is sex a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+sawi1256	GB052	Is shape a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+sawi1256	GB053	Is animacy (without reference to sex) a relevant category in any noun class/gender system?	?	Not known		nan	2:y;1: present;0: absent;3:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+sawi1256	GB054	Is plant status a relevant category in any noun class/gender system?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, Nouns have semantic classification but the markers are not morphologically bound and are flexible, There is extensive classification but only to parts of the lexicon
+sawi1256	GB055	Does the language only have a gender distinction in 3rd person pronouns?	?	Not known		nan	0:n	nan
+sawi1256	GB056	Is there concord within the NP, i.e. agreement of elements within the NP with the noun class of a noun?	?	Not known		nan	1:y;0:n	nan
+sawi1256	GB057	nan	3.0	y		nan	nan	nan
+sawi1256	GB058	nan	2.0	n		nan	nan	nan
+sawi1256	GB059	nan	2.0	y		nan	nan	nan
+sawi1256	GB060	nan	0.0	y		nan	nan	nan
+sawi1256	GB061	nan	2.0	y		nan	nan	nan
+sawi1256	GB062	nan	2.0	n		nan	nan	nan
+sawi1256	GB063	nan	2.0	n		nan	nan	nan
+sawi1256	GB064	nan	2.0	y		nan	nan	nan
+sawi1256	GB065	nan	5.0	1		nan	nan	nan
+sawi1256	GB066	nan	0.0	n		nan	nan	nan
+sawi1256	GB067	nan	0.0	2		nan	nan	nan
+sawi1256	GB068	nan	2.0	y		Kr2014:381	nan	nan
+sawi1256	GB069	nan	2.0	y		nan	nan	nan
+sawi1256	GB070	nan	2.0	n		nan	nan	nan
+sawi1256	GB071	nan	3.0	y	3 paradigms	Kr2014:390	nan	nan
+sawi1256	GB072	nan	2.0	n		nan	nan	nan
+sawi1256	GB073	nan	2.0	n		nan	nan	nan
+sawi1256	GB074	nan	2.0	n		nan	nan	nan
+sawi1256	GB075	nan	2.0	n		nan	nan	nan
+sawi1256	GB076	Are there adpositions to mark core NPs?	?	Not known		nan	4:?;3:y;1: present;0: absent;2:n	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+sawi1256	GB077	Are there adpositions to mark oblique NPs?	?	Not known		nan	4:?;3:y;1: present;0: absent;2:n	Not mentioned, The markers are treated as bound to the noun, The adpositions are often also lexical nouns and verbs
+sawi1256	GB078	Is there a distinction between locational and directional adpositions?	?	Not known		nan	2:?;1:y;0:n	nan
+sawi1256	GB079	nan	3.0	y		nan	nan	nan
+sawi1256	GB080	nan	3.0	n		nan	nan	nan
+sawi1256	GB081	nan	2.0	n		nan	nan	nan
+sawi1256	GB082	nan	2.0	n		nan	nan	nan
+sawi1256	GB083	nan	2.0	n		nan	nan	nan
+sawi1256	GB084	nan	2.0	n		nan	nan	nan
+sawi1256	GB085	Are there multiple past or future tenses, distinguishing distance from Time of Reference, marked on the verb?	?	Not known		nan	0:n	nan
+sawi1256	GB086	nan	3.0	n	aspect is encoded with free forms	nan	nan	nan
+sawi1256	GB087	nan	2.0	n	mood is encoded with enclitics	Kr2014:421-23	nan	nan
+sawi1256	GB088	nan	2.0	n		nan	nan	nan
+sawi1256	GB089	nan	2.0	n		nan	nan	nan
+sawi1256	GB090	nan	2.0	y		Kr2014:396-387	nan	nan
+sawi1256	GB091	nan	2.0	n		nan	nan	nan
+sawi1256	GB092	nan	3.0	y		Kr2014:396-387	nan	nan
+sawi1256	GB093	nan	2.0	n		nan	nan	nan
+sawi1256	GB094	nan	2.0	y		Kr2014:398-99 ex (118a) (120b), p. 406	nan	nan
+sawi1256	GB095	nan	2.0	n		nan	nan	nan
+sawi1256	GB096	nan	2.0	y		nan	nan	nan
+sawi1256	GB097	nan	2.0	n		nan	nan	nan
+sawi1256	GB098	nan	2.0	n		nan	nan	nan
+sawi1256	GB099	nan	2.0	n		nan	nan	nan
+sawi1256	GB100	nan	0.0	n		nan	nan	nan
+sawi1256	GB101	nan	0.0	n		nan	nan	nan
+sawi1256	GB102	nan	0.0	n		nan	nan	nan
+sawi1256	GB103	nan	3.0	y		Kr2014:430 ex (191)	nan	nan
+sawi1256	GB104	nan	2.0	n	serial verb constructions are used, using the verb wii 'use'.	nan	nan	nan
+sawi1256	GB105	nan	2.0	y		nan	nan	nan
+sawi1256	GB106	nan	2.0	n		nan	nan	nan
+sawi1256	GB107	nan	2.0	n		nan	nan	nan
+sawi1256	GB108	nan	3.0	n		nan	nan	nan
+sawi1256	GB109	nan	2.0	n		nan	nan	nan
+sawi1256	GB110	nan	2.0	n		nan	nan	nan
+sawi1256	GB111	nan	2.0	y	there are verbal inflectional classes	Kr2014: 407	nan	nan
+sawi1256	GB112	nan	2.0	n		nan	nan	nan
+sawi1256	GB113	nan	3.0	y	applicative prefixes increase verbal valency	nan	nan	nan
+sawi1256	GB114	nan	2.0	n		nan	nan	nan
+sawi1256	GB115	nan	2.0	y	the distributive prefix	Kr2014: 390	nan	nan
+sawi1256	GB116	nan	2.0	n		nan	nan	nan
+sawi1256	GB117	nan	2.0	n		nan	nan	nan
+sawi1256	GB118	nan	2.0	y		nan	nan	nan
+sawi1256	GB119	nan	2.0	y	If 'modal' is considered the same as 'mood': Sawila has particles expressing realis, irrealis, prohibitive, conditional etc. 	Kr2014: 421	nan	nan
+sawi1256	GB120	nan	2.0	y		Kr2014:419	nan	nan
+sawi1256	GB121	nan	2.0	n		nan	nan	nan
+sawi1256	GB122	nan	3.0	n		nan	nan	nan
+sawi1256	GB123	nan	2.0	y	"My eye (is) good' for ""I am alive"""	Kr2014:389	nan	nan
+sawi1256	GB124	nan	2.0	n		nan	nan	nan
+sawi1256	GB125	nan	2.0	n		nan	nan	nan
+sawi1256	GB126	nan	2.0	y	mara 'exist'	Kr2014: 371 ex (36)	nan	nan
+sawi1256	GB127	nan	6.0	?		nan	nan	nan
+sawi1256	GB128	nan	1.0	y	bound form -rani 'give' displays person marking of the recipient fuse with the applicative prefix wii- as wee-.This prefix changes when combined with other person prefixes	Kr2014: 429-430	nan	nan
+sawi1256	GB129	nan	2.0	n		nan	nan	nan
+sawi1256	GB130	nan	4.0	1		nan	nan	nan
+sawi1256	GB131	nan	2.0	n		nan	nan	nan
+sawi1256	GB132	nan	2.0	n		nan	nan	nan
+sawi1256	GB133	nan	2.0	y		nan	nan	nan
+sawi1256	GB134	nan	2.0	y		nan	nan	nan
+sawi1256	GB135	nan	2.0	y		nan	nan	nan
+sawi1256	GB136	nan	2.0	y		nan	nan	nan
+sawi1256	GB137	nan	2.0	y		nan	nan	nan
+sawi1256	GB138	nan	2.0	n		nan	nan	nan
+sawi1256	GB139	nan	2.0	y	naanu 'NEG', tirea 'prohibitive', 	nan	nan	nan
+sawi1256	GB140	nan	3.0	y		Kr2014:373 (44c), 374	nan	nan
+sawi1256	GB141	nan	2.0	y		nan	nan	nan
+sawi1256	GB142	nan	2.0	y		nan	nan	nan
+sawi1256	GB143	nan	0.0	n		nan	nan	nan
+sawi1256	GB144	nan	0.0	n		nan	nan	nan
+sawi1256	GB145	nan	0.0	y	P and S may both be prefixed on the verb	Kr2014:406	nan	nan
+sawi1256	GB146	nan	2.0	y		Kr2014:390	nan	nan
+sawi1256	GB147	nan	2.0	n		nan	nan	nan
+sawi1256	GB148	nan	2.0	n		nan	nan	nan
+sawi1256	GB149	nan	2.0	n		nan	nan	nan
+sawi1256	GB150	nan	5.0	?		nan	nan	nan
+sawi1256	GB151	nan	2.0	n		nan	nan	nan
+sawi1256	GB152	nan	2.0	y		Kr2014:421	nan	nan
+sawi1256	GB153	nan	0.0	n		Kr2014:396 ex (113b)	nan	nan
+sawi1256	GB154	nan	0.0	y	using the verb pi 'make' in a serial verb construction	Kr2014: 428 ex (184), 434 ex (139)	nan	nan
+sawi1256	GB155	nan	2.0	n		nan	nan	nan
+sawi1256	GB156	nan	2.0	n		nan	nan	nan
+sawi1256	GB157	nan	2.0	y	Yes, repeating the same verb, or using a verb such as amane 'doing so…'	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	GB158	nan	2.0	y		nan	nan	nan
+sawi1256	GB159	nan	3.0	y	Not really, reduplication is possible, but it is not a productive process to mark number or other grammatical category.	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	GB160	nan	5.0	?		nan	nan	nan
+sawi1256	GB162	nan	0.0	n		nan	nan	nan
+sawi1256	GB163	How many genders/noun classes are there?	?	Not known		nan	3:?;0:several;1:2;2:n	nan
+sawi1256	GB165	nan	2.0	n		nan	nan	nan
+sawi1256	GB166	nan	2.0	n		nan	nan	nan
+sawi1256	GB167	nan	2.0	n		nan	nan	nan
+sawi1256	GB168	nan	1.0	n		nan	nan	nan
+sawi1256	GB169	nan	0.0	n		nan	nan	nan
+sawi1256	GB170	Can an attributive nominal modifier denoting a property concept agree with any gender/noun class of the noun it modifies?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+sawi1256	GB171	Can an adnominal demonstrative agree in gender/noun class with the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+sawi1256	GB172	Can articles agree with the gender/noun class of the noun they modify?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement, It is not clear whether it is an article
+sawi1256	GB173	Are noun class and number always marked by a portmanteau morpheme on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB174	Are noun class and number marked by a portmanteau morpheme on the noun in singular?	?	Not known		nan	0:n	nan
+sawi1256	GB175	Are noun class and number marked by a portmanteau morpheme on the noun in plural?	?	Not known		nan	0:n	nan
+sawi1256	GB176	Can agreement of gender/noun class and number be marked by a portmanteau morpheme on other items in the noun phrase?	?	Not known		nan	0:n	nan
+sawi1256	GB177	nan	2.0	y		nan	nan	nan
+sawi1256	GB178	Are there several different singular genders/noun classes that can have the same plural gender/noun class?	?	Not known		nan	0:n	nan
+sawi1256	GB179	Are there genders/noun classes that cannot take number marking?	?	Not known		nan	0:n	nan
+sawi1256	GB181	Is number marking obligatory on certain (types of) nouns?	?	Not known		nan	1:?;2:y;0:n	nan
+sawi1256	GB182	Is number marking obligatory on animate nouns?	?	Not known		nan	1:?;0:n	nan
+sawi1256	GB183	Is number marking obligatory on human nouns?	?	Not known		nan	1:?;0:n	nan
+sawi1256	GB184	nan	2.0	n		nan	nan	nan
+sawi1256	GB185	nan	2.0	n		nan	nan	nan
+sawi1256	GB186	Can articles agree in number with the noun they modify?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the number of the noun is present but not called agreement, It is not clear whether it is an article
+sawi1256	GB187	nan	2.0	n		nan	nan	nan
+sawi1256	GB188	nan	2.0	n	the adjective likka 'large' is used as an augmentative, although this is not a bound morpheme	nan	nan	nan
+sawi1256	GB191	nan	0.0	n		nan	nan	nan
+sawi1256	GB192	Are the noun's phonological properties relevant for any gender assignment?	?	Not known		nan	1: present;0: absent;2:n	Not mentioned, There is gender and it is possible that phonology influences assignment
+sawi1256	GB193	nan	5.0	2		nan	nan	nan
+sawi1256	GB194	nan	0.0	n		nan	nan	nan
+sawi1256	GB195	Can a noun receive more than one noun class marker at the same time?	?	Not known		nan	0:n	nan
+sawi1256	GB196	nan	2.0	n		nan	nan	nan
+sawi1256	GB197	nan	2.0	n		nan	nan	nan
+sawi1256	GB198	Can a numeral used attributively agree with any gender/noun class of the noun it modifies?	?	Not known		nan	3:y;1: present;0: absent;2:n	Not mentioned, An additional marker dependent on the gender of the noun is present but not called agreement
+sawi1256	GB199	Can verbs agree with the gender/noun class of the nominal object?	?	Not known		nan	1:y;0:n	nan
+sawi1256	GB200	nan	0.0	y		nan	nan	nan
+sawi1256	GB202	nan	0.0	n		nan	nan	nan
+sawi1256	GB203	nan	5.0	2		nan	nan	nan
+sawi1256	GB204	nan	3.0	?		nan	nan	nan
+sawi1256	GB205	Is number marking prohibited on inanimate nouns?	?	Not known		nan	1:?;0:n	nan
+sawi1256	GB206	Is number marking prohibited on mass nouns?	?	Not known		nan	1:?;0:n	nan
+sawi1256	GB207	Is number marking optional on certain (types of) nouns?	?	Not known		nan	2:?;1:y;0:n	nan
+sawi1256	GB208	Can singular number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB209	Can singular number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB210	Can singular number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB211	Can singular number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB212	Can dual number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB213	Can dual number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB214	Can dual number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB215	Can dual number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB216	Can dual number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB217	Can plural number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB218	Can plural number be marked by a suffix on the noun?	?	Not known		nan	1:y;0:n	nan
+sawi1256	GB219	Can plural number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB220	Can plural number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB221	Can plural number be marked by reduplication on the noun?	?	Not known		nan	1:y;0:n	nan
+sawi1256	GB222	Can trial number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB223	Can trial number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB224	Can trial number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB225	Can trial number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB226	Can trial number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB227	Can paucal number be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB228	Can paucal number be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB229	Can paucal number be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB230	Can paucal number be marked by tone alone on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB231	Can paucal number be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB232	Can diminutive be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB234	Can diminutive be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB235	Can diminutive be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB236	Can diminutive be marked by tone on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB237	Can diminutive be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB238	Can diminutive be marked by noun class selection?	?	Not known		nan	0:n	nan
+sawi1256	GB239	Can augmentative be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB240	Can augmentative be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB241	Can augmentative be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB242	Can augmentative be marked by tone on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB243	Can augmentative be marked by reduplication on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB244	Can augmentative be marked by noun class selection?	?	Not known		nan	0:n	nan
+sawi1256	GB245	Can gender/noun class be marked by a prefix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB246	Can gender/noun class be marked by a suffix on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB247	Can gender/noun class be marked by suppletion on the noun?	?	Not known		nan	0:n	nan
+sawi1256	GB248	Can gender/noun class be marked by tone on the noun only?	?	Not known		nan	0:n	nan
+sawi1256	GB249	nan	1.0	y		nan	nan	nan
+sawi1256	GB250	nan	3.0	n		nan	nan	nan
+sawi1256	GB251	nan	1.0	n		nan	nan	nan
+sawi1256	GB252	nan	3.0	n		nan	nan	nan
+sawi1256	GB253	nan	3.0	n		nan	nan	nan
+sawi1256	GB254	nan	2.0	y	[that house] 1sg.GEN 'That house is mine, belongs to me' 	Kr2014: 372	nan	nan
+sawi1256	GB255	nan	2.0	n		nan	nan	nan
+sawi1256	GB256	nan	2.0	n		nan	nan	nan
+sawi1256	GB257	nan	2.0	y		nan	nan	nan
+sawi1256	GB258	nan	0.0	y		nan	nan	nan
+sawi1256	GB259	nan	0.0	n		nan	nan	nan
+sawi1256	GB260	nan	2.0	n		nan	nan	nan
+sawi1256	GB261	nan	1.0	y		nan	nan	nan
+sawi1256	GB262	nan	2.0	n		nan	nan	nan
+sawi1256	GB263	nan	2.0	y		nan	nan	nan
+sawi1256	GB264	nan	2.0	n		nan	nan	nan
+sawi1256	GB265	nan	3.0	n	prefix ma- attached to verb creates superlative meaning	Kr2014:401	nan	nan
+sawi1256	GB266	nan	2.0	n		nan	nan	nan
+sawi1256	GB267	nan	3.0	?		nan	nan	nan
+sawi1256	GB268	nan	3.0	?		nan	nan	nan
+sawi1256	GB269	nan	2.0	?		nan	nan	nan
+sawi1256	GB270	nan	5.0	?		nan	nan	nan
+sawi1256	GB271	nan	2.0	?		nan	nan	nan
+sawi1256	GB272	nan	2.0	?		nan	nan	nan
+sawi1256	GB273	nan	5.0	?		nan	nan	nan
+sawi1256	GB274	nan	3.0	?		nan	nan	nan
+sawi1256	GB275	nan	5.0	?		nan	nan	nan
+sawi1256	GB276	nan	5.0	?		nan	nan	nan
+sawi1256	GB277	nan	3.0	?		nan	nan	nan
+sawi1256	GB278	nan	0.0	y		nan	nan	nan
+sawi1256	GB279	nan	2.0	n		nan	nan	nan
+sawi1256	GB280	nan	0.0	y		nan	nan	nan
+sawi1256	GB281	nan	2.0	n		nan	nan	nan
+sawi1256	GB282	nan	1.0	n		nan	nan	nan
+sawi1256	GB283	Can verbs agree with the gender/noun class of the nominal subject?	?	Not known		nan	1:y;0:n	nan
+sawi1256	GB284	nan	1.0	y	set I person prefixes can encode S, A, and P	Kr2014:396	nan	nan
+sawi1256	GB285	nan	2.0	n		nan	nan	nan
+sawi1256	GB286	nan	2.0	n		nan	nan	nan
+sawi1256	GB287	nan	0.0	n		nan	nan	nan
+sawi1256	GB288	nan	0.0	n		nan	nan	nan
+sawi1256	GB289	nan	0.0	n		nan	nan	nan
+sawi1256	GB290	nan	0.0	y		nan	nan	nan
+sawi1256	GB291	nan	2.0	n		nan	nan	nan
+sawi1256	GB292	nan	0.0	y		nan	nan	nan
+sawi1256	GB294	nan	2.0	?	not sure	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	GB295	nan	3.0	?	They are followed by verbs such as amane 'doing so'	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	GB296	nan	3.0	?	not sure	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	GB297	Can polar interrogation be marked by a construction of the type “V Neg V”?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB298	Can standard negation be marked by negative auxiliaries?	?	Not known		nan	0: absent;1: present	Not mentioned, Unclear whether it should count as an auxiliary given that no verbs carry inflection
+sawi1256	GB299	Can standard negation be marked by a freestanding particle?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB300	Is there a verb for the function 'give' that is suppletive for any grammatical category?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB301	Does the language have inclusory constructions productively?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB302	Is there a dedicated, obligatory and productive construction that marks passive voice, not morphologically on the verb nor on the A argument?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+sawi1256	GB303	Is there a dedicated, obligatory, productive construction that marks antipassive voice, not morphologically on the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but it is unclear whether it is morphologically bound
+sawi1256	GB304	Can the A argument be overtly expressed in a passive clause or be overtly marked to signal a passive clause?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB305	Are there phonologically independent reflexive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned, Not clear if they are phonologically independent
+sawi1256	GB306	Are there reciprocal pronouns that are not-bipartite?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB307	Are there bipartite reciprocal pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB308	Can tense be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+sawi1256	GB309	Are there multiple past or future tenses, distinguishing distance from Time of Reference, in any form?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+sawi1256	GB310	Can aspect be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+sawi1256	GB311	Can mood be marked by a productive, obligatory and dedicated construction that is not morphologically bound to the verb?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+sawi1256	GB312	Can modal distinctions be marked on the verb, productively, dedicatedly and obligatorily?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb but not treated as morphologically bound
+sawi1256	GB313	Are there possessive pronouns?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB314	Can augmentative be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB315	Can diminutive be marked productively by a system of nominal classification?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB316	Can singular number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+sawi1256	GB317	Can dual number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+sawi1256	GB318	Can plural number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+sawi1256	GB319	Can trial number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+sawi1256	GB320	Can paucal number of a noun be marked by a productive, obligatory and dedicated marker in the noun phrase that is not bound to the noun and is not an agreement exponent of a plural marker on the noun?	?	Not known		nan	0: absent;1: present	Not mentioned, The marker is adjacent to the verb and it is unclear whether it is morphologically bound to it
+sawi1256	GB321	Is there an open class of noun stems that are assigned to gender/noun class categories arbitrarily?	?	Not known		nan	0: absent;1: present	Not mentioned, There may be a gender or noun class system but it seems to be semantic
+sawi1256	GB322	Does the language encode direct evidentiality (perceived with senses)?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB323	Does the language encode indirect evidentiality (hearsay, inference, etc.)?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB324	Are some content interrogatives (who?, what?, etc.) expressed in interrogative verbs?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB325	Is there a count/mass distinction in content interrogatives (e.g. English how many vs. how much)?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB326	Do (nominal) content interrogatives normally or frequently occur in situ (i.e. in the normal position for a non-interrogative NP in the same participant role)?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB327	Can the relative clause follow the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB328	Can the relative clause precede the noun?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB329	Are there internally-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB330	Are there correlative relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB331	Are there adjoined relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB332	Are there double-headed relative clauses?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB333	nan	2.0	y		nan	nan	nan
+sawi1256	GB334	Is there synchronic evidence for any element of a quinary counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB335	Is there synchronic evidence for any element of a vigesimal counting system?	?	Not known		nan	0: absent;1: present	Not mentioned
+sawi1256	GB336	nan	2.0	n		nan	nan	nan
+sawi1256	GB502	nan	0.0	1	possessor possessed (gannu ga-house)	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	GB503	nan	0.0	y		nan	nan	nan
+sawi1256	GB508	Are there core adjectives (elements denoting property concepts) that act like nouns?	?	Not known		nan	0:n	nan
+sawi1256	GB509	nan	0.0	y		Kr2014:377 ex (59B)	nan	nan
+sawi1256	GB510	nan	0.0	y		Kr2014:377 vv	nan	nan
+sawi1256	GB511	nan	1.0	n		nan	nan	nan
+sawi1256	GB512	Is there an opposition between three or more elevation terms in the demonstrative system?	?	Not known		nan	2:?;0:y;1:n	nan
+sawi1256	GB514	nan	0.0	n		nan	nan	nan
+sawi1256	GB515	nan	0.0	n		nan	nan	nan
+sawi1256	GB516	nan	2.0	0	possibly somewhat related - ma/ ang-ama-etc.	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	GB517	nan	0.0	y	yes: ma, li, and mara	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	GB518	nan	1.0	n		nan	nan	nan
+sawi1256	GB519	Is there an opposition between three or more elevation terms in the locational system?	?	Not known		nan	2:?;0:y;1:n	nan
+sawi1256	GB520	nan	1.0	n		nan	nan	nan
+sawi1256	GB521	nan	0.0	n		nan	nan	nan
+sawi1256	R1102	nan	0.0	4	labial, alveodental, velar, glottal	Kratochvil 2014: 354	nan	nan
+sawi1256	R1103	nan	0.0	3	labial, alveodental, velar	nan	nan	nan
+sawi1256	R1103a	nan	0.0	n		nan	nan	nan
+sawi1256	R1103b	nan	0.0	n		nan	nan	nan
+sawi1256	R1105	nan	0.0	y		nan	nan	nan
+sawi1256	R1106	nan	0.0	n		nan	nan	nan
+sawi1256	R1107	nan	0.0	y	Note that the l/r distinction is not in all places (a similar situation exists in Kula)	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R1108	nan	0.0	n		nan	nan	nan
+sawi1256	R1109	nan	0.0	y		nan	nan	nan
+sawi1256	R1109a	nan	0.0	n		nan	nan	nan
+sawi1256	R1109b	nan	0.0	n		nan	nan	nan
+sawi1256	R1110	nan	0.0	n		nan	nan	nan
+sawi1256	R1111	nan	0.0	y		nan	nan	nan
+sawi1256	R1112	nan	0.0	n		nan	nan	nan
+sawi1256	R1113a	nan	1.0	n		nan	nan	nan
+sawi1256	R1115	nan	0.0	y		Kr2014: 359	nan	nan
+sawi1256	R1116	nan	0.0	y		Kr2014: 359	nan	nan
+sawi1256	R1117	nan	0.0	y		Kr2014: 359	nan	nan
+sawi1256	R1118	nan	1.0	n	Possibly, need to be investigated further	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R1202	nan	0.0	y	m, n, ng, l, r, k, s	nan	nan	nan
+sawi1256	R1203a	nan	1.0	y	[stop liquid] only	nan	nan	nan
+sawi1256	R1204	nan	0.0	n		nan	nan	nan
+sawi1256	R2203	nan	0.0	y		nan	nan	nan
+sawi1256	R2504a	Is plant status a relevant category in the noun class/gender system?	?	Not known		nan	0:y;1:n	nan
+sawi1256	R2507	Is there concord beyond the NP, i.e. agreement of elements outside the NP with the noun class of a noun?	?	Not known		nan	0:n	nan
+sawi1256	R2508	nan	0.0	y	aning 'person', kiki 'seed'	Kr2014:386	nan	nan
+sawi1256	R2601	nan	0.0	y		nan	nan	nan
+sawi1256	R2702	nan	0.0	y		nan	nan	nan
+sawi1256	R2703b	nan	0.0	n		nan	nan	nan
+sawi1256	R3103	Do the same morphemes systematically encode both TAM and person?	?	Not known		nan	0:n	nan
+sawi1256	R3502	nan	0.0	n		nan	nan	nan
+sawi1256	R3605	nan	0.0	n		nan	nan	nan
+sawi1256	R4305a	nan	0.0	y		nan	nan	nan
+sawi1256	R4307	nan	1.0	y	The answer is yes here because the purposive clauses follow the main clause and carry the mood marker. The disctinction finite-non-finite is not the best way to capture that, but they do display marking which is restricted to clause-medial position.	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R4308	nan	1.0	y	Yes, using demonstratives as nominalizers.	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R4308a	nan	0.0	y	The conditional marker is ma, i, which is also the locative marker, or condition is marked by other forms such as anda and masi. The indication of finiteness is difficult to assess.	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R4309a	nan	1.0	n	the clause with the speech verb (not the quote) is nominalised with ngana. the complementizer is typically ngana  (<DEM) and the complement clause follows the complement taking verb.	Kr2014:403 ex 130	nan	nan
+sawi1256	R4309b	nan	1.0	n	same as above	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R4309c	nan	0.0	n	complementizer is in between the main and complement clause (linking them)	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R4309d	nan	2.0	y	if nominalising ngana 'DEF' is analysed as a complementiser. The quotative wanti occurs in the final position of the complement clause, but is not obligatory. It could be analyzed as the second part of the complementizer.	nan	nan	nan
+sawi1256	R4311	nan	0.0	n		nan	nan	nan
+sawi1256	R5202	nan	3.0	?	eg. mother-father 'parents'	nan	nan	nan
+sawi1256	R5203	nan	1.0	y		nan	nan	nan
+sawi1256	R5204	nan	1.0	y	probably	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R5205	nan	2.0	?		nan	nan	nan
+sawi1256	R5206	nan	2.0	?	I only have the term na-mok 'cousin'. Not sure whether it applies to both	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R5207	nan	2.0	?		nan	nan	nan
+sawi1256	R5208	nan	1.0	y	for paternal lineage, the word liwe 'father's house' is added  	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R5209	nan	0.0	n		nan	nan	nan
+sawi1256	R5210	nan	2.0	?	not sure	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R5211	nan	0.0	y	the terms are ikisila (junior) and madumma (senior)	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	R5212	nan	0.0	n		nan	nan	nan
+sawi1256	SD224	nan	0.0	1	Possessor possessed (John ga-house)	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	SD295	nan	1.0	n		nan	nan	nan
+sawi1256	SD319	Are S and A marked by the same prefix/proclitic?	?	Not known		nan	1:y;0:n	nan
+sawi1256	SD320	Are S and A marked by the same suffix/enclitic?	?	Not known		nan	1:?;0:n	nan
+sawi1256	SD321	nan	0.0	y		nan	nan	nan
+sawi1256	SD341	nan	0.0	y		nan	nan	nan
+sawi1256	SD342	nan	0.0	n		nan	nan	nan
+sawi1256	SD343	nan	0.0	y		nan	nan	nan
+sawi1256	SD344	nan	0.0	n	Adjectival roots can take on possessive prefixes to become nominal, e.g. lamu 'long' > gi-lamu 'length'. 	F. Kratochvíl p.c. 2016	nan	nan
+sawi1256	SD369	nan	2.0	?		nan	nan	nan
+sawi1256	SD381	nan	1.0	n		nan	nan	nan
+sawi1256	SD388	Are there allophonic phonation types for vowels?	?	Not known		nan	0:y;1:n	nan
+sawi1256	SD389	Is there nominalizing morphology?	?	Not known		nan	0:y	nan
+sawi1256	SD390	Can horizontal direction be marked in demonstratives?	?	Not known		nan	1:y;0:n	nan
+sawi1256	SD391	Is there a predicative possessive construction?	?	Not known		nan	0:y	nan
+sawi1256	SD392	Are S and O marked by the same prefix/proclitic?	?	Not known		nan	0:n	nan
+sawi1256	SD393	Are S and O marked by the same suffix/enclitic?	?	Not known		nan	0:n	nan
+sawi1256	SD394	Are there suppletive forms for negated verbs?	?	Not known		nan	0:y	nan
+sawi1256	SD395	Is topological information expressed by adpositions?	?	Not known		nan	0:n	nan
+sawi1256	SD396	Is topological information expressed by nouns?	?	Not known		nan	0:y	nan
+sawi1256	SD397	Are there native terms expressing directions in space on a geocentric coordinate system (geocentric terms)?	?	Not known		nan	0:y	nan
+sawi1256	SD398	Do geocentric terms have deictic use?	?	Not known		nan	0:y	nan
+sawi1256	SD399	Can geocentric terms function as adverbs?	?	Not known		nan	0:y	nan
+sawi1256	SD400	Can geocentric terms function as adpositions?	?	Not known		nan	0:y	nan
+sawi1256	SD401	Can demonstratives function as adverbs (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+sawi1256	SD402	Can demonstratives function as prepositions (without changing its form)?	?	Not known		nan	0:y;1:n	nan
+sawi1256	SD403	Is it possible to employ an absolute frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+sawi1256	SD404	Is it possible to employ an intrinsic frame of reference when expressing projective spatial relations?	?	Not known		nan	0:y	nan
+sawi1256	SD405	Is it possible to employ a relative frame of reference when expressing projective spatial relations?	?	Not known		nan	1:?;0:n	nan
+sawi1256	SD406	Is it possible to use another frame of reference?	?	Not known		nan	1:?;0:y	nan
+sawi1256	SD407	Which frame of reference is preferred in the expression of projective spatial relations?	?	Not known		nan	1:?;0:a	nan

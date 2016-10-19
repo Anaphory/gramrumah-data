@@ -1,18 +1,19 @@
 {
-  "references": [
-    "Heston, Tyler. 2015. The segmental and suprasegmental phonology of Fataluku. PhD dissertation University of Hawaii."
-  ],
-  "id": "fata1247",
-  "language": "fata1247",
-  "source": [
-    "j:/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/DDG_MK_2016_typological questionnaire Fataluku.xlsx"
-  ],
+  "abstract": "Typological features of fata1247. Coded by Marian Klamer following ['/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/DDG_MK_2016_typological questionnaire Fataluku.xlsx', 'Heston, Tyler. 2015. The segmental and suprasegmental phonology of Fataluku. PhD dissertation University of Hawaii.'].",
   "comment": "",
-  "name": "DDG_MK_2016_typological questionnaire Fataluku.xlsx",
+  "created": [
+    "February-March 2016"
+  ],
   "creator": [
     "Marian Klamer"
   ],
-  "created": [
-    "February-March 2016"
+  "id": "fata1247",
+  "language": "fata1247",
+  "name": "DDG_MK_2016_typological questionnaire Fataluku.xlsx",
+  "references": [
+    "Heston, Tyler. 2015. The segmental and suprasegmental phonology of Fataluku. PhD dissertation University of Hawaii."
+  ],
+  "source": [
+    "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/Lesser Sunda Database/DDG_MK_2016_typological questionnaire Fataluku.xlsx"
   ]
 }
