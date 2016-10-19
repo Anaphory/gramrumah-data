@@ -41,6 +41,17 @@ except ImportError:
     
     model_is_available=False
 
+def possibly_int_string(value):
+    try:
+        return str(int(value))
+    except ValueError:
+        try:
+            v = float(value)
+        except ValueError:
+            return str(value)
+        if int(v) == v:
+            return str(int(v))
+
 def yield_domainelements(s):
     done = {"?"}
     for m in re.split('\s*,|;\s*', re.sub('^multistate\s+', '', s.strip())):
@@ -64,7 +75,7 @@ def import_features():
         features_path,
         sep='\t',
         index_col="GramBank ID",
-        encoding='utf-16')
+        encoding='utf-8')
     features["db_Object"] = [
         Feature( 
             id = i,
@@ -102,7 +113,7 @@ def import_languages():
         languages_path,
         sep='\t',
         index_col="Language ID",
-        encoding='utf-16')
+        encoding='utf-8')
     families = {
         family: Family(
             jsondata={
@@ -168,12 +179,12 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
 
     if mdpath not in trust:
         with open(mdpath, "w") as mdfile:
-            json.dump(md, mdfile, indent=2)
+            json.dump(md, mdfile, indent=2, sort_keys=True)
 
     data = pandas.io.parsers.read_csv(
             path,
             sep="," if path.endswith(".csv") else "\t",
-            encoding='utf-16')
+            encoding='utf-8')
 
     check_features = features.index.tolist()
 
@@ -208,10 +219,7 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
 
     features_seen = {}
     for i, row in data.iterrows():
-        try:
-            value = int(row['Value'])
-        except ValueError:
-            value = row['Value']
+        value = possibly_int_string(row['Value'])
         feature = row['Feature_ID']
 
         if pandas.isnull(feature):
@@ -286,8 +294,8 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
             contribution=contrib,
             source=row['Source'])
 
-        domain = parameter["db_Domain"]   
-        if str(value) not in domain:
+        domain = parameter["db_Domain"]
+        if value not in domain:
             if path in trust:
                 deid = max(domain)+1
                 domainelement = domain[str(value)] = DomainElement(
@@ -367,7 +375,7 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
             path,
             index=False,
             sep="," if path.endswith(".csv") else "\t",
-            encoding='utf-16')
+            encoding='utf-8')
     return data
 
 
@@ -392,7 +400,7 @@ def import_cldf(srcdir, features, languages, trust=[]):
     return datasets
 
 
-def main(trust=[languages_path, features_path]):
+def main(config=None, trust=[languages_path, features_path]):
     with open("metadata.json") as md:
         dataset_metadata = json.load(md)
     DBSession.add(
@@ -416,15 +424,16 @@ def main(trust=[languages_path, features_path]):
         languages.to_csv(
             languages_path,
             sep='\t',
-            encoding='utf-16')
+            encoding='utf-8')
     if features_path not in trust:
         features.to_csv(
             features_path,
             sep='\t',
-            encoding='utf-16')
+            encoding='utf-8')
 
 import sys
-sys.argv=["i", "p:/My Documents/Database/grambank/development.ini"]
+import grambank
+sys.argv=["i", os.path.join(os.path.dirname(os.path.dirname(grambank.__file__)), "sqlite.ini")]
 
 if model_is_available:
         from clld.scripts.util import initializedb
