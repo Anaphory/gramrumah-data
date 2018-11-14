@@ -17,6 +17,7 @@ try:
         Dataset, DomainElement, Contributor, ContributionContributor, ValueSet, Value)
     from grambank.models import (
         Feature, GrambankContribution, GrambankLanguage, Family)
+    import grambank
 
     from clld.web.icon import ORDERED_ICONS
     
@@ -86,7 +87,7 @@ def import_features():
             name_french = d['Feature question in French'],
             jl_relevant_unit = d['Relevant unit(s)'],
             jl_function = d['Function'],
-            jl_formal_means = d['Formal means'],
+            # jl_formal_means = d['Formal means'],
             hard_to_deny = d['Very hard to deny'],
             prone_misunderstanding = d['Prone to misunderstandings among researchers'],
             requires_extensive_data = d['Requires extensive data on the language'],
@@ -106,13 +107,13 @@ def import_features():
         for i, d in features.iterrows()]
     return features
 
-languages_path = '../lexirumah-data/languages.tsv'
+languages_path = '../lexirumah-data/cldf/lects.csv'
 def import_languages():
     # TODO: be independent of the location of lexirumah-data, but do compare with it!
     languages = pandas.io.parsers.read_csv(
         languages_path,
-        sep='\t',
-        index_col="Language ID",
+        # sep='\t',
+        index_col="ID",
         encoding='utf-8')
     families = {
         family: Family(
@@ -124,11 +125,11 @@ def import_languages():
     languages["db_Object"] = [
         GrambankLanguage(
             id=i,
-            name=row['Language name (-dialect)'],
+            name=row['Name'],
             family=families[row['Family']],
             macroarea=row['Region'],
-            latitude=row['Lat'],
-            longitude=row['Lon'])
+            latitude=row['Latitude'],
+            longitude=row['Longitude'])
         for i, row in languages.iterrows()]
     return languages
 
@@ -209,11 +210,15 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
             data["Language_ID"] = md["language"]
     else:
         if (data["Language_ID"] != md["language"]).any():
+            import pdb; pdb.set_trace()
             report(
                 "Language mismatch:",
                 md["language"],
                 data["Language_ID"][data["Language_ID"] != md["language"]].to_string())
-    language = languages.loc[md["language"]]
+    try:
+        language = languages.loc[md["language"]]
+    except KeyError:
+        language = languages.loc["alor1247-besar"]
 
     if "Source" not in data.columns:
         data["Source"] = ""
@@ -455,7 +460,7 @@ def main(config=None, trust=[languages_path, features_path]):
             encoding='utf-8')
 
 import sys
-sys.argv=["i", os.path.join(os.path.dirname(os.path.dirname(grambank.__file__)), "sqlite.ini")]
+sys.argv=["i", os.path.join(os.path.dirname(os.path.dirname(grambank.__file__)), "development.ini")]
 
 if model_is_available:
         from clld.scripts.util import initializedb
