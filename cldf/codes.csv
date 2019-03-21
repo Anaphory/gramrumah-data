@@ -1,779 +1,514 @@
 ID,Parameter_ID,Name,Description
-GB273-present,GB273,1,present
-GB273-absent,GB273,0,absent
-GB273-nodata,GB273,3,no data
 GB273-n,GB273,2,n
-GB273-,GB273,5,?
 GB273-y,GB273,4,y
+GB273-Notknown,GB273,?,Not known
 GB272-n,GB272,1,n
-GB272-nodata,GB272,0,no data
 GB272-y,GB272,3,y
-GB272-,GB272,2,?
+GB272-Notknown,GB272,?,Not known
 GB271-n,GB271,1,n
-GB271-nodata,GB271,0,no data
 GB271-y,GB271,3,y
-GB271-,GB271,2,?
-GB270-present,GB270,1,present
-GB270-absent,GB270,0,absent
+GB271-Notknown,GB271,?,Not known
 GB270-y,GB270,3,y
-GB270-nodata,GB270,2,no data
-GB270-,GB270,5,?
 GB270-n,GB270,4,n
+GB270-Notknown,GB270,?,Not known
 GB277-y,GB277,1,y
 GB277-n,GB277,0,n
-GB277-,GB277,3,?
-GB277-nodata,GB277,2,no data
-GB276-present,GB276,1,present
-GB276-absent,GB276,0,absent
+GB277-Notknown,GB277,?,Not known
 GB276-y,GB276,3,y
 GB276-n,GB276,2,n
-GB276-,GB276,5,?
-GB276-nodata,GB276,4,no data
-GB275-present,GB275,1,present
-GB275-absent,GB275,0,absent
+GB276-Notknown,GB276,?,Not known
 GB275-y,GB275,3,y
 GB275-n,GB275,2,n
-GB275-,GB275,5,?
-GB275-nodata,GB275,4,no data
+GB275-Notknown,GB275,?,Not known
 GB274-n,GB274,1,n
-GB274-nodata,GB274,0,no data
-GB274-,GB274,3,?
 GB274-y,GB274,2,y
-GB279-present,GB279,1,present
-GB279-absent,GB279,0,absent
-GB279-nodata,GB279,3,no data
+GB274-Notknown,GB274,?,Not known
 GB279-n,GB279,2,n
-GB279-,GB279,4,?
+GB279-Notknown,GB279,?,Not known
 GB278-n,GB278,1,n
 GB278-y,GB278,0,y
-GB278-,GB278,3,?
-GB278-nodata,GB278,2,no data
+GB278-Notknown,GB278,?,Not known
 R5202-n,R5202,1,n
-R5202-nodata,R5202,0,no data
-R5202-,R5202,3,?
 R5202-y,R5202,2,y
+R5202-Notknown,R5202,?,Not known
 R2203-y,R2203,0,y
 SD321-n,SD321,1,n
 SD321-y,SD321,0,y
-SD320-,SD320,1,?
-SD320-n,SD320,0,n
+SD321-Notknown,SD321,?,Not known
+SD320-Notknown,SD320,?,Not known
 R1203a-y,R1203a,1,y
 R1203a-n,R1203a,0,n
 GB503-n,GB503,1,n
 GB503-y,GB503,0,y
-GB502-npospro,GB502,1,n pospro
-GB502-1,GB502,0,1
+GB503-Notknown,GB503,?,Not known
 GB502-2,GB502,2,2
+GB502-Notknown,GB502,?,Not known
 GB509-n,GB509,1,n
 GB509-y,GB509,0,y
-GB509-,GB509,2,?
+GB509-Notknown,GB509,?,Not known
 GB508-n,GB508,0,n
+GB508-Notknown,GB508,?,Not known
 R5210-n,R5210,1,n
 R5210-y,R5210,0,y
-R5210-nodata,R5210,3,no data
-R5210-,R5210,2,?
-GB059-present,GB059,1,present
-GB059-absent,GB059,0,absent
+R5210-Notknown,R5210,?,Not known
 GB059-n,GB059,3,n
 GB059-y,GB059,2,y
-GB058-present,GB058,1,present
-GB058-absent,GB058,0,absent
 GB058-n,GB058,2,n
-GB053-present,GB053,1,present
-GB053-absent,GB053,0,absent
-GB053-n,GB053,3,n
 GB053-y,GB053,2,y
-GB052-present,GB052,1,present
-GB052-absent,GB052,0,absent
+GB053-Notknown,GB053,?,Not known
 GB052-n,GB052,3,n
-GB052-y,GB052,2,y
-GB051-present,GB051,1,present
-GB051-absent,GB051,0,absent
+GB052-Notknown,GB052,?,Not known
 GB051-n,GB051,2,n
+GB051-Notknown,GB051,?,Not known
 R1113a-n,R1113a,1,n
 R1113a-y,R1113a,0,y
-GB057-present,GB057,1,present
-GB057-absent,GB057,0,absent
 GB057-y,GB057,3,y
 GB057-n,GB057,2,n
-GB057-,GB057,4,?
 GB056-y,GB056,1,y
-GB056-n,GB056,0,n
+GB056-Notknown,GB056,?,Not known
 GB055-n,GB055,0,n
-GB054-present,GB054,1,present
-GB054-absent,GB054,0,absent
-GB054-n,GB054,2,n
+GB055-Notknown,GB055,?,Not known
+GB054-Notknown,GB054,?,Not known
 R1103b-n,R1103b,0,n
 R1103a-y,R1103a,1,y
 R1103a-n,R1103a,0,n
-GB042-present,GB042,1,present
-GB042-absent,GB042,0,absent
 GB042-n,GB042,2,n
-GB098-present,GB098,1,present
-GB098-absent,GB098,0,absent
 GB098-y,GB098,3,y
 GB098-n,GB098,2,n
+GB098-Notknown,GB098,?,Not known
 GB282-n,GB282,1,n
 GB282-y,GB282,0,y
-GB282-,GB282,3,?
-GB282-nodata,GB282,2,no data
+GB282-Notknown,GB282,?,Not known
 GB283-y,GB283,1,y
-GB283-n,GB283,0,n
+GB283-Notknown,GB283,?,Not known
 GB280-n,GB280,1,n
 GB280-y,GB280,0,y
-GB280-,GB280,3,?
-GB280-nodata,GB280,2,no data
-GB281-present,GB281,1,present
-GB281-absent,GB281,0,absent
-GB281-nodata,GB281,3,no data
+GB280-Notknown,GB280,?,Not known
 GB281-n,GB281,2,n
-GB281-,GB281,4,?
-GB286-present,GB286,1,present
-GB286-absent,GB286,0,absent
+GB281-Notknown,GB281,?,Not known
 GB286-n,GB286,2,n
 GB287-y,GB287,1,y?
 GB287-n,GB287,0,n
+GB287-Notknown,GB287,?,Not known
 GB284-y,GB284,1,y
 GB284-n,GB284,0,n
-GB284-,GB284,2,?
-GB285-present,GB285,1,present
-GB285-absent,GB285,0,absent
+GB284-Notknown,GB284,?,Not known
 GB285-y,GB285,3,y
 GB285-n,GB285,2,n
 GB288-n,GB288,0,n
+GB288-Notknown,GB288,?,Not known
 GB289-y,GB289,1,y
 GB289-n,GB289,0,n
-GB289-,GB289,2,?
-GB112-present,GB112,1,present
-GB112-absent,GB112,0,absent
+GB289-Notknown,GB289,?,Not known
 GB112-y,GB112,3,y
 GB112-n,GB112,2,n
-GB112-,GB112,4,?
-GB113-present,GB113,1,present
-GB113-absent,GB113,0,absent
+GB112-Notknown,GB112,?,Not known
 GB113-y,GB113,3,y
 GB113-n,GB113,2,n
-GB110-present,GB110,1,present
-GB110-absent,GB110,0,absent
 GB110-n,GB110,2,n
-GB111-present,GB111,1,present
-GB111-absent,GB111,0,absent
 GB111-n,GB111,3,n
 GB111-y,GB111,2,y
-GB116-present,GB116,1,present
-GB116-absent,GB116,0,absent
 GB116-y,GB116,3,y
 GB116-n,GB116,2,n
-GB117-present,GB117,1,present
-GB117-absent,GB117,0,absent
 GB117-y,GB117,3,y
 GB117-n,GB117,2,n
-GB114-present,GB114,1,present
-GB114-absent,GB114,0,absent
 GB114-y,GB114,3,y
 GB114-n,GB114,2,n
-GB114-,GB114,5,?
-GB114-nodata,GB114,4,no data
-GB115-present,GB115,1,present
-GB115-absent,GB115,0,absent
+GB114-Notknown,GB114,?,Not known
 GB115-n,GB115,3,n
 GB115-y,GB115,2,y
-GB115-,GB115,4,?
-GB118-present,GB118,1,present
-GB118-absent,GB118,0,absent
 GB118-y,GB118,2,y
-GB119-present,GB119,1,present
-GB119-absent,GB119,0,absent
 GB119-n,GB119,3,n
 GB119-y,GB119,2,y
-GB119-,GB119,5,?
-GB119-nodata,GB119,4,no data
-GB303-present,GB303,1,present
-GB303-absent,GB303,0,absent
-GB302-present,GB302,1,present
-GB302-absent,GB302,0,absent
-GB301-present,GB301,1,present
-GB301-absent,GB301,0,absent
-GB300-present,GB300,1,present
-GB300-absent,GB300,0,absent
-GB307-present,GB307,1,present
-GB307-absent,GB307,0,absent
-GB306-present,GB306,1,present
-GB306-absent,GB306,0,absent
-GB305-present,GB305,1,present
-GB305-absent,GB305,0,absent
-GB304-present,GB304,1,present
-GB304-absent,GB304,0,absent
-GB309-present,GB309,1,present
-GB309-absent,GB309,0,absent
-GB308-present,GB308,1,present
-GB308-absent,GB308,0,absent
-R3605-,R3605,1,?
+GB119-Notknown,GB119,?,Not known
+GB303-Notknown,GB303,?,Not known
+GB302-Notknown,GB302,?,Not known
+GB301-Notknown,GB301,?,Not known
+GB300-Notknown,GB300,?,Not known
+GB307-Notknown,GB307,?,Not known
+GB306-Notknown,GB306,?,Not known
+GB305-Notknown,GB305,?,Not known
+GB304-Notknown,GB304,?,Not known
+GB309-Notknown,GB309,?,Not known
+GB308-Notknown,GB308,?,Not known
 R3605-n,R3605,0,n
 R3605-y,R3605,2,y
-GB237-n,GB237,0,n
-GB236-n,GB236,0,n
-GB235-n,GB235,0,n
-GB234-n,GB234,0,n
-R5211-nodata,R5211,1,no data
+R3605-Notknown,R3605,?,Not known
+GB237-Notknown,GB237,?,Not known
+GB236-Notknown,GB236,?,Not known
+GB235-Notknown,GB235,?,Not known
+GB234-Notknown,GB234,?,Not known
 R5211-y,R5211,0,y
-R5211-,R5211,2,?
-GB232-n,GB232,0,n
-GB231-n,GB231,0,n
-GB230-n,GB230,0,n
-GB239-n,GB239,0,n
-GB238-n,GB238,0,n
+R5211-Notknown,R5211,?,Not known
+GB232-Notknown,GB232,?,Not known
+GB231-Notknown,GB231,?,Not known
+GB230-Notknown,GB230,?,Not known
+GB239-Notknown,GB239,?,Not known
+GB238-Notknown,GB238,?,Not known
 R4308-y,R4308,1,y
 R4308-n,R4308,0,n
-R4308-,R4308,2,?
+R4308-Notknown,R4308,?,Not known
 R4309b-n,R4309b,1,n
 R4309b-y,R4309b,0,y
-R4309b-nodata,R4309b,3,no data
-R4309b-,R4309b,2,?
-R4309c-nodata,R4309c,1,no data
+R4309b-Notknown,R4309b,?,Not known
 R4309c-n,R4309c,0,n
-R4309c-,R4309c,3,?
 R4309c-y,R4309c,2,y
+R4309c-Notknown,R4309c,?,Not known
 R4309a-n,R4309a,1,n
 R4309a-y,R4309a,0,y
-R4309a-nodata,R4309a,3,no data
-R4309a-,R4309a,2,?
-R4309d-nodata,R4309d,1,no data
+R4309a-Notknown,R4309a,?,Not known
 R4309d-n,R4309d,0,n
-R4309d-,R4309d,3,?
 R4309d-y,R4309d,2,y
-GB080-present,GB080,1,present
-GB080-absent,GB080,0,absent
+R4309d-Notknown,R4309d,?,Not known
 GB080-n,GB080,3,n
 GB080-y,GB080,2,y
-GB080-,GB080,5,?
-GB080-nodata,GB080,4,no data
-GB081-present,GB081,1,present
-GB081-absent,GB081,0,absent
+GB080-Notknown,GB080,?,Not known
 GB081-y,GB081,3,y
 GB081-n,GB081,2,n
-GB082-present,GB082,1,present
-GB082-absent,GB082,0,absent
 GB082-n,GB082,2,n
-GB083-present,GB083,1,present
-GB083-absent,GB083,0,absent
 GB083-n,GB083,2,n
-GB084-present,GB084,1,present
-GB084-absent,GB084,0,absent
 GB084-n,GB084,2,n
-GB085-n,GB085,0,n
-GB086-present,GB086,1,present
-GB086-absent,GB086,0,absent
+GB085-Notknown,GB085,?,Not known
 GB086-n,GB086,3,n
 GB086-y,GB086,2,y
-GB087-present,GB087,1,present
-GB087-absent,GB087,0,absent
 GB087-y,GB087,3,y
 GB087-n,GB087,2,n
-GB088-present,GB088,1,present
-GB088-absent,GB088,0,absent
 GB088-n,GB088,2,n
-GB089-present,GB089,1,present
-GB089-absent,GB089,0,absent
 GB089-y,GB089,3,y
 GB089-n,GB089,2,n
-GB160-present,GB160,1,present
-GB160-absent,GB160,0,absent
-GB160-nodata,GB160,3,no data
 GB160-y,GB160,2,y
-GB160-,GB160,5,?
 GB160-n,GB160,4,n
-GB167-present,GB167,1,present
-GB167-absent,GB167,0,absent
+GB160-Notknown,GB160,?,Not known
 GB167-n,GB167,2,n
-GB166-present,GB166,1,present
-GB166-absent,GB166,0,absent
 GB166-n,GB166,2,n
-GB165-present,GB165,1,present
-GB165-absent,GB165,0,absent
 GB165-n,GB165,2,n
 SD389-y,SD389,0,y
-GB031-present,GB031,1,present
-GB031-absent,GB031,0,absent
+SD389-Notknown,SD389,?,Not known
 GB031-y,GB031,3,y
 GB031-n,GB031,2,n
-GB031-,GB031,4,?
-GB030-present,GB030,1,present
-GB030-absent,GB030,0,absent
+GB031-Notknown,GB031,?,Not known
 GB030-n,GB030,2,n
 SD381-n,SD381,1,n
 SD381-y,SD381,0,y
-SD381-nodata,SD381,3,no data
-SD381-,SD381,2,?
+SD381-Notknown,SD381,?,Not known
 GB014-y,GB014,1,y
 GB014-n,GB014,0,n
-GB014-,GB014,3,?
-GB014-nodata,GB014,2,no data
+GB014-Notknown,GB014,?,Not known
 GB268-y,GB268,1,y
 GB268-n,GB268,0,n
-GB268-,GB268,3,?
-GB268-nodata,GB268,2,no data
-GB269-nodata,GB269,1,no data
+GB268-Notknown,GB268,?,Not known
 GB269-n,GB269,0,n
-GB269-,GB269,2,?
-GB264-present,GB264,1,present
-GB264-absent,GB264,0,absent
-GB264-,GB264,3,?
+GB269-Notknown,GB269,?,Not known
 GB264-n,GB264,2,n
-GB265-present,GB265,1,present
-GB265-absent,GB265,0,absent
+GB264-Notknown,GB264,?,Not known
 GB265-n,GB265,3,n
-GB265-nodata,GB265,2,no data
-GB265-,GB265,5,?
 GB265-y,GB265,4,y
-GB266-present,GB266,1,present
-GB266-absent,GB266,0,absent
+GB265-Notknown,GB265,?,Not known
 GB266-y,GB266,3,y
 GB266-n,GB266,2,n
-GB266-,GB266,5,?
-GB266-nodata,GB266,4,no data
-GB267-nodata,GB267,1,no data
+GB266-Notknown,GB266,?,Not known
 GB267-n,GB267,0,n
-GB267-,GB267,3,?
 GB267-y,GB267,2,y
-GB260-present,GB260,1,present
-GB260-absent,GB260,0,absent
+GB267-Notknown,GB267,?,Not known
 GB260-n,GB260,2,n
 GB261-y,GB261,1,y
 GB261-n,GB261,0,n
-GB261-,GB261,2,?
-GB262-present,GB262,1,present
-GB262-absent,GB262,0,absent
-GB262-,GB262,3,?
+GB261-Notknown,GB261,?,Not known
 GB262-n,GB262,2,n
-GB263-present,GB263,1,present
-GB263-absent,GB263,0,absent
-GB263-,GB263,3,?
+GB262-Notknown,GB262,?,Not known
 GB263-y,GB263,2,y
-GB263-n,GB263,4,n
-GB039-present,GB039,1,present
-GB039-absent,GB039,0,absent
-GB039-n,GB039,2,n
-GB038-present,GB038,1,present
-GB038-absent,GB038,0,absent
-GB038-,GB038,3,?
+GB263-Notknown,GB263,?,Not known
 GB038-n,GB038,2,n
-R4305a-,R4305a,1,?
+GB038-Notknown,GB038,?,Not known
 R4305a-y,R4305a,0,y
 R4305a-n,R4305a,2,n
+R4305a-Notknown,R4305a,?,Not known
 R2601-n,R2601,1,n
 R2601-y,R2601,0,y
-R2504a-n,R2504a,1,n
 R2504a-y,R2504a,0,y
-GB516-3,GB516,1,3
-GB516-1,GB516,0,1
-GB516-2,GB516,3,2
-GB516-0,GB516,2,0
-GB516-,GB516,4,?
+R2504a-Notknown,R2504a,?,Not known
+GB516-Notknown,GB516,?,Not known
 GB517-n,GB517,1,n
 GB517-y,GB517,0,y
-GB517-,GB517,2,?
+GB517-Notknown,GB517,?,Not known
 GB514-y,GB514,1,y
 GB514-n,GB514,0,n
-GB514-,GB514,2,?
-GB515-,GB515,1,?
+GB514-Notknown,GB514,?,Not known
 GB515-n,GB515,0,n
+GB515-Notknown,GB515,?,Not known
 GB512-n,GB512,1,n
 GB512-y,GB512,0,y
-GB512-,GB512,2,?
+GB512-Notknown,GB512,?,Not known
 GB510-y,GB510,0,y
 GB511-n,GB511,1,n
 GB511-y,GB511,0,y
-GB511-,GB511,2,?
+GB511-Notknown,GB511,?,Not known
 GB518-n,GB518,1,n
 GB518-y,GB518,0,y
-GB518-,GB518,2,?
+GB518-Notknown,GB518,?,Not known
 GB519-n,GB519,1,n
 GB519-y,GB519,0,y
-GB519-,GB519,2,?
+GB519-Notknown,GB519,?,Not known
 R5212-y,R5212,1,y
 R5212-n,R5212,0,n
-R5212-nodata,R5212,3,no data
-R5212-,R5212,2,?
+R5212-Notknown,R5212,?,Not known
 SD344-y,SD344,1,y
 SD344-n,SD344,0,n
+SD344-Notknown,SD344,?,Not known
 SD341-n,SD341,1,n
 SD341-y,SD341,0,y
 SD343-n,SD343,1,n
 SD343-y,SD343,0,y
-SD343-,SD343,2,?
+SD343-Notknown,SD343,?,Not known
 SD342-y,SD342,1,y
 SD342-n,SD342,0,n
-GB044-present,GB044,1,present
-GB044-absent,GB044,0,absent
 GB044-y,GB044,3,y
 GB044-n,GB044,2,n
 GB045-y,GB045,1,y
 GB045-n,GB045,0,n
-GB045-,GB045,2,?
-GB046-present,GB046,1,present
-GB046-absent,GB046,0,absent
+GB045-Notknown,GB045,?,Not known
 GB046-n,GB046,3,n
 GB046-y,GB046,2,y
-GB046-,GB046,5,?
-GB046-nodata,GB046,4,no data
-GB047-present,GB047,1,present
-GB047-absent,GB047,0,absent
+GB046-Notknown,GB046,?,Not known
 GB047-y,GB047,3,y
 GB047-n,GB047,2,n
-GB047-,GB047,4,?
+GB047-Notknown,GB047,?,Not known
 GB040-n,GB040,0,n
-GB041-present,GB041,1,present
-GB041-absent,GB041,0,absent
+GB040-Notknown,GB040,?,Not known
 GB041-n,GB041,2,n
-GB129-present,GB129,1,present
-GB129-absent,GB129,0,absent
 GB129-n,GB129,2,n
 GB128-y,GB128,1,y
 GB128-n,GB128,0,n
-GB127-present,GB127,1,present
-GB127-absent,GB127,0,absent
 GB127-n,GB127,3,n
 GB127-y,GB127,2,y
-GB127-nodata,GB127,5,no data
 GB127-y,GB127,4,y?
-GB127-,GB127,6,?
-GB126-present,GB126,1,present
-GB126-absent,GB126,0,absent
+GB127-Notknown,GB127,?,Not known
 GB126-n,GB126,3,n
 GB126-y,GB126,2,y
-GB126-,GB126,4,?
-GB125-present,GB125,1,present
-GB125-absent,GB125,0,absent
 GB125-y,GB125,3,y
 GB125-n,GB125,2,n
-GB125-,GB125,4,?
-GB124-present,GB124,1,present
-GB124-absent,GB124,0,absent
 GB124-y,GB124,3,y
 GB124-n,GB124,2,n
-GB124-,GB124,4,?
-GB123-present,GB123,1,present
-GB123-absent,GB123,0,absent
 GB123-n,GB123,3,n
 GB123-y,GB123,2,y
-GB122-present,GB122,1,present
-GB122-absent,GB122,0,absent
 GB122-n,GB122,3,n
 GB122-y,GB122,2,y
-GB122-,GB122,5,?
-GB122-nodata,GB122,4,no data
-GB121-present,GB121,1,present
-GB121-absent,GB121,0,absent
+GB122-Notknown,GB122,?,Not known
 GB121-y,GB121,3,y
 GB121-n,GB121,2,n
-GB120-present,GB120,1,present
-GB120-absent,GB120,0,absent
 GB120-n,GB120,3,n
 GB120-y,GB120,2,y
-GB255-present,GB255,1,present
-GB255-absent,GB255,0,absent
-GB255-,GB255,3,?
 GB255-n,GB255,2,n
-GB254-present,GB254,1,present
-GB254-absent,GB254,0,absent
+GB255-Notknown,GB255,?,Not known
 GB254-n,GB254,3,n
 GB254-y,GB254,2,y
-GB254-,GB254,4,?
-GB257-present,GB257,1,present
-GB257-absent,GB257,0,absent
+GB254-Notknown,GB254,?,Not known
 GB257-n,GB257,3,n
 GB257-y,GB257,2,y
-GB257-,GB257,4,?
-GB256-present,GB256,1,present
-GB256-absent,GB256,0,absent
-GB256-,GB256,3,?
 GB256-n,GB256,2,n
+GB256-Notknown,GB256,?,Not known
 GB251-n,GB251,1,n
 GB251-y,GB251,0,y
-GB251-,GB251,2,?
-GB319-present,GB319,1,present
-GB319-absent,GB319,0,absent
-GB253-present,GB253,1,present
-GB253-absent,GB253,0,absent
+GB251-Notknown,GB251,?,Not known
+GB319-Notknown,GB319,?,Not known
 GB253-n,GB253,3,n
 GB253-y,GB253,2,y
-GB253-,GB253,4,?
-GB252-present,GB252,1,present
-GB252-absent,GB252,0,absent
+GB253-Notknown,GB253,?,Not known
 GB252-n,GB252,3,n
 GB252-y,GB252,2,y
-GB252-,GB252,4,?
-GB314-present,GB314,1,present
-GB314-absent,GB314,0,absent
-GB315-present,GB315,1,present
-GB315-absent,GB315,0,absent
-GB316-present,GB316,1,present
-GB316-absent,GB316,0,absent
-GB317-present,GB317,1,present
-GB317-absent,GB317,0,absent
-GB259-,GB259,1,?
+GB252-Notknown,GB252,?,Not known
+GB314-Notknown,GB314,?,Not known
+GB315-Notknown,GB315,?,Not known
+GB316-Notknown,GB316,?,Not known
+GB317-Notknown,GB317,?,Not known
 GB259-n,GB259,0,n
 GB259-y,GB259,3,y
-GB259-nodata,GB259,2,no data
-GB311-present,GB311,1,present
-GB311-absent,GB311,0,absent
-GB312-present,GB312,1,present
-GB312-absent,GB312,0,absent
-GB313-present,GB313,1,present
-GB313-absent,GB313,0,absent
+GB259-Notknown,GB259,?,Not known
+GB311-Notknown,GB311,?,Not known
+GB312-Notknown,GB312,?,Not known
+GB313-Notknown,GB313,?,Not known
 GB220-n,GB220,0,n
+GB220-Notknown,GB220,?,Not known
 GB221-y,GB221,1,y
 GB221-n,GB221,0,n
-GB222-n,GB222,0,n
-GB223-n,GB223,0,n
-GB224-n,GB224,0,n
-GB225-n,GB225,0,n
-GB226-n,GB226,0,n
-GB227-n,GB227,0,n
-GB228-n,GB228,0,n
-GB229-n,GB229,0,n
+GB221-Notknown,GB221,?,Not known
+GB222-Notknown,GB222,?,Not known
+GB223-Notknown,GB223,?,Not known
+GB224-Notknown,GB224,?,Not known
+GB225-Notknown,GB225,?,Not known
+GB226-Notknown,GB226,?,Not known
+GB227-Notknown,GB227,?,Not known
+GB228-Notknown,GB228,?,Not known
+GB229-Notknown,GB229,?,Not known
 R5208-y,R5208,1,y
 R5208-n,R5208,0,n
-R5208-nodata,R5208,3,no data
-R5208-,R5208,2,?
-R5209-,R5209,1,?
+R5208-Notknown,R5208,?,Not known
 R5209-n,R5209,0,n
-R5209-nodata,R5209,2,no data
+R5209-Notknown,R5209,?,Not known
 GB169-n,GB169,0,n
 GB168-n,GB168,1,n
 GB168-y,GB168,0,y
-GB163-2,GB163,1,2
-GB163-several,GB163,0,several
-GB163-,GB163,3,?
-GB163-n,GB163,2,n
+GB163-Notknown,GB163,?,Not known
 GB162-n,GB162,0,n
-GB079-present,GB079,1,present
-GB079-absent,GB079,0,absent
 GB079-y,GB079,3,y
 GB079-n,GB079,2,n
 GB078-y,GB078,1,y
 GB078-n,GB078,0,n
-GB078-,GB078,2,?
-GB075-present,GB075,1,present
-GB075-absent,GB075,0,absent
+GB078-Notknown,GB078,?,Not known
 GB075-y,GB075,3,y
 GB075-n,GB075,2,n
-GB075-,GB075,4,?
-GB074-present,GB074,1,present
-GB074-absent,GB074,0,absent
-GB074-,GB074,3,?
+GB075-Notknown,GB075,?,Not known
 GB074-n,GB074,2,n
 GB074-y,GB074,4,y
-GB077-present,GB077,1,present
-GB077-absent,GB077,0,absent
+GB074-Notknown,GB074,?,Not known
 GB077-y,GB077,3,y
 GB077-n,GB077,2,n
-GB077-,GB077,4,?
-GB076-present,GB076,1,present
-GB076-absent,GB076,0,absent
+GB077-Notknown,GB077,?,Not known
 GB076-y,GB076,3,y
 GB076-n,GB076,2,n
-GB076-,GB076,4,?
-GB071-present,GB071,1,present
-GB071-absent,GB071,0,absent
+GB076-Notknown,GB076,?,Not known
 GB071-y,GB071,3,y
 GB071-n,GB071,2,n
-GB070-present,GB070,1,present
-GB070-absent,GB070,0,absent
 GB070-y,GB070,3,y
 GB070-n,GB070,2,n
-GB073-present,GB073,1,present
-GB073-absent,GB073,0,absent
 GB073-n,GB073,2,n
-GB072-present,GB072,1,present
-GB072-absent,GB072,0,absent
 GB072-n,GB072,2,n
 SD398-y,SD398,0,y
+SD398-Notknown,SD398,?,Not known
 SD399-y,SD399,0,y
-SD392-n,SD392,0,n
-SD393-n,SD393,0,n
+SD399-Notknown,SD399,?,Not known
+SD392-Notknown,SD392,?,Not known
+SD393-Notknown,SD393,?,Not known
 SD390-y,SD390,1,y
 SD390-n,SD390,0,n
+SD390-Notknown,SD390,?,Not known
 SD391-y,SD391,0,y
+SD391-Notknown,SD391,?,Not known
 SD396-y,SD396,0,y
+SD396-Notknown,SD396,?,Not known
 SD397-y,SD397,0,y
+SD397-Notknown,SD397,?,Not known
 SD394-y,SD394,0,y
+SD394-Notknown,SD394,?,Not known
 SD395-n,SD395,0,n
+SD395-Notknown,SD395,?,Not known
 R4308a-n,R4308a,1,n
 R4308a-y,R4308a,0,y
-R4308a-,R4308a,2,?
+R4308a-Notknown,R4308a,?,Not known
 GB219-n,GB219,0,n
+GB219-Notknown,GB219,?,Not known
 GB218-y,GB218,1,y
-GB218-n,GB218,0,n
-GB211-n,GB211,0,n
-GB210-n,GB210,0,n
-GB213-n,GB213,0,n
-GB212-n,GB212,0,n
-GB215-n,GB215,0,n
-GB214-n,GB214,0,n
+GB218-Notknown,GB218,?,Not known
+GB211-Notknown,GB211,?,Not known
+GB210-Notknown,GB210,?,Not known
+GB213-Notknown,GB213,?,Not known
+GB212-Notknown,GB212,?,Not known
+GB215-Notknown,GB215,?,Not known
+GB214-Notknown,GB214,?,Not known
 GB217-n,GB217,0,n
-GB216-n,GB216,0,n
-GB188-present,GB188,1,present
-GB188-absent,GB188,0,absent
+GB217-Notknown,GB217,?,Not known
+GB216-Notknown,GB216,?,Not known
 GB188-n,GB188,2,n
-GB326-present,GB326,1,present
-GB326-absent,GB326,0,absent
-GB181-,GB181,1,?
+GB326-Notknown,GB326,?,Not known
 GB181-n,GB181,0,n
 GB181-y,GB181,2,y
-GB183-,GB183,1,?
+GB181-Notknown,GB181,?,Not known
 GB183-n,GB183,0,n
-GB182-,GB182,1,?
+GB183-Notknown,GB183,?,Not known
 GB182-n,GB182,0,n
-GB185-present,GB185,1,present
-GB185-absent,GB185,0,absent
+GB182-Notknown,GB182,?,Not known
 GB185-n,GB185,2,n
-GB184-present,GB184,1,present
-GB184-absent,GB184,0,absent
 GB184-n,GB184,2,n
-GB187-present,GB187,1,present
-GB187-absent,GB187,0,absent
 GB187-n,GB187,2,n
-GB186-present,GB186,1,present
-GB186-absent,GB186,0,absent
+GB187-Notknown,GB187,?,Not known
 GB186-n,GB186,2,n
-R3103-n,R3103,0,n
+GB186-Notknown,GB186,?,Not known
+R3103-Notknown,R3103,?,Not known
 GB174-n,GB174,0,n
+GB174-Notknown,GB174,?,Not known
 GB175-n,GB175,0,n
+GB175-Notknown,GB175,?,Not known
 GB176-n,GB176,0,n
-GB177-present,GB177,1,present
-GB177-absent,GB177,0,absent
+GB176-Notknown,GB176,?,Not known
 GB177-n,GB177,3,n
 GB177-y,GB177,2,y
-GB177-,GB177,4,?
-GB170-present,GB170,1,present
-GB170-absent,GB170,0,absent
+GB177-Notknown,GB177,?,Not known
 GB170-n,GB170,2,n
-GB171-present,GB171,1,present
-GB171-absent,GB171,0,absent
+GB170-Notknown,GB170,?,Not known
 GB171-y,GB171,3,y
-GB171-n,GB171,2,n
-GB172-present,GB172,1,present
-GB172-absent,GB172,0,absent
+GB171-Notknown,GB171,?,Not known
 GB172-n,GB172,2,n
+GB172-Notknown,GB172,?,Not known
 GB173-n,GB173,0,n
+GB173-Notknown,GB173,?,Not known
 GB178-n,GB178,0,n
+GB178-Notknown,GB178,?,Not known
 GB179-n,GB179,0,n
-R4311-,R4311,1,?
+GB179-Notknown,GB179,?,Not known
 R4311-n,R4311,0,n
-GB325-present,GB325,1,present
-GB325-absent,GB325,0,absent
-GB324-present,GB324,1,present
-GB324-absent,GB324,0,absent
-GB327-present,GB327,1,present
-GB327-absent,GB327,0,absent
+GB325-Notknown,GB325,?,Not known
+GB324-Notknown,GB324,?,Not known
+GB327-Notknown,GB327,?,Not known
 GB050-n,GB050,1,n
 GB050-y,GB050,0,y
-GB050-,GB050,2,?
-GB321-present,GB321,1,present
-GB321-absent,GB321,0,absent
-GB320-present,GB320,1,present
-GB320-absent,GB320,0,absent
-GB323-present,GB323,1,present
-GB323-absent,GB323,0,absent
-GB322-present,GB322,1,present
-GB322-absent,GB322,0,absent
-GB043-present,GB043,1,present
-GB043-absent,GB043,0,absent
+GB321-Notknown,GB321,?,Not known
+GB320-Notknown,GB320,?,Not known
+GB323-Notknown,GB323,?,Not known
+GB322-Notknown,GB322,?,Not known
 GB043-n,GB043,2,n
-GB329-present,GB329,1,present
-GB329-absent,GB329,0,absent
-GB328-present,GB328,1,present
-GB328-absent,GB328,0,absent
-GB048-present,GB048,1,present
-GB048-absent,GB048,0,absent
+GB329-Notknown,GB329,?,Not known
+GB328-Notknown,GB328,?,Not known
 GB048-y,GB048,3,y
 GB048-n,GB048,2,n
-GB048-,GB048,4,?
-GB049-present,GB049,1,present
-GB049-absent,GB049,0,absent
+GB048-Notknown,GB048,?,Not known
 GB049-y,GB049,3,y
 GB049-n,GB049,2,n
-GB049-,GB049,4,?
-SD224-posnn,SD224,1,posn n
-SD224-1,SD224,0,1
-SD224-3,SD224,2,3
+GB049-Notknown,GB049,?,Not known
+SD224-3,SD224,3,3
 GB521-y,GB521,1,y
 GB521-n,GB521,0,n
-GB521-,GB521,2,?
+GB521-Notknown,GB521,?,Not known
 GB520-n,GB520,1,n
 GB520-y,GB520,0,y
-GB520-,GB520,2,?
-GB318-present,GB318,1,present
-GB318-absent,GB318,0,absent
-GB250-present,GB250,1,present
-GB250-absent,GB250,0,absent
+GB520-Notknown,GB520,?,Not known
+GB318-Notknown,GB318,?,Not known
 GB250-n,GB250,3,n
 GB250-y,GB250,2,y
-GB250-,GB250,4,?
+GB250-Notknown,GB250,?,Not known
 R2507-n,R2507,0,n
+R2507-Notknown,R2507,?,Not known
 R2508-n,R2508,1,n
 R2508-y,R2508,0,y
-R2508-,R2508,2,?
+R2508-Notknown,R2508,?,Not known
 SD388-n,SD388,1,n
 SD388-y,SD388,0,y
-GB310-present,GB310,1,present
-GB310-absent,GB310,0,absent
-GB258-,GB258,1,?
+SD388-Notknown,SD388,?,Not known
+GB310-Notknown,GB310,?,Not known
 GB258-y,GB258,0,y
-GB258-nodata,GB258,2,no data
+GB258-Notknown,GB258,?,Not known
 SD295-n,SD295,1,n
 SD295-y,SD295,0,y
-SD295-,SD295,2,?
-GB149-present,GB149,1,present
-GB149-absent,GB149,0,absent
+SD295-Notknown,SD295,?,Not known
 GB149-y,GB149,3,y
 GB149-n,GB149,2,n
-GB148-present,GB148,1,present
-GB148-absent,GB148,0,absent
-GB148-,GB148,3,?
 GB148-n,GB148,2,n
 GB145-n,GB145,1,n
 GB145-y,GB145,0,y
-GB145-,GB145,2,?
 GB144-y,GB144,1,y
 GB144-n,GB144,0,n
-GB144-,GB144,3,?
-GB144-nodata,GB144,2,no data
-GB147-present,GB147,1,present
-GB147-absent,GB147,0,absent
-GB147-,GB147,3,?
+GB144-Notknown,GB144,?,Not known
 GB147-n,GB147,2,n
-GB146-present,GB146,1,present
-GB146-absent,GB146,0,absent
 GB146-n,GB146,3,n
 GB146-y,GB146,2,y
-GB146-,GB146,4,?
-GB141-present,GB141,1,present
-GB141-absent,GB141,0,absent
 GB141-n,GB141,3,n
 GB141-y,GB141,2,y
-GB141-,GB141,4,?
-GB140-present,GB140,1,present
-GB140-absent,GB140,0,absent
 GB140-y,GB140,3,y
 GB140-n,GB140,2,n
-GB140-,GB140,4,?
 GB143-y,GB143,1,y
 GB143-n,GB143,0,n
-GB143-,GB143,3,?
-GB143-nodata,GB143,2,no data
-GB142-present,GB142,1,present
-GB142-absent,GB142,0,absent
+GB143-Notknown,GB143,?,Not known
 GB142-n,GB142,3,n
 GB142-y,GB142,2,y
-GB142-,GB142,4,?
-R1103-2,R1103,1,2
-R1103-3,R1103,0,3
-R1102-3,R1102,1,3
-R1102-4,R1102,0,4
-R1102-5,R1102,2,5
 R1105-y,R1105,0,y
 R1107-y,R1107,0,y
 R1106-n,R1106,0,n
@@ -781,77 +516,50 @@ R1109-n,R1109,1,n
 R1109-y,R1109,0,y
 R1108-y,R1108,1,y
 R1108-n,R1108,0,n
-GB138-present,GB138,1,present
-GB138-absent,GB138,0,absent
 GB138-y,GB138,3,y
 GB138-n,GB138,2,n
-GB139-present,GB139,1,present
-GB139-absent,GB139,0,absent
-GB139-,GB139,3,?
 GB139-y,GB139,2,y
 GB033-n,GB033,0,n
-GB032-present,GB032,1,present
-GB032-absent,GB032,0,absent
 GB032-y,GB032,3,y
 GB032-n,GB032,2,n
-GB035-present,GB035,1,present
-GB035-absent,GB035,0,absent
 GB035-n,GB035,3,n
 GB035-y,GB035,2,y
-GB035-,GB035,4,?
-GB034-present,GB034,1,present
-GB034-absent,GB034,0,absent
+GB035-Notknown,GB035,?,Not known
 GB034-n,GB034,2,n
-GB037-present,GB037,1,present
-GB037-absent,GB037,0,absent
 GB037-y,GB037,3,y
 GB037-n,GB037,2,n
-GB037-,GB037,4,?
-GB036-present,GB036,1,present
-GB036-absent,GB036,0,absent
+GB037-Notknown,GB037,?,Not known
 GB036-n,GB036,3,n
 GB036-y,GB036,2,y
-GB036-,GB036,4,?
-GB130-SV,GB130,1,SV
-GB130-both,GB130,3,both
-GB130-VS,GB130,2,VS
-GB130-1,GB130,4,1
-GB131-present,GB131,1,present
-GB131-absent,GB131,0,absent
+GB036-Notknown,GB036,?,Not known
+GB039-n,GB039,2,n
 GB131-n,GB131,2,n
-GB132-present,GB132,1,present
-GB132-absent,GB132,0,absent
 GB132-y,GB132,3,y
 GB132-n,GB132,2,n
-GB133-present,GB133,1,present
-GB133-absent,GB133,0,absent
 GB133-n,GB133,3,n
 GB133-y,GB133,2,y
-GB134-present,GB134,1,present
-GB134-absent,GB134,0,absent
-GB134-,GB134,3,?
 GB134-y,GB134,2,y
-GB135-present,GB135,1,present
-GB135-absent,GB135,0,absent
+GB134-Notknown,GB134,?,Not known
 GB135-n,GB135,3,n
 GB135-y,GB135,2,y
-GB135-,GB135,4,?
-GB136-present,GB136,1,present
-GB136-absent,GB136,0,absent
+GB135-Notknown,GB135,?,Not known
 GB136-y,GB136,2,y
-GB137-present,GB137,1,present
-GB137-absent,GB137,0,absent
 GB137-n,GB137,3,n
 GB137-y,GB137,2,y
 GB246-n,GB246,0,n
+GB246-Notknown,GB246,?,Not known
 GB247-n,GB247,0,n
+GB247-Notknown,GB247,?,Not known
 GB244-n,GB244,0,n
+GB244-Notknown,GB244,?,Not known
 GB245-n,GB245,0,n
-GB242-n,GB242,0,n
-GB243-n,GB243,0,n
-GB240-n,GB240,0,n
-GB241-n,GB241,0,n
+GB245-Notknown,GB245,?,Not known
+GB242-Notknown,GB242,?,Not known
+GB243-Notknown,GB243,?,Not known
+GB240-Notknown,GB240,?,Not known
+GB241-Notknown,GB241,?,Not known
 GB248-n,GB248,0,n
+GB248-Notknown,GB248,?,Not known
 GB249-y,GB249,1,y
 GB249-n,GB249,0,n
 R1202-y,R1202,0,y
@@ -860,302 +568,185 @@ R1204-n,R1204,0,n
 R1109a-n,R1109a,0,n
 R5206-y,R5206,1,y
 R5206-n,R5206,0,n
-R5206-nodata,R5206,3,no data
-R5206-,R5206,2,?
+R5206-Notknown,R5206,?,Not known
 R1109b-n,R1109b,0,n
 R5207-y,R5207,1,y
 R5207-n,R5207,0,n
-R5207-nodata,R5207,3,no data
-R5207-,R5207,2,?
+R5207-Notknown,R5207,?,Not known
 R5204-y,R5204,1,y
 R5204-n,R5204,0,n
-R5204-nodata,R5204,3,no data
-R5204-,R5204,2,?
-R5205-nodata,R5205,1,no data
+R5204-Notknown,R5204,?,Not known
 R5205-n,R5205,0,n
-R5205-,R5205,2,?
+R5205-Notknown,R5205,?,Not known
 R2703b-n,R2703b,0,n
 R5203-y,R5203,1,y
 R5203-n,R5203,0,n
-R5203-nodata,R5203,3,no data
-R5203-,R5203,2,?
-SD319-y,SD319,1,y
-SD319-n,SD319,0,n
-GB068-present,GB068,1,present
-GB068-absent,GB068,0,absent
+R5203-Notknown,R5203,?,Not known
+SD319-Notknown,SD319,?,Not known
 GB068-n,GB068,3,n
 GB068-y,GB068,2,y
-GB068-,GB068,5,?
-GB068-nodata,GB068,4,no data
-GB069-present,GB069,1,present
-GB069-absent,GB069,0,absent
+GB068-Notknown,GB068,?,Not known
 GB069-n,GB069,3,n
 GB069-y,GB069,2,y
 GB066-y,GB066,1,y
 GB066-n,GB066,0,n
 GB067-1,GB067,1,1
-GB067-2,GB067,0,2
-GB067-decimal,GB067,2,decimal
-GB064-present,GB064,1,present
-GB064-absent,GB064,0,absent
 GB064-n,GB064,3,n
 GB064-y,GB064,2,y
-GB065-PossessorPossessed,GB065,1,Possessor-Possessed
-GB065-PossessedPossessor,GB065,2,Possessed-Possessor
-GB065-1,GB065,5,1
-GB065-both,GB065,4,both
-GB065-3,GB065,6,3
-GB062-present,GB062,1,present
-GB062-absent,GB062,0,absent
+GB065-3,GB065,3,3
 GB062-y,GB062,3,y
 GB062-n,GB062,2,n
-GB063-present,GB063,1,present
-GB063-absent,GB063,0,absent
 GB063-y,GB063,3,y
 GB063-n,GB063,2,n
 GB060-n,GB060,1,n
 GB060-y,GB060,0,y
-GB061-present,GB061,1,present
-GB061-absent,GB061,0,absent
 GB061-n,GB061,3,n
 GB061-y,GB061,2,y
-SD406-,SD406,1,?
 SD406-y,SD406,0,y
-SD407-,SD407,1,?
+SD406-Notknown,SD406,?,Not known
 SD407-a,SD407,0,a
+SD407-Notknown,SD407,?,Not known
 SD404-y,SD404,0,y
-SD405-,SD405,1,?
+SD404-Notknown,SD404,?,Not known
 SD405-n,SD405,0,n
+SD405-Notknown,SD405,?,Not known
 SD402-n,SD402,1,n
 SD402-y,SD402,0,y
+SD402-Notknown,SD402,?,Not known
 SD403-y,SD403,0,y
+SD403-Notknown,SD403,?,Not known
 SD400-y,SD400,0,y
+SD400-Notknown,SD400,?,Not known
 SD401-n,SD401,1,n
 SD401-y,SD401,0,y
-GB091-present,GB091,1,present
-GB091-absent,GB091,0,absent
-GB091-,GB091,3,?
+SD401-Notknown,SD401,?,Not known
 GB091-n,GB091,2,n
 GB091-y,GB091,4,y
-GB090-present,GB090,1,present
-GB090-absent,GB090,0,absent
+GB091-Notknown,GB091,?,Not known
 GB090-n,GB090,3,n
 GB090-y,GB090,2,y
-GB090-,GB090,4,?
-GB208-n,GB208,0,n
-GB209-n,GB209,0,n
+GB208-Notknown,GB208,?,Not known
+GB209-Notknown,GB209,?,Not known
 GB202-n,GB202,0,n
-GB203-UQN,GB203,1,UQ-N
-GB203-noUQ,GB203,0,no UQ
-GB203-both,GB203,3,both
-GB203-NUQ,GB203,2,N-UQ
-GB203-2,GB203,5,2
-GB203-0,GB203,4,0
-GB203-,GB203,7,?
-GB203-3,GB203,6,3
+GB203-Notknown,GB203,?,Not known
 GB200-n,GB200,1,n
 GB200-y,GB200,0,y
-GB200-,GB200,2,?
-GB206-,GB206,1,?
+GB200-Notknown,GB200,?,Not known
 GB206-n,GB206,0,n
+GB206-Notknown,GB206,?,Not known
 GB207-y,GB207,1,y
 GB207-n,GB207,0,n
-GB207-,GB207,2,?
-GB204-present,GB204,1,present
-GB204-absent,GB204,0,absent
-GB204-,GB204,3,?
+GB207-Notknown,GB207,?,Not known
 GB204-y,GB204,2,y
 GB204-n,GB204,5,n
-GB204-nodata,GB204,4,no data
-GB204-no,GB204,6,no
-GB205-,GB205,1,?
+GB204-Notknown,GB204,?,Not known
 GB205-n,GB205,0,n
-GB198-present,GB198,1,present
-GB198-absent,GB198,0,absent
-GB198-y,GB198,3,y
+GB205-Notknown,GB205,?,Not known
 GB198-n,GB198,2,n
-GB199-y,GB199,1,y
+GB198-Notknown,GB198,?,Not known
 GB199-n,GB199,0,n
-GB099-present,GB099,1,present
-GB099-absent,GB099,0,absent
-GB099-,GB099,3,?
+GB199-Notknown,GB199,?,Not known
 GB099-n,GB099,2,n
-GB192-present,GB192,1,present
-GB192-absent,GB192,0,absent
+GB099-Notknown,GB099,?,Not known
 GB192-n,GB192,2,n
-GB193-ANMN,GB193,1,ANM - N
-GB193-theycannotbeusedattributively,GB193,0,they cannot be used attributively
-GB193-both,GB193,3,both
-GB193-NANM,GB193,2,N - ANM
-GB193-2,GB193,5,2
-GB193-1,GB193,4,1
-GB193-natt,GB193,6,n att
-GB191-,GB191,1,?
+GB192-Notknown,GB192,?,Not known
 GB191-n,GB191,0,n
-GB196-present,GB196,1,present
-GB196-absent,GB196,0,absent
+GB191-Notknown,GB191,?,Not known
 GB196-n,GB196,2,n
-GB197-present,GB197,1,present
-GB197-absent,GB197,0,absent
 GB197-n,GB197,2,n
 GB194-y,GB194,1,y
 GB194-n,GB194,0,n
 GB195-n,GB195,0,n
-GB291-present,GB291,1,present
-GB291-absent,GB291,0,absent
-GB291-,GB291,3,?
+GB195-Notknown,GB195,?,Not known
 GB291-n,GB291,2,n
+GB291-Notknown,GB291,?,Not known
 GB290-n,GB290,1,n
 GB290-y,GB290,0,y
+GB290-Notknown,GB290,?,Not known
 GB292-n,GB292,1,n
 GB292-y,GB292,0,y
-GB292-,GB292,2,?
+GB292-Notknown,GB292,?,Not known
 GB295-n,GB295,1,n
 GB295-y,GB295,0,y
-GB295-,GB295,3,?
-GB295-nodata,GB295,2,no data
-GB294-nodata,GB294,1,no data
+GB295-Notknown,GB295,?,Not known
 GB294-n,GB294,0,n
-GB294-,GB294,2,?
-GB297-present,GB297,1,present
-GB297-absent,GB297,0,absent
-GB296-present,GB296,1,present
-GB296-absent,GB296,0,absent
-GB296-,GB296,3,?
+GB294-Notknown,GB294,?,Not known
+GB297-Notknown,GB297,?,Not known
 GB296-n,GB296,2,n
-GB296-nodata,GB296,4,no data
-GB299-present,GB299,1,present
-GB299-absent,GB299,0,absent
-GB298-present,GB298,1,present
-GB298-absent,GB298,0,absent
+GB296-Notknown,GB296,?,Not known
+GB299-Notknown,GB299,?,Not known
+GB298-Notknown,GB298,?,Not known
 R3502-n,R3502,0,n
 GB101-n,GB101,0,n
 GB100-y,GB100,1,y
 GB100-n,GB100,0,n
-GB103-present,GB103,1,present
-GB103-absent,GB103,0,absent
 GB103-y,GB103,3,y
 GB103-n,GB103,2,n
 GB102-n,GB102,0,n
-GB105-present,GB105,1,present
-GB105-absent,GB105,0,absent
 GB105-n,GB105,3,n
 GB105-y,GB105,2,y
-GB104-present,GB104,1,present
-GB104-absent,GB104,0,absent
 GB104-y,GB104,3,y
 GB104-n,GB104,2,n
-GB104-,GB104,4,?
-GB107-present,GB107,1,present
-GB107-absent,GB107,0,absent
 GB107-n,GB107,2,n
-GB106-present,GB106,1,present
-GB106-absent,GB106,0,absent
 GB106-y,GB106,3,y
 GB106-n,GB106,2,n
-GB109-present,GB109,1,present
-GB109-absent,GB109,0,absent
 GB109-y,GB109,3,y
 GB109-n,GB109,2,n
-GB108-present,GB108,1,present
-GB108-absent,GB108,0,absent
 GB108-n,GB108,3,n
 GB108-y,GB108,2,y
-GB108-,GB108,4,?
+GB108-Notknown,GB108,?,Not known
 R4307-y,R4307,1,y
 R4307-n,R4307,0,n
-R4307-,R4307,2,?
-GB336-present,GB336,1,present
-GB336-absent,GB336,0,absent
+R4307-Notknown,R4307,?,Not known
 GB336-n,GB336,2,n
-GB334-present,GB334,1,present
-GB334-absent,GB334,0,absent
-GB335-present,GB335,1,present
-GB335-absent,GB335,0,absent
-GB332-present,GB332,1,present
-GB332-absent,GB332,0,absent
-GB333-present,GB333,1,present
-GB333-absent,GB333,0,absent
+GB334-Notknown,GB334,?,Not known
+GB335-Notknown,GB335,?,Not known
+GB332-Notknown,GB332,?,Not known
 GB333-y,GB333,2,y
-GB330-present,GB330,1,present
-GB330-absent,GB330,0,absent
-GB331-present,GB331,1,present
-GB331-absent,GB331,0,absent
-SD369-nodata,SD369,1,no data
+GB330-Notknown,GB330,?,Not known
+GB331-Notknown,GB331,?,Not known
 SD369-n,SD369,0,n
-SD369-,SD369,2,?
+SD369-Notknown,SD369,?,Not known
 R2702-n,R2702,1,n
 R2702-y,R2702,0,y
-GB097-present,GB097,1,present
-GB097-absent,GB097,0,absent
-GB097-nodata,GB097,3,no data
 GB097-n,GB097,2,n
-GB097-,GB097,4,?
-GB096-present,GB096,1,present
-GB096-absent,GB096,0,absent
+GB097-Notknown,GB097,?,Not known
 GB096-n,GB096,3,n
 GB096-y,GB096,2,y
-GB095-present,GB095,1,present
-GB095-absent,GB095,0,absent
+GB096-Notknown,GB096,?,Not known
 GB095-y,GB095,3,y
 GB095-n,GB095,2,n
-GB094-present,GB094,1,present
-GB094-absent,GB094,0,absent
+GB095-Notknown,GB095,?,Not known
 GB094-n,GB094,3,n
 GB094-y,GB094,2,y
-GB093-present,GB093,1,present
-GB093-absent,GB093,0,absent
 GB093-y,GB093,3,y
 GB093-n,GB093,2,n
-GB092-present,GB092,1,present
-GB092-absent,GB092,0,absent
 GB092-y,GB092,3,y
 GB092-n,GB092,2,n
-GB158-present,GB158,1,present
-GB158-absent,GB158,0,absent
 GB158-n,GB158,3,n
 GB158-y,GB158,2,y
-GB158-,GB158,5,?
-GB158-nodata,GB158,4,no data
-GB159-present,GB159,1,present
-GB159-absent,GB159,0,absent
+GB158-Notknown,GB158,?,Not known
 GB159-y,GB159,3,y
 GB159-n,GB159,2,n
-GB159-,GB159,5,?
-GB159-nodata,GB159,4,no data
-GB156-present,GB156,1,present
-GB156-absent,GB156,0,absent
+GB159-Notknown,GB159,?,Not known
 GB156-n,GB156,2,n
-GB157-present,GB157,1,present
-GB157-absent,GB157,0,absent
 GB157-n,GB157,3,n
 GB157-y,GB157,2,y
-GB157-nodata,GB157,5,no data
-GB157-nodata,GB157,4,no d ata
-GB157-,GB157,6,?
+GB157-Notknown,GB157,?,Not known
 GB154-n,GB154,1,n
 GB154-y,GB154,0,y
-GB154-,GB154,2,?
-GB155-present,GB155,1,present
-GB155-absent,GB155,0,absent
+GB154-Notknown,GB154,?,Not known
 GB155-y,GB155,3,y
 GB155-n,GB155,2,n
-GB152-present,GB152,1,present
-GB152-absent,GB152,0,absent
 GB152-n,GB152,3,n
 GB152-y,GB152,2,y
-GB152-,GB152,4,?
-GB153-,GB153,1,?
+GB152-Notknown,GB152,?,Not known
 GB153-n,GB153,0,n
 GB153-y,GB153,2,y
-GB150-present,GB150,1,present
-GB150-absent,GB150,0,absent
+GB153-Notknown,GB153,?,Not known
 GB150-n,GB150,3,n
 GB150-y,GB150,2,y
-GB150-,GB150,5,?
-GB150-nodata,GB150,4,no data
-GB151-present,GB151,1,present
-GB151-absent,GB151,0,absent
+GB150-Notknown,GB150,?,Not known
 GB151-y,GB151,3,y
 GB151-n,GB151,2,n
 R1112-y,R1112,1,y
@@ -1166,47 +757,25 @@ R1111-n,R1111,1,n
 R1111-y,R1111,0,y
 R1116-n,R1116,1,n
 R1116-y,R1116,0,y
+R1116-Notknown,R1116,?,Not known
 R1117-n,R1117,1,n
 R1117-y,R1117,0,y
-R1117-,R1117,3,?
-R1117-nodata,R1117,2,no data
+R1117-Notknown,R1117,?,Not known
 R1115-n,R1115,1,n
 R1115-y,R1115,0,y
 R1118-n,R1118,1,n
 R1118-y,R1118,0,y
-GB022-present,GB022,1,present
-GB022-absent,GB022,0,absent
 GB022-n,GB022,2,n
-GB023-present,GB023,1,present
-GB023-absent,GB023,0,absent
-GB023-n,GB023,3,n
+GB022-Notknown,GB022,?,Not known
 GB023-y,GB023,2,y
-GB020-present,GB020,1,present
-GB020-absent,GB020,0,absent
+GB023-Notknown,GB023,?,Not known
 GB020-n,GB020,3,n
 GB020-y,GB020,2,y
-GB021-present,GB021,1,present
-GB021-absent,GB021,0,absent
 GB021-n,GB021,2,n
-GB026-present,GB026,1,present
-GB026-absent,GB026,0,absent
+GB021-Notknown,GB021,?,Not known
 GB026-n,GB026,2,n
-GB027-present,GB027,1,present
-GB027-absent,GB027,0,absent
 GB027-n,GB027,3,n
 GB027-y,GB027,2,y
-GB027-,GB027,5,?
-GB027-nodata,GB027,4,no data
-GB024-NumN,GB024,1,Num-N
-GB024-both,GB024,3,both.
-GB024-NNum,GB024,2,N-Num
-GB024-2,GB024,4,2
-GB025-DemN,GB025,1,Dem-N
-GB025-both,GB025,3,both.
-GB025-NDem,GB025,2,N-Dem
-GB025-2,GB025,5,2
-GB025-3,GB025,4,3
-GB028-present,GB028,1,present
-GB028-absent,GB028,0,absent
+GB027-Notknown,GB027,?,Not known
 GB028-y,GB028,2,y
 GB029-n,GB029,0,n
