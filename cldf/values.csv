@@ -1,4 +1,4 @@
-ID,Parameter_ID,Language_ID,Feature,Code_ID,Answer,Comment,Source,Possible_Values,Suggested standardised comments
+ID,Parameter_ID,Language_ID,Feature,Code_ID,Answer,Comment,Source,Possible_Values,Suggested_standardised_comments
 1,GB014,abui1241-petle,Is there weight-sensitive suprasegmental prominence; suprasegmental prominence can be loudness; duration; pitch; i.e. stress or tone phenomena?,?,Not known,,nan,0:n;2:no data;1:y;3:?,
 2,GB020,abui1241-petle,Are there definite or specific articles?,2,y,,nan,3:n;1: present;2:y;0: absent,Not mentioned; Form same as demonstratives; Form same as pronoun; Definiteness marking is done by an element with another function such as numeral classifiers; Definiteness marking is very restricted
 3,GB021,abui1241-petle,Is an indefinite NP obligatorily accompanied by an indefinite (or non-specific) article?,2,n,,nan,2:n;1: present;0: absent,Not mentioned; It exists but it is not obligatory; Same as numeral 'one'
