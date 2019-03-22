@@ -25,32 +25,39 @@
                         }
                     },
                     {
-                        "name": "Language_ID",
-                        "required": true,
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
-                        "datatype": "string"
-                    },
-                    {
                         "name": "Parameter_ID",
                         "required": true,
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
                         "datatype": "string"
                     },
                     {
-                        "name": "Value",
+                        "name": "Language_ID",
+                        "required": true,
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "datatype": "string"
+                    },
+                    {
+                        "name": "Feature",
                         "required": false,
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
-                        "datatype": "string",
-                        "null": [
-                            "?",
-                            ""
-                        ]
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "datatype": "string"
                     },
                     {
                         "name": "Code_ID",
                         "required": false,
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
                         "datatype": "string"
+                    },
+                    {
+                        "name": "Answer",
+                        "required": false,
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+                        "datatype": "string",
+                        "null": [
+                            "Not known",
+                            "?",
+                            ""
+                        ]
                     },
                     {
                         "name": "Comment",
@@ -66,6 +73,16 @@
                             "base": "string"
                         },
                         "separator": ";"
+                    },
+                    {
+                        "name": "Possible_Values",
+                        "required": false,
+                        "datatype": "string"
+                    },
+                    {
+                        "name": "Suggested_standardised_comments",
+                        "required": false,
+                        "datatype": "string"
                     }
                 ],
                 "primaryKey": [
