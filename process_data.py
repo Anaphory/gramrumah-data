@@ -17,6 +17,7 @@ try:
         Dataset, DomainElement, Contributor, ContributionContributor, ValueSet, Value)
     from grambank.models import (
         Feature, GrambankContribution, GrambankLanguage, Family)
+    import grambank
 
     from clld.web.icon import ORDERED_ICONS
     
@@ -86,7 +87,7 @@ def import_features():
             name_french = d['Feature question in French'],
             jl_relevant_unit = d['Relevant unit(s)'],
             jl_function = d['Function'],
-            jl_formal_means = d['Formal means'],
+            # jl_formal_means = d['Formal means'],
             hard_to_deny = d['Very hard to deny'],
             prone_misunderstanding = d['Prone to misunderstandings among researchers'],
             requires_extensive_data = d['Requires extensive data on the language'],
@@ -106,13 +107,13 @@ def import_features():
         for i, d in features.iterrows()]
     return features
 
-languages_path = '../lexirumah-data/languages.tsv'
+languages_path = '../lexirumah-data/cldf/lects.csv'
 def import_languages():
     # TODO: be independent of the location of lexirumah-data, but do compare with it!
     languages = pandas.io.parsers.read_csv(
         languages_path,
-        sep='\t',
-        index_col="Language ID",
+        # sep='\t',
+        index_col="ID",
         encoding='utf-8')
     families = {
         family: Family(
@@ -124,11 +125,11 @@ def import_languages():
     languages["db_Object"] = [
         GrambankLanguage(
             id=i,
-            name=row['Language name (-dialect)'],
+            name=row['Name'],
             family=families[row['Family']],
             macroarea=row['Region'],
-            latitude=row['Lat'],
-            longitude=row['Lon'])
+            latitude=row['Latitude'],
+            longitude=row['Longitude'])
         for i, row in languages.iterrows()]
     return languages
 
@@ -140,7 +141,19 @@ def report(problem, data1, data2):
     print("     [ ]")
     print()
 
-    
+def possibly_int_string(value):
+    try:
+        return str(int(value))
+    except ValueError:
+        try:
+            v = float(value)
+        except ValueError:
+            return str(value)
+        if int(v) == v:
+            return str(int(v))
+        else:
+            return str(v)
+
 copy_from_features = ["Feature", "Possible Values", "Suggested standardised comments"]
 def import_contribution(path, icons, features, languages, contributors={}, trust=[]):
     # look for metadata
@@ -197,11 +210,15 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
             data["Language_ID"] = md["language"]
     else:
         if (data["Language_ID"] != md["language"]).any():
+            import pdb; pdb.set_trace()
             report(
                 "Language mismatch:",
                 md["language"],
                 data["Language_ID"][data["Language_ID"] != md["language"]].to_string())
-    language = languages.loc[md["language"]]
+    try:
+        language = languages.loc[md["language"]]
+    except KeyError:
+        language = languages.loc["alor1247-besar"]
 
     if "Source" not in data.columns:
         data["Source"] = ""
@@ -220,6 +237,7 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
     features_seen = {}
     for i, row in data.iterrows():
         value = possibly_int_string(row['Value'])
+        data.set_value(i, 'Value', value)
         feature = row['Feature_ID']
 
         if pandas.isnull(feature):
@@ -283,6 +301,9 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
                             ("{:s} mismatch!".format(column)),
                             question,
                             parameter[column])
+            else:
+                data.set_value(i, column, parameter[column])
+                
 
         if feature in features_seen:
             vs = features_seen[feature]
@@ -294,11 +315,12 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
             contribution=contrib,
             source=row['Source'])
 
+            
         domain = parameter["db_Domain"]
         if value not in domain:
             if path in trust:
                 deid = max(domain)+1
-                domainelement = domain[str(value)] = DomainElement(
+                domainelement = domain[value] = DomainElement(
                     id='_{:s}-{:s}'.format(i, deid),
                     parameter=parameter['db_Object'],
                     abbr=deid,
@@ -313,7 +335,7 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
                     value)
                 continue
         else:
-            domainelement = domain[str(value)]
+            domainelement = domain[value]
 
         answer = row["Answer"]
         if answer != domainelement.description:
@@ -330,6 +352,7 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
                         "Feature domain element mismatch!",
                         answer,
                         domainelement.description)
+                    import pdb; pdb.set_trace()
 
 
         DBSession.add(Value(
@@ -362,15 +385,20 @@ def import_contribution(path, icons, features, languages, contributors={}, trust
     print()
     if path not in trust:
         data.sort_values(by=["Feature_ID", "Value"], inplace=True)
-        data = data[["Language_ID",
-                     "Feature_ID",
-                     "Feature",
-                     "Value",
-                     "Answer",
-                     "Comment",
-                     "Source",
-                     "Possible Values",
-                     "Suggested standardised comments"]]
+        columns = list(data.columns)
+        first_columns = ["Feature_ID",
+                         "Language_ID",
+                         "Feature",
+                         "Value",
+                         "Answer",
+                         "Comment",
+                         "Source",
+                         "Possible Values",
+                         "Suggested standardised comments"]
+        for column in columns:
+            if column not in first_columns:
+                first_columns.append(column)
+        data = data[first_columns]
         data.to_csv(
             path,
             index=False,
@@ -432,8 +460,7 @@ def main(config=None, trust=[languages_path, features_path]):
             encoding='utf-8')
 
 import sys
-import grambank
-sys.argv=["i", os.path.join(os.path.dirname(os.path.dirname(grambank.__file__)), "sqlite.ini")]
+sys.argv=["i", os.path.join(os.path.dirname(os.path.dirname(grambank.__file__)), "development.ini")]
 
 if model_is_available:
         from clld.scripts.util import initializedb
@@ -450,3 +477,4 @@ else:
                             help="Data files to be trusted in case of mismatch")
         args = parser.parse_args()
         main([x.name for x in args.trust])
+
