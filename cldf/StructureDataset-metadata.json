@@ -118,7 +118,7 @@
                     }
                 ],
                 "primaryKey": [
-                    "ID"
+                    "Parameter_ID"
                 ]
             }
         },
